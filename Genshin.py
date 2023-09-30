@@ -71,7 +71,7 @@ for _ in range(3):
         url = "https://ambr.top/jp/archive/avatar"
         driver.get(url)
         time.sleep(2)
-        # 未実装をenabledに
+        # 未実装をenabledに(discord側ではちゃんと警告、ephemeralで送信する)
         xpath = "/html/body/div/div/div[1]/div/div/div[1]/div[2]/div/div[1]/select"
         element = WebDriverWait(driver, 10).until(
             EC.presence_of_element_located((By.XPATH, xpath))
