@@ -1,5 +1,4 @@
-import numpy as np
+a = 2
+b = 5
 
-a = np.array([1, 2])
-b = np.array([3, 4])
-print(a + b)
+print(a+b)
