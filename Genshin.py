@@ -1,3 +1,4 @@
+### github用 ###
 ### 仕様書
 # 定期実行して、全キャラ分のambrtopからselenium,htmlを取得し、xpathで要素を抽出、データに格納する、画像を取得、pillowで画像を生成して外からアクセス可能にする #
 ###
@@ -36,15 +37,24 @@ from bs4 import BeautifulSoup
 from lxml import html
 from urllib.parse import urlparse
 from PIL import Image, ImageDraw, ImageFont, ImageOps, ImageEnhance
-from selenium import webdriver
-from selenium.webdriver.chrome.options import Options
-import chromedriver_binary
-
+# from selenium import webdriver
+# from selenium.webdriver.chrome.options import Options
+# import chromedriver_binary
 ## ver4.1以降
+# from selenium.webdriver.common.by import By
+# from selenium.webdriver.support.ui import WebDriverWait
+# from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.support.ui import Select
+from seleniumwire import webdriver
+from seleniumwire.utils import decode
+from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from selenium.webdriver.support.ui import Select
+from selenium.webdriver.firefox.firefox_profile import FirefoxProfile
+options = Options()
+options.add_argument("--headless")
+seleniumwire_options = {"disable_encoding": True}
 
 # エラーログファイルのパス
 log_file_path = "errorlog.txt"
@@ -63,8 +73,9 @@ write_error_log("----------start Genshin.py----------")
 
 for _ in range(3):
     try:
-        sel_options = Options()
-        driver = webdriver.Chrome(options=sel_options)
+        driver = webdriver.Firefox(
+            options=options, seleniumwire_options=seleniumwire_options
+        )
         url = "https://ambr.top/jp/archive/avatar"
         driver.get(url)
         time.sleep(2)
@@ -130,11 +141,11 @@ except Exception as e:
 # with open("Genshin_data.json", "r", encoding="utf-8") as f:
 #     charactor_result = json.load(f)
 #################
-finished_char_list = []
+# finished_char_list = []
 
-
-sel_options = Options()
-driver = webdriver.Chrome(options=sel_options)
+driver = webdriver.Firefox(
+    options=options, seleniumwire_options=seleniumwire_options
+)
 edit_config = False
 # 一回tableにしちゃえば十分
 error_gethtml_list = []
@@ -1465,8 +1476,9 @@ for id in charactor_result:
 print("素材名を取得します")
 with open("itemname.json", "r", encoding="utf-8") as f:
     itemname = json.load(f)
-sel_options = Options()
-driver = webdriver.Chrome(options=sel_options)
+driver = webdriver.Firefox(
+    options=options, seleniumwire_options=seleniumwire_options
+)
 error_get_itemname_list = []
 ct = True
 for id in charactor_result:
