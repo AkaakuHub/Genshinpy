@@ -14,10 +14,10 @@ jobs:
     # 実行する処理＆コマンド指定
     steps:
       - uses: actions/checkout@v2
-      - name: Set up Python 3.10
+      - name: Set up Python 3.10.13
         uses: actions/setup-python@v1
         with:
-          python-version: 3.10
+          python-version: 3.10.13
       - name: Install dependencies
         run: |
           # pip更新
