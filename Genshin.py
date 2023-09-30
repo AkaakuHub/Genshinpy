@@ -59,10 +59,7 @@ def write_error_log(error_message):
 
 
 write_error_log("----------start Genshin.py----------")
-
-# まずはキャラクターリストを作成する(未実装も含む)
 # 動作ok
-
 
 for _ in range(3):
     try:
@@ -71,7 +68,6 @@ for _ in range(3):
         url = "https://ambr.top/jp/archive/avatar"
         driver.get(url)
         time.sleep(2)
-        # 未実装をenabledに(discord側ではちゃんと警告、ephemeralで送信する)
         xpath = "/html/body/div/div/div[1]/div/div/div[1]/div[2]/div/div[1]/select"
         element = WebDriverWait(driver, 10).until(
             EC.presence_of_element_located((By.XPATH, xpath))
@@ -91,9 +87,6 @@ for _ in range(3):
     except Exception as e:
         print(f"Error: {e}")
         write_error_log(e)
-# # for debug
-# with open("Genshin_data.html", "r", encoding="utf-8") as file:
-#     charactor_source = file.read()
 # # つぎに、キャラのid,name,name_jaをjsonにする
 # 動作ok
 charactor_result = {}
@@ -146,7 +139,6 @@ edit_config = False
 # 一回tableにしちゃえば十分
 error_gethtml_list = []
 for id in charactor_result:
-    ct = 0
     char_id = id
     char_name = charactor_result[id]["name"]
     if not os.path.exists(f"html/{char_id}"):
@@ -156,13 +148,17 @@ for id in charactor_result:
         # print(f"既に存在:html/{char_id}")
         None
     for kind in html_kind:
-        if f"{char_name}_{kind}.html" in os.listdir(f"html/{char_id}") and len(
-            html_kind
-        ) + avater2_list.count(char_name) + avater3_list.count(char_name) == len(
-            os.listdir(f"html/{char_id}")
+        # 既にあるやつをスキップするときはFalseをつける
+        if (
+            False
+            and f"{char_name}_{kind}.html" in os.listdir(f"html/{char_id}")
+            and len(html_kind)
+            + avater2_list.count(char_name)
+            + avater3_list.count(char_name)
+            == len(os.listdir(f"html/{char_id}"))
         ):
-            print(f"既に完了しているためスキップ:{char_name}_{kind}.html")
-            ct += 1
+            # やっぱ毎回htmlを入手する
+            None
         else:
             try:
                 url = f"https://ambr.top/jp/archive/avatar/{char_id}/{char_name}?mode={kind}"
@@ -198,31 +194,53 @@ for id in charactor_result:
                 print(f"保存:{char_name}_{kind}.html")
 
                 if kind == "other" and char_name in avater2_list:
-                    ## skin複数の場合
-                    avater2 = driver.find_element(
-                        By.XPATH,
-                        "/html/body/div/main/div/div[2]/div[2]/div[1]/div/div[3]/div[2]/div/span[2]",
-                    )
-                    avater2.click()
-                    time.sleep(4)
-                    page_source2 = driver.page_source
-                    filename = f"html/{char_id}/{char_name}_{kind}_2.html"
-                    with open(filename, "w", encoding="utf-8") as output_file:
-                        output_file.write(str(page_source2))
-                    print(f"保存:{char_name}_{kind}_2.html")
+                    for _ in range(3):
+                        try:
+                            ## skin複数の場合
+                            avater2 = driver.find_element(
+                                By.XPATH,
+                                "/html/body/div/main/div/div[2]/div[2]/div[1]/div/div[3]/div[2]/div/span[2]",
+                            )
+                            avater2.click()
+                            time.sleep(4)
+                            page_source2 = driver.page_source
+                            filename = f"html/{char_id}/{char_name}_{kind}_2.html"
+                            with open(filename, "w", encoding="utf-8") as output_file:
+                                output_file.write(str(page_source2))
+                            print(f"保存:{char_name}_{kind}_2.html")
+                            break
+                        except TimeoutError as e:
+                            error_gethtml_list.append(f"タイムアウト:{char_name}_{kind}")
+                            print(kind, f"TimeOutError: {e}")
+                            write_error_log(f"{char_name},{e}")
+                        except Exception as e:
+                            error_gethtml_list.append(f"エラー:{char_name}_{kind}")
+                            print(kind, f"Error: {e}")
+                            write_error_log(f"{char_name},{e}")
                 if kind == "other" and char_name in avater3_list:
-                    ## skin複数の場合
-                    avater3 = driver.find_element(
-                        By.XPATH,
-                        "/html/body/div/main/div/div[2]/div[2]/div[1]/div/div[3]/div[2]/div/span[3]",
-                    )
-                    avater3.click()
-                    time.sleep(4)
-                    page_source3 = driver.page_source
-                    filename = f"html/{char_id}/{char_name}_{kind}_3.html"
-                    with open(filename, "w", encoding="utf-8") as output_file:
-                        output_file.write(str(page_source3))
-                    print(f"保存:{char_name}_{kind}_3.html")
+                    for _ in range(3):
+                        try:
+                            ## skin複数の場合
+                            avater3 = driver.find_element(
+                                By.XPATH,
+                                "/html/body/div/main/div/div[2]/div[2]/div[1]/div/div[3]/div[2]/div/span[3]",
+                            )
+                            avater3.click()
+                            time.sleep(4)
+                            page_source3 = driver.page_source
+                            filename = f"html/{char_id}/{char_name}_{kind}_3.html"
+                            with open(filename, "w", encoding="utf-8") as output_file:
+                                output_file.write(str(page_source3))
+                            print(f"保存:{char_name}_{kind}_3.html")
+                            break
+                        except TimeoutError as e:
+                            error_gethtml_list.append(f"タイムアウト:{char_name}_{kind}")
+                            print(kind, f"TimeOutError: {e}")
+                            write_error_log(f"{char_name},{e}")
+                        except Exception as e:
+                            error_gethtml_list.append(f"エラー:{char_name}_{kind}")
+                            print(kind, f"Error: {e}")
+                            write_error_log(f"{char_name},{e}")
             except TimeoutError as e:
                 error_gethtml_list.append(f"タイムアウト:{char_name}_{kind}")
                 print(kind, f"TimeOutError: {e}")
@@ -231,21 +249,17 @@ for id in charactor_result:
                 error_gethtml_list.append(f"エラー:{char_name}_{kind}")
                 print(kind, f"Error: {e}")
                 write_error_log(f"{char_name},{e}")
-    if ct == len(html_kind):
-        finished_char_list.append(char_id)
 driver.quit()
 print("ブラウザを閉じました")
 print("error_gethtml_list", error_gethtml_list)
 if len(error_gethtml_list) > 0:
     write_error_log(f"error_gethtml_list:{error_gethtml_list}")
-# for id in finished_char_list:
-#     del charactor_result[id]
 print("完了していないキャラ:", charactor_result)
-##
-# 終わってるキャラはcharactor_resultから削除する
-# 次に、htmlからxpathで要素を抽出する
-# 動作ok
-
+# #
+# # 終わってるキャラはcharactor_resultから削除する
+# # 次に、htmlからxpathで要素を抽出する
+# # 動作ok
+#
 error_xpath_list = []
 for id in charactor_result:
     char_id = id
@@ -286,23 +300,108 @@ for id in charactor_result:
                     amount_of_star_e = doc.xpath(
                         "/html/body/div/main/div/div[2]/div[1]/div[2]/div/div[2]"
                     )
-                    base_hp_e = doc.xpath(
-                        "/html/body/div/main/div/div[2]/div[2]/div/div/div/div/div[2]/table/tr[1]/td[2]"
+                    base_hp_e = (
+                        doc.xpath(
+                            "/html/body/div/main/div/div[2]/div[2]/div/div/div/div/div[2]/table/tr[1]/td[2]"
+                        )
+                        if doc.xpath(
+                            "/html/body/div/main/div/div[2]/div[2]/div/div/div/div/div[2]/table/tr[1]/td[2]"
+                        )
+                        else doc.xpath(
+                            "/html/body/div/main/div/div[2]/div[2]/div[1]/div/div/div/div[2]/table/tr[1]/td[2]"
+                        )
                     )
-                    base_atk_e = doc.xpath(
-                        "/html/body/div/main/div/div[2]/div[2]/div/div/div/div/div[2]/table/tr[2]/td[2]"
+                    base_atk_e = (
+                        doc.xpath(
+                            "/html/body/div/main/div/div[2]/div[2]/div/div/div/div/div[2]/table/tr[2]/td[2]"
+                        )
+                        if doc.xpath(
+                            "/html/body/div/main/div/div[2]/div[2]/div/div/div/div/div[2]/table/tr[2]/td[2]"
+                        )
+                        else doc.xpath(
+                            "/html/body/div/main/div/div[2]/div[2]/div[1]/div/div/div/div[2]/table/tr[2]/td[2]"
+                        )
                     )
-                    base_def_e = doc.xpath(
-                        "/html/body/div/main/div/div[2]/div[2]/div/div/div/div/div[2]/table/tr[3]/td[2]"
+                    base_def_e = (
+                        doc.xpath(
+                            "/html/body/div/main/div/div[2]/div[2]/div/div/div/div/div[2]/table/tr[3]/td[2]"
+                        )
+                        if doc.xpath(
+                            "/html/body/div/main/div/div[2]/div[2]/div/div/div/div/div[2]/table/tr[3]/td[2]"
+                        )
+                        else doc.xpath(
+                            "/html/body/div/main/div/div[2]/div[2]/div[1]/div/div/div/div[2]/table/tr[3]/td[2]"
+                        )
                     )
-                    bonus_name_e = doc.xpath(
-                        "/html/body/div/main/div/div[2]/div[2]/div[1]/div/div/div/div[2]/table/tr[4]/td[1]/span[2]"
+                    bonus_name_e = (
+                        doc.xpath(
+                            "/html/body/div/main/div/div[2]/div[2]/div/div/div/div/div[2]/table/tr[4]/td[1]/span[2]"
+                        )
+                        if doc.xpath(
+                            "/html/body/div/main/div/div[2]/div[2]/div/div/div/div/div[2]/table/tr[4]/td[1]/span[2]"
+                        )
+                        else doc.xpath(
+                            "/html/body/div/main/div/div[2]/div[2]/div[1]/div/div/div/div[2]/table/tr[4]/td[1]/span[2]"
+                        )
                     )
-                    bonus_e = doc.xpath(
-                        "/html/body/div/main/div/div[2]/div[2]/div/div/div/div/div[2]/table/tr[4]/td[2]"
+                    bonus_e = (
+                        doc.xpath(
+                            "/html/body/div/main/div/div[2]/div[2]/div/div/div/div/div[2]/table/tr[4]/td[2]"
+                        )
+                        if doc.xpath(
+                            "/html/body/div/main/div/div[2]/div[2]/div/div/div/div/div[2]/table/tr[4]/td[2]"
+                        )
+                        else doc.xpath(
+                            "/html/body/div/main/div/div[2]/div[2]/div[1]/div/div/div/div[2]/table/tr[4]/td[2]"
+                        )
                     )
-                    cv_e = doc.xpath(
-                        "/html/body/div/main/div/div[2]/div[2]/div/div/div/div/div[3]/table/tr[3]/td[2]"
+                    # 順番変わった
+                    # 20230930修正
+                    element_icon_e = (
+                        doc.xpath(
+                            "/html/body/div/main/div/div[2]/div[2]/div/div/div/div/div[3]/table/tr[1]/td[2]/img"
+                        )
+                        if doc.xpath(
+                            "/html/body/div/main/div/div[2]/div[2]/div/div/div/div/div[3]/table/tr[1]/td[2]/img"
+                        )
+                        else doc.xpath(
+                            "/html/body/div/main/div/div[2]/div[2]/div[1]/div/div/div/div[3]/table/tr[1]/td[2]/img"
+                        )
+                    )
+                    # 20230930追加
+                    weapon_icon_e = (
+                        doc.xpath(
+                            "/html/body/div/main/div/div[2]/div[2]/div/div/div/div/div[3]/table/tr[2]/td[2]/img"
+                        )
+                        if doc.xpath(
+                            "/html/body/div/main/div/div[2]/div[2]/div/div/div/div/div[3]/table/tr[2]/td[2]/img"
+                        )
+                        else doc.xpath(
+                            "/html/body/div/main/div/div[2]/div[2]/div[1]/div/div/div/div[3]/table/tr[3]/td[2]/img"
+                        )
+                    )
+                    constellation_e = (
+                        doc.xpath(
+                            "/html/body/div/main/div/div[2]/div[2]/div/div/div/div/div[3]/table/tr[3]/td[2]"
+                        )
+                        if doc.xpath(
+                            "/html/body/div/main/div/div[2]/div[2]/div/div/div/div/div[3]/table/tr[3]/td[2]"
+                        )
+                        else doc.xpath(
+                            "/html/body/div/main/div/div[2]/div[2]/div[1]/div/div/div/div[3]/table/tr[3]/td[2]"
+                        )
+                    )
+                    # cv未公開だとここら辺ずれる
+                    affiliation_e = (
+                        doc.xpath(
+                            "/html/body/div/main/div/div[2]/div[2]/div/div/div/div/div[3]/table/tr[4]/td[2]"
+                        )
+                        if doc.xpath(
+                            "/html/body/div/main/div/div[2]/div[2]/div/div/div/div/div[3]/table/tr[4]/td[2]"
+                        )
+                        else doc.xpath(
+                            "/html/body/div/main/div/div[2]/div[2]/div[1]/div/div/div/div[3]/table/tr[4]/td[2]"
+                        )
                     )
                     birth_e = (
                         doc.xpath(
@@ -312,33 +411,10 @@ for id in charactor_result:
                             "/html/body/div/main/div/div[2]/div[2]/div/div/div/div/div[3]/table/tr[5]/td[2]"
                         )
                         else doc.xpath(
-                            "/html/body/div/main/div/div[2]/div[2]/div[1]/div/div/div/div[3]/table/tr[1]/td[2]"
+                            "/html/body/div/main/div/div[2]/div[2]/div[1]/div/div/div/div[3]/table/tr[5]/td[2]"
                         )
                     )
-                    # cv未公開だとここら辺ずれる
-                    affiliation_e = (
-                        doc.xpath(
-                            "/html/body/div/main/div/div[2]/div[2]/div/div/div/div/div[3]/table/tr[6]/td[2]"
-                        )
-                        if doc.xpath(
-                            "/html/body/div/main/div/div[2]/div[2]/div/div/div/div/div[3]/table/tr[6]/td[2]"
-                        )
-                        else doc.xpath(
-                            "/html/body/div/main/div/div[2]/div[2]/div[1]/div/div/div/div[3]/table/tr[2]/td[2]"
-                        )
-                    )
-                    element_icon_e = (
-                        doc.xpath(
-                            "/html/body/div/main/div/div[2]/div[2]/div/div/div/div/div[3]/table/tr[7]/td[2]/img"
-                        )
-                        if doc.xpath(
-                            "/html/body/div/main/div/div[2]/div[2]/div/div/div/div/div[3]/table/tr[7]/td[2]/img"
-                        )
-                        else doc.xpath(
-                            "/html/body/div/main/div/div[2]/div[2]/div[1]/div/div/div/div[3]/table/tr[3]/td[2]/img"
-                        )
-                    )
-                    constellation_e = (
+                    cv_e = (
                         doc.xpath(
                             "/html/body/div/main/div/div[2]/div[2]/div/div/div/div/div[3]/table/tr[8]/td[2]"
                         )
@@ -346,9 +422,10 @@ for id in charactor_result:
                             "/html/body/div/main/div/div[2]/div[2]/div/div/div/div/div[3]/table/tr[8]/td[2]"
                         )
                         else doc.xpath(
-                            "/html/body/div/main/div/div[2]/div[2]/div[1]/div/div/div/div[3]/table/tr[4]/td[2]"
+                            "/html/body/div/main/div/div[2]/div[2]/div[1]/div/div/div/div[3]/table/tr[8]/td[2]"
                         )
                     )
+
                     description_e = (
                         doc.xpath(
                             "/html/body/div/main/div/div[2]/div[2]/div/div/div/div/div[4]"
@@ -375,11 +452,12 @@ for id in charactor_result:
                     base_def = base_def_e[0].text_content()
                     bonus_name = bonus_name_e[0].text_content()
                     bonus = bonus_e[0].text_content()
-                    cv = cv_e[0].text_content()
-                    birth = birth_e[0].text_content()
-                    affiliation = affiliation_e[0].text_content()
                     element_icon = element_icon_e[0].attrib["src"]
+                    weapon_icon = weapon_icon_e[0].attrib["src"]
                     constellation = constellation_e[0].text_content()
+                    affiliation = affiliation_e[0].text_content()
+                    birth = birth_e[0].text_content()
+                    cv = cv_e[0].text_content() if len(cv_e) > 0 else ""
                     description = description_e[0].text_content().replace("\n", "")
 
                     xpath_result = {
@@ -391,11 +469,12 @@ for id in charactor_result:
                         "base_def": base_def,
                         "bonus_name": bonus_name,
                         "bonus": bonus,
-                        "cv": cv,
-                        "birth": birth,
-                        "affiliation": affiliation,
                         "element_icon": element_icon,
+                        "weapon_icon": weapon_icon,
                         "constellation": constellation,
+                        "affiliation": affiliation,
+                        "birth": birth,
+                        "cv": cv,
                         "description": description,
                     }
                     for key in xpath_result:
@@ -755,56 +834,263 @@ for id in charactor_result:
                         item_icon = item_icon_e[0].attrib["src"]
                         xpath_result[str(i + 1)] = item_icon
                 elif kind == "story":
+                    # あーろいは別
                     if "10000062" not in char_id:
                         xpath_result = {}
-                        char_detail_e = doc.xpath(
-                            "/html/body/div/main/div/div[2]/div[2]/div/div[3]/div[1]/div[2]/div/div"
-                        )
-                        story1_e = (
+                        char_detail_e = (
                             doc.xpath(
-                                "/html/body/div/main/div/div[2]/div[2]/div/div[3]/div[2]/div[2]/div[3]/div"
+                                "/html/body/div/main/div/div[2]/div[2]/div/div[3]/div[1]/div[2]/div/div"
                             )
-                            if "10000005" not in char_id and "10000007" not in char_id
+                            if doc.xpath(
+                                "/html/body/div/main/div/div[2]/div[2]/div/div[3]/div[1]/div[2]/div/div"
+                            )
                             else doc.xpath(
+                                "/html/body/div/main/div/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div/div"
+                            )
+                        )
+
+                        if "10000005" not in char_id and "10000007" not in char_id:
+                            story1_e = (
+                                doc.xpath(
+                                    "/html/body/div/main/div/div[2]/div[2]/div/div[3]/div[2]/div[2]/div[3]/div"
+                                )
+                                if doc.xpath(
+                                    "/html/body/div/main/div/div[2]/div[2]/div/div[3]/div[2]/div[2]/div[3]/div"
+                                )
+                                else doc.xpath(
+                                    "/html/body/div/main/div/div[2]/div[2]/div[1]/div[2]/div[2]/div[2]/div[3]/div"
+                                )
+                            )
+                        else:
+                            story1_e = doc.xpath(
                                 "/html/body/div/main/div/div[2]/div[2]/div/div[3]/div[2]/div[2]/div/div"
                             )
+                        story2_e = (
+                            doc.xpath(
+                                "/html/body/div/main/div/div[2]/div[2]/div/div[3]/div[3]/div[2]/div[3]/div"
+                            )
+                            if doc.xpath(
+                                "/html/body/div/main/div/div[2]/div[2]/div/div[3]/div[3]/div[2]/div[3]/div"
+                            )
+                            else doc.xpath(
+                                "/html/body/div/main/div/div[2]/div[2]/div[1]/div[2]/div[3]/div[2]/div[3]/div"
+                            )
                         )
-                        story2_e = doc.xpath(
-                            "/html/body/div/main/div/div[2]/div[2]/div/div[3]/div[3]/div[2]/div[3]/div"
+                        story3_e = (
+                            doc.xpath(
+                                "/html/body/div/main/div/div[2]/div[2]/div/div[3]/div[4]/div[2]/div[3]/div"
+                            )
+                            if doc.xpath(
+                                "/html/body/div/main/div/div[2]/div[2]/div/div[3]/div[4]/div[2]/div[3]/div"
+                            )
+                            else doc.xpath(
+                                "/html/body/div/main/div/div[2]/div[2]/div[1]/div[2]/div[4]/div[2]/div[3]/div"
+                            )
                         )
-                        story3_e = doc.xpath(
-                            "/html/body/div/main/div/div[2]/div[2]/div/div[3]/div[4]/div[2]/div[3]/div"
+                        story4_e = (
+                            doc.xpath(
+                                "/html/body/div/main/div/div[2]/div[2]/div/div[3]/div[5]/div[2]/div[3]/div"
+                            )
+                            if doc.xpath(
+                                "/html/body/div/main/div/div[2]/div[2]/div/div[3]/div[5]/div[2]/div[3]/div"
+                            )
+                            else doc.xpath(
+                                "/html/body/div/main/div/div[2]/div[2]/div[1]/div[2]/div[5]/div[2]/div[3]/div"
+                            )
                         )
-                        story4_e = doc.xpath(
-                            "/html/body/div/main/div/div[2]/div[2]/div/div[3]/div[5]/div[2]/div[3]/div"
+                        story5_e = (
+                            doc.xpath(
+                                "/html/body/div/main/div/div[2]/div[2]/div/div[3]/div[6]/div[2]/div[3]/div"
+                            )
+                            if doc.xpath(
+                                "/html/body/div/main/div/div[2]/div[2]/div/div[3]/div[6]/div[2]/div[3]/div"
+                            )
+                            else doc.xpath(
+                                "/html/body/div/main/div/div[2]/div[2]/div[1]/div[2]/div[6]/div[2]/div[3]/div"
+                            )
                         )
-                        story5_e = doc.xpath(
-                            "/html/body/div/main/div/div[2]/div[2]/div/div[3]/div[6]/div[2]/div[3]/div"
+                        story_uniq_name_e = (
+                            doc.xpath(
+                                "/html/body/div/main/div/div[2]/div[2]/div/div[3]/div[7]/div[1]/div"
+                            )
+                            if doc.xpath(
+                                "/html/body/div/main/div/div[2]/div[2]/div/div[3]/div[7]/div[1]/div"
+                            )
+                            else doc.xpath(
+                                "/html/body/div/main/div/div[2]/div[2]/div[1]/div[2]/div[7]/div[1]/div"
+                            )
                         )
-                        story_uniq_name_e = doc.xpath(
-                            "/html/body/div/main/div/div[2]/div[2]/div/div[3]/div[7]/div[1]/div"
+                        story_uniq_e = (
+                            doc.xpath(
+                                "/html/body/div/main/div/div[2]/div[2]/div/div[3]/div[7]/div[2]/div[3]/div"
+                            )
+                            if doc.xpath(
+                                "/html/body/div/main/div/div[2]/div[2]/div/div[3]/div[7]/div[2]/div[3]/div"
+                            )
+                            else doc.xpath(
+                                "/html/body/div/main/div/div[2]/div[2]/div[1]/div[2]/div[7]/div[2]/div[3]/div"
+                            )
                         )
-                        story_uniq_e = doc.xpath(
-                            "/html/body/div/main/div/div[2]/div[2]/div/div[3]/div[7]/div[2]/div[3]/div"
+                        story_eye_name_e = (
+                            doc.xpath(
+                                "/html/body/div/main/div/div[2]/div[2]/div/div[3]/div[8]/div[1]/div"
+                            )
+                            if doc.xpath(
+                                "/html/body/div/main/div/div[2]/div[2]/div/div[3]/div[8]/div[1]/div"
+                            )
+                            else doc.xpath(
+                                "/html/body/div/main/div/div[2]/div[2]/div[1]/div[2]/div[8]/div[1]/div"
+                            )
                         )
-                        story_eye_name_e = doc.xpath(
-                            "/html/body/div/main/div/div[2]/div[2]/div/div[3]/div[8]/div[1]/div"
-                        )
-                        story_eye_e = doc.xpath(
-                            "/html/body/div/main/div/div[2]/div[2]/div/div[3]/div[8]/div[2]/div[3]/div"
+                        story_eye_e = (
+                            doc.xpath(
+                                "/html/body/div/main/div/div[2]/div[2]/div/div[3]/div[8]/div[2]/div[3]/div"
+                            )
+                            if doc.xpath(
+                                "/html/body/div/main/div/div[2]/div[2]/div/div[3]/div[8]/div[2]/div[3]/div"
+                            )
+                            else doc.xpath(
+                                "/html/body/div/main/div/div[2]/div[2]/div[1]/div[2]/div[8]/div[2]/div[3]/div"
+                            )
                         )
 
                         if len(char_detail_e) >= 1:
-                            char_detail = char_detail_e[0].text_content()
-                            story1 = story1_e[0].text_content()
-                            story2 = story2_e[0].text_content()
-                            story3 = story3_e[0].text_content()
-                            story4 = story4_e[0].text_content()
-                            story5 = story5_e[0].text_content()
+                            char_detail = (
+                                (
+                                    html.tostring(
+                                        char_detail_e[0],
+                                        encoding="utf-8",
+                                        pretty_print=True,
+                                    )
+                                    .decode("utf-8")
+                                    .replace("<br>", "\n")
+                                    .replace("<div>", "")
+                                    .replace("</div>", "")
+                                    .replace("<i>", "")
+                                    .replace("</i>", "")
+                                    .replace("JP0B", "")
+                                )
+                                if len(char_detail_e) > 0
+                                else ""
+                            )
+                            story1 = (
+                                (
+                                    html.tostring(
+                                        story1_e[0], encoding="utf-8", pretty_print=True
+                                    )
+                                    .decode("utf-8")
+                                    .replace("<br>", "\n")
+                                    .replace("<div>", "")
+                                    .replace("</div>", "")
+                                    .replace("<i>", "")
+                                    .replace("</i>", "")
+                                    .replace("JP0B", "")
+                                )
+                                if len(story1_e) > 0
+                                else ""
+                            )
+                            story2 = (
+                                (
+                                    html.tostring(
+                                        story2_e[0], encoding="utf-8", pretty_print=True
+                                    )
+                                    .decode("utf-8")
+                                    .replace("<br>", "\n")
+                                    .replace("<div>", "")
+                                    .replace("</div>", "")
+                                    .replace("<i>", "")
+                                    .replace("</i>", "")
+                                    .replace("JP0B", "")
+                                )
+                                if len(story2_e) > 0
+                                else ""
+                            )
+                            story3 = (
+                                (
+                                    html.tostring(
+                                        story3_e[0], encoding="utf-8", pretty_print=True
+                                    )
+                                    .decode("utf-8")
+                                    .replace("<br>", "\n")
+                                    .replace("<div>", "")
+                                    .replace("</div>", "")
+                                    .replace("<i>", "")
+                                    .replace("</i>", "")
+                                    .replace("JP0B", "")
+                                )
+                                if len(story3_e) > 0
+                                else ""
+                            )
+                            story4 = (
+                                (
+                                    html.tostring(
+                                        story4_e[0], encoding="utf-8", pretty_print=True
+                                    )
+                                    .decode("utf-8")
+                                    .replace("<br>", "\n")
+                                    .replace("<div>", "")
+                                    .replace("</div>", "")
+                                    .replace("<i>", "")
+                                    .replace("</i>", "")
+                                    .replace("JP0B", "")
+                                )
+                                if len(story4_e) > 0
+                                else ""
+                            )
+                            story5 = (
+                                (
+                                    html.tostring(
+                                        story5_e[0], encoding="utf-8", pretty_print=True
+                                    )
+                                    .decode("utf-8")
+                                    .replace("<br>", "\n")
+                                    .replace("<div>", "")
+                                    .replace("</div>", "")
+                                    .replace("<i>", "")
+                                    .replace("</i>", "")
+                                    .replace("JP0B", "")
+                                )
+                                if len(story5_e) > 0
+                                else ""
+                            )
                             story_uniq_name = story_uniq_name_e[0].text_content()
-                            story_uniq = story_uniq_e[0].text_content()
+                            story_uniq = (
+                                (
+                                    html.tostring(
+                                        story_uniq_e[0],
+                                        encoding="utf-8",
+                                        pretty_print=True,
+                                    )
+                                    .decode("utf-8")
+                                    .replace("<br>", "\n")
+                                    .replace("<div>", "")
+                                    .replace("</div>", "")
+                                    .replace("<i>", "")
+                                    .replace("</i>", "")
+                                    .replace("JP0B", "")
+                                )
+                                if len(story_uniq_e) > 0
+                                else ""
+                            )
                             story_eye_name = story_eye_name_e[0].text_content()
-                            story_eye = story_eye_e[0].text_content()
+                            story_eye = (
+                                (
+                                    html.tostring(
+                                        story_eye_e[0],
+                                        encoding="utf-8",
+                                        pretty_print=True,
+                                    )
+                                    .decode("utf-8")
+                                    .replace("<br>", "\n")
+                                    .replace("<div>", "")
+                                    .replace("</div>", "")
+                                    .replace("<i>", "")
+                                    .replace("</i>", "")
+                                    .replace("JP0B", "")
+                                )
+                                if len(story_eye_e) > 0
+                                else ""
+                            )
 
                             xpath_result = {
                                 "char_detail": char_detail,
@@ -915,8 +1201,8 @@ for id in charactor_result:
 
                                 dish_icon = dish_icon_e[0].attrib["src"]
                                 dish_name = (
-                                    dish_name_e[0].text.replace("JP0Y", "")
-                                    if dish_name_e[0].text
+                                    dish_name_e[0].text_content().replace("JP0Y", "")
+                                    if dish_name_e[0].text_content()
                                     else ""
                                 )
                             else:
@@ -935,7 +1221,7 @@ for id in charactor_result:
                                 )
 
                             namecard_icon = namecard_icon_e[0].attrib["src"]
-                            namecard_name = namecard_name_e[0].text
+                            namecard_name = namecard_name_e[0].text_content()
                             namecard_description = (
                                 html.tostring(
                                     namecard_description_e[0],
@@ -948,10 +1234,10 @@ for id in charactor_result:
                                 .replace("</div>", "")
                             )
                             outfit_icon = outfit_icon_e[0].attrib["src"]
-                            outfit_name = outfit_name_e[0].text
+                            outfit_name = outfit_name_e[0].text_content()
                             outfit_text = (
-                                outfit_text_e[0].text.replace("JP0B", "")
-                                if outfit_text_e[0].text
+                                outfit_text_e[0].text_content().replace("JP0B", "")
+                                if outfit_text_e[0].text_content()
                                 else ""
                             )
                             outfit_avater = outfit_avater_e[0].attrib["src"]
@@ -1068,16 +1354,12 @@ print("xpathでの抽出が完了しました")
 print("error_xpath_list", error_xpath_list)
 if len(error_xpath_list) > 0:
     write_error_log(f"error_xpath_list: {error_xpath_list}")
-## ###
-## ###
-# # for debug
-# # # # 次に、urlから画像を取得する
-# # # # 動作ok
-### charactor_result = {}
-
-with open("Genshin_data.json", "r", encoding="utf-8") as output_file:
-    charactor_result = json.load(output_file)
-
+# ###
+# ###
+# for debug
+# # # 次に、urlから画像を取得する
+# # # 動作ok
+## charactor_result = {}
 
 if not os.path.exists(f"mat/icon"):
     os.makedirs(f"mat/icon")
@@ -1091,6 +1373,9 @@ for id in charactor_result:
         icon_url_set.update(
             [
                 charactor_result[id]["data"]["profile"]["element_icon"],
+                # 20230930追加
+                charactor_result[id]["data"]["profile"]["weapon_icon"],
+                # ここまで
                 charactor_result[id]["data"]["talent"]["normal_atk_icon"],
                 charactor_result[id]["data"]["talent"]["skill_icon"],
                 charactor_result[id]["data"]["talent"]["ult_icon"],
@@ -1240,6 +1525,8 @@ print("ブラウザを閉じました")
 print("error_get_itemname_list", error_get_itemname_list)
 ####################
 # 画像debug用のcharactor_resultここへ
+with open("Genshin_data.json", "r", encoding="utf-8") as f:
+    charactor_result = json.load(f)
 
 
 ####################
@@ -1442,7 +1729,7 @@ def draw_bg(id, skin_num, kind):
         "Fire": [(103, 28, 28, 128), (173, 48, 48, 128)],
         "Water": [(29, 60, 105, 255), (43, 95, 172, 128)],
         "Electric": [(54, 28, 85, 255), (104, 52, 169, 128)],
-        "Ice": [(63, 113, 124, 255), (66, 155, 173, 128)],
+        "Ice": [(67, 138, 146, 255), (105, 147, 160, 128)],
         "Grass": [(37, 80, 26, 255), (54, 147, 31, 128)],
     }
     canvas = Image.new("RGBA", (2048, 1024), (255, 255, 255, 0))
@@ -1474,6 +1761,14 @@ def draw_bg(id, skin_num, kind):
             width=2,
             radius=30,
         )
+        # 武器用
+        draw_rect.rounded_rectangle(
+            (2048 - 40 - 150 - 40, 350 + 40 + 20, 2048 - 40, 350 + 40 + 40 + 20 + 150),
+            fill=bg_color_l,
+            outline=(255, 255, 255),
+            width=2,
+            radius=15,
+        )
         draw_rect.rounded_rectangle(
             (40, 880, 2048 - 40, 1024 - 40),
             fill=bg_color_l,
@@ -1481,8 +1776,34 @@ def draw_bg(id, skin_num, kind):
             width=2,
             radius=20,
         )
+        # しかく
+        draw_rect.rounded_rectangle(
+            (50, 400 + 5, 50 + 48, 405 + 48),
+            fill=(0, 0, 0, 128),
+            radius=10,
+        )
+        draw_rect.rounded_rectangle(
+            (50, 450 + 5, 50 + 48, 455 + 48),
+            fill=(0, 0, 0, 128),
+            radius=10,
+        )
+        draw_rect.rounded_rectangle(
+            (50, 500 + 5, 50 + 48, 505 + 48),
+            fill=(0, 0, 0, 128),
+            radius=10,
+        )
+        draw_rect.rounded_rectangle(
+            (50, 550 + 5, 50 + 48, 555 + 48),
+            fill=(0, 0, 0, 128),
+            radius=10,
+        )
+        # 丸
         draw.ellipse(
             (1640, 210, 1640 + 50, 210 + 50),
+            fill=(0, 0, 0, 128),
+        )
+        draw.ellipse(
+            (2048 - 40 - 150 - 20, 350 + 40 + 40, 2048 - 60, 350 + 40 + 40 + 150),
             fill=(0, 0, 0, 128),
         )
     elif kind == "talent_a":
@@ -1754,11 +2075,16 @@ def profile1(font_file, avater_img_list, skin_num):
         fill=(255, 255, 255),
         font=ImageFont.truetype(font_file, 110),
     )
+    subn_size = 60
+    subn_y = 0
+    if len(db["sub_name"]) >= 11:
+        subn_size = int(600 / len(db["sub_name"]))
+        subn_y = int((60 - subn_size) / 2)
     draw.text(
-        (50, 190),
+        (50, 190 + subn_y),
         db["sub_name"],
         fill=(255, 255, 255),
-        font=ImageFont.truetype(font_file, 60),
+        font=ImageFont.truetype(font_file, subn_size),
     )
     star = Image.open("mat/icon2/star.png").resize((72, 64)).convert("RGBA")
     for i in range(int(db["amount_of_star"])):
@@ -1854,11 +2180,16 @@ def profile1(font_file, avater_img_list, skin_num):
         fill=(255, 255, 255),
         font=ImageFont.truetype(font_file, 50),
     )
+    cv_size = 50
+    cv_y = 0
+    if len(db["cv"]) >= 7:
+        cv_size = int(300 / len(db["cv"]))
+        cv_y = int((50 - cv_size) / 2)
     draw.text(
-        (1640, 60),
+        (1640, 60 + cv_y),
         db["cv"],
         fill=(255, 255, 255),
-        font=ImageFont.truetype(font_file, 50),
+        font=ImageFont.truetype(font_file, cv_size),
     )
     draw.text(
         (1340, 110),
@@ -1888,7 +2219,6 @@ def profile1(font_file, avater_img_list, skin_num):
         db["affiliation"],
         fill=(255, 255, 255),
         font=ImageFont.truetype(font_file, aff_size),
-        # anchor="lm",
     )
     draw.text(
         (1340, 210),
@@ -1900,17 +2230,27 @@ def profile1(font_file, avater_img_list, skin_num):
         Image.open(search_icon(db["element_icon"])).resize((50, 50)).convert("RGBA")
     )
     canvas.paste(element_icon, (1640, 210), element_icon)
+    weapon_icon = (
+        Image.open(search_icon(db["weapon_icon"])).resize((150, 150)).convert("RGBA")
+    )
+    canvas.paste(weapon_icon, (2048 - 40 - 20 - 150, 350 + 40 + 40), weapon_icon)
+
     draw.text(
         (1340, 260),
         "命ノ星座",
         fill=(255, 255, 255),
         font=ImageFont.truetype(font_file, 50),
     )
+    con_size = 50
+    con_y = 0
+    if len(db["constellation"]) >= 7:
+        con_size = int(300 / len(db["constellation"]))
+        con_y = int((50 - con_size) / 2)
     draw.text(
-        (1640, 260),
+        (1640, 260 + con_y),
         db["constellation"],
         fill=(255, 255, 255),
-        font=ImageFont.truetype(font_file, 50),
+        font=ImageFont.truetype(font_file, con_size),
     )
     wrapped_text(draw, font_file, db["description"], 28, (50, 900), 1940)
 
