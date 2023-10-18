@@ -19,8 +19,8 @@ jobs:
         with:
           python-version: 3.10.13
       - name: Install dependencies
+      # pip更新
         run: |
-          # pip更新
           python -m pip install --upgrade pip
           pip install beautifulsoup4==4.12.0
           pip install requests
@@ -29,9 +29,18 @@ jobs:
           pip install selenium==4.12.0
           pip install chromedriver-binary==117.0.5938.62.0
           pip install selenium-wire
-          # 必要なパッケージインストール
+        # 必要なパッケージインストール
 
       - name: Run script
         run: |
-          # 定期実行するファイルを指定。
           python Genshin.py
+        # 定期実行するファイルを指定。
+          
+      # 以下、ファイルのコミットとプッシュ
+      - name: Commit and Push
+        run: |
+          git config --global user.email "105225777+github-actions@users.noreply.github.com"
+          git config --global user.name "AkaakuHub"
+          git add .
+          git commit -m "Auto commit by GitHub Actions"
+          git push
