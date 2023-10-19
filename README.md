@@ -1,4 +1,5 @@
-<img src="https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat">
+https://img.shields.io/badge/Python-3.10-yellow.svg
 # Genshinpy
 
-Genshin database
+Genshin database for certain bot.
+Automatically updated in every week.
