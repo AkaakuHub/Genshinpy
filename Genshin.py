@@ -1245,9 +1245,9 @@ for id in charactor_result:
                                 .replace("</div>", "")
                             )
                             outfit_icon = outfit_icon_e[0].attrib["src"]
-                            outfit_name = outfit_name_e[0].text_content()
+                            outfit_name = outfit_name_e[0].text_content().replace("JP0G", "")
                             outfit_text = (
-                                outfit_text_e[0].text_content().replace("JP0B", "")
+                                outfit_text_e[0].text_content().replace("JP0B", "").replace("JP0G", "")
                                 if outfit_text_e[0].text_content()
                                 else ""
                             )
@@ -1288,8 +1288,8 @@ for id in charactor_result:
                                 "/html/body/div/main/div/div[2]/div[2]/div[1]/div/div[3]/div[3]/span[2]/img"
                             )
                             outfit_icon = outfit_icon_e[0].attrib["src"]
-                            outfit_name = outfit_name_e[0].text
-                            outfit_text = outfit_text_e[0].text.replace("JP0B", "")
+                            outfit_name = outfit_name_e[0].text.replace("JP0G", "")
+                            outfit_text = outfit_text_e[0].text.replace("JP0B", "").replace("JP0G", "")
                             outfit_description = outfit_description_e[0].text.replace(
                                 "JP0B", ""
                             )
