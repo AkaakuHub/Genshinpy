@@ -1854,3 +1854,57 @@ Stacktrace:
 [2023-10-18 15:51:21] ----------finished Genshin.py----------
 [2023-10-19 00:21:55] ----------start Genshin.py----------
 [2023-10-19 01:07:24] ----------finished Genshin.py----------
+[2023-10-22 10:08:04] ----------start Genshin.py----------
+[2023-10-22 10:49:07] electro-traveler-boy,list index out of range
+[2023-10-22 10:49:07] electro-traveler-boy,list index out of range
+[2023-10-22 10:49:08] error_xpath_list: ['error: electro-traveler-boy_constellation', 'error: electro-traveler-boy_ascension']
+[2023-10-22 10:49:10] could not find url in electro-traveler-boy: 'constellation'
+[2023-10-22 10:49:13] error occured while downloading https://ambr.top/jp/archive/material/113032
+'ascension'
+[2023-10-22 10:49:13] error occured while downloading https://ambr.top/jp/archive/material/113032
+'ascension'
+[2023-10-22 10:49:13] error occured while downloading https://ambr.top/jp/archive/material/113032
+'ascension'
+[2023-10-22 10:49:13] error occured while downloading https://ambr.top/jp/archive/material/113032
+'ascension'
+[2023-10-22 10:49:13] error occured while downloading https://ambr.top/jp/archive/material/113032
+'ascension'
+[2023-10-22 10:49:13] error occured while downloading https://ambr.top/jp/archive/material/113032
+'ascension'
+[2023-10-22 10:49:13] error occured while downloading https://ambr.top/jp/archive/material/113032
+'ascension'
+[2023-10-22 10:49:13] error occured while downloading https://ambr.top/jp/archive/material/113032
+'ascension'
+[2023-10-22 10:49:13] error occured while downloading https://ambr.top/jp/archive/material/113032
+'ascension'
+[2023-10-22 10:49:13] error occured while downloading https://ambr.top/jp/archive/material/113032
+'ascension'
+[2023-10-22 10:49:13] error occured while downloading https://ambr.top/jp/archive/material/113032
+'ascension'
+[2023-10-22 10:49:13] error occured while downloading https://ambr.top/jp/archive/material/113032
+'ascension'
+[2023-10-22 10:49:13] error occured while downloading https://ambr.top/jp/archive/material/113032
+'ascension'
+[2023-10-22 10:49:13] error occured while downloading https://ambr.top/jp/archive/material/113032
+'ascension'
+[2023-10-22 10:49:13] error occured while downloading https://ambr.top/jp/archive/material/113032
+'ascension'
+[2023-10-22 10:49:13] error occured while downloading https://ambr.top/jp/archive/material/113032
+'ascension'
+[2023-10-22 10:49:13] error occured while downloading https://ambr.top/jp/archive/material/113032
+'ascension'
+[2023-10-22 10:49:13] error occured while downloading https://ambr.top/jp/archive/material/113032
+'ascension'
+[2023-10-22 10:49:13] error occured while downloading https://ambr.top/jp/archive/material/113032
+'ascension'
+[2023-10-22 10:49:13] error occured while downloading https://ambr.top/jp/archive/material/113032
+'ascension'
+[2023-10-22 10:49:13] error occured while downloading https://ambr.top/jp/archive/material/113032
+'ascension'
+[2023-10-22 10:49:13] error occured while downloading https://ambr.top/jp/archive/material/113032
+'ascension'
+[2023-10-22 10:49:13] error occured while downloading https://ambr.top/jp/archive/material/113032
+'ascension'
+[2023-10-22 10:54:10] failed to creat image in electro-traveler-boy's constellation: 'constellation'
+[2023-10-22 10:54:10] failed to creat image in electro-traveler-boy's ascension: 'ascension'
+[2023-10-22 10:54:18] ----------finished Genshin.py----------
