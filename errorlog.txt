@@ -1908,3 +1908,5 @@ Stacktrace:
 [2023-10-22 10:54:10] failed to creat image in electro-traveler-boy's constellation: 'constellation'
 [2023-10-22 10:54:10] failed to creat image in electro-traveler-boy's ascension: 'ascension'
 [2023-10-22 10:54:18] ----------finished Genshin.py----------
+[2023-10-29 10:08:35] ----------start Genshin.py----------
+[2023-10-29 10:55:56] ----------finished Genshin.py----------
