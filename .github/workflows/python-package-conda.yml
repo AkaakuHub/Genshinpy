@@ -4,7 +4,7 @@ on:
   push:
   schedule:
     # 定期実行する時間
-    - cron: '0 10 * * 0'
+    - cron: '0 10 * * 3'
 
 jobs:
   build:
