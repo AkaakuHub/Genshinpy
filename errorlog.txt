@@ -1921,3 +1921,5 @@ Stacktrace:
 [2023-11-15 10:57:54] could not find url in hu-tao: '2'
 [2023-11-15 11:00:20] failed to creat image in hu-tao's talent: 'talent'
 [2023-11-15 11:02:16] ----------finished Genshin.py----------
+[2023-11-22 10:18:34] ----------start Genshin.py----------
+[2023-11-22 11:02:33] ----------finished Genshin.py----------
