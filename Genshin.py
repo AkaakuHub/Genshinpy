@@ -145,7 +145,7 @@ def main():
 
     try:
         with open("release_diff.csv", "w", encoding="utf-8") as f:
-            f.write(", ".join(unreleased_list))
+            f.write(",".join(unreleased_list))
         print("release_difを保存しました")
     except Exception as e:
         print(f"release_diffの書き込み中にエラーが発生しました: {e}")
