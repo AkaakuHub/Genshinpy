@@ -192,17 +192,17 @@ def main():
             # print(f"既に存在:html/{char_id}")
             None
         for kind in html_kind:
-            # 既にあるやつをスキップするときはFalseをつける
+            # 既にあるやつをスキップするときはFalse andをつける
             if (
-                False
-                and f"{char_name}_{kind}.html" in os.listdir(f"html/{char_id}")
+                False and
+                f"{char_name}_{kind}.html" in os.listdir(f"html/{char_id}")
                 and len(html_kind)
                 + avater2_list.count(char_name)
                 + avater3_list.count(char_name)
                 == len(os.listdir(f"html/{char_id}"))
             ):
-                # やっぱ毎回htmlを入手する
-                None
+                continue
+                # None
             else:
                 try:
                     url = f"https://ambr.top/jp/archive/avatar/{char_id}/{char_name}?mode={kind}"
@@ -293,6 +293,8 @@ def main():
                     error_gethtml_list.append(f"エラー:{char_name}_{kind}")
                     print(kind, f"Error: {e}")
                     write_error_log(f"{char_name},{e}")
+            # サーバー負荷軽減
+            time.sleep(1)
     driver.quit()
     print("ブラウザを閉じました")
     print("error_gethtml_list", error_gethtml_list)
@@ -1503,6 +1505,8 @@ def main():
             except Exception as e:
                 print(f"エラー:{url}のダウンロード中に発生\n{str(e)}")
                 write_error_log(f"error occured while downloading {url}\n{str(e)}")
+            # サーバー負荷軽減
+            time.sleep(1)
     ####################
     # ascensionの画像の名前をwebから取得する
     # 動作ok
@@ -1563,6 +1567,8 @@ def main():
                 print(f"エラー:{char_name}のダウンロード中に発生\n{str(e)}")
                 write_error_log(f"error occured while downloading {url}\n{str(e)}")
                 error_get_itemname_list.append(item_id)
+            # サーバー負荷軽減
+            time.sleep(1)
     with open("itemname.json", "w", encoding="utf-8") as f:
         json.dump(itemname, f, ensure_ascii=False, indent=4)
     driver.quit()
