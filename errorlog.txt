@@ -1925,3 +1925,15 @@ Stacktrace:
 [2023-11-22 11:02:33] ----------finished Genshin.py----------
 [2023-11-29 10:17:41] ----------start Genshin.py----------
 [2023-11-29 11:02:21] ----------finished Genshin.py----------
+[2023-11-30 01:05:05] ----------start Genshin.py----------
+[2023-11-30 01:05:06] Message: Process unexpectedly closed with status 1
+
+[2023-11-30 01:05:07] Message: Process unexpectedly closed with status 1
+
+[2023-11-30 01:05:07] Message: Process unexpectedly closed with status 1
+
+[2023-11-30 01:05:08] Message: Process unexpectedly closed with status 1
+
+[2023-11-30 01:05:09] Message: Process unexpectedly closed with status 1
+
+[2023-11-30 01:05:09] !!could not get charactor list. Finish Genshin.py!!
