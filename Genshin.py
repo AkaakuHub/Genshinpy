@@ -107,7 +107,6 @@ def main():
     if not get_charlist:
         print("キャラリストを取得できませんでした。")
         write_error_log("!!could not get charactor list. Finish Genshin.py!!")
-        driver.quit()
         return
     # # つぎに、キャラのid,name,name_jaをjsonにする
     # 動作ok
