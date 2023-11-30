@@ -142,6 +142,7 @@ def main():
         }
 
     print("キャラリストを保存しました")
+    print("unreleased_list", unreleased_list)
 
     try:
         with open("release_diff.csv", "w", encoding="utf-8") as f:
