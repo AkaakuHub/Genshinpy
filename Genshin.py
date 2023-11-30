@@ -73,7 +73,7 @@ def main():
     write_error_log("----------start Genshin.py----------")
     # 動作ok
 
-    get_charlist = False
+    # get_charlist = False
 
     for _ in range(5):
         try:
@@ -104,10 +104,10 @@ def main():
         except Exception as e:
             print(f"Error: {e}")
             write_error_log(e)
-    if not get_charlist:
-        print("キャラリストを取得できませんでした。")
-        write_error_log("!!could not get charactor list. Finish Genshin.py!!")
-        return
+    # if not get_charlist:
+    #     print("キャラリストを取得できませんでした。")
+    #     write_error_log("!!could not get charactor list. Finish Genshin.py!!")
+    #     return
     # # つぎに、キャラのid,name,name_jaをjsonにする
     # 動作ok
     charactor_result = {}
