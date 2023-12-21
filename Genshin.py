@@ -1,3 +1,32 @@
+import re
+import os
+import math
+import time
+import json
+import traceback
+import datetime
+import requests
+import textwrap
+from bs4 import BeautifulSoup
+from lxml import html
+from urllib.parse import urlparse
+from PIL import Image, ImageDraw, ImageFont, ImageOps, ImageEnhance
+# from selenium import webdriver
+# from selenium.webdriver.chrome.options import Options
+# import chromedriver_binary
+## ver4.1以降
+# from selenium.webdriver.common.by import By
+# from selenium.webdriver.support.ui import WebDriverWait
+# from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.support.ui import Select
+from seleniumwire import webdriver
+from seleniumwire.utils import decode
+from selenium.webdriver.firefox.options import Options
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.firefox.firefox_profile import FirefoxProfile
+
 ### github用 ###
 ### 仕様書
 # 定期実行して、全キャラ分のambrtopからselenium,htmlを取得し、xpathで要素を抽出、データに格納する、画像を取得、pillowで画像を生成して外からアクセス可能にする #
@@ -26,46 +55,20 @@ def main():
     avater3_list = ["jean"]
     sprinter_list = ["mona", "kamisato-ayaka"]
     html_kind = ["profile", "talent", "constellation", "ascension", "other", "story"]
-    import re
-    import os
-    import math
-    import time
-    import json
-    import traceback
-    import datetime
-    import requests
-    import textwrap
-    from bs4 import BeautifulSoup
-    from lxml import html
-    from urllib.parse import urlparse
-    from PIL import Image, ImageDraw, ImageFont, ImageOps, ImageEnhance
-    # from selenium import webdriver
-    # from selenium.webdriver.chrome.options import Options
-    # import chromedriver_binary
-    ## ver4.1以降
-    # from selenium.webdriver.common.by import By
-    # from selenium.webdriver.support.ui import WebDriverWait
-    # from selenium.webdriver.support import expected_conditions as EC
-    from selenium.webdriver.support.ui import Select
-    from seleniumwire import webdriver
-    from seleniumwire.utils import decode
-    from selenium.webdriver.firefox.options import Options
-    from selenium.webdriver.common.by import By
-    from selenium.webdriver.support.ui import WebDriverWait
-    from selenium.webdriver.support import expected_conditions as EC
-    from selenium.webdriver.firefox.firefox_profile import FirefoxProfile
     options = Options()
     options.add_argument("--headless")
     seleniumwire_options = {"disable_encoding": True}
 
     # エラーログファイルのパス
     log_file_path = "errorlog.txt"
+    errorlog_array = []
 
 
     # エラーログをファイルに書き込む関数
     def write_error_log(error_message):
-        timestamp = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+        timestamp = datetime.datetime.now(datetime.timezone(datetime.timedelta(hours=9))).strftime("%Y-%m-%d %H:%M:%S")
         log_entry = f"[{timestamp}] {error_message}\n"
+        errorlog_array.append(log_entry)
         with open(log_file_path, "a") as log_file:
             log_file.write(log_entry)
 
@@ -2859,5 +2862,7 @@ def main():
 
     print("処理が完了しました。")
     write_error_log("----------finished Genshin.py----------")
+    
+    print(errorlog_array)
 
 main() if __name__ == "__main__" else None
