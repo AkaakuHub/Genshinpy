@@ -1959,3 +1959,10 @@ Stacktrace:
 [2024-01-24 21:32:10] ----------finished Genshin.py----------
 [2024-01-31 19:15:53] ----------start Genshin.py----------
 [2024-01-31 21:28:33] ----------finished Genshin.py----------
+[2024-02-04 16:16:53] ----------start Genshin.py----------
+[2024-02-04 17:07:02] rosaria,list index out of range
+[2024-02-04 17:07:09] error_xpath_list: ['error: rosaria_talent']
+[2024-02-04 17:35:48] could not find url in rosaria: 'talent'
+[2024-02-04 18:27:18] failed to creat image in rosaria's talent: 'talent'
+[2024-02-04 18:27:19] failed to creat image in rosaria's talent: 'talent'
+[2024-02-04 18:29:20] ----------finished Genshin.py----------
