@@ -1,32 +1,3 @@
-import re
-import os
-import math
-import time
-import json
-import traceback
-import datetime
-import requests
-import textwrap
-from bs4 import BeautifulSoup
-from lxml import html
-from urllib.parse import urlparse
-from PIL import Image, ImageDraw, ImageFont, ImageOps, ImageEnhance
-# from selenium import webdriver
-# from selenium.webdriver.chrome.options import Options
-# import chromedriver_binary
-## ver4.1以降
-# from selenium.webdriver.common.by import By
-# from selenium.webdriver.support.ui import WebDriverWait
-# from selenium.webdriver.support import expected_conditions as EC
-from selenium.webdriver.support.ui import Select
-from seleniumwire import webdriver
-from seleniumwire.utils import decode
-from selenium.webdriver.firefox.options import Options
-from selenium.webdriver.common.by import By
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
-from selenium.webdriver.firefox.firefox_profile import FirefoxProfile
-
 ### github用 ###
 ### 仕様書
 # 定期実行して、全キャラ分のambrtopからselenium,htmlを取得し、xpathで要素を抽出、データに格納する、画像を取得、pillowで画像を生成して外からアクセス可能にする #
@@ -55,20 +26,46 @@ def main():
     avater3_list = ["jean"]
     sprinter_list = ["mona", "kamisato-ayaka"]
     html_kind = ["profile", "talent", "constellation", "ascension", "other", "story"]
+    import re
+    import os
+    import math
+    import time
+    import json
+    import traceback
+    import datetime
+    import requests
+    import textwrap
+    from bs4 import BeautifulSoup
+    from lxml import html
+    from urllib.parse import urlparse
+    from PIL import Image, ImageDraw, ImageFont, ImageOps, ImageEnhance
+    # from selenium import webdriver
+    # from selenium.webdriver.chrome.options import Options
+    # import chromedriver_binary
+    ## ver4.1以降
+    # from selenium.webdriver.common.by import By
+    # from selenium.webdriver.support.ui import WebDriverWait
+    # from selenium.webdriver.support import expected_conditions as EC
+    from selenium.webdriver.support.ui import Select
+    from seleniumwire import webdriver
+    from seleniumwire.utils import decode
+    from selenium.webdriver.firefox.options import Options
+    from selenium.webdriver.common.by import By
+    from selenium.webdriver.support.ui import WebDriverWait
+    from selenium.webdriver.support import expected_conditions as EC
+    from selenium.webdriver.firefox.firefox_profile import FirefoxProfile
     options = Options()
     options.add_argument("--headless")
     seleniumwire_options = {"disable_encoding": True}
 
     # エラーログファイルのパス
     log_file_path = "errorlog.txt"
-    errorlog_array = []
 
 
     # エラーログをファイルに書き込む関数
     def write_error_log(error_message):
-        timestamp = datetime.datetime.now(datetime.timezone(datetime.timedelta(hours=9))).strftime("%Y-%m-%d %H:%M:%S")
+        timestamp = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
         log_entry = f"[{timestamp}] {error_message}\n"
-        errorlog_array.append(log_entry)
         with open(log_file_path, "a") as log_file:
             log_file.write(log_entry)
 
@@ -87,16 +84,24 @@ def main():
             time.sleep(2)
             # まず、releasedキャラリストを取得する
             charactor_source1 = driver.page_source
+            # 20240208追記
+            # つぎに、以下の要素がある場合、unreleasedキャラリストを取得する
+            # 存在しなかったら、charactor_source2をcharactor_source1と同じにする
             xpath = "/html/body/div/div/div[1]/div/div/div[1]/div[2]/div/div[1]/select"
-            element = WebDriverWait(driver, 10).until(
-                EC.presence_of_element_located((By.XPATH, xpath))
-            )
-            select = Select(element)
-            select.select_by_value("on")
-            time.sleep(1)
-            driver.refresh()
-            time.sleep(3)
-            charactor_source2 = driver.page_source
+            try:
+                element = WebDriverWait(driver, 10).until(
+                    EC.presence_of_element_located((By.XPATH, xpath))
+                )
+                select = Select(element)
+                select.select_by_value("on")
+                time.sleep(1)
+                driver.refresh()
+                time.sleep(3)
+                charactor_source2 = driver.page_source
+            except Exception as e:
+                print(f"Error: {e}")
+                write_error_log(e)
+                charactor_source2 = charactor_source1
             print("キャラリストを取得できました。")
             driver.quit()
             break
@@ -148,7 +153,7 @@ def main():
 
     try:
         with open("release_diff.csv", "w", encoding="utf-8") as f:
-            f.write(",".join(unreleased_list))
+            f.write(", ".join(unreleased_list))
         print("release_difを保存しました")
     except Exception as e:
         print(f"release_diffの書き込み中にエラーが発生しました: {e}")
@@ -190,19 +195,17 @@ def main():
         if not os.path.exists(f"html/{char_id}"):
             os.makedirs(f"html/{char_id}")
             print(f"作成:html/{char_id}")
-        else:
-            # print(f"既に存在:html/{char_id}")
-            None
         for kind in html_kind:
             # 既にあるやつをスキップするときはFalse andをつける
             if (
-                False and
+                # False and
                 f"{char_name}_{kind}.html" in os.listdir(f"html/{char_id}")
                 and len(html_kind)
                 + avater2_list.count(char_name)
                 + avater3_list.count(char_name)
                 == len(os.listdir(f"html/{char_id}"))
             ):
+                print("既に完了しているためスキップ:", char_name, kind)
                 continue
                 # None
             else:
@@ -2862,7 +2865,5 @@ def main():
 
     print("処理が完了しました。")
     write_error_log("----------finished Genshin.py----------")
-    
-    print(errorlog_array)
 
 main() if __name__ == "__main__" else None
