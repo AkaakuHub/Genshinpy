@@ -1966,3 +1966,12 @@ Stacktrace:
 [2024-02-04 18:27:18] failed to creat image in rosaria's talent: 'talent'
 [2024-02-04 18:27:19] failed to creat image in rosaria's talent: 'talent'
 [2024-02-04 18:29:20] ----------finished Genshin.py----------
+[2024-02-07 21:33:28] ----------start Genshin.py----------
+[2024-02-07 21:34:24] Message: Cannot locate option with value: on; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+
+[2024-02-07 21:34:35] rosaria,list index out of range
+[2024-02-07 21:34:43] error_xpath_list: ['error: rosaria_talent']
+[2024-02-07 22:03:21] could not find url in rosaria: 'talent'
+[2024-02-07 22:54:52] failed to creat image in rosaria's talent: 'talent'
+[2024-02-07 22:54:53] failed to creat image in rosaria's talent: 'talent'
+[2024-02-07 22:56:55] ----------finished Genshin.py----------
