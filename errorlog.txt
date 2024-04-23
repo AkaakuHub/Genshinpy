@@ -2011,3 +2011,12 @@ Stacktrace:
 [2024-03-06 18:30:14] failed to creat image in rosaria's talent: 'talent'
 [2024-03-06 18:30:15] failed to creat image in rosaria's talent: 'talent'
 [2024-03-06 18:32:07] ----------finished Genshin.py----------
+[2024-04-23 04:36:24] ----------start Genshin.py----------
+[2024-04-23 04:37:47] Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+[2024-04-23 04:37:56] ----------finished Genshin.py----------
