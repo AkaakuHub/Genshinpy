@@ -2020,3 +2020,12 @@ NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
 dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
 
 [2024-04-23 04:37:56] ----------finished Genshin.py----------
+[2024-04-23 04:59:55] ----------start Genshin.py----------
+[2024-04-23 05:00:24] Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+[2024-04-23 05:00:33] ----------finished Genshin.py----------
