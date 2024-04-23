@@ -1571,7 +1571,8 @@ def main():
             except Exception as e:
                 print(f"エラー:{char_name}のダウンロード中に発生\n{str(e)}")
                 write_error_log(f"error occured while downloading {url}\n{str(e)}")
-                error_get_itemname_list.append(item_id)
+                error_get_itemname_list.append(char_name)
+                # error_get_itemname_list.append(item_id)
             # サーバー負荷軽減
             time.sleep(1)
     with open("itemname.json", "w", encoding="utf-8") as f:
