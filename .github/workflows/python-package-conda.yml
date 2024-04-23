@@ -32,6 +32,7 @@ jobs:
           pip install chromedriver-binary==117.0.5938.62.0
           pip install selenium-wire
           pip install packaging
+          pip install setuptools
         # 必要なパッケージインストール
 
       - name: Run script
