@@ -87,7 +87,10 @@ def main():
             # 20240208追記
             # つぎに、以下の要素がある場合、unreleasedキャラリストを取得する
             # 存在しなかったら、charactor_source2をcharactor_source1と同じにする
-            xpath = "/html/body/div/div/div[1]/div/div/div[1]/div[2]/div/div[1]/select"
+            # 20240425追加
+            # サイトの構造が変わったため、スイッチの位置が違う
+            # xpath = "/html/body/div/div/div[1]/div/div/div[1]/div[2]/div/div[1]/select"
+            xpath = "/html/body/div[2]/div/div[2]/div[2]/div/div[3]/div[2]/div/select"
             try:
                 element = WebDriverWait(driver, 10).until(
                     EC.presence_of_element_located((By.XPATH, xpath))
