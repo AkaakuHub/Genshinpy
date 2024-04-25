@@ -112,6 +112,7 @@ def main():
                 charactor_source2 = charactor_source1
                 print("キャラクターソース2を1と同じにしました。")
             print("キャラリストを取得できました。")
+            print(charactor_source1)
             get_charlist = True
             driver.quit()
             break
@@ -159,7 +160,6 @@ def main():
         }
 
     print("キャラリストを保存しました")
-    print(release_diff_list)
     print("unreleased_list", unreleased_list)
 
     try:
