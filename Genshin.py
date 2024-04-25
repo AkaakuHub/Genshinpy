@@ -159,6 +159,7 @@ def main():
         }
 
     print("キャラリストを保存しました")
+    print(char_id_all)
     print("unreleased_list", unreleased_list)
 
     try:
@@ -206,9 +207,9 @@ def main():
             os.makedirs(f"html/{char_id}")
             print(f"作成:html/{char_id}")
         for kind in html_kind:
-            # 既にあるやつをスキップするときはFalse andをつける
+            # 既にあるやつをスキップするときはFalse andの前に#をつける
             if (
-                # False and
+                False and
                 f"{char_name}_{kind}.html" in os.listdir(f"html/{char_id}")
                 and len(html_kind)
                 + avater2_list.count(char_name)
