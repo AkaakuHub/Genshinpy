@@ -2038,3 +2038,5 @@ NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
 dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
 
 [2024-04-24 17:19:52] ----------finished Genshin.py----------
+[2024-04-25 06:16:24] ----------start Genshin.py----------
+[2024-04-25 06:17:22] ----------finished Genshin.py----------
