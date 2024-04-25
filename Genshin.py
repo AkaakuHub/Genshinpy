@@ -159,7 +159,7 @@ def main():
         }
 
     print("キャラリストを保存しました")
-    print(char_id_all)
+    print(release_diff_list)
     print("unreleased_list", unreleased_list)
 
     try:
