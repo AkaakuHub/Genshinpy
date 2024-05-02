@@ -78,50 +78,45 @@ def main():
     write_error_log("----------start Genshin.py----------")
     # 動作ok
 
-    get_charlist = False
-    for _ in range(5):
+get_charlist = False
+for _ in range(5):
+    try:
+        driver = webdriver.Firefox(
+            options=options, seleniumwire_options=seleniumwire_options
+        )
+        url = "https://ambr.top/jp/archive/avatar"
+        driver.get(url)
+        WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.TAG_NAME, 'body')))  # Wait until body is loaded
+        # まず、releasedキャラリストを取得する
+        charactor_source1 = driver.page_source
+        xpath = "/html/body/div[2]/div/div[2]/div[2]/div/div[3]/div[2]/div/select"
         try:
-            driver = webdriver.Firefox(
-                options=options, seleniumwire_options=seleniumwire_options
+            element = WebDriverWait(driver, 10).until(
+                EC.presence_of_element_located((By.XPATH, xpath))
             )
-            url = "https://ambr.top/jp/archive/avatar"
-            driver.get(url)
-            time.sleep(10)
-            # まず、releasedキャラリストを取得する
-            charactor_source1 = driver.page_source
-            # 20240208追記
-            # つぎに、以下の要素がある場合、unreleasedキャラリストを取得する
-            # 存在しなかったら、charactor_source2をcharactor_source1と同じにする
-            # 20240425追加
-            # サイトの構造が変わったため、スイッチの位置が違う
-            # xpath = "/html/body/div/div/div[1]/div/div/div[1]/div[2]/div/div[1]/select"
-            xpath = "/html/body/div[2]/div/div[2]/div[2]/div/div[3]/div[2]/div/select"
-            try:
-                element = WebDriverWait(driver, 10).until(
-                    EC.presence_of_element_located((By.XPATH, xpath))
-                )
-                select = Select(element)
-                select.select_by_value("on")
-                time.sleep(2)
-                driver.refresh()
-                time.sleep(10)
-                charactor_source2 = driver.page_source
-            except Exception as e:
-                print(f"Error: {e}")
-                write_error_log(e)
-                charactor_source2 = charactor_source1
-                print("キャラクターソース2を1と同じにしました。")
-            print("キャラリストを取得できました。")
-            print(charactor_source1)
-            get_charlist = True
-            driver.quit()
-            break
-        except TimeoutError as e:
-            print(f"TimeOutError: {e}")
-            write_error_log(e)
+            select = Select(element)
+            select.select_by_value("on")
+            time.sleep(2)
+            driver.refresh()
+            WebDriverWait(driver, 30).until(EC.presence_of_element_located((By.TAG_NAME, 'body')))  # Wait until body is loaded after refresh
+            charactor_source2 = driver.page_source
         except Exception as e:
             print(f"Error: {e}")
             write_error_log(e)
+            charactor_source2 = charactor_source1
+            print("キャラクターソース2を1と同じにしました。")
+        print("キャラリストを取得できました。")
+        print(charactor_source1)
+        get_charlist = True
+        driver.quit()
+        break
+    except TimeoutError as e:
+        print(f"TimeOutError: {e}")
+        write_error_log(e)
+    except Exception as e:
+        print(f"Error: {e}")
+        write_error_log(e)
+
             
     if not get_charlist:
         print("キャラリストを取得できませんでした。")
