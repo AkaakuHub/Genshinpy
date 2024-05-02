@@ -2074,3 +2074,5 @@ dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
 [2024-05-02 10:59:53] ----------finished Genshin.py----------
 [2024-05-02 11:08:06] ----------start Genshin.py----------
 [2024-05-02 11:08:57] ----------finished Genshin.py----------
+[2024-05-02 11:16:52] ----------start Genshin.py----------
+[2024-05-02 11:17:30] ----------finished Genshin.py----------
