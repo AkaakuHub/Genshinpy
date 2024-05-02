@@ -59,13 +59,17 @@ def main():
 
     # geckodriver_autoinstaller.install() 
     
+    # options = Options()
+    # # options.add_argument("--headless=new")
+    # options.add_argument("--headless")
+    # # options.add_argument("--enable-javascript")
+    # firefox_profile = FirefoxProfile()
+    # firefox_profile.set_preference("javascript.enabled", True)
+    # options.profile = firefox_profile
+    # seleniumwire_options = {"disable_encoding": True}
     options = Options()
-    # options.add_argument("--headless=new")
-    options.add_argument("--headless")
-    # options.add_argument("--enable-javascript")
-    firefox_profile = FirefoxProfile()
-    firefox_profile.set_preference("javascript.enabled", True)
-    options.profile = firefox_profile
+    options.headless = True
+    options.set_preference("javascript.enabled", True)
     seleniumwire_options = {"disable_encoding": True}
 
     # エラーログファイルのパス
