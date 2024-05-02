@@ -21,15 +21,47 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install geckodriver-autoinstaller
+          # pip install geckodriver-autoinstaller
+          # pip install beautifulsoup4==4.12.0
+          # pip install requests
+          # pip install lxml
+          # pip install Pillow
+          # pip install selenium
+          # pip install selenium-wire
+          # # pip install selenium==4.12.0
+          # pip install blinker
           pip install beautifulsoup4==4.12.0
-          pip install requests
-          pip install lxml
-          pip install Pillow
-          pip install selenium
-          pip install selenium-wire
-          # pip install selenium==4.12.0
-          pip install blinker
+          pip install soupsieve==2.5
+          pip install requests==2.31.0
+          pip install charset-normalizer==3.3.2
+          pip install idna==3.6
+          pip install urllib3==2.2.1
+          pip install certifi==2024.2.2
+          pip install lxml==5.1.0
+          pip install Pillow==10.2.0
+          pip install selenium==4.12.0
+          pip install attrs==23.2.0
+          pip install sortedcontainers==2.4.0
+          pip install outcome==1.3.0.post0
+          pip install sniffio==1.3.1
+          pip install exceptiongroup==1.2.0
+          pip install wsproto==1.2.0
+          pip install PySocks==1.7.1
+          pip install h11==0.14.0
+          pip install chromedriver-binary==117.0.5938.62.0
+          pip install blinker==1.7.0
+          pip install brotli==1.1.0
+          pip install kaitaistruct==0.10
+          pip install pyasn1==0.5.1
+          pip install pyOpenSSL==24.0.0
+          pip install pyparsing==3.1.2
+          pip install zstandard==0.22.0
+          pip install h2==4.1.0
+          pip install hyperframe==6.0.1
+          pip install hpack==4.0.0
+          pip install cryptography==42.0.5
+          pip install pycparser==2.21
+
         
         # 必要なパッケージインストール
 
