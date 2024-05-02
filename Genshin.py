@@ -60,7 +60,9 @@ def main():
     # geckodriver_autoinstaller.install() 
     
     options = Options()
-    options.add_argument("--headless")
+    options.add_argument("--headless=new")
+    # options.add_argument("--headless")
+    options.add_argument("--enable-javascript")
     seleniumwire_options = {"disable_encoding": True}
 
     # エラーログファイルのパス
