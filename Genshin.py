@@ -77,7 +77,7 @@ def main():
 
     write_error_log("----------start Genshin.py----------")
     # 動作ok
-
+    
     get_charlist = False
     for _ in range(5):
         try:
@@ -89,6 +89,8 @@ def main():
             WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.TAG_NAME, 'body')))  # Wait until body is loaded
             # まず、releasedキャラリストを取得する
             charactor_source1 = driver.page_source
+            soup1 = BeautifulSoup(charactor_source1, 'html.parser')
+            body1 = soup1.body
             xpath = "/html/body/div[2]/div/div[2]/div[2]/div/div[3]/div[2]/div/select"
             try:
                 element = WebDriverWait(driver, 10).until(
@@ -100,13 +102,15 @@ def main():
                 driver.refresh()
                 WebDriverWait(driver, 30).until(EC.presence_of_element_located((By.TAG_NAME, 'body')))  # Wait until body is loaded after refresh
                 charactor_source2 = driver.page_source
+                soup2 = BeautifulSoup(charactor_source2, 'html.parser')
+                body2 = soup2.body
             except Exception as e:
                 print(f"Error: {e}")
                 write_error_log(e)
-                charactor_source2 = charactor_source1
+                body2 = body1
                 print("キャラクターソース2を1と同じにしました。")
             print("キャラリストを取得できました。")
-            print(charactor_source1)
+            print(body1)
             get_charlist = True
             driver.quit()
             break
