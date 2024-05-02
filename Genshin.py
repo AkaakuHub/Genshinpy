@@ -86,7 +86,7 @@ def main():
             )
             url = "https://ambr.top/jp/archive/avatar"
             driver.get(url)
-            time.sleep(2)
+            time.sleep(10)
             # まず、releasedキャラリストを取得する
             charactor_source1 = driver.page_source
             # 20240208追記
@@ -102,9 +102,9 @@ def main():
                 )
                 select = Select(element)
                 select.select_by_value("on")
-                time.sleep(1)
+                time.sleep(2)
                 driver.refresh()
-                time.sleep(3)
+                time.sleep(10)
                 charactor_source2 = driver.page_source
             except Exception as e:
                 print(f"Error: {e}")
