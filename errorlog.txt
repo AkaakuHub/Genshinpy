@@ -2070,3 +2070,5 @@ dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
 [2024-05-02 10:57:09] Message: Process unexpectedly closed with status 1
 
 [2024-05-02 10:57:09] !!could not get charactor list. Finish Genshin.py!!
+[2024-05-02 10:59:03] ----------start Genshin.py----------
+[2024-05-02 10:59:53] ----------finished Genshin.py----------
