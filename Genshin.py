@@ -59,17 +59,9 @@ def main():
 
     # geckodriver_autoinstaller.install() 
     
-    # options = Options()
-    # # options.add_argument("--headless=new")
-    # options.add_argument("--headless")
-    # # options.add_argument("--enable-javascript")
-    # firefox_profile = FirefoxProfile()
-    # firefox_profile.set_preference("javascript.enabled", True)
-    # options.profile = firefox_profile
-    # seleniumwire_options = {"disable_encoding": True}
     options = Options()
-    options.headless = True
-    options.set_preference("javascript.enabled", True)
+    options.add_argument('-headless')  # ヘッドレスモードを設定
+    options.set_preference("javascript.enabled", True)  # JavaScriptを有効化
     seleniumwire_options = {"disable_encoding": True}
 
     # エラーログファイルのパス
@@ -95,7 +87,7 @@ def main():
             )
             url = "https://ambr.top/jp/archive/avatar"
             driver.get(url)
-            WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.TAG_NAME, 'body')))  # Wait until body is loaded
+            WebDriverWait(driver, 30).until(EC.presence_of_element_located((By.TAG_NAME, 'body')))  # Wait until body is loaded
             # まず、releasedキャラリストを取得する
             charactor_source1 = driver.page_source
             soup1 = BeautifulSoup(charactor_source1, 'html.parser')
