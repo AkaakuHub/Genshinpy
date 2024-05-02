@@ -26,9 +26,9 @@ jobs:
           pip install requests
           pip install lxml
           pip install Pillow
-          # pip install selenium
+          pip install selenium
           pip install selenium-wire
-          pip install selenium==4.12.0
+          # pip install selenium==4.12.0
           pip install blinker
         
         # 必要なパッケージインストール
