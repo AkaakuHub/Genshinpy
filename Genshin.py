@@ -55,9 +55,9 @@ def main():
     from selenium.webdriver.support import expected_conditions as EC
     from selenium.webdriver.firefox.firefox_profile import FirefoxProfile
     
-    import geckodriver_autoinstaller
+    # import geckodriver_autoinstaller
 
-    geckodriver_autoinstaller.install() 
+    # geckodriver_autoinstaller.install() 
     
     options = Options()
     options.add_argument("--headless")
