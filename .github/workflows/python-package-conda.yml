@@ -2,9 +2,9 @@
 name: Genshinpy
 on:
   push:
-  schedule:
+  # schedule:
     # 定期実行する時間 毎週水曜日の26:00(UTC+9)
-    - cron: '0 17 * * 3'
+    # - cron: '0 17 * * 3'
 
 jobs:
   build:
