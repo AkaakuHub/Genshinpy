@@ -1,0 +1,95 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# Temporary folders
+tmp/
+temp/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Puppeteer cache
+.cache/
+
+# Python files (legacy)
+*.py
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.Python
+env/
+pip-log.txt
+pip-delete-this-directory.txt
+.tox/
+.coverage
+.pytest_cache/
+htmlcov/
+
+# Keep data and api directories but ignore their contents initially
+data/*
+!data/.gitkeep
+api/*
+!api/.gitkeep
+
+# Keep output directory structure
+output/
+html/
+mat/
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+*.ttf
+*.otf
+*.woff
+*.woff2
+
+# Legacy files
+Genshin*.py
+demo.py
+requirements.txt
+pyproject.toml
+Dockerfile
+errorlog.txt
+geckodriver.log
+*.csv
+*.html
+itemname.json

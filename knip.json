@@ -1,0 +1,8 @@
+{
+  "entry": ["src/index.ts"],
+  "project": ["src/**/*.ts"],
+  "ignore": ["dist/**", "tests/**", "**/*.test.ts", "**/*.d.ts"],
+  "ignoreDependencies": ["@eslint/js", "@vitest/coverage-v8"],
+  "ignoreExportsUsedInFile": true,
+  "includeEntryExports": true
+}

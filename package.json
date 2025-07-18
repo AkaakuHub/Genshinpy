@@ -1,0 +1,54 @@
+{
+  "name": "genshin-api",
+  "version": "1.0.0",
+  "description": "Static API for Genshin Impact character data",
+  "main": "dist/index.js",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "tsx src/index.ts",
+    "scrape": "tsx src/scrapers/index.ts",
+    "lint": "eslint src/**/*.ts",
+    "lint:fix": "eslint src/**/*.ts --fix",
+    "format": "prettier --write src/**/*.ts",
+    "format:check": "prettier --check src/**/*.ts",
+    "type-check": "tsc --noEmit",
+    "knip": "knip",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "test:coverage": "vitest run --coverage",
+    "check-all": "pnpm lint && pnpm format:check && pnpm type-check && pnpm knip && pnpm test",
+    "prepare": "lefthook install"
+  },
+  "keywords": [
+    "genshin",
+    "api",
+    "typescript",
+    "puppeteer"
+  ],
+  "author": "akaaku",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "^29.5.14",
+    "@types/node": "^22.10.5",
+    "@typescript-eslint/eslint-plugin": "^8.18.4",
+    "@typescript-eslint/parser": "^8.18.4",
+    "eslint": "^9.18.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-prettier": "^5.2.1",
+    "knip": "^5.42.2",
+    "lefthook": "^1.10.0",
+    "prettier": "^3.4.2",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2",
+    "vitest": "^2.1.9"
+  },
+  "dependencies": {
+    "puppeteer": "^23.10.4"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "packageManager": "pnpm@9.15.1"
+}
