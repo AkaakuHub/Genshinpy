@@ -87,12 +87,37 @@ interface Character {
 }
 ```
 
-## Deployment
+## Automated Data Updates
+
+The project includes automated GitHub Actions workflows for data updates:
+
+### Weekly Scraping
+
+- **Schedule**: Every Sunday at 3:00 AM JST
+- **Workflow**: `.github/workflows/weekly-scrape.yml`
+- **Features**:
+  - Automatic character data scraping
+  - Intelligent change detection
+  - Automatic commits and pushes
+  - Comprehensive error handling and retries
+  - Detailed execution summaries
+
+### Manual Scraping
+
+- **Trigger**: Manual dispatch from GitHub Actions
+- **Workflow**: `.github/workflows/manual-scrape.yml`
+- **Options**:
+  - Character limit (0 = unlimited)
+  - Force update (scrape even existing characters)
+  - Detailed progress reports
+  - Artifact uploads for debugging
+
+### Deployment Pipeline
 
 The project automatically deploys to GitHub Pages via GitHub Actions:
 
 1. **Quality Check**: Runs linting, formatting, type checking, and unused code detection
-2. **Scraping**: Fetches latest character data
+2. **Scraping**: Fetches latest character data (weekly or manual)
 3. **Build**: Compiles TypeScript and generates static files
 4. **Deploy**: Deploys to GitHub Pages
 
