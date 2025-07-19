@@ -72,8 +72,8 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v4
 
-    - name: Notify completion
-      run: |
-        echo "🎉 Deployment completed!"
-        echo "📊 All character data scraped and deployed"
-        echo "🌐 Site URL: ${{ steps.deployment.outputs.page_url }}"
+      - name: Notify completion
+        run: |
+          echo "🎉 Deployment completed!"
+          echo "📊 All character data scraped and deployed"
+          echo "🌐 Site URL: ${{ steps.deployment.outputs.page_url }}"
