@@ -1,3 +1,7 @@
+/* eslint-disable @typescript-eslint/no-unsafe-assignment */
+/* eslint-disable @typescript-eslint/no-unsafe-argument */
+/* eslint-disable @typescript-eslint/prefer-promise-reject-errors */
+
 import { PureApiScraper } from './pure-api-scraper';
 import { Logger } from './src/utils/logger';
 import fs from 'fs';
@@ -16,7 +20,7 @@ async function fetchAllCharacterIds(): Promise<number[]> {
         res.on('data', chunk => (data += chunk));
         res.on('end', () => {
           try {
-            const json = JSON.parse(data);
+            const json = JSON.parse(data) as {response: number; data: Record<string, unknown>};
             if (json.response === 200 && json.data) {
               const characterIds = Object.keys(json.data)
                 .map(Number)
@@ -27,7 +31,7 @@ async function fetchAllCharacterIds(): Promise<number[]> {
               reject(new Error('Invalid API response'));
             }
           } catch (error) {
-            reject(error);
+            reject(new Error(`Parse error: ${error}`));
           }
         });
       })

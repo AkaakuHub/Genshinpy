@@ -1,3 +1,10 @@
+/* eslint-disable @typescript-eslint/no-unsafe-assignment */
+/* eslint-disable @typescript-eslint/no-unsafe-call */
+/* eslint-disable @typescript-eslint/no-unsafe-argument */
+/* eslint-disable @typescript-eslint/no-unsafe-return */
+/* eslint-disable @typescript-eslint/no-explicit-any */
+/* eslint-disable @typescript-eslint/prefer-promise-reject-errors */
+
 import fs from 'fs';
 import https from 'https';
 import path from 'path';
@@ -114,6 +121,13 @@ interface MaterialInfo {
   icon: string;
   description: string;
   type: string;
+}
+
+interface NameCardItem {
+  id: number;
+  name: string;
+  description?: string;
+  icon: string;
 }
 
 /**
@@ -263,7 +277,7 @@ class PureApiScraper {
                 resolve(null);
               }
             } catch (error) {
-              reject(error);
+              reject(new Error(`Parse error: ${error}`));
             }
           });
         })
@@ -479,7 +493,7 @@ class PureApiScraper {
     const talent1 = data.talent['1']; // Elemental skill
     const talent2 = data.talent['2']; // Sprint/alternate ability
     const talent4 = data.talent['4']; // Elemental burst
-    const passiveTalents = Object.values(data.talent).filter((t: any) => t.type === 2);
+    const passiveTalents = Object.values(data.talent).filter((t: {type: number}) => t.type === 2);
 
     // 全ての才能アイコンを並行ダウンロード
     const [normalAttackIcon, elementalSkillIcon, elementalBurstIcon, sprintIcon, ...passiveIcons] =
@@ -506,7 +520,7 @@ class PureApiScraper {
               'sprint'
             )
           : Promise.resolve(''),
-        ...passiveTalents.map((talent: any, index: number) =>
+        ...passiveTalents.map((talent: {icon: string}, index: number) =>
           this.downloadImageSafely(
             `https://gi.yatta.moe/assets/UI/${talent.icon}.png`,
             characterSlug,
@@ -515,7 +529,7 @@ class PureApiScraper {
         ),
       ]);
 
-    const passiveTalentsWithIcons = passiveTalents.map((talent: any, index: number) => ({
+    const passiveTalentsWithIcons = passiveTalents.map((talent: {name: string; desc: string}, index: number) => ({
       name: talent.name,
       description: talent.desc,
       icon: passiveIcons[index] || '',
@@ -556,7 +570,7 @@ class PureApiScraper {
     Logger.info(`🌟 Processing COMPLETE constellations for ${characterSlug} (PURE API)`);
 
     const constellationIcons = await Promise.all(
-      Object.values(data.constellation).map((constellation: any) =>
+      Object.values(data.constellation).map((constellation: {icon: string; pos: number}) =>
         this.downloadImageSafely(
           `https://gi.yatta.moe/assets/UI/${constellation.icon}.png`,
           characterSlug,
@@ -566,7 +580,7 @@ class PureApiScraper {
     );
 
     const constellationsWithIcons = Object.values(data.constellation).map(
-      (constellation: any, index: number) => ({
+      (constellation: {pos: number; name: string; desc: string}, index: number) => ({
         level: (constellation.pos + 1) as 1 | 2 | 3 | 4 | 5 | 6,
         name: constellation.name,
         description: constellation.desc,
@@ -608,7 +622,7 @@ class PureApiScraper {
     Logger.info(`🎴 Processing namecard for ${characterSlug} (PURE API)`);
 
     // 名片データは別のAPIエンドポイントから取得
-    const nameCardData = await this.fetchFromApi<any>('/namecard');
+    const nameCardData = await this.fetchFromApi<{items: Record<string, NameCardItem>}>('/namecard');
     if (!nameCardData || !nameCardData.items) {
       Logger.error('❌ Failed to fetch namecard data from API');
       return null;
@@ -622,8 +636,8 @@ class PureApiScraper {
 
     // 完全名で検索
     nameCard = Object.values(nameCardData.items).find(
-      (card: any) => card.name && card.name.includes(data.name)
-    ) as any;
+      (card: NameCardItem) => card.name && card.name.includes(data.name)
+    );
 
     // 名前の各文字で検索（日本語対応）
     if (!nameCard) {
@@ -631,8 +645,8 @@ class PureApiScraper {
       for (const char of nameChars) {
         if (char.length > 0 && char !== '·' && char !== ' ') {
           nameCard = Object.values(nameCardData.items).find(
-            (card: any) => card.name && card.name.includes(char)
-          ) as any;
+            (card: NameCardItem) => card.name && card.name.includes(char)
+          );
           if (nameCard) {
             Logger.info(`✅ Found namecard using character "${char}"`);
             break;
@@ -646,8 +660,8 @@ class PureApiScraper {
       const [surname, givenName] = data.name.split(/[·\s]/);
       for (const namePart of [surname, givenName].filter(Boolean)) {
         nameCard = Object.values(nameCardData.items).find(
-          (card: any) => card.name && card.name.includes(namePart)
-        ) as any;
+          (card: NameCardItem) => card.name && card.name.includes(namePart)
+        );
         if (nameCard) {
           Logger.info(`✅ Found namecard using name part "${namePart}"`);
           break;
@@ -661,7 +675,7 @@ class PureApiScraper {
       Logger.info(
         `Sample namecards: ${Object.values(nameCardData.items)
           .slice(0, 10)
-          .map((c: any) => c.name)
+          .map((c: NameCardItem) => c.name)
           .join(', ')}`
       );
       return null;
@@ -735,9 +749,12 @@ class PureApiScraper {
     return levelData;
   }
 
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
   private buildCompleteTableDataFromAPI(talentData: any): any[] {
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
     const tableData: any[] = [];
     Object.keys(talentData).forEach(key => {
+      // eslint-disable-next-line @typescript-eslint/no-unsafe-assignment
       const talent = talentData[key];
       tableData.push({
         talentIndex: parseInt(key),

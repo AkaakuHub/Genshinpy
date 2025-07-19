@@ -35,7 +35,7 @@ jobs:
         cache: 'npm'
 
     - name: Install dependencies
-      run: npm ci --production
+      run: npm ci
 
     - name: Create assets directory
       run: mkdir -p genshin-viewer/public/assets/images
