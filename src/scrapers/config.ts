@@ -19,6 +19,7 @@ export const SCRAPER_CONFIG = {
   },
   browser: {
     headless: true,
+    defaultViewport: { width: 1280, height: 720 },
     args: [
       '--no-sandbox',
       '--disable-setuid-sandbox',
@@ -26,7 +27,6 @@ export const SCRAPER_CONFIG = {
       '--disable-accelerated-2d-canvas',
       '--no-first-run',
       '--no-zygote',
-      '--single-process',
       '--disable-gpu',
       '--disable-background-timer-throttling',
       '--disable-backgrounding-occluded-windows',
@@ -42,10 +42,10 @@ export const SCRAPER_CONFIG = {
     ] as string[],
   },
   delays: {
-    pageLoad: 5000, // Increased for SPA loading
-    betweenRequests: 2000, // Increased to be respectful
-    afterSelect: 3000, // Increased for dynamic content
-    jsWait: 2000, // Additional wait for JavaScript
+    pageLoad: 8000, // Increased for SPA loading
+    betweenRequests: 3000, // Increased to be respectful
+    afterSelect: 5000, // Increased for dynamic content
+    jsWait: 3000, // Additional wait for JavaScript
   },
   retries: {
     maxRetries: 3,

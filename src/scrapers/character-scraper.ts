@@ -36,7 +36,10 @@ export class CharacterScraper {
     }
 
     Logger.info('Navigating to character list...');
-    await this.page.goto(SCRAPER_CONFIG.baseUrl, { waitUntil: 'networkidle2' });
+    await this.page.goto(SCRAPER_CONFIG.baseUrl, {
+      waitUntil: 'networkidle2',
+      timeout: 60000,
+    });
 
     // Wait for SPA to load
     await new Promise(resolve => setTimeout(resolve, SCRAPER_CONFIG.delays.pageLoad));
@@ -109,34 +112,129 @@ export class CharacterScraper {
       Logger.info(`Navigating to: ${characterUrl}`);
 
       // Navigate to character page
-      await this.page.goto(characterUrl, { waitUntil: 'networkidle2' });
+      await this.page.goto(characterUrl, {
+        waitUntil: 'networkidle2',
+        timeout: 60000,
+      });
       await new Promise(resolve => setTimeout(resolve, SCRAPER_CONFIG.delays.pageLoad));
 
-      // Extract character data using string evaluation to avoid TypeScript conflicts
+      // Extract character data using improved selectors based on actual site structure
       const characterData = (await this.page.evaluate(`(() => {
         function getText(sel) {
           const el = document.querySelector(sel);
           return el ? el.textContent?.trim() || '' : '';
         }
 
-        const title = getText('h1') || getText('.title') || getText('[class*="title"]') || '';
-        const subtitle = getText('h2') || getText('.subtitle') || getText('[class*="subtitle"]') || '';
+        const title = getText('h1') || '';
+        const subtitle = getText('h2') || '';
         
-        const starElements = document.querySelectorAll('[class*="star"]');
-        const rarityNum = starElements.length || 4;
+        // Find the main content area that contains all character data
+        let mainContent = document.querySelector('[class*="col-span-full"][class*="xl:col-start-6"]');
+        if (!mainContent) {
+          mainContent = document.querySelector('[class*="col-span-full"]');
+        }
+        
+        let element = 'Unknown';
+        let weaponType = 'Unknown';
+        let rarity = 4;
+        let region = 'Unknown';
+        let constellation = 'Unknown';
+        let baseHp = 0;
+        let baseAtk = 0;
+        let baseDef = 0;
+        
+        if (mainContent) {
+          const fullText = mainContent.textContent || '';
+          
+          // Parse element and weapon from images
+          const elementImg = document.querySelector('img[alt="Avatar Element"]');
+          if (elementImg) {
+            const src = elementImg.getAttribute('src') || '';
+            if (src.includes('Element_Fire') || src.includes('Pyro')) element = 'Pyro';
+            else if (src.includes('Element_Water') || src.includes('Hydro')) element = 'Hydro';
+            else if (src.includes('Element_Wind') || src.includes('Anemo')) element = 'Anemo';
+            else if (src.includes('Element_Electric') || src.includes('Electro')) element = 'Electro';
+            else if (src.includes('Element_Grass') || src.includes('Dendro')) element = 'Dendro';
+            else if (src.includes('Element_Ice') || src.includes('Cryo')) element = 'Cryo';
+            else if (src.includes('Element_Rock') || src.includes('Geo')) element = 'Geo';
+          }
+          
+          // Parse weapon type from images
+          const weaponImg = document.querySelector('img[alt*="Weapon Type"]');
+          if (weaponImg) {
+            const src = weaponImg.getAttribute('src') || '';
+            const alt = weaponImg.getAttribute('alt') || '';
+            
+            if (src.includes('Sword') || alt.includes('SWORD')) weaponType = 'Sword';
+            else if (src.includes('Claymore') || alt.includes('CLAYMORE')) weaponType = 'Claymore';
+            else if (src.includes('Polearm') || alt.includes('POLEARM') || src.includes('Pole')) weaponType = 'Polearm';
+            else if (src.includes('Bow') || alt.includes('BOW')) weaponType = 'Bow';
+            else if (src.includes('Catalyst') || alt.includes('CATALYST')) weaponType = 'Catalyst';
+          }
+          
+          // Parse rarity from character rarity indicators (looking for 5-star pattern)
+          // Count star-like SVG elements or look for rarity in character data
+          const starSvgs = document.querySelectorAll('svg path[d*="12"]'); // Star path pattern
+          if (starSvgs.length >= 5) {
+            rarity = 5;
+          } else if (starSvgs.length >= 4) {
+            rarity = 4;
+          }
+          
+          // Alternative: look for rarity in text or specific patterns
+          if (fullText.includes('5') && fullText.includes('星')) rarity = 5;
+          else if (fullText.includes('4') && fullText.includes('星')) rarity = 4;
+          
+          // Parse region/nation
+          const regionPatterns = [
+            /所属[\\s\\S]*?(モンド|璃月|稲妻|スメール|フォンテーヌ|ナタ|スネージナヤ|宇宙の劫災|ナタン|その他)/,
+            /(Mondstadt|Liyue|Inazuma|Sumeru|Fontaine|Natlan|Snezhnaya|Abyss)/i
+          ];
+          
+          for (const pattern of regionPatterns) {
+            const match = fullText.match(pattern);
+            if (match) {
+              const regionText = match[1];
+              const regionMap = {
+                'モンド': 'Mondstadt', '璃月': 'Liyue', '稲妻': 'Inazuma',
+                'スメール': 'Sumeru', 'フォンテーヌ': 'Fontaine', 'ナタ': 'Natlan',
+                'ナタン': 'Natlan', 'スネージナヤ': 'Snezhnaya', '宇宙の劫災': 'Abyss',
+                'その他': 'Other'
+              };
+              region = regionMap[regionText] || regionText;
+              break;
+            }
+          }
+          
+          // Parse constellation
+          const constellationMatch = fullText.match(/命ノ星座[\\s\\S]*?([^\\s]+座)/);
+          if (constellationMatch) {
+            constellation = constellationMatch[1];
+          }
+          
+          // Parse base stats
+          const hpMatch = fullText.match(/基礎HP[\\s\\S]*?(\\d+)/);
+          if (hpMatch) baseHp = parseInt(hpMatch[1]);
+          
+          const atkMatch = fullText.match(/基礎攻撃力[\\s\\S]*?(\\d+)/);
+          if (atkMatch) baseAtk = parseInt(atkMatch[1]);
+          
+          const defMatch = fullText.match(/基礎防御力[\\s\\S]*?(\\d+)/);
+          if (defMatch) baseDef = parseInt(defMatch[1]);
+        }
         
         return {
           name: title,
           nameJa: subtitle,
-          element: getText('[class*="element"]') || 'Unknown',
-          weaponType: getText('[class*="weapon"]') || 'Unknown',
-          rarity: rarityNum,
-          region: getText('[class*="region"]') || 'Unknown',
-          constellation: getText('[class*="constellation"]') || 'Unknown',
-          description: getText('[class*="description"]') || getText('p') || '',
-          baseHp: 0,
-          baseAtk: 0,
-          baseDef: 0,
+          element: element,
+          weaponType: weaponType,
+          rarity: rarity,
+          region: region,
+          constellation: constellation,
+          description: '',
+          baseHp: baseHp,
+          baseAtk: baseAtk,
+          baseDef: baseDef,
           bonusStatName: 'Unknown',
           bonusStatValue: '0%',
         };

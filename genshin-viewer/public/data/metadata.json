@@ -1,0 +1,24 @@
+{
+  "lastUpdated": "2025-07-19T13:29:40.400Z",
+  "totalCharacters": 1,
+  "scrapingMethod": "Pure API (No Puppeteer)",
+  "dataCompleteness": "100% Python-level",
+  "source": "gi.yatta.moe API v2",
+  "version": "1.0.0",
+  "performance": {
+    "averageTimePerCharacter": "1.9 seconds",
+    "memoryUsage": "Low (No Puppeteer)",
+    "successRate": "100%"
+  },
+  "features": [
+    "Complete character profiles",
+    "All talent data (1-15 levels)",
+    "All constellation data (1-6 levels)",
+    "Real ascension materials with names and icons",
+    "Costume/skin information",
+    "Namecard data",
+    "Special food data",
+    "Voice actor information",
+    "Birthday and metadata"
+  ]
+}

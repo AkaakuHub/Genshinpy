@@ -8,6 +8,7 @@ export interface Character {
   readonly region: Region;
   readonly birthday?: string;
   readonly constellation: string;
+  readonly icon?: string;
   readonly cv?: {
     readonly japanese?: string;
     readonly english?: string;
@@ -39,6 +40,7 @@ export interface CharacterTalents {
   readonly elementalSkill: Talent;
   readonly elementalBurst: Talent;
   readonly passiveTalents: readonly PassiveTalent[];
+  readonly completeTableData?: readonly CompleteTableData[];
 }
 
 export interface Talent {
@@ -46,6 +48,7 @@ export interface Talent {
   readonly description: string;
   readonly icon?: string;
   readonly levels?: readonly TalentLevel[];
+  readonly levelData?: readonly TalentTableRow[];
 }
 
 export interface TalentLevel {
@@ -120,4 +123,23 @@ export interface ApiResponse<T> {
   readonly success: boolean;
   readonly timestamp: string;
   readonly error?: string;
+}
+
+// New comprehensive table data interfaces for Python-level completeness
+export interface TalentTableRow {
+  readonly tableIndex: number;
+  readonly skillType: string;
+  readonly rowIndex: number;
+  readonly level?: number;
+  readonly [key: string]: string | number | undefined;
+}
+
+export interface CompleteTableData {
+  readonly type: string;
+  readonly index?: number;
+  readonly skillType?: string;
+  readonly data?: readonly any[];
+  readonly rawCells?: readonly string[];
+  readonly headers?: readonly string[];
+  readonly [key: string]: any;
 }

@@ -48,7 +48,6 @@ temp/
 .cache/
 
 # Python files (legacy)
-*.py
 *.pyc
 __pycache__/
 *.pyo
