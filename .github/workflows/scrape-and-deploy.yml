@@ -3,9 +3,9 @@ name: Scrape Genshin Data and Deploy to GitHub Pages
 on:
   # 手動実行
   workflow_dispatch:
-  # 毎日午前3時（JST 12時）に実行
+  # 毎週日曜日午前3時（JST 12時）に実行
   schedule:
-    - cron: '0 3 * * *'
+    - cron: '0 3 * * 0'
   # mainブランチにプッシュされた時
   push:
     branches: [ main, feature/destroy-legacy ]
