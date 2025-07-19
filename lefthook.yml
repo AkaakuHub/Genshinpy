@@ -11,10 +11,7 @@ pre-commit:
       run: pnpm type-check
     knip:
       run: pnpm knip
-
-pre-push:
-  commands:
-    check-all:
+    all:
       run: pnpm check-all
 
 commit-msg:

@@ -214,7 +214,9 @@ class PureApiScraper {
         ascensionMaterials,
         // 追加メタデータ
         voiceActors: avatarData.fetter.cv,
-        birthday: avatarData.birthday ? `${avatarData.birthday[0]}/${avatarData.birthday[1]}` : undefined,
+        birthday: avatarData.birthday
+          ? `${avatarData.birthday[0]}/${avatarData.birthday[1]}`
+          : undefined,
         nativeTitle: avatarData.fetter.native,
         furnitureId: avatarData.other.furnitureId,
       };
