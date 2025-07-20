@@ -8,7 +8,7 @@
   "region": "Fontaine",
   "constellation": "原海リヴァイアサン座",
   "description": "フォンテーヌの最高審判官。一分の隙もない「公正無私」な振る舞いで名高い。",
-  "icon": "/assets/images/Neuvillette_icon_1753016150570.png",
+  "icon": "/assets/images/Neuvillette_icon_1753018683709.png",
   "profile": {
     "baseHp": 1143.984,
     "baseAtk": 16.218,
@@ -23,7 +23,7 @@
       "id": "清きこと水の如し",
       "name": "清きこと水の如し",
       "description": "",
-      "icon": "/assets/images/Lisa_normal_attack_1753016041229.png",
+      "icon": "/assets/images/Lisa_normal_attack_1753018585917.png",
       "skillType": "normal",
       "params": {
         "1": [],
@@ -47,7 +47,7 @@
       "id": "涙よ、私は必ずや償おう",
       "name": "涙よ、私は必ずや償おう",
       "description": "",
-      "icon": "/assets/images/Neuvillette_elemental_skill_1753016150570.png",
+      "icon": "/assets/images/Neuvillette_elemental_skill_1753018683709.png",
       "levelData": [
         {
           "tableIndex": 1,
@@ -147,7 +147,7 @@
             0
           ],
           "description": [
-            "スキルダメージ|HP上限{param1:F2P}",
+            "スキルダメージ|HP上��{param1:F2P}",
             "霊息の棘のダメージ|{param2:F1P}",
             "霊息の棘の間隔|{param5:F1}秒",
             "源水の雫の継続時間|{param3:F1}秒",
@@ -1134,23 +1134,23 @@
       ]
     },
     "elementalBurst": {
-      "name": "古海��嗣の権威",
+      "name": "古海継嗣の権威",
       "description": "",
-      "icon": "/assets/images/Neuvillette_elemental_burst_1753016150570.png",
+      "icon": "/assets/images/Neuvillette_elemental_burst_1753018683709.png",
       "levelData": []
     },
     "passiveTalents": [
       {
-        "name": "古海��嗣の権威",
-        "icon": "/assets/images/Neuvillette_passive_1_1753016150570.png"
+        "name": "古海継嗣の権威",
+        "icon": "/assets/images/Neuvillette_passive_1_1753018683710.png"
       },
       {
         "name": "至高なる審理の紀律",
-        "icon": "/assets/images/Neuvillette_passive_2_1753016150570.png"
+        "icon": "/assets/images/Neuvillette_passive_2_1753018683710.png"
       },
       {
         "name": "潮波のように集いて",
-        "icon": "/assets/images/Neuvillette_passive_3_1753016150570.png"
+        "icon": "/assets/images/Neuvillette_passive_3_1753018683710.png"
       }
     ],
     "completeTableData": [
@@ -1328,7 +1328,7 @@
               "重撃ダメージ|{param4:F1P}",
               "重撃スタミナ消費|{param6:F1}",
               "重撃·衡平な裁量の継続ダメージ|HP上限{param5:F2P}",
-              "HP回復|HP上限{param7:F1P}/1���",
+              "HP回復|HP上限{param7:F1P}/1個",
               "HP消費|HP上限{param8:F1P}/{param9:F1}秒",
               "落下期間のダメージ|{param11:F1P}",
               "低空/高空落下攻撃ダメージ|{param12:P}/{param13:P}",
@@ -2161,7 +2161,7 @@
               "重撃ダメージ|{param4:F1P}",
               "重撃スタミナ消費|{param6:F1}",
               "重撃·衡平な裁量の継続ダメージ|HP上限{param5:F2P}",
-              "HP回復|HP上限{param7:F1P}/1個",
+              "HP回復|HP上限{param7:F1P}/1���",
               "HP消費|HP上限{param8:F1P}/{param9:F1}秒",
               "落下期間のダメージ|{param11:F1P}",
               "低空/高空落下攻撃ダメージ|{param12:P}/{param13:P}",
@@ -2297,7 +2297,7 @@
               0
             ],
             "description": [
-              "スキルダメージ|HP上限{param1:F2P}",
+              "スキルダメージ|HP上��{param1:F2P}",
               "霊息の棘のダメージ|{param2:F1P}",
               "霊息の棘の間隔|{param5:F1}秒",
               "源水の雫の継続時間|{param3:F1}秒",
@@ -4292,7 +4292,7 @@
       {
         "talentIndex": 4,
         "talentId": "4",
-        "name": "古海��嗣の権威",
+        "name": "古海継嗣の権威",
         "type": "2",
         "levelData": []
       },
@@ -4317,32 +4317,32 @@
       {
         "level": null,
         "name": "尊栄の創定",
-        "icon": "/assets/images/Neuvillette_constellation_cNaN_1753016150570.png"
+        "icon": "/assets/images/Neuvillette_constellation_cNaN_1753018683710.png"
       },
       {
         "level": null,
         "name": "律法の懲罰",
-        "icon": "/assets/images/Neuvillette_constellation_cNaN_1753016150570.png"
+        "icon": "/assets/images/Neuvillette_constellation_cNaN_1753018683710.png"
       },
       {
         "level": null,
         "name": "旧時の擬制",
-        "icon": "/assets/images/Neuvillette_constellation_cNaN_1753016150571.png"
+        "icon": "/assets/images/Neuvillette_constellation_cNaN_1753018683710.png"
       },
       {
         "level": null,
         "name": "憐憫の玉冠",
-        "icon": "/assets/images/Neuvillette_constellation_cNaN_1753016150571.png"
+        "icon": "/assets/images/Neuvillette_constellation_cNaN_1753018683710.png"
       },
       {
         "level": null,
         "name": "公義の裁定",
-        "icon": "/assets/images/Neuvillette_constellation_cNaN_1753016150571.png"
+        "icon": "/assets/images/Neuvillette_constellation_cNaN_1753018683710.png"
       },
       {
         "level": null,
         "name": "憤怒の報償",
-        "icon": "/assets/images/Neuvillette_constellation_cNaN_1753016150571.png"
+        "icon": "/assets/images/Neuvillette_constellation_cNaN_1753018683710.png"
       }
     ]
   },
@@ -4359,14 +4359,14 @@
     "id": 210174,
     "name": "ヌヴィレット·浸透",
     "description": "ヌヴィレット·浸透",
-    "icon": "/assets/images/Neuvillette_icon_1753016150570.png"
+    "icon": "/assets/images/Neuvillette_namecard_1753018683836.png"
   },
   "specialFood": {
     "id": 108603,
     "name": "「無欠のピュルテ」",
     "rank": 3,
-    "icon": "/assets/images/Neuvillette_special_food_1753016150571.png",
-    "effectIcon": "/assets/images/Diluc_food_effect_1753016046496.png"
+    "icon": "/assets/images/Neuvillette_special_food_1753018683710.png",
+    "effectIcon": "/assets/images/Diluc_food_effect_1753018590242.png"
   },
   "levelProgression": [
     {
@@ -4682,7 +4682,7 @@
             "name": "ルエトワール",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Neuvillette_material_101237_1753016150682.png",
+            "icon": "/assets/images/Neuvillette_material_101237_1753018683722.png",
             "description": "水中で淡い光を放つ軟体動物。多くは水辺や水中にある人工建造物の表面に付着している。",
             "type": "フォンテーヌ地域の特産"
           },
@@ -4691,7 +4691,7 @@
             "name": "澄明なラピスラズリ·砕屑",
             "count": 1,
             "rank": 2,
-            "icon": "/assets/images/Barbara_material_104121_1753016043335.png",
+            "icon": "/assets/images/Barbara_material_104121_1753018587372.png",
             "description": "キャラクターの突破用アイテム。",
             "type": "キャラクター突破素材"
           },
@@ -4700,7 +4700,7 @@
             "name": "異海の露",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Freminet_material_112080_1753016147546.png",
+            "icon": "/assets/images/Freminet_material_112080_1753018680824.png",
             "description": "原海アベラントを倒した後、その体内から得た小さな結晶。\\nフォンテーヌの「海」に生まれた原海アベラントは、水中の不思議なエネルギーによってその独特な形の生命体が形成されたと推測されている。",
             "type": "キャラと武器育成素材"
           }
@@ -4731,7 +4731,7 @@
             "name": "ルエトワール",
             "count": 10,
             "rank": 1,
-            "icon": "/assets/images/Neuvillette_material_101237_1753016150682.png",
+            "icon": "/assets/images/Neuvillette_material_101237_1753018683722.png",
             "description": "水中で淡い光を放つ軟体動物。多くは水辺や水中にある人工建造物の表面に付着している。",
             "type": "フォンテーヌ地域の特産"
           },
@@ -4740,7 +4740,7 @@
             "name": "澄明なラピスラズリ·欠片",
             "count": 3,
             "rank": 3,
-            "icon": "/assets/images/Barbara_material_104122_1753016043362.png",
+            "icon": "/assets/images/Barbara_material_104122_1753018587368.png",
             "description": "キャラクターの突破用アイテム。\\n「僕の理想には一片の穢れも無い。」",
             "type": "キャラクター突破素材"
           },
@@ -4749,7 +4749,7 @@
             "name": "異海の露",
             "count": 15,
             "rank": 1,
-            "icon": "/assets/images/Freminet_material_112080_1753016147546.png",
+            "icon": "/assets/images/Freminet_material_112080_1753018680824.png",
             "description": "原海アベラントを倒した後、その体内から得た小さな結晶。\\nフォンテーヌの「海」に生まれた原海アベラントは、水中の不思議なエネルギーによってその独特な形の生命体が形成されたと推測されている。",
             "type": "キャラと武器育成素材"
           },
@@ -4758,7 +4758,7 @@
             "name": "原海駿の角",
             "count": 2,
             "rank": 4,
-            "icon": "/assets/images/Neuvillette_material_113053_1753016150780.png",
+            "icon": "/assets/images/Neuvillette_material_113053_1753018683720.png",
             "description": "千年真珠の海駿の放電器官。その偉大なる「超越」を象徴するレガリアでもあるが、挑戦者との戦いで折れてしまった。\\nアワアワタツノコから進化した最上位の捕食者。千年真珠の海駿は他の原海アベラントとはまるで異なる進化の過程を経てきた。種の原型を基礎として、より大きく強靭に進化したというわけではなく、アワアワタツノコにはない肢体や角が生え、骨格や筋肉までもが変化を遂げてきたのだ。その姿は、種の原型よりも、古い伝説の幻獣を彷彿とさせる。詩人や劇作家の想像上では、タツノコでさえ、大地を駆け巡り、躍動する駿馬の姿をしている。",
             "type": "キャラクター育成素材"
           }
@@ -4793,7 +4793,7 @@
             "name": "ルエトワール",
             "count": 20,
             "rank": 1,
-            "icon": "/assets/images/Neuvillette_material_101237_1753016150682.png",
+            "icon": "/assets/images/Neuvillette_material_101237_1753018683722.png",
             "description": "水中で淡い光を放つ軟体動物。多くは水辺や水中にある人工建造物の表面に付着している。",
             "type": "フォンテーヌ地域の特産"
           },
@@ -4802,7 +4802,7 @@
             "name": "澄明なラピスラズリ·欠片",
             "count": 6,
             "rank": 3,
-            "icon": "/assets/images/Barbara_material_104122_1753016043362.png",
+            "icon": "/assets/images/Barbara_material_104122_1753018587368.png",
             "description": "キャラクターの突破用アイテム。\\n「僕の理想には一片の穢れも無い。」",
             "type": "キャラクター突破素材"
           },
@@ -4811,7 +4811,7 @@
             "name": "異海の塊",
             "count": 12,
             "rank": 2,
-            "icon": "/assets/images/Freminet_material_112081_1753016147474.png",
+            "icon": "/assets/images/Freminet_material_112081_1753018680840.png",
             "description": "原海アベラントを倒した後、その体内から得られる結晶体。\\n微かに不思議なエネルギーを放っている。\\n航路や人間の足ではたどり着けない遠海には、偉大なる生命が存在すると言われているが、普通の海は取り立てて言うほどの特徴もなく、その生命力はフォンテーヌの「海」に遥かに及ばない。",
             "type": "キャラと武器育成素材"
           },
@@ -4820,7 +4820,7 @@
             "name": "原海駿の角",
             "count": 4,
             "rank": 4,
-            "icon": "/assets/images/Neuvillette_material_113053_1753016150780.png",
+            "icon": "/assets/images/Neuvillette_material_113053_1753018683720.png",
             "description": "千年真珠の海駿の放電器官。その偉大なる「超越」を象徴するレガリアでもあるが、挑戦者との戦いで折れてしまった。\\nアワアワタツノコから進化した最上位の捕食者。千年真珠の海駿は他の原海アベラントとはまるで異なる進化の過程を経てきた。種の原型を基礎として、より大きく強靭に進化したというわけではなく、アワアワタツノコにはない肢体や角が生え、骨格や筋肉までもが変化を遂げてきたのだ。その姿は、種の原型よりも、古い伝説の幻獣を彷彿とさせる。詩人や劇作家の想像上では、タツノコでさえ、大地を駆け巡り、躍動する駿馬の姿をしている。",
             "type": "キャラクター育成素材"
           }
@@ -4855,7 +4855,7 @@
             "name": "ルエトワール",
             "count": 30,
             "rank": 1,
-            "icon": "/assets/images/Neuvillette_material_101237_1753016150682.png",
+            "icon": "/assets/images/Neuvillette_material_101237_1753018683722.png",
             "description": "水中で淡い光を放つ軟体動物。多くは水辺や水中にある人工建造物の表面に付着している。",
             "type": "フォンテーヌ地域の特産"
           },
@@ -4864,7 +4864,7 @@
             "name": "澄明なラピスラズリ·塊",
             "count": 3,
             "rank": 4,
-            "icon": "/assets/images/Barbara_material_104123_1753016043306.png",
+            "icon": "/assets/images/Barbara_material_104123_1753018587373.png",
             "description": "キャラクターの突破用アイテム。\\n「僕の理想には一片の穢れも無い。」\\n「訂正させてもらおう。ここでは、人が神の裁きを受けることはない…」",
             "type": "キャラクター突破素材"
           },
@@ -4873,7 +4873,7 @@
             "name": "異海の塊",
             "count": 18,
             "rank": 2,
-            "icon": "/assets/images/Freminet_material_112081_1753016147474.png",
+            "icon": "/assets/images/Freminet_material_112081_1753018680840.png",
             "description": "原海アベラントを倒した後、その体内から得られる結晶体。\\n微かに不思議なエネルギーを放っている。\\n航路や人間の足ではたどり着けない遠海には、偉大なる生命が存在すると言われているが、普通の海は取り立てて言うほどの特徴もなく、その生命力はフォンテーヌの「海」に遥かに及ばない。",
             "type": "キャラと武器育成素材"
           },
@@ -4882,7 +4882,7 @@
             "name": "原海駿の角",
             "count": 8,
             "rank": 4,
-            "icon": "/assets/images/Neuvillette_material_113053_1753016150780.png",
+            "icon": "/assets/images/Neuvillette_material_113053_1753018683720.png",
             "description": "千年真珠の海駿の放電器官。その偉大なる「超越」を象徴するレガリアでもあるが、挑戦者との戦いで折れてしまった。\\nアワアワタツノコから進化した最上位の捕食者。千年真珠の海駿は他の原海アベラントとはまるで異なる進化の過程を経てきた。種の原型を基礎として、より大きく強靭に進化したというわけではなく、アワアワタツノコにはない肢体や角が生え、骨格や筋肉までもが変化を遂げてきたのだ。その姿は、種の原型よりも、古い伝説の幻獣を彷彿とさせる。詩人や劇作家の想像上では、タツノコでさえ、大地を駆け巡り、躍動する駿馬の姿をしている。",
             "type": "キャラクター育成素材"
           }
@@ -4917,7 +4917,7 @@
             "name": "ルエトワール",
             "count": 45,
             "rank": 1,
-            "icon": "/assets/images/Neuvillette_material_101237_1753016150682.png",
+            "icon": "/assets/images/Neuvillette_material_101237_1753018683722.png",
             "description": "水中で淡い光を放つ軟体動物。多くは水辺や水中にある人工建造物の表面に付着している。",
             "type": "フォンテーヌ地域の特産"
           },
@@ -4926,7 +4926,7 @@
             "name": "澄明なラピスラズリ·塊",
             "count": 6,
             "rank": 4,
-            "icon": "/assets/images/Barbara_material_104123_1753016043306.png",
+            "icon": "/assets/images/Barbara_material_104123_1753018587373.png",
             "description": "キャラクターの突破用アイテム。\\n「僕の理想には一片の穢れも無い。」\\n「訂正させてもらおう。ここでは、人が神の裁きを受けることはない…」",
             "type": "キャラクター突破素材"
           },
@@ -4935,7 +4935,7 @@
             "name": "色変わりの結晶",
             "count": 12,
             "rank": 3,
-            "icon": "/assets/images/Freminet_material_112082_1753016147455.png",
+            "icon": "/assets/images/Freminet_material_112082_1753018680841.png",
             "description": "原海アベラントを倒した後、その体内から得た大きな結晶。\\n不思議なエネルギーを秘めている。\\n万水の源であるフォンテーヌの水だが、異国へ流れるとその独特の性質が失われてしまう。",
             "type": "キャラと武器育成素材"
           },
@@ -4944,7 +4944,7 @@
             "name": "原海駿の角",
             "count": 12,
             "rank": 4,
-            "icon": "/assets/images/Neuvillette_material_113053_1753016150780.png",
+            "icon": "/assets/images/Neuvillette_material_113053_1753018683720.png",
             "description": "千年真珠の海駿の放電器官。その偉大なる「超越」を象徴するレガリアでもあるが、挑戦者との戦いで折れてしまった。\\nアワアワタツノコから進化した最上位の捕食者。千年真珠の海駿は他の原海アベラントとはまるで異なる進化の過程を経てきた。種の原型を基礎として、より大きく強靭に進化したというわけではなく、アワアワタツノコにはない肢体や角が生え、骨格や筋肉までもが変化を遂げてきたのだ。その姿は、種の原型よりも、古い伝説の幻獣を彷彿とさせる。詩人や劇作家の想像上では、タツノコでさえ、大地を駆け巡り、躍動する駿馬の姿をしている。",
             "type": "キャラクター育成素材"
           }
@@ -4979,7 +4979,7 @@
             "name": "ルエトワール",
             "count": 60,
             "rank": 1,
-            "icon": "/assets/images/Neuvillette_material_101237_1753016150682.png",
+            "icon": "/assets/images/Neuvillette_material_101237_1753018683722.png",
             "description": "水中で淡い光を放つ軟体動物。多くは水辺や水中にある人工建造物の表面に付着している。",
             "type": "フォンテーヌ地域の特産"
           },
@@ -4988,7 +4988,7 @@
             "name": "澄明なラピスラズリ",
             "count": 6,
             "rank": 5,
-            "icon": "/assets/images/Barbara_material_104124_1753016043134.png",
+            "icon": "/assets/images/Barbara_material_104124_1753018587371.png",
             "description": "キャラクターの突破用アイテム。\\n「僕の理想には一片の穢れも無い。」\\n「訂正させてもらおう。ここでは、人が神の裁きを受けることはない。裁きを下せるのは、ただ法と法廷のみ。」\\n「この僕でさえ、断罪され得るのだからね。さあ、僕の崇高と純潔を讃えてくれたまえ。」",
             "type": "キャラクター突破素材"
           },
@@ -4997,7 +4997,7 @@
             "name": "色変わりの結晶",
             "count": 24,
             "rank": 3,
-            "icon": "/assets/images/Freminet_material_112082_1753016147455.png",
+            "icon": "/assets/images/Freminet_material_112082_1753018680841.png",
             "description": "原海アベラントを倒した後、その体内から得た大きな結晶。\\n不思議なエネルギーを秘めている。\\n万水の源であるフォンテーヌの水だが、異国へ流れるとその独特の性質が失われてしまう。",
             "type": "キャラと武器育成素材"
           },
@@ -5006,7 +5006,7 @@
             "name": "原海駿の角",
             "count": 20,
             "rank": 4,
-            "icon": "/assets/images/Neuvillette_material_113053_1753016150780.png",
+            "icon": "/assets/images/Neuvillette_material_113053_1753018683720.png",
             "description": "千年真珠の海駿の放電器官。その偉大なる「超越」を象徴するレガリアでもあるが、挑戦者との戦いで折れてしまった。\\nアワアワタツノコから進化した最上位の捕食者。千年真珠の海駿は他の原海アベラントとはまるで異なる進化の過程を経てきた。種の原型を基礎として、より大きく強靭に進化したというわけではなく、アワアワタツノコにはない肢体や角が生え、骨格や筋肉までもが変化を遂げてきたのだ。その姿は、種の原型よりも、古い伝説の幻獣を彷彿とさせる。詩人や劇作家の想像上では、タツノコでさえ、大地を駆け巡り、躍動する駿馬の姿をしている。",
             "type": "キャラクター育成素材"
           }

@@ -8,7 +8,7 @@
   "region": "Sumeru",
   "constellation": "知恵の主座",
   "description": "スラサタンナ聖処に幽棲する籠の中の鳥。夢の中でしか世界を眺めることができない。",
-  "icon": "/assets/images/Nahida_icon_1753016128944.png",
+  "icon": "/assets/images/Nahida_icon_1753018663567.png",
   "profile": {
     "baseHp": 806.509,
     "baseAtk": 23.275,
@@ -23,7 +23,7 @@
       "id": "行相",
       "name": "行相",
       "description": "",
-      "icon": "/assets/images/Lisa_normal_attack_1753016041229.png",
+      "icon": "/assets/images/Lisa_normal_attack_1753018585917.png",
       "skillType": "normal",
       "params": {
         "1": [],
@@ -47,7 +47,7 @@
       "id": "所聞遍計",
       "name": "所聞遍計",
       "description": "",
-      "icon": "/assets/images/Nahida_elemental_skill_1753016128944.png",
+      "icon": "/assets/images/Nahida_elemental_skill_1753018663567.png",
       "levelData": [
         {
           "tableIndex": 1,
@@ -1136,21 +1136,21 @@
     "elementalBurst": {
       "name": "浄善摂受明論",
       "description": "",
-      "icon": "/assets/images/Nahida_elemental_burst_1753016128944.png",
+      "icon": "/assets/images/Nahida_elemental_burst_1753018663567.png",
       "levelData": []
     },
     "passiveTalents": [
       {
         "name": "浄善摂受明論",
-        "icon": "/assets/images/Nahida_passive_1_1753016128945.png"
+        "icon": "/assets/images/Nahida_passive_1_1753018663567.png"
       },
       {
         "name": "慧明縁覚智論",
-        "icon": "/assets/images/Nahida_passive_2_1753016128945.png"
+        "icon": "/assets/images/Nahida_passive_2_1753018663567.png"
       },
       {
         "name": "諸相随念浄行",
-        "icon": "/assets/images/Nahida_passive_3_1753016128945.png"
+        "icon": "/assets/images/Nahida_passive_3_1753018663567.png"
       }
     ],
     "completeTableData": [
@@ -3483,7 +3483,7 @@
             ],
             "description": [
               "炎：ダメージアップ|キャラクター1名{param1:F1P}",
-              "炎：ダメージアップ|キ��ラクター2名{param2:F1P}",
+              "炎：ダメージアップ|キャラクター2名{param2:F1P}",
               "雷：間隔短縮|キャラクター1名{param3:F2}秒",
               "雷：間隔短縮|キャラクター2名{param4:F2}秒",
               "水：継続時間延長|キャラクター1名{param5:F2}秒",
@@ -4245,7 +4245,7 @@
               0
             ],
             "description": [
-              "炎：ダメージアップ|キャラク��ー1名{param1:F1P}",
+              "炎：ダメージアップ|キャラクター1名{param1:F1P}",
               "炎：ダメージアップ|キャラクター2名{param2:F1P}",
               "雷：間隔短縮|キャラクター1名{param3:F2}秒",
               "雷：間隔短縮|キャラクター2名{param4:F2}秒",
@@ -4317,32 +4317,32 @@
       {
         "level": null,
         "name": "心識蘊蔵の種",
-        "icon": "/assets/images/Nahida_constellation_cNaN_1753016128945.png"
+        "icon": "/assets/images/Nahida_constellation_cNaN_1753018663567.png"
       },
       {
         "level": null,
         "name": "正覚善見の根",
-        "icon": "/assets/images/Nahida_constellation_cNaN_1753016128945.png"
+        "icon": "/assets/images/Nahida_constellation_cNaN_1753018663568.png"
       },
       {
         "level": null,
         "name": "薫習成就の芽",
-        "icon": "/assets/images/Nahida_constellation_cNaN_1753016128945.png"
+        "icon": "/assets/images/Nahida_constellation_cNaN_1753018663568.png"
       },
       {
         "level": null,
         "name": "比量現行の茎",
-        "icon": "/assets/images/Nahida_constellation_cNaN_1753016128945.png"
+        "icon": "/assets/images/Nahida_constellation_cNaN_1753018663568.png"
       },
       {
         "level": null,
         "name": "妙諦破愚の葉",
-        "icon": "/assets/images/Nahida_constellation_cNaN_1753016128945.png"
+        "icon": "/assets/images/Nahida_constellation_cNaN_1753018663568.png"
       },
       {
         "level": null,
         "name": "大辯円成の実",
-        "icon": "/assets/images/Nahida_constellation_cNaN_1753016128945.png"
+        "icon": "/assets/images/Nahida_constellation_cNaN_1753018663568.png"
       }
     ]
   },
@@ -4359,14 +4359,14 @@
     "id": 210140,
     "name": "ナヒーダ·月を仰ぐ",
     "description": "ナヒーダ·月を仰ぐ",
-    "icon": "/assets/images/Nahida_namecard_1753016129071.png"
+    "icon": "/assets/images/Nahida_icon_1753018663567.png"
   },
   "specialFood": {
     "id": 108474,
     "name": "ハルヴァマズダ",
     "rank": 3,
-    "icon": "/assets/images/Nahida_special_food_1753016128945.png",
-    "effectIcon": "/assets/images/Klee_food_effect_1753016061314.png"
+    "icon": "/assets/images/Nahida_special_food_1753018663568.png",
+    "effectIcon": "/assets/images/Klee_food_effect_1753018602836.png"
   },
   "levelProgression": [
     {
@@ -4682,7 +4682,7 @@
             "name": "カルパラタ蓮",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Dori_material_101217_1753016121314.png",
+            "icon": "/assets/images/Dori_material_101217_1753018656275.png",
             "description": "崖の上に咲いているつる植物の花。見た目が似ていることから「蓮」と呼ばれるが、蓮そのものとは関係がない。",
             "type": "スメール地域の特産"
           },
@@ -4691,7 +4691,7 @@
             "name": "成長のエメラルド·砕屑",
             "count": 1,
             "rank": 2,
-            "icon": "/assets/images/Kirara_material_104131_1753016110146.png",
+            "icon": "/assets/images/Kirara_material_104131_1753018646223.png",
             "description": "キャラクターの突破用アイテム。",
             "type": "キャラクター突破素材"
           },
@@ -4700,7 +4700,7 @@
             "name": "キノコンの胞子",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Tighnari_material_112059_1753016122873.png",
+            "icon": "/assets/images/Tighnari_material_112059_1753018657687.png",
             "description": "キノコンが残した胞子。微かな光を放っている。くしゃみ一つで跡形もなく吹き飛ばされそうだ。",
             "type": "キャラと武器育成素材"
           }
@@ -4731,7 +4731,7 @@
             "name": "カルパラタ蓮",
             "count": 10,
             "rank": 1,
-            "icon": "/assets/images/Dori_material_101217_1753016121314.png",
+            "icon": "/assets/images/Dori_material_101217_1753018656275.png",
             "description": "崖の上に咲いているつる植物の花。見た目が似ていることから「蓮」と呼ばれるが、蓮そのものとは関係がない。",
             "type": "スメール地域の特産"
           },
@@ -4740,7 +4740,7 @@
             "name": "成長のエメラルド·欠片",
             "count": 3,
             "rank": 3,
-            "icon": "/assets/images/Kirara_material_104132_1753016110220.png",
+            "icon": "/assets/images/Kirara_material_104132_1753018646227.png",
             "description": "キャラクターの突破用アイテム。\\n「長い長い夢を見ていたわ…」",
             "type": "キャラクター突破素材"
           },
@@ -4749,7 +4749,7 @@
             "name": "キノコンの胞子",
             "count": 15,
             "rank": 1,
-            "icon": "/assets/images/Tighnari_material_112059_1753016122873.png",
+            "icon": "/assets/images/Tighnari_material_112059_1753018657687.png",
             "description": "キノコンが残した胞子。微かな光を放っている。くしゃみ一つで跡形もなく吹き飛ばされそうだ。",
             "type": "キャラと武器育成素材"
           },
@@ -4758,8 +4758,8 @@
             "name": "滅諍の蔓",
             "count": 2,
             "rank": 4,
-            "icon": "/assets/images/Nahida_material_113040_1753016129067.png",
-            "description": "無相の草が最終的に凝縮して作った形態。強固なツル草によって囲まれた純粋な元素の結晶である。\\n条理に相反し、すべての命の形態から最もかけ離れた無相元素が、最も生命に調和する草元素と結合された状態で大地に出現するというのは、本来あるべきことではないのだろう。ある一説によると、無相元素には「学習」の知性があり、森の中の多彩と夢を知っているという。そして千年を超える時の中で、このような姿へ���変わったのだ。",
+            "icon": "/assets/images/Nahida_material_113040_1753018663589.png",
+            "description": "無相の草が最終的に凝縮して作った形態。強固なツル草によって囲まれた純粋な元素の結晶である。\\n条理に相反し、すべての命の形態から最もかけ離れた無相元素が、最も生命に調和する草元素と結合された状態で大地に出現するというのは、本来あるべきことではないのだろう。ある一説によると、無相元素には「学習」の知性があり、森の中の多彩と夢を知っているという。そして千年を超える時の中で、このような姿へと変わったのだ。",
             "type": "キャラクター育成素材"
           }
         ],
@@ -4793,7 +4793,7 @@
             "name": "カルパラタ蓮",
             "count": 20,
             "rank": 1,
-            "icon": "/assets/images/Dori_material_101217_1753016121314.png",
+            "icon": "/assets/images/Dori_material_101217_1753018656275.png",
             "description": "崖の上に咲いているつる植物の花。見た目が似ていることから「蓮」と呼ばれるが、蓮そのものとは関係がない。",
             "type": "スメール地域の特産"
           },
@@ -4802,7 +4802,7 @@
             "name": "成長のエメラルド·欠片",
             "count": 6,
             "rank": 3,
-            "icon": "/assets/images/Kirara_material_104132_1753016110220.png",
+            "icon": "/assets/images/Kirara_material_104132_1753018646227.png",
             "description": "キャラクターの突破用アイテム。\\n「長い長い夢を見ていたわ…」",
             "type": "キャラクター突破素材"
           },
@@ -4811,7 +4811,7 @@
             "name": "キノコンの蛍胞子",
             "count": 12,
             "rank": 2,
-            "icon": "/assets/images/Tighnari_material_112060_1753016122815.png",
+            "icon": "/assets/images/Tighnari_material_112060_1753018657689.png",
             "description": "光を発するキノコンの胞子。雨林の広がる国では薬とされており、商人が紙に包んで売る姿をよく見かける。",
             "type": "キャラと武器育成素材"
           },
@@ -4820,8 +4820,8 @@
             "name": "滅諍の蔓",
             "count": 4,
             "rank": 4,
-            "icon": "/assets/images/Nahida_material_113040_1753016129067.png",
-            "description": "無相の草が最終的に凝縮して作った形態。強固なツル草によって囲まれた純粋な元素の結晶である。\\n条理に相反し、すべての命の形態から最もかけ離れた無相元素が、最も生命に調和する草元素と結合された状態で大地に出現するというのは、本来あるべきことではないのだろう。ある一説によると、無相元素には「学習」の知性があり、森の中の多彩と夢を知っているという。そして千年を超える時の中で、このような姿へ���変わったのだ。",
+            "icon": "/assets/images/Nahida_material_113040_1753018663589.png",
+            "description": "無相の草が最終的に凝縮して作った形態。強固なツル草によって囲まれた純粋な元素の結晶である。\\n条理に相反し、すべての命の形態から最もかけ離れた無相元素が、最も生命に調和する草元素と結合された状態で大地に出現するというのは、本来あるべきことではないのだろう。ある一説によると、無相元素には「学習」の知性があり、森の中の多彩と夢を知っているという。そして千年を超える時の中で、このような姿へと変わったのだ。",
             "type": "キャラクター育成素材"
           }
         ],
@@ -4855,7 +4855,7 @@
             "name": "カルパラタ蓮",
             "count": 30,
             "rank": 1,
-            "icon": "/assets/images/Dori_material_101217_1753016121314.png",
+            "icon": "/assets/images/Dori_material_101217_1753018656275.png",
             "description": "崖の上に咲いているつる植物の花。見た目が似ていることから「蓮」と呼ばれるが、蓮そのものとは関係がない。",
             "type": "スメール地域の特産"
           },
@@ -4864,7 +4864,7 @@
             "name": "成長のエメラルド·塊",
             "count": 3,
             "rank": 4,
-            "icon": "/assets/images/Kirara_material_104133_1753016110200.png",
+            "icon": "/assets/images/Kirara_material_104133_1753018646229.png",
             "description": "キャラクターの突破用アイテム。\\n「長い長い夢を見ていたわ…」\\n「人々は手をつなぎ、円を描くようにくるくると回っていた。賢者と愚者、舞人と勇士、人形と神像…」",
             "type": "キャラクター突破素材"
           },
@@ -4873,7 +4873,7 @@
             "name": "キノコンの蛍胞子",
             "count": 18,
             "rank": 2,
-            "icon": "/assets/images/Tighnari_material_112060_1753016122815.png",
+            "icon": "/assets/images/Tighnari_material_112060_1753018657689.png",
             "description": "光を発するキノコンの胞子。雨林の広がる国では薬とされており、商人が紙に包んで売る姿をよく見かける。",
             "type": "キャラと武器育成素材"
           },
@@ -4882,8 +4882,8 @@
             "name": "滅諍の蔓",
             "count": 8,
             "rank": 4,
-            "icon": "/assets/images/Nahida_material_113040_1753016129067.png",
-            "description": "無相の草が最終的に凝縮して作った形態。強固なツル草によって囲まれた純粋な元素の結晶である。\\n条理に相反し、すべての命の形態から最もかけ離れた無相元素が、最も生命に調和する草元素と結合された状態で大地に出現するというのは、本来あるべきことではないのだろう。ある一説によると、無相元素には「学習」の知性があり、森の中の多彩と夢を知っているという。そして千年を超える時の中で、このような姿へ���変わったのだ。",
+            "icon": "/assets/images/Nahida_material_113040_1753018663589.png",
+            "description": "無相の草が最終的に凝縮して作った形態。強固なツル草によって囲まれた純粋な元素の結晶である。\\n条理に相反し、すべての命の形態から最もかけ離れた無相元素が、最も生命に調和する草元素と結合された状態で大地に出現するというのは、本来あるべきことではないのだろう。ある一説によると、無相元素には「学習」の知性があり、森の中の多彩と夢を知っているという。そして千年を超える時の中で、このような姿へと変わったのだ。",
             "type": "キャラクター育成素材"
           }
         ],
@@ -4917,7 +4917,7 @@
             "name": "カルパラタ蓮",
             "count": 45,
             "rank": 1,
-            "icon": "/assets/images/Dori_material_101217_1753016121314.png",
+            "icon": "/assets/images/Dori_material_101217_1753018656275.png",
             "description": "崖の上に咲いているつる植物の花。見た目が似ていることから「蓮」と呼ばれるが、蓮そのものとは関係がない。",
             "type": "スメール地域の特産"
           },
@@ -4926,7 +4926,7 @@
             "name": "成長のエメラルド·塊",
             "count": 6,
             "rank": 4,
-            "icon": "/assets/images/Kirara_material_104133_1753016110200.png",
+            "icon": "/assets/images/Kirara_material_104133_1753018646229.png",
             "description": "キャラクターの突破用アイテム。\\n「長い長い夢を見ていたわ…」\\n「人々は手をつなぎ、円を描くようにくるくると回っていた。賢者と愚者、舞人と勇士、人形と神像…」",
             "type": "キャラクター突破素材"
           },
@@ -4935,7 +4935,7 @@
             "name": "キノコンの晶胞子",
             "count": 12,
             "rank": 3,
-            "icon": "/assets/images/Tighnari_material_112061_1753016122723.png",
+            "icon": "/assets/images/Tighnari_material_112061_1753018657687.png",
             "description": "傷一つない胞子嚢から丁寧に採取した大量の胞子。適切な環境さえあれば、大量のキノコンを繁殖させられるだろう…",
             "type": "キャラと武器育成素材"
           },
@@ -4944,8 +4944,8 @@
             "name": "滅諍の蔓",
             "count": 12,
             "rank": 4,
-            "icon": "/assets/images/Nahida_material_113040_1753016129067.png",
-            "description": "無相の草が最終的に凝縮して作った形態。強固なツル草によって囲まれた純粋な元素の結晶である。\\n条理に相反し、すべての命の形態から最もかけ離れた無相元素が、最も生命に調和する草元素と結合された状態で大地に出現するというのは、本来あるべきことではないのだろう。ある一説によると、無相元素には「学習」の知性があり、森の中の多彩と夢を知っているという。そして千年を超える時の中で、このような姿へ���変わったのだ。",
+            "icon": "/assets/images/Nahida_material_113040_1753018663589.png",
+            "description": "無相の草が最終的に凝縮して作った形態。強固なツル草によって囲まれた純粋な元素の結晶である。\\n条理に相反し、すべての命の形態から最もかけ離れた無相元素が、最も生命に調和する草元素と結合された状態で大地に出現するというのは、本来あるべきことではないのだろう。ある一説によると、無相元素には「学習」の知性があり、森の中の多彩と夢を知っているという。そして千年を超える時の中で、このような姿へと変わったのだ。",
             "type": "キャラクター育成素材"
           }
         ],
@@ -4979,7 +4979,7 @@
             "name": "カルパラタ蓮",
             "count": 60,
             "rank": 1,
-            "icon": "/assets/images/Dori_material_101217_1753016121314.png",
+            "icon": "/assets/images/Dori_material_101217_1753018656275.png",
             "description": "崖の上に咲いているつる植物の花。見た目が似ていることから「蓮」と呼ばれるが、蓮そのものとは関係がない。",
             "type": "スメール地域の特産"
           },
@@ -4988,7 +4988,7 @@
             "name": "成長のエメラルド",
             "count": 6,
             "rank": 5,
-            "icon": "/assets/images/Kirara_material_104134_1753016110256.png",
+            "icon": "/assets/images/Kirara_material_104134_1753018646226.png",
             "description": "キャラクターの突破用アイテム。\\n「長い長い夢を見ていたわ…」\\n「人々は手をつなぎ、円を描くようにくるくると回っていた。賢者と愚者、舞人と勇士、人形と神像…」\\n「みんなの喜びの踊りの中には、宇宙のすべてが秘められている。『命』はいつも目的で、『知恵』こそが手段なの。」",
             "type": "キャラクター突破素材"
           },
@@ -4997,7 +4997,7 @@
             "name": "キノコンの晶胞子",
             "count": 24,
             "rank": 3,
-            "icon": "/assets/images/Tighnari_material_112061_1753016122723.png",
+            "icon": "/assets/images/Tighnari_material_112061_1753018657687.png",
             "description": "傷一つない胞子嚢から丁寧に採取した大量の胞子。適切な環境さえあれば、大量のキノコンを繁殖させられるだろう…",
             "type": "キャラと武器育成素材"
           },
@@ -5006,8 +5006,8 @@
             "name": "滅諍の蔓",
             "count": 20,
             "rank": 4,
-            "icon": "/assets/images/Nahida_material_113040_1753016129067.png",
-            "description": "無相の草が最終的に凝縮して作った形態。強固なツル草によって囲まれた純粋な元素の結晶である。\\n条理に相反し、すべての命の形態から最もかけ離れた無相元素が、最も生命に調和する草元素と結合された状態で大地に出現するというのは、本来あるべきことではないのだろう。ある一説によると、無相元素には「学習」の知性があり、森の中の多彩と夢を知っているという。そして千年を超える時の中で、このような姿へ���変わったのだ。",
+            "icon": "/assets/images/Nahida_material_113040_1753018663589.png",
+            "description": "無相の草が最終的に凝縮して作った形態。強固なツル草によって囲まれた純粋な元素の結晶である。\\n条理に相反し、すべての命の形態から最もかけ離れた無相元素が、最も生命に調和する草元素と結合された状態で大地に出現するというのは、本来あるべきことではないのだろう。ある一説によると、無相元素には「学習」の知性があり、森の中の多彩と夢を知っているという。そして千年を超える時の中で、このような姿へと変わったのだ。",
             "type": "キャラクター育成素材"
           }
         ],

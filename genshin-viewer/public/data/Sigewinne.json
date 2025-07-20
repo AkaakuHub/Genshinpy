@@ -8,7 +8,7 @@
   "region": "Fontaine",
   "constellation": "ネレイス座",
   "description": "メロピデ要塞のメリュジーヌ看護師長。海底監獄の罪人たちを平等に思いやっている。",
-  "icon": "/assets/images/Sigewinne_icon_1753016162467.png",
+  "icon": "/assets/images/Sigewinne_icon_1753018694872.png",
   "profile": {
     "baseHp": 1039.119,
     "baseAtk": 14.989,
@@ -23,7 +23,7 @@
       "id": "ターゲットセラピー",
       "name": "ターゲットセラピー",
       "description": "",
-      "icon": "/assets/images/Amber_normal_attack_1753016049941.png",
+      "icon": "/assets/images/Amber_normal_attack_1753018593143.png",
       "skillType": "normal",
       "params": {
         "1": [],
@@ -47,7 +47,7 @@
       "id": "ぴょんぴょんハイドロセラピー",
       "name": "ぴょんぴょんハイドロセラピー",
       "description": "",
-      "icon": "/assets/images/Sigewinne_elemental_skill_1753016162467.png",
+      "icon": "/assets/images/Sigewinne_elemental_skill_1753018694873.png",
       "levelData": [
         {
           "tableIndex": 1,
@@ -149,7 +149,7 @@
           "description": [
             "ヒーリングバブルのダメージ|HP上限{param1:F2P}",
             "ヒーリングバブルの回復量|HP上限{param2:F2P}+{param3:I}",
-            "���ね終わった時の回復量|HP上限{param4:F1P}",
+            "跳ね終わった時の回復量|HP上限{param4:F1P}",
             "迸発の刃ダメージ|HP上限{param7:F2P}",
             "迸発の刃の間隔|{param8:F1}秒",
             "クールタイム|{param9:F1}秒",
@@ -736,7 +736,7 @@
           "description": [
             "ヒーリングバブルのダメージ|HP上限{param1:F2P}",
             "ヒーリングバブルの回復量|HP上限{param2:F2P}+{param3:I}",
-            "跳ね終わった時の回復量|HP��限{param4:F1P}",
+            "跳ね終わった時の回復量|HP上限{param4:F1P}",
             "迸発の刃ダメージ|HP上限{param7:F2P}",
             "迸発の刃の間隔|{param8:F1}秒",
             "クールタイム|{param9:F1}秒",
@@ -1136,21 +1136,21 @@
     "elementalBurst": {
       "name": "休息は適度に取るのよ",
       "description": "",
-      "icon": "/assets/images/Sigewinne_elemental_burst_1753016162467.png",
+      "icon": "/assets/images/Sigewinne_elemental_burst_1753018694873.png",
       "levelData": []
     },
     "passiveTalents": [
       {
         "name": "休息は適度に取るのよ",
-        "icon": "/assets/images/Sigewinne_passive_1_1753016162467.png"
+        "icon": "/assets/images/Sigewinne_passive_1_1753018694873.png"
       },
       {
         "name": "丁寧な診療",
-        "icon": "/assets/images/Sigewinne_passive_2_1753016162467.png"
+        "icon": "/assets/images/Sigewinne_passive_2_1753018694873.png"
       },
       {
         "name": "緊急時の投与量",
-        "icon": "/assets/images/Sigewinne_passive_3_1753016162467.png"
+        "icon": "/assets/images/Sigewinne_passive_3_1753018694873.png"
       }
     ],
     "completeTableData": [
@@ -2299,7 +2299,7 @@
             "description": [
               "ヒーリングバブルのダメージ|HP上限{param1:F2P}",
               "ヒーリングバブルの回復量|HP上限{param2:F2P}+{param3:I}",
-              "���ね終わった時の回復量|HP上限{param4:F1P}",
+              "跳ね終わった時の回復量|HP上限{param4:F1P}",
               "迸発の刃ダメージ|HP上限{param7:F2P}",
               "迸発の刃の間隔|{param8:F1}秒",
               "クールタイム|{param9:F1}秒",
@@ -2862,7 +2862,7 @@
             "description": [
               "ヒーリングバブルのダメージ|HP上限{param1:F2P}",
               "ヒーリングバブルの回復量|HP上限{param2:F2P}+{param3:I}",
-              "跳ね終わった時の回復量|HP��限{param4:F1P}",
+              "跳ね終わった時の回復量|HP上限{param4:F1P}",
               "迸発の刃ダメージ|HP上限{param7:F2P}",
               "迸発の刃の間隔|{param8:F1}秒",
               "クールタイム|{param9:F1}秒",
@@ -4317,32 +4317,32 @@
       {
         "level": null,
         "name": "「誰よりも楽しい精霊なら 不安を解明できるのかしら」",
-        "icon": "/assets/images/Sigewinne_constellation_cNaN_1753016162467.png"
+        "icon": "/assets/images/Sigewinne_constellation_cNaN_1753018694873.png"
       },
       {
         "level": null,
         "name": "「誰よりも優しい精霊なら 恨みを消し去れるのかしら」",
-        "icon": "/assets/images/Sigewinne_constellation_cNaN_1753016162467.png"
+        "icon": "/assets/images/Sigewinne_constellation_cNaN_1753018694873.png"
       },
       {
         "level": null,
         "name": "「誰よりも健やかな精霊なら 熱病を治せるのかしら」",
-        "icon": "/assets/images/Sigewinne_constellation_cNaN_1753016162467.png"
+        "icon": "/assets/images/Sigewinne_constellation_cNaN_1753018694873.png"
       },
       {
         "level": null,
         "name": "「誰よりも美しい精霊なら 衰えを避けられるのかしら」",
-        "icon": "/assets/images/Sigewinne_constellation_cNaN_1753016162467.png"
+        "icon": "/assets/images/Sigewinne_constellation_cNaN_1753018694873.png"
       },
       {
         "level": null,
         "name": "「誰よりも幸せな精霊なら 苦痛を取り除けるのかしら」",
-        "icon": "/assets/images/Sigewinne_constellation_cNaN_1753016162467.png"
+        "icon": "/assets/images/Sigewinne_constellation_cNaN_1753018694873.png"
       },
       {
         "level": null,
         "name": "「誰よりも輝く精霊なら 私に祈ってくれるのかしら」",
-        "icon": "/assets/images/Sigewinne_constellation_cNaN_1753016162468.png"
+        "icon": "/assets/images/Sigewinne_constellation_cNaN_1753018694874.png"
       }
     ]
   },
@@ -4359,14 +4359,14 @@
     "id": 210201,
     "name": "シグウィン·治療法",
     "description": "シグウィン·治療法",
-    "icon": "/assets/images/Sigewinne_namecard_1753016162585.png"
+    "icon": "/assets/images/Sigewinne_icon_1753018694872.png"
   },
   "specialFood": {
     "id": 108673,
     "name": "栄養たっぷりバランス食",
     "rank": 3,
-    "icon": "/assets/images/Sigewinne_special_food_1753016162468.png",
-    "effectIcon": "/assets/images/Jean_food_effect_1753016039441.png"
+    "icon": "/assets/images/Sigewinne_special_food_1753018694874.png",
+    "effectIcon": "/assets/images/Jean_food_effect_1753018584473.png"
   },
   "levelProgression": [
     {
@@ -4682,7 +4682,7 @@
             "name": "ロマリタイムフラワー",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Freminet_material_101233_1753016147424.png",
+            "icon": "/assets/images/Freminet_material_101233_1753018680817.png",
             "description": "淡い青色が高貴な花。柔らかい花蕊は吸水性に優れ、弾力があるため、多くの日用品の原材料として使われている。",
             "type": "フォンテーヌ地域の特産"
           },
@@ -4691,7 +4691,7 @@
             "name": "澄明なラピスラズリ·砕屑",
             "count": 1,
             "rank": 2,
-            "icon": "/assets/images/Barbara_material_104121_1753016043335.png",
+            "icon": "/assets/images/Barbara_material_104121_1753018587372.png",
             "description": "キャラクターの突破用アイテム。",
             "type": "キャラクター突破素材"
           },
@@ -4700,7 +4700,7 @@
             "name": "異海の露",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Freminet_material_112080_1753016147546.png",
+            "icon": "/assets/images/Freminet_material_112080_1753018680824.png",
             "description": "原海アベラントを倒した後、その体内から得た小さな結晶。\\nフォンテーヌの「海」に生まれた原海アベラントは、水中の不思議なエネルギーによってその独特な形の生命体が形成されたと推測されている。",
             "type": "キャラと武器育成素材"
           }
@@ -4731,7 +4731,7 @@
             "name": "ロマリタイムフラワー",
             "count": 10,
             "rank": 1,
-            "icon": "/assets/images/Freminet_material_101233_1753016147424.png",
+            "icon": "/assets/images/Freminet_material_101233_1753018680817.png",
             "description": "淡い青色が高貴な花。柔らかい花蕊は吸水性に優れ、弾力があるため、多くの日用品の原材料として使われている。",
             "type": "フォンテーヌ地域の特産"
           },
@@ -4740,7 +4740,7 @@
             "name": "澄明なラピスラズリ·欠片",
             "count": 3,
             "rank": 3,
-            "icon": "/assets/images/Barbara_material_104122_1753016043362.png",
+            "icon": "/assets/images/Barbara_material_104122_1753018587368.png",
             "description": "キャラクターの突破用アイテム。\\n「僕の理想には一片の穢れも無い。」",
             "type": "キャラクター突破素材"
           },
@@ -4749,7 +4749,7 @@
             "name": "異海の露",
             "count": 15,
             "rank": 1,
-            "icon": "/assets/images/Freminet_material_112080_1753016147546.png",
+            "icon": "/assets/images/Freminet_material_112080_1753018680824.png",
             "description": "原海アベラントを倒した後、その体内から得た小さな結晶。\\nフォンテーヌの「海」に生まれた原海アベラントは、水中の不思議なエネルギーによってその独特な形の生命体が形成されたと推測されている。",
             "type": "キャラと武器育成素材"
           },
@@ -4758,7 +4758,7 @@
             "name": "超越に至らぬ水",
             "count": 2,
             "rank": 4,
-            "icon": "/assets/images/Furina_material_113057_1753016153757.png",
+            "icon": "/assets/images/Furina_material_113057_1753018686527.png",
             "description": "水形タルパが崩れ、消え去った後に残された唯一の痕跡。\\n原海アベラントの体から得られる結晶とよく似た性質を持つが、微小な不純物が多く含まれている。まるで、未熟な職人が作ったガラス細工に閉じ込められた小さな気泡のようである。",
             "type": "キャラクター育成素材"
           }
@@ -4793,7 +4793,7 @@
             "name": "ロマリタイムフラワー",
             "count": 20,
             "rank": 1,
-            "icon": "/assets/images/Freminet_material_101233_1753016147424.png",
+            "icon": "/assets/images/Freminet_material_101233_1753018680817.png",
             "description": "淡い青色が高貴な花。柔らかい花蕊は吸水性に優れ、弾力があるため、多くの日用品の原材料として使われている。",
             "type": "フォンテーヌ地域の特産"
           },
@@ -4802,7 +4802,7 @@
             "name": "澄明なラピスラズリ·欠片",
             "count": 6,
             "rank": 3,
-            "icon": "/assets/images/Barbara_material_104122_1753016043362.png",
+            "icon": "/assets/images/Barbara_material_104122_1753018587368.png",
             "description": "キャラクターの突破用アイテム。\\n「僕の理想には一片の穢れも無い。」",
             "type": "キャラクター突破素材"
           },
@@ -4811,7 +4811,7 @@
             "name": "異海の塊",
             "count": 12,
             "rank": 2,
-            "icon": "/assets/images/Freminet_material_112081_1753016147474.png",
+            "icon": "/assets/images/Freminet_material_112081_1753018680840.png",
             "description": "原海アベラントを倒した後、その体内から得られる結晶体。\\n微かに不思議なエネルギーを放っている。\\n航路や人間の足ではたどり着けない遠海には、偉大なる生命が存在すると言われているが、普通の海は取り立てて言うほどの特徴もなく、その生命力はフォンテーヌの「海」に遥かに及ばない。",
             "type": "キャラと武器育成素材"
           },
@@ -4820,7 +4820,7 @@
             "name": "超越に至らぬ水",
             "count": 4,
             "rank": 4,
-            "icon": "/assets/images/Furina_material_113057_1753016153757.png",
+            "icon": "/assets/images/Furina_material_113057_1753018686527.png",
             "description": "水形タルパが崩れ、消え去った後に残された唯一の痕跡。\\n原海アベラントの体から得られる結晶とよく似た性質を持つが、微小な不純物が多く含まれている。まるで、未熟な職人が作ったガラス細工に閉じ込められた小さな気泡のようである。",
             "type": "キャラクター育成素材"
           }
@@ -4855,7 +4855,7 @@
             "name": "ロマリタイムフラワー",
             "count": 30,
             "rank": 1,
-            "icon": "/assets/images/Freminet_material_101233_1753016147424.png",
+            "icon": "/assets/images/Freminet_material_101233_1753018680817.png",
             "description": "淡い青色が高貴な花。柔らかい花蕊は吸水性に優れ、弾力があるため、多くの日用品の原材料として使われている。",
             "type": "フォンテーヌ地域の特産"
           },
@@ -4864,7 +4864,7 @@
             "name": "澄明なラピスラズリ·塊",
             "count": 3,
             "rank": 4,
-            "icon": "/assets/images/Barbara_material_104123_1753016043306.png",
+            "icon": "/assets/images/Barbara_material_104123_1753018587373.png",
             "description": "キャラクターの突破用アイテム。\\n「僕の理想には一片の穢れも無い。」\\n「訂正させてもらおう。ここでは、人が神の裁きを受けることはない…」",
             "type": "キャラクター突破素材"
           },
@@ -4873,7 +4873,7 @@
             "name": "異海の塊",
             "count": 18,
             "rank": 2,
-            "icon": "/assets/images/Freminet_material_112081_1753016147474.png",
+            "icon": "/assets/images/Freminet_material_112081_1753018680840.png",
             "description": "原海アベラントを倒した後、その体内から得られる結晶体。\\n微かに不思議なエネルギーを放っている。\\n航路や人間の足ではたどり着けない遠海には、偉大なる生命が存在すると言われているが、普通の海は取り立てて言うほどの特徴もなく、その生命力はフォンテーヌの「海」に遥かに及ばない。",
             "type": "キャラと武器育成素材"
           },
@@ -4882,7 +4882,7 @@
             "name": "超越に至らぬ水",
             "count": 8,
             "rank": 4,
-            "icon": "/assets/images/Furina_material_113057_1753016153757.png",
+            "icon": "/assets/images/Furina_material_113057_1753018686527.png",
             "description": "水形タルパが崩れ、消え去った後に残された唯一の痕跡。\\n原海アベラントの体から得られる結晶とよく似た性質を持つが、微小な不純物が多く含まれている。まるで、未熟な職人が作ったガラス細工に閉じ込められた小さな気泡のようである。",
             "type": "キャラクター育成素材"
           }
@@ -4917,7 +4917,7 @@
             "name": "ロマリタイムフラワー",
             "count": 45,
             "rank": 1,
-            "icon": "/assets/images/Freminet_material_101233_1753016147424.png",
+            "icon": "/assets/images/Freminet_material_101233_1753018680817.png",
             "description": "淡い青色が高貴な花。柔らかい花蕊は吸水性に優れ、弾力があるため、多くの日用品の原材料として使われている。",
             "type": "フォンテーヌ地域の特産"
           },
@@ -4926,7 +4926,7 @@
             "name": "澄明なラピスラズリ·塊",
             "count": 6,
             "rank": 4,
-            "icon": "/assets/images/Barbara_material_104123_1753016043306.png",
+            "icon": "/assets/images/Barbara_material_104123_1753018587373.png",
             "description": "キャラクターの突破用アイテム。\\n「僕の理想には一片の穢れも無い。」\\n「訂正させてもらおう。ここでは、人が神の裁きを受けることはない…」",
             "type": "キャラクター突破素材"
           },
@@ -4935,7 +4935,7 @@
             "name": "色変わりの結晶",
             "count": 12,
             "rank": 3,
-            "icon": "/assets/images/Freminet_material_112082_1753016147455.png",
+            "icon": "/assets/images/Freminet_material_112082_1753018680841.png",
             "description": "原海アベラントを倒した後、その体内から得た大きな結晶。\\n不思議なエネルギーを秘めている。\\n万水の源であるフォンテーヌの水だが、異国へ流れるとその独特の性質が失われてしまう。",
             "type": "キャラと武器育成素材"
           },
@@ -4944,7 +4944,7 @@
             "name": "超越に至らぬ水",
             "count": 12,
             "rank": 4,
-            "icon": "/assets/images/Furina_material_113057_1753016153757.png",
+            "icon": "/assets/images/Furina_material_113057_1753018686527.png",
             "description": "水形タルパが崩れ、消え去った後に残された唯一の痕跡。\\n原海アベラントの体から得られる結晶とよく似た性質を持つが、微小な不純物が多く含まれている。まるで、未熟な職人が作ったガラス細工に閉じ込められた小さな気泡のようである。",
             "type": "キャラクター育成素材"
           }
@@ -4979,7 +4979,7 @@
             "name": "ロマリタイムフラワー",
             "count": 60,
             "rank": 1,
-            "icon": "/assets/images/Freminet_material_101233_1753016147424.png",
+            "icon": "/assets/images/Freminet_material_101233_1753018680817.png",
             "description": "淡い青色が高貴な花。柔らかい花蕊は吸水性に優れ、弾力があるため、多くの日用品の原材料として使われている。",
             "type": "フォンテーヌ地域の特産"
           },
@@ -4988,7 +4988,7 @@
             "name": "澄明なラピスラズリ",
             "count": 6,
             "rank": 5,
-            "icon": "/assets/images/Barbara_material_104124_1753016043134.png",
+            "icon": "/assets/images/Barbara_material_104124_1753018587371.png",
             "description": "キャラクターの突破用アイテム。\\n「僕の理想には一片の穢れも無い。」\\n「訂正させてもらおう。ここでは、人が神の裁きを受けることはない。裁きを下せるのは、ただ法と法廷のみ。」\\n「この僕でさえ、断罪され得るのだからね。さあ、僕の崇高と純潔を讃えてくれたまえ。」",
             "type": "キャラクター突破素材"
           },
@@ -4997,7 +4997,7 @@
             "name": "色変わりの結晶",
             "count": 24,
             "rank": 3,
-            "icon": "/assets/images/Freminet_material_112082_1753016147455.png",
+            "icon": "/assets/images/Freminet_material_112082_1753018680841.png",
             "description": "原海アベラントを倒した後、その体内から得た大きな結晶。\\n不思議なエネルギーを秘めている。\\n万水の源であるフォンテーヌの水だが、異国へ流れるとその独特の性質が失われてしまう。",
             "type": "キャラと武器育成素材"
           },
@@ -5006,7 +5006,7 @@
             "name": "超越に至らぬ水",
             "count": 20,
             "rank": 4,
-            "icon": "/assets/images/Furina_material_113057_1753016153757.png",
+            "icon": "/assets/images/Furina_material_113057_1753018686527.png",
             "description": "水形タルパが崩れ、消え去った後に残された唯一の痕跡。\\n原海アベラントの体から得られる結晶とよく似た性質を持つが、微小な不純物が多く含まれている。まるで、未熟な職人が作ったガラス細工に閉じ込められた小さな気泡のようである。",
             "type": "キャラクター育成素材"
           }

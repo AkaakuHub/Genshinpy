@@ -8,7 +8,7 @@
   "region": "Liyue",
   "constellation": "法獣座",
   "description": "仙獣の血が流れる聡明な少女。璃月港で有名な法律家として活躍している。",
-  "icon": "/assets/images/Yanfei_icon_1753016090175.png",
+  "icon": "/assets/images/Yanfei_icon_1753018628493.png",
   "profile": {
     "baseHp": 784.14,
     "baseAtk": 20.123,
@@ -23,7 +23,7 @@
       "id": "封蝋の印",
       "name": "封蝋の印",
       "description": "",
-      "icon": "/assets/images/Lisa_normal_attack_1753016041229.png",
+      "icon": "/assets/images/Lisa_normal_attack_1753018585917.png",
       "skillType": "normal",
       "params": {
         "1": [],
@@ -47,7 +47,7 @@
       "id": "丹書契約",
       "name": "丹書契約",
       "description": "",
-      "icon": "/assets/images/Yanfei_elemental_skill_1753016090175.png",
+      "icon": "/assets/images/Yanfei_elemental_skill_1753018628493.png",
       "levelData": [
         {
           "tableIndex": 1,
@@ -1136,21 +1136,21 @@
     "elementalBurst": {
       "name": "関連条約",
       "description": "",
-      "icon": "/assets/images/Yanfei_elemental_burst_1753016090175.png",
+      "icon": "/assets/images/Yanfei_elemental_burst_1753018628493.png",
       "levelData": []
     },
     "passiveTalents": [
       {
         "name": "関連条約",
-        "icon": "/assets/images/Yanfei_passive_1_1753016090175.png"
+        "icon": "/assets/images/Yanfei_passive_1_1753018628493.png"
       },
       {
         "name": "法獣の灼眼",
-        "icon": "/assets/images/Yanfei_passive_2_1753016090175.png"
+        "icon": "/assets/images/Yanfei_passive_2_1753018628493.png"
       },
       {
         "name": "法律百科",
-        "icon": "/assets/images/Qiqi_passive_3_1753016070339.png"
+        "icon": "/assets/images/Qiqi_passive_3_1753018611520.png"
       }
     ],
     "completeTableData": [
@@ -1537,7 +1537,7 @@
               "3段ダメージ|{param3:F1P}",
               "重撃ダメージ|{param4:P}/{param5:P}/{param6:P}/{param7:P}/{param8:P}",
               "重撃スタミナ消費|{param14:F1}",
-              "丹火の印によるスタミナ消費減少|1枚ごとに{param15:F1P}",
+              "丹火の印によるスタミナ消費���少|1枚ごとに{param15:F1P}",
               "丹火の印持続時間|{param19:F1}秒",
               "落下期間のダメージ|{param16:F1P}",
               "低空/高空落下攻撃ダメージ|{param17:P}/{param18:P}",
@@ -1678,7 +1678,7 @@
               "3段ダメージ|{param3:F1P}",
               "重撃ダメージ|{param4:P}/{param5:P}/{param6:P}/{param7:P}/{param8:P}",
               "重撃スタミナ消費|{param14:F1}",
-              "丹火の印によるスタミナ消費減少|1枚ごとに{param15:F1P}",
+              "丹火の印によるスタミナ��費減少|1枚ごとに{param15:F1P}",
               "丹火の印持続時間|{param19:F1}秒",
               "落下期間のダメージ|{param16:F1P}",
               "低空/高空落下攻撃ダメージ|{param17:P}/{param18:P}",
@@ -1820,7 +1820,7 @@
               "3段ダメージ|{param3:F1P}",
               "重撃ダメージ|{param4:P}/{param5:P}/{param6:P}/{param7:P}/{param8:P}",
               "重撃スタミナ消費|{param14:F1}",
-              "丹火の印によるスタミナ消費減少|1枚ごとに{param15:F1P}",
+              "丹���の印によるスタミナ消費減少|1枚ごとに{param15:F1P}",
               "丹火の印持続時間|{param19:F1}秒",
               "落下期間のダメージ|{param16:F1P}",
               "低空/高空落下攻撃ダメージ|{param17:P}/{param18:P}",
@@ -4317,39 +4317,39 @@
       {
         "level": null,
         "name": "法からは逃れられない",
-        "icon": "/assets/images/Yanfei_constellation_cNaN_1753016090175.png"
+        "icon": "/assets/images/Yanfei_constellation_cNaN_1753018628494.png"
       },
       {
         "level": null,
         "name": "最終解釈権",
-        "icon": "/assets/images/Yanfei_constellation_cNaN_1753016090175.png"
+        "icon": "/assets/images/Yanfei_constellation_cNaN_1753018628494.png"
       },
       {
         "level": null,
         "name": "真火の宝印",
-        "icon": "/assets/images/Yanfei_constellation_cNaN_1753016090175.png"
+        "icon": "/assets/images/Yanfei_constellation_cNaN_1753018628494.png"
       },
       {
         "level": null,
         "name": "丹書金鉄券",
-        "icon": "/assets/images/Yanfei_constellation_cNaN_1753016090175.png"
+        "icon": "/assets/images/Yanfei_constellation_cNaN_1753018628494.png"
       },
       {
         "level": null,
         "name": "遵法誓約書",
-        "icon": "/assets/images/Yanfei_constellation_cNaN_1753016090176.png"
+        "icon": "/assets/images/Yanfei_constellation_cNaN_1753018628494.png"
       },
       {
         "level": null,
         "name": "追加条項だよ",
-        "icon": "/assets/images/Yanfei_constellation_cNaN_1753016090176.png"
+        "icon": "/assets/images/Yanfei_constellation_cNaN_1753018628494.png"
       }
     ]
   },
   "costumes": [
     {
       "name": "金科赤律",
-      "description": "煙緋の衣装。法律家煙緋が出勤する時に身に着ける服装。",
+      "description": "煙緋���衣装。法律家煙緋が出勤する時に身に着ける服装。",
       "isDefault": true,
       "rank": 1,
       "icon": ""
@@ -4359,14 +4359,14 @@
     "id": 210069,
     "name": "煙緋·公正",
     "description": "煙緋·公正",
-    "icon": "/assets/images/Yanfei_icon_1753016090175.png"
+    "icon": "/assets/images/Yanfei_icon_1753018628493.png"
   },
   "specialFood": {
     "id": 108244,
     "name": "「法律ここにあり」",
     "rank": 2,
-    "icon": "/assets/images/Yanfei_special_food_1753016090176.png",
-    "effectIcon": "/assets/images/Kamisato Ayaka_food_effect_1753016037647.png"
+    "icon": "/assets/images/Yanfei_special_food_1753018628494.png",
+    "effectIcon": "/assets/images/Kamisato Ayaka_food_effect_1753018583171.png"
   },
   "levelProgression": [
     {
@@ -4682,7 +4682,7 @@
             "name": "夜泊石",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Beidou_material_100028_1753016055183.png",
+            "icon": "/assets/images/Beidou_material_100028_1753018597404.png",
             "description": "希少な鉱石。暗くて静かな夜に微かに光る。言い伝えによると世の中の元素が変異していく中で形成された貴重な石。",
             "type": "璃月地域の特産"
           },
@@ -4691,7 +4691,7 @@
             "name": "炎願のアゲート·砕屑",
             "count": 1,
             "rank": 2,
-            "icon": "/assets/images/Diluc_material_104111_1753016046752.png",
+            "icon": "/assets/images/Diluc_material_104111_1753018590257.png",
             "description": "キャラクターの突破用アイテム。",
             "type": "キャラクター突破素材"
           },
@@ -4700,7 +4700,7 @@
             "name": "宝探しの鴉マーク",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Kaeya_material_112035_1753016045037.png",
+            "icon": "/assets/images/Kaeya_material_112035_1753018588810.png",
             "description": "宝盗団の誇りであるマーク、彼らの宝物に対する永遠不滅の情熱を示すものである。とはいえ、自分が盗賊ということを誇らしげに示す必要はあるかな…？",
             "type": "キャラと武器育成素材"
           }
@@ -4731,7 +4731,7 @@
             "name": "夜泊石",
             "count": 10,
             "rank": 1,
-            "icon": "/assets/images/Beidou_material_100028_1753016055183.png",
+            "icon": "/assets/images/Beidou_material_100028_1753018597404.png",
             "description": "希少な鉱石。暗くて静かな夜に微かに光る。言い伝えによると世の中の元素が変異していく中で形成された貴重な石。",
             "type": "璃月地域の特産"
           },
@@ -4740,7 +4740,7 @@
             "name": "炎願のアゲート·欠片",
             "count": 3,
             "rank": 3,
-            "icon": "/assets/images/Diluc_material_104112_1753016046727.png",
+            "icon": "/assets/images/Diluc_material_104112_1753018590256.png",
             "description": "キャラクターの突破用アイテム。\\n「人々の願いのため、巡礼の道を歩もう。最強を目指して集い、戦うのだ…」",
             "type": "キャラクター突破素材"
           },
@@ -4749,7 +4749,7 @@
             "name": "宝探しの鴉マーク",
             "count": 15,
             "rank": 1,
-            "icon": "/assets/images/Kaeya_material_112035_1753016045037.png",
+            "icon": "/assets/images/Kaeya_material_112035_1753018588810.png",
             "description": "宝盗団の誇りであるマーク、彼らの宝物に対する永遠不滅の情熱を示すものである。とはいえ、自分が盗賊ということを誇らしげに示す必要はあるかな…？",
             "type": "キャラと武器育成素材"
           },
@@ -4758,7 +4758,7 @@
             "name": "未熟の玉石",
             "count": 2,
             "rank": 4,
-            "icon": "/assets/images/Xiao_material_113016_1753016058363.png",
+            "icon": "/assets/images/Xiao_material_113016_1753018600122.png",
             "description": "エンシェントヴィシャップ·岩から取り出した結晶物質。龍になれる可能性を秘めている。\\n山で深く眠るヴィシャップは、このような薄暗い結晶を沈殿させる。璃月の伝説によると、この結晶は時間とともに力が蓄積し、最終的に本来の心臓を取り替え、ヴィシャップも真の龍になり、山を揺るがし、大地を引き裂くという。",
             "type": "キャラクター育成素材"
           }
@@ -4793,7 +4793,7 @@
             "name": "夜泊石",
             "count": 20,
             "rank": 1,
-            "icon": "/assets/images/Beidou_material_100028_1753016055183.png",
+            "icon": "/assets/images/Beidou_material_100028_1753018597404.png",
             "description": "希少な鉱石。暗くて静かな夜に微かに光る。言い伝えによると世の中の元素が変異していく中で形成された貴重な石。",
             "type": "璃月地域の特産"
           },
@@ -4802,7 +4802,7 @@
             "name": "炎願のアゲート·欠片",
             "count": 6,
             "rank": 3,
-            "icon": "/assets/images/Diluc_material_104112_1753016046727.png",
+            "icon": "/assets/images/Diluc_material_104112_1753018590256.png",
             "description": "キャラクターの突破用アイテム。\\n「人々の願いのため、巡礼の道を歩もう。最強を目指して集い、戦うのだ…」",
             "type": "キャラクター突破素材"
           },
@@ -4811,7 +4811,7 @@
             "name": "シルバーの鴉マーク",
             "count": 12,
             "rank": 2,
-            "icon": "/assets/images/Kaeya_material_112036_1753016045088.png",
+            "icon": "/assets/images/Kaeya_material_112036_1753018588807.png",
             "description": "宝盗団のメンバーが互いの存在を証明する鴉マーク。宝盗団のメンバーは出身を問わず、宝物への貪欲さえあれば、「優秀」なメンバーになれる。",
             "type": "キャラと武器育成素材"
           },
@@ -4820,7 +4820,7 @@
             "name": "未熟の玉石",
             "count": 4,
             "rank": 4,
-            "icon": "/assets/images/Xiao_material_113016_1753016058363.png",
+            "icon": "/assets/images/Xiao_material_113016_1753018600122.png",
             "description": "エンシェントヴィシャップ·岩から取り出した結晶物質。龍になれる可能性を秘めている。\\n山で深く眠るヴィシャップは、このような薄暗い結晶を沈殿させる。璃月の伝説によると、この結晶は時間とともに力が蓄積し、最終的に本来の心臓を取り替え、ヴィシャップも真の龍になり、山を揺るがし、大地を引き裂くという。",
             "type": "キャラクター育成素材"
           }
@@ -4855,7 +4855,7 @@
             "name": "夜泊石",
             "count": 30,
             "rank": 1,
-            "icon": "/assets/images/Beidou_material_100028_1753016055183.png",
+            "icon": "/assets/images/Beidou_material_100028_1753018597404.png",
             "description": "希少な鉱石。暗くて静かな夜に微かに光る。言い伝えによると世の中の元素が変異していく中で形成された貴重な石。",
             "type": "璃月地域の特産"
           },
@@ -4864,7 +4864,7 @@
             "name": "炎願のアゲート·塊",
             "count": 3,
             "rank": 4,
-            "icon": "/assets/images/Diluc_material_104113_1753016046900.png",
+            "icon": "/assets/images/Diluc_material_104113_1753018590263.png",
             "description": "キャラクターの突破用アイテム。\\n「人々の願いのため、巡礼の道を歩もう。最強を目指して集い、戦うのだ…」\\n「最後は夢のために、劫火の中で燃え尽きる。」",
             "type": "キャラクター突破素材"
           },
@@ -4873,7 +4873,7 @@
             "name": "シルバーの鴉マーク",
             "count": 18,
             "rank": 2,
-            "icon": "/assets/images/Kaeya_material_112036_1753016045088.png",
+            "icon": "/assets/images/Kaeya_material_112036_1753018588807.png",
             "description": "宝盗団のメンバーが互いの存在を証明する鴉マーク。宝盗団のメンバーは出身を問わず、宝物への貪欲さえあれば、「優秀」なメンバーになれる。",
             "type": "キャラと武器育成素材"
           },
@@ -4882,7 +4882,7 @@
             "name": "未熟の玉石",
             "count": 8,
             "rank": 4,
-            "icon": "/assets/images/Xiao_material_113016_1753016058363.png",
+            "icon": "/assets/images/Xiao_material_113016_1753018600122.png",
             "description": "エンシェントヴィシャップ·岩から取り出した結晶物質。龍になれる可能性を秘めている。\\n山で深く眠るヴィシャップは、このような薄暗い結晶を沈殿させる。璃月の伝説によると、この結晶は時間とともに力が蓄積し、最終的に本来の心臓を取り替え、ヴィシャップも真の龍になり、山を揺るがし、大地を引き裂くという。",
             "type": "キャラクター育成素材"
           }
@@ -4917,7 +4917,7 @@
             "name": "夜泊石",
             "count": 45,
             "rank": 1,
-            "icon": "/assets/images/Beidou_material_100028_1753016055183.png",
+            "icon": "/assets/images/Beidou_material_100028_1753018597404.png",
             "description": "希少な鉱石。暗くて静かな夜に微かに光る。言い伝えによると世の中の元素が変異していく中で形成された貴重な石。",
             "type": "璃月地域の特産"
           },
@@ -4926,7 +4926,7 @@
             "name": "炎願のアゲート·塊",
             "count": 6,
             "rank": 4,
-            "icon": "/assets/images/Diluc_material_104113_1753016046900.png",
+            "icon": "/assets/images/Diluc_material_104113_1753018590263.png",
             "description": "キャラクターの突破用アイテム。\\n「人々の願いのため、巡礼の道を歩もう。最強を目指して集い、戦うのだ…」\\n「最後は夢のために、劫火の中で燃え尽きる。」",
             "type": "キャラクター突破素材"
           },
@@ -4935,7 +4935,7 @@
             "name": "ゴールドの鴉マーク",
             "count": 12,
             "rank": 3,
-            "icon": "/assets/images/Kaeya_material_112037_1753016044988.png",
+            "icon": "/assets/images/Kaeya_material_112037_1753018588811.png",
             "description": "宝盗団の信仰と誇りを示す鴉マーク。この広い大地、幽邃の深淵、未知な海に秘宝が存在していれば、宝盗団の信念は永遠に続く。",
             "type": "キャラと武器育成素材"
           },
@@ -4944,7 +4944,7 @@
             "name": "未熟の玉石",
             "count": 12,
             "rank": 4,
-            "icon": "/assets/images/Xiao_material_113016_1753016058363.png",
+            "icon": "/assets/images/Xiao_material_113016_1753018600122.png",
             "description": "エンシェントヴィシャップ·岩から取り出した結晶物質。龍になれる可能性を秘めている。\\n山で深く眠るヴィシャップは、このような薄暗い結晶を沈殿させる。璃月の伝説によると、この結晶は時間とともに力が蓄積し、最終的に本来の心臓を取り替え、ヴィシャップも真の龍になり、山を揺るがし、大地を引き裂くという。",
             "type": "キャラクター育成素材"
           }
@@ -4979,7 +4979,7 @@
             "name": "夜泊石",
             "count": 60,
             "rank": 1,
-            "icon": "/assets/images/Beidou_material_100028_1753016055183.png",
+            "icon": "/assets/images/Beidou_material_100028_1753018597404.png",
             "description": "希少な鉱石。暗くて静かな夜に微かに光る。言い伝えによると世の中の元素が変異していく中で形成された貴重な石。",
             "type": "璃月地域の特産"
           },
@@ -4988,7 +4988,7 @@
             "name": "炎願のアゲート",
             "count": 6,
             "rank": 5,
-            "icon": "/assets/images/Diluc_material_104114_1753016046880.png",
+            "icon": "/assets/images/Diluc_material_104114_1753018590281.png",
             "description": "キャラクターの突破用アイテム。\\n「人々の願いのため、巡礼の道を歩もう。最強を目指して集い、戦うのだ…」\\n「最後は夢のために、劫火の中で燃え尽きる。」\\n「その灰燼にまだ初心が残っていれば、██の真実に辿り着いたという。」",
             "type": "キャラクター突破素材"
           },
@@ -4997,7 +4997,7 @@
             "name": "ゴールドの鴉マーク",
             "count": 24,
             "rank": 3,
-            "icon": "/assets/images/Kaeya_material_112037_1753016044988.png",
+            "icon": "/assets/images/Kaeya_material_112037_1753018588811.png",
             "description": "宝盗団の信仰と誇りを示す鴉マーク。この広い大地、幽邃の深淵、未知な海に秘宝が存在していれば、宝盗団の信念は永遠に続く。",
             "type": "キャラと武器育成素材"
           },
@@ -5006,7 +5006,7 @@
             "name": "未熟の玉石",
             "count": 20,
             "rank": 4,
-            "icon": "/assets/images/Xiao_material_113016_1753016058363.png",
+            "icon": "/assets/images/Xiao_material_113016_1753018600122.png",
             "description": "エンシェントヴィシャップ·岩から取り出した結晶物質。龍になれる可能性を秘めている。\\n山で深く眠るヴィシャップは、このような薄暗い結晶を沈殿させる。璃月の伝説によると、この結晶は時間とともに力が蓄積し、最終的に本来の心臓を取り替え、ヴィシャップも真の龍になり、山を揺るがし、大地を引き裂くという。",
             "type": "キャラクター育成素材"
           }

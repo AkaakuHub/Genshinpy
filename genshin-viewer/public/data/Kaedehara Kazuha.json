@@ -8,7 +8,7 @@
   "region": "Inazuma",
   "constellation": "紅葉座",
   "description": "稲妻より訪れし浪人。今は璃月の「南十字」武装船隊と行動を共にしている。穏やかで浮世離れした性格だが、過去に経験した様々な出来事を心の内に秘めている。",
-  "icon": "/assets/images/Kaedehara Kazuha_icon_1753016088025.png",
+  "icon": "/assets/images/Kaedehara Kazuha_icon_1753018627150.png",
   "profile": {
     "baseHp": 1039.119,
     "baseAtk": 23.089,
@@ -23,7 +23,7 @@
       "id": "我流剣術",
       "name": "我流剣術",
       "description": "",
-      "icon": "/assets/images/Kamisato Ayaka_normal_attack_1753016037630.png",
+      "icon": "/assets/images/Kamisato Ayaka_normal_attack_1753018583153.png",
       "skillType": "normal",
       "params": {
         "1": [],
@@ -47,7 +47,7 @@
       "id": "千早振る",
       "name": "千早振る",
       "description": "",
-      "icon": "/assets/images/Kaedehara Kazuha_elemental_skill_1753016088026.png",
+      "icon": "/assets/images/Kaedehara Kazuha_elemental_skill_1753018627151.png",
       "levelData": [
         {
           "tableIndex": 1,
@@ -1136,21 +1136,21 @@
     "elementalBurst": {
       "name": "相聞剣法",
       "description": "",
-      "icon": "/assets/images/Kaedehara Kazuha_elemental_burst_1753016088026.png",
+      "icon": "/assets/images/Kaedehara Kazuha_elemental_burst_1753018627151.png",
       "levelData": []
     },
     "passiveTalents": [
       {
         "name": "相聞剣法",
-        "icon": "/assets/images/Kaedehara Kazuha_passive_1_1753016088026.png"
+        "icon": "/assets/images/Kaedehara Kazuha_passive_1_1753018627151.png"
       },
       {
         "name": "風物の詩吟",
-        "icon": "/assets/images/Kaedehara Kazuha_passive_2_1753016088026.png"
+        "icon": "/assets/images/Kaedehara Kazuha_passive_2_1753018627151.png"
       },
       {
         "name": "霞立つ松風",
-        "icon": "/assets/images/Kaeya_passive_3_1753016044775.png"
+        "icon": "/assets/images/Kaeya_passive_3_1753018588797.png"
       }
     ],
     "completeTableData": [
@@ -1894,7 +1894,7 @@
               "5段ダメージ|{param6:F1P}×3",
               "重撃ダメージ|{param7:F1P}+{param8:F1P}",
               "重撃スタミナ消費|{param9:F1}",
-              "落���期間のダメージ|{param10:F1P}",
+              "落下期間のダメージ|{param10:F1P}",
               "低空/高空落下攻撃ダメージ|{param11:P}/{param12:P}",
               "",
               "",
@@ -4317,32 +4317,32 @@
       {
         "level": null,
         "name": "千山紅葉",
-        "icon": "/assets/images/Kaedehara Kazuha_constellation_cNaN_1753016088026.png"
+        "icon": "/assets/images/Kaedehara Kazuha_constellation_cNaN_1753018627151.png"
       },
       {
         "level": null,
         "name": "山嵐残心",
-        "icon": "/assets/images/Kaedehara Kazuha_constellation_cNaN_1753016088026.png"
+        "icon": "/assets/images/Kaedehara Kazuha_constellation_cNaN_1753018627151.png"
       },
       {
         "level": null,
         "name": "楓袖奇譚",
-        "icon": "/assets/images/Kaedehara Kazuha_constellation_cNaN_1753016088026.png"
+        "icon": "/assets/images/Kaedehara Kazuha_constellation_cNaN_1753018627151.png"
       },
       {
         "level": null,
         "name": "大空幻法",
-        "icon": "/assets/images/Kaedehara Kazuha_constellation_cNaN_1753016088026.png"
+        "icon": "/assets/images/Kaedehara Kazuha_constellation_cNaN_1753018627151.png"
       },
       {
         "level": null,
         "name": "万世集",
-        "icon": "/assets/images/Kaedehara Kazuha_constellation_cNaN_1753016088026.png"
+        "icon": "/assets/images/Kaedehara Kazuha_constellation_cNaN_1753018627151.png"
       },
       {
         "level": null,
         "name": "血赤の紅葉",
-        "icon": "/assets/images/Kaedehara Kazuha_constellation_cNaN_1753016088026.png"
+        "icon": "/assets/images/Kaedehara Kazuha_constellation_cNaN_1753018627151.png"
       }
     ]
   },
@@ -4359,14 +4359,14 @@
     "id": 210073,
     "name": "楓原万葉·秋の紅葉狩り",
     "description": "楓原万葉·秋の紅葉狩り",
-    "icon": "/assets/images/Kaedehara Kazuha_namecard_1753016088158.png"
+    "icon": "/assets/images/Kaedehara Kazuha_icon_1753018627150.png"
   },
   "specialFood": {
     "id": 108301,
     "name": "雨奇晴好",
     "rank": 1,
-    "icon": "/assets/images/Kaedehara Kazuha_special_food_1753016088027.png",
-    "effectIcon": "/assets/images/Kaeya_food_effect_1753016044776.png"
+    "icon": "/assets/images/Kaedehara Kazuha_special_food_1753018627152.png",
+    "effectIcon": "/assets/images/Kaeya_food_effect_1753018588798.png"
   },
   "levelProgression": [
     {
@@ -4682,7 +4682,7 @@
             "name": "ウミレイシ",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Kaedehara Kazuha_material_101206_1753016088146.png",
+            "icon": "/assets/images/Kaedehara Kazuha_material_101206_1753018627165.png",
             "description": "特定の海域や島でしか育たない特殊な品種。キノコ類のように見えるが、実際は軟体動物の分泌と増殖から生まれたものである。",
             "type": "稲妻地域の特産"
           },
@@ -4691,7 +4691,7 @@
             "name": "自由のターコイズ·砕屑",
             "count": 1,
             "rank": 2,
-            "icon": "/assets/images/Jean_material_104151_1753016039825.png",
+            "icon": "/assets/images/Jean_material_104151_1753018584488.png",
             "description": "キャラクターの突破用アイテム。",
             "type": "キャラクター突破素材"
           },
@@ -4700,7 +4700,7 @@
             "name": "宝探しの鴉マーク",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Kaeya_material_112035_1753016045037.png",
+            "icon": "/assets/images/Kaeya_material_112035_1753018588810.png",
             "description": "宝盗団の誇りであるマーク、彼らの宝物に対する永遠不滅の情熱を示すものである。とはいえ、自分が盗賊ということを誇らしげに示す必要はあるかな…？",
             "type": "キャラと武器育成素材"
           }
@@ -4731,7 +4731,7 @@
             "name": "ウミレイシ",
             "count": 10,
             "rank": 1,
-            "icon": "/assets/images/Kaedehara Kazuha_material_101206_1753016088146.png",
+            "icon": "/assets/images/Kaedehara Kazuha_material_101206_1753018627165.png",
             "description": "特定の海域や島でしか育たない特殊な品種。キノコ類のように見えるが、実際は軟体動物の分泌と増殖から生まれたものである。",
             "type": "稲妻地域の特産"
           },
@@ -4740,7 +4740,7 @@
             "name": "自由のターコイズ·欠片",
             "count": 3,
             "rank": 3,
-            "icon": "/assets/images/Jean_material_104152_1753016039696.png",
+            "icon": "/assets/images/Jean_material_104152_1753018584488.png",
             "description": "キャラクターの突破用アイテム。\\n「風向きは変わるもの。」",
             "type": "キャラクター突破素材"
           },
@@ -4749,7 +4749,7 @@
             "name": "宝探しの鴉マーク",
             "count": 15,
             "rank": 1,
-            "icon": "/assets/images/Kaeya_material_112035_1753016045037.png",
+            "icon": "/assets/images/Kaeya_material_112035_1753018588810.png",
             "description": "宝盗団の誇りであるマーク、彼らの宝物に対する永遠不滅の情熱を示すものである。とはいえ、自分が盗賊ということを誇らしげに示す必要はあるかな…？",
             "type": "キャラと武器育成素材"
           },
@@ -4758,7 +4758,7 @@
             "name": "魔偶の芯",
             "count": 2,
             "rank": 4,
-            "icon": "/assets/images/Kaedehara Kazuha_material_113022_1753016088165.png",
+            "icon": "/assets/images/Kaedehara Kazuha_material_113022_1753018627170.png",
             "description": "無機化合物である魔偶剣鬼を生きているかのように剣を振るわせる芯。\\nどんなに優れた武術も、どんなに美しい思い出も、いずれ肉体と共に消えてしまう。\\n生身の時よりも永遠に近づくためには、手足胴体を全て頑丈なからくりへと変え、心臓を精密な「芯」に置き換えるしかないだろう…",
             "type": "キャラクター育成素材"
           }
@@ -4793,7 +4793,7 @@
             "name": "ウミレイシ",
             "count": 20,
             "rank": 1,
-            "icon": "/assets/images/Kaedehara Kazuha_material_101206_1753016088146.png",
+            "icon": "/assets/images/Kaedehara Kazuha_material_101206_1753018627165.png",
             "description": "特定の海域や島でしか育たない特殊な品種。キノコ類のように見えるが、実際は軟体動物の分泌と増殖から生まれたものである。",
             "type": "稲妻地域の特産"
           },
@@ -4802,7 +4802,7 @@
             "name": "自由のターコイズ·欠片",
             "count": 6,
             "rank": 3,
-            "icon": "/assets/images/Jean_material_104152_1753016039696.png",
+            "icon": "/assets/images/Jean_material_104152_1753018584488.png",
             "description": "キャラクターの突破用アイテム。\\n「風向きは変わるもの。」",
             "type": "キャラクター突破素材"
           },
@@ -4811,7 +4811,7 @@
             "name": "シルバーの鴉マーク",
             "count": 12,
             "rank": 2,
-            "icon": "/assets/images/Kaeya_material_112036_1753016045088.png",
+            "icon": "/assets/images/Kaeya_material_112036_1753018588807.png",
             "description": "宝盗団のメンバーが互いの存在を証明する鴉マーク。宝盗団のメンバーは出身を問わず、宝物への貪欲さえあれば、「優秀」なメンバーになれる。",
             "type": "キャラと武器育成素材"
           },
@@ -4820,7 +4820,7 @@
             "name": "魔偶の芯",
             "count": 4,
             "rank": 4,
-            "icon": "/assets/images/Kaedehara Kazuha_material_113022_1753016088165.png",
+            "icon": "/assets/images/Kaedehara Kazuha_material_113022_1753018627170.png",
             "description": "無機化合物である魔偶剣鬼を生きているかのように剣を振るわせる芯。\\nどんなに優れた武術も、どんなに美しい思い出も、いずれ肉体と共に消えてしまう。\\n生身の時よりも永遠に近づくためには、手足胴体を全て頑丈なからくりへと変え、心臓を精密な「芯」に置き換えるしかないだろう…",
             "type": "キャラクター育成素材"
           }
@@ -4855,7 +4855,7 @@
             "name": "ウミレイシ",
             "count": 30,
             "rank": 1,
-            "icon": "/assets/images/Kaedehara Kazuha_material_101206_1753016088146.png",
+            "icon": "/assets/images/Kaedehara Kazuha_material_101206_1753018627165.png",
             "description": "特定の海域や島でしか育たない特殊な品種。キノコ類のように見えるが、実際は軟体動物の分泌と増殖から生まれたものである。",
             "type": "稲妻地域の特産"
           },
@@ -4864,7 +4864,7 @@
             "name": "自由のターコイズ·塊",
             "count": 3,
             "rank": 4,
-            "icon": "/assets/images/Jean_material_104153_1753016039798.png",
+            "icon": "/assets/images/Jean_material_104153_1753018584489.png",
             "description": "キャラクターの突破用アイテム。\\n「風向きは変わるもの。」\\n「いつか、光射す方へと吹いてくる。」",
             "type": "キャラクター突破素材"
           },
@@ -4873,7 +4873,7 @@
             "name": "シルバーの鴉マーク",
             "count": 18,
             "rank": 2,
-            "icon": "/assets/images/Kaeya_material_112036_1753016045088.png",
+            "icon": "/assets/images/Kaeya_material_112036_1753018588807.png",
             "description": "宝盗団のメンバーが互いの存在を証明する鴉マーク。宝盗団のメンバーは出身を問わず、宝物への貪欲さえあれば、「優秀」なメンバーになれる。",
             "type": "キャラと武器育成素材"
           },
@@ -4882,7 +4882,7 @@
             "name": "魔偶の芯",
             "count": 8,
             "rank": 4,
-            "icon": "/assets/images/Kaedehara Kazuha_material_113022_1753016088165.png",
+            "icon": "/assets/images/Kaedehara Kazuha_material_113022_1753018627170.png",
             "description": "無機化合物である魔偶剣鬼を生きているかのように剣を振るわせる芯。\\nどんなに優れた武術も、どんなに美しい思い出も、いずれ肉体と共に消えてしまう。\\n生身の時よりも永遠に近づくためには、手足胴体を全て頑丈なからくりへと変え、心臓を精密な「芯」に置き換えるしかないだろう…",
             "type": "キャラクター育成素材"
           }
@@ -4917,7 +4917,7 @@
             "name": "ウミレイシ",
             "count": 45,
             "rank": 1,
-            "icon": "/assets/images/Kaedehara Kazuha_material_101206_1753016088146.png",
+            "icon": "/assets/images/Kaedehara Kazuha_material_101206_1753018627165.png",
             "description": "特定の海域や島でしか育たない特殊な品種。キノコ類のように見えるが、実際は軟体動物の分泌と増殖から生まれたものである。",
             "type": "稲妻地域の特産"
           },
@@ -4926,7 +4926,7 @@
             "name": "自由のターコイズ·塊",
             "count": 6,
             "rank": 4,
-            "icon": "/assets/images/Jean_material_104153_1753016039798.png",
+            "icon": "/assets/images/Jean_material_104153_1753018584489.png",
             "description": "キャラクターの突破用アイテム。\\n「風向きは変わるもの。」\\n「いつか、光射す方へと吹いてくる。」",
             "type": "キャラクター突破素材"
           },
@@ -4935,7 +4935,7 @@
             "name": "ゴールドの鴉マーク",
             "count": 12,
             "rank": 3,
-            "icon": "/assets/images/Kaeya_material_112037_1753016044988.png",
+            "icon": "/assets/images/Kaeya_material_112037_1753018588811.png",
             "description": "宝盗団の信仰と誇りを示す鴉マーク。この広い大地、幽邃の深淵、未知な海に秘宝が存在していれば、宝盗団の信念は永遠に続く。",
             "type": "キャラと武器育成素材"
           },
@@ -4944,7 +4944,7 @@
             "name": "魔偶の芯",
             "count": 12,
             "rank": 4,
-            "icon": "/assets/images/Kaedehara Kazuha_material_113022_1753016088165.png",
+            "icon": "/assets/images/Kaedehara Kazuha_material_113022_1753018627170.png",
             "description": "無機化合物である魔偶剣鬼を生きているかのように剣を振るわせる芯。\\nどんなに優れた武術も、どんなに美しい思い出も、いずれ肉体と共に消えてしまう。\\n生身の時よりも永遠に近づくためには、手足胴体を全て頑丈なからくりへと変え、心臓を精密な「芯」に置き換えるしかないだろう…",
             "type": "キャラクター育成素材"
           }
@@ -4979,7 +4979,7 @@
             "name": "ウミレイシ",
             "count": 60,
             "rank": 1,
-            "icon": "/assets/images/Kaedehara Kazuha_material_101206_1753016088146.png",
+            "icon": "/assets/images/Kaedehara Kazuha_material_101206_1753018627165.png",
             "description": "特定の海域や島でしか育たない特殊な品種。キノコ類のように見えるが、実際は軟体動物の分泌と増殖から生まれたものである。",
             "type": "稲妻地域の特産"
           },
@@ -4988,7 +4988,7 @@
             "name": "自由のターコイズ",
             "count": 6,
             "rank": 5,
-            "icon": "/assets/images/Jean_material_104154_1753016039745.png",
+            "icon": "/assets/images/Jean_material_104154_1753018584486.png",
             "description": "キャラクターの突破用アイテム。\\n「風向きは変わるもの。」\\n「いつか、光射す方へと吹いてくる。」\\n「これからは、ボクの祝福と共に、もっと自由に生きていこう。」",
             "type": "キャラクター突破素材"
           },
@@ -4997,7 +4997,7 @@
             "name": "ゴールドの鴉マーク",
             "count": 24,
             "rank": 3,
-            "icon": "/assets/images/Kaeya_material_112037_1753016044988.png",
+            "icon": "/assets/images/Kaeya_material_112037_1753018588811.png",
             "description": "宝盗団の信仰と誇りを示す鴉マーク。この広い大地、幽邃の深淵、未知な海に秘宝が存在していれば、宝盗団の信念は永遠に続く。",
             "type": "キャラと武器育成素材"
           },
@@ -5006,7 +5006,7 @@
             "name": "魔偶の芯",
             "count": 20,
             "rank": 4,
-            "icon": "/assets/images/Kaedehara Kazuha_material_113022_1753016088165.png",
+            "icon": "/assets/images/Kaedehara Kazuha_material_113022_1753018627170.png",
             "description": "無機化合物である魔偶剣鬼を生きているかのように剣を振るわせる芯。\\nどんなに優れた武術も、どんなに美しい思い出も、いずれ肉体と共に消えてしまう。\\n生身の時よりも永遠に近づくためには、手足胴体を全て頑丈なからくりへと変え、心臓を精密な「芯」に置き換えるしかないだろう…",
             "type": "キャラクター育成素材"
           }

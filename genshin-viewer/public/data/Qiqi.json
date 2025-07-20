@@ -8,7 +8,7 @@
   "region": "Liyue",
   "constellation": "法鈴座",
   "description": "薬舗「不卜廬」の薬採り兼弟子、紙のように白い顔色で不死身。口数が少なく、あまり表情がない。",
-  "icon": "/assets/images/Qiqi_icon_1753016070338.png",
+  "icon": "/assets/images/Qiqi_icon_1753018611519.png",
   "profile": {
     "baseHp": 962.853,
     "baseAtk": 22.344,
@@ -23,7 +23,7 @@
       "id": "雲来古剣法",
       "name": "雲来古剣法",
       "description": "",
-      "icon": "/assets/images/Kamisato Ayaka_normal_attack_1753016037630.png",
+      "icon": "/assets/images/Kamisato Ayaka_normal_attack_1753018583153.png",
       "skillType": "normal",
       "params": {
         "1": [],
@@ -44,10 +44,10 @@
       }
     },
     "skill": {
-      "id": "���法·寒病鬼差",
-      "name": "���法·寒病鬼差",
+      "id": "仙法·寒病鬼差",
+      "name": "仙法·寒病鬼差",
       "description": "",
-      "icon": "/assets/images/Qiqi_elemental_skill_1753016070338.png",
+      "icon": "/assets/images/Qiqi_elemental_skill_1753018611519.png",
       "levelData": [
         {
           "tableIndex": 1,
@@ -367,7 +367,7 @@
           ],
           "description": [
             "スキルダメージ|{param8:P}",
-            "���中による回復量|攻撃力{param1:F2P}+{param2:I}",
+            "命中による回復量|攻撃力{param1:F2P}+{param2:I}",
             "継続回復量|攻撃力{param3:F2P}+{param4:I}",
             "寒病鬼差ダメージ|{param5:F1P}",
             "継続時間|{param6:F1}秒",
@@ -809,7 +809,7 @@
             0
           ],
           "description": [
-            "ス���ルダメージ|{param8:P}",
+            "スキルダメージ|{param8:P}",
             "命中による回復量|攻撃力{param1:F2P}+{param2:I}",
             "継続回復量|攻撃力{param3:F2P}+{param4:I}",
             "寒病鬼差ダメージ|{param5:F1P}",
@@ -1136,21 +1136,21 @@
     "elementalBurst": {
       "name": "延命妙法",
       "description": "",
-      "icon": "/assets/images/Qiqi_elemental_burst_1753016070338.png",
+      "icon": "/assets/images/Qiqi_elemental_burst_1753018611519.png",
       "levelData": []
     },
     "passiveTalents": [
       {
         "name": "延命妙法",
-        "icon": "/assets/images/Qiqi_passive_1_1753016070338.png"
+        "icon": "/assets/images/Qiqi_passive_1_1753018611520.png"
       },
       {
         "name": "玉籤偶開",
-        "icon": "/assets/images/Qiqi_passive_2_1753016070339.png"
+        "icon": "/assets/images/Qiqi_passive_2_1753018611520.png"
       },
       {
         "name": "往事記憶",
-        "icon": "/assets/images/Qiqi_passive_3_1753016070339.png"
+        "icon": "/assets/images/Qiqi_passive_3_1753018611520.png"
       }
     ],
     "completeTableData": [
@@ -1895,7 +1895,7 @@
               "重撃ダメージ|{param6:P}+{param6:P}",
               "重撃スタミナ消費|{param7:F1}",
               "落下期間のダメージ|{param8:F1P}",
-              "低空/高空���下攻撃ダメージ|{param9:P}/{param10:P}",
+              "低空/高空落下攻撃ダメージ|{param9:P}/{param10:P}",
               "",
               "",
               "",
@@ -2202,7 +2202,7 @@
       {
         "talentIndex": 1,
         "talentId": "1",
-        "name": "���法·寒病鬼差",
+        "name": "仙法·寒病鬼差",
         "type": "0",
         "levelData": [
           {
@@ -2508,7 +2508,7 @@
             ],
             "description": [
               "スキルダメージ|{param8:P}",
-              "���中による回復量|攻撃力{param1:F2P}+{param2:I}",
+              "命中による回復量|攻撃力{param1:F2P}+{param2:I}",
               "継続回復量|攻撃力{param3:F2P}+{param4:I}",
               "寒病鬼差ダメージ|{param5:F1P}",
               "継続時間|{param6:F1}秒",
@@ -2932,7 +2932,7 @@
               0
             ],
             "description": [
-              "ス���ルダメージ|{param8:P}",
+              "スキルダメージ|{param8:P}",
               "命中による回復量|攻撃力{param1:F2P}+{param2:I}",
               "継続回復量|攻撃力{param3:F2P}+{param4:I}",
               "寒病鬼差ダメージ|{param5:F1P}",
@@ -3907,7 +3907,7 @@
             "description": [
               "スキルダメージ|{param3:P}",
               "回復量|攻撃力{param1:P}+{param2:I}",
-              "継��時間|{param4:F1}秒",
+              "継続時間|{param4:F1}秒",
               "クールタイム|{param5:F1}秒",
               "元素エネルギー|{param6:I}",
               "",
@@ -4317,32 +4317,32 @@
       {
         "level": null,
         "name": "寒苦回向",
-        "icon": "/assets/images/Qiqi_constellation_cNaN_1753016070339.png"
+        "icon": "/assets/images/Qiqi_constellation_cNaN_1753018611520.png"
       },
       {
         "level": null,
         "name": "氷寒蝕骨",
-        "icon": "/assets/images/Qiqi_constellation_cNaN_1753016070339.png"
+        "icon": "/assets/images/Qiqi_constellation_cNaN_1753018611520.png"
       },
       {
         "level": null,
         "name": "昇天宝誥",
-        "icon": "/assets/images/Qiqi_constellation_cNaN_1753016070339.png"
+        "icon": "/assets/images/Qiqi_constellation_cNaN_1753018611520.png"
       },
       {
         "level": null,
         "name": "天威圧衆",
-        "icon": "/assets/images/Qiqi_constellation_cNaN_1753016070339.png"
+        "icon": "/assets/images/Qiqi_constellation_cNaN_1753018611520.png"
       },
       {
         "level": null,
         "name": "紅蓮開花",
-        "icon": "/assets/images/Qiqi_constellation_cNaN_1753016070339.png"
+        "icon": "/assets/images/Qiqi_constellation_cNaN_1753018611520.png"
       },
       {
         "level": null,
         "name": "起死回骸",
-        "icon": "/assets/images/Qiqi_constellation_cNaN_1753016070339.png"
+        "icon": "/assets/images/Qiqi_constellation_cNaN_1753018611520.png"
       }
     ]
   },
@@ -4359,14 +4359,14 @@
     "id": 210019,
     "name": "七七·冷蔵",
     "description": "七七·冷蔵",
-    "icon": "/assets/images/Qiqi_icon_1753016070338.png"
+    "icon": "/assets/images/Qiqi_namecard_1753018611646.png"
   },
   "specialFood": {
     "id": 108140,
     "name": "アシタナシ",
     "rank": 3,
-    "icon": "/assets/images/Qiqi_special_food_1753016070339.png",
-    "effectIcon": "/assets/images/Diluc_food_effect_1753016046496.png"
+    "icon": "/assets/images/Qiqi_special_food_1753018611520.png",
+    "effectIcon": "/assets/images/Diluc_food_effect_1753018590242.png"
   },
   "levelProgression": [
     {
@@ -4682,7 +4682,7 @@
             "name": "琉璃袋",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Qiqi_material_100034_1753016070570.png",
+            "icon": "/assets/images/Qiqi_material_100034_1753018611554.png",
             "description": "生命力旺盛な花。地面に向ける咲き方は自らの香りを守るためらしい。",
             "type": "璃月地域の特産"
           },
@@ -4691,7 +4691,7 @@
             "name": "哀切なアイスクリスタル·砕屑",
             "count": 1,
             "rank": 2,
-            "icon": "/assets/images/Kamisato Ayaka_material_104161_1753016037888.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104161_1753018583217.png",
             "description": "キャラクターの突破用アイテム。",
             "type": "キャラクター突破素材"
           },
@@ -4700,7 +4700,7 @@
             "name": "占いの絵巻",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Barbara_material_112008_1753016043257.png",
+            "icon": "/assets/images/Barbara_material_112008_1753018587369.png",
             "description": "ある、魔法に関する絵巻の断片だと考えられる。異様で不吉な暖かさがある。",
             "type": "キャラと武器育成素材"
           }
@@ -4731,7 +4731,7 @@
             "name": "琉璃袋",
             "count": 10,
             "rank": 1,
-            "icon": "/assets/images/Qiqi_material_100034_1753016070570.png",
+            "icon": "/assets/images/Qiqi_material_100034_1753018611554.png",
             "description": "生命力旺盛な花。地面に向ける咲き方は自らの香りを守るためらしい。",
             "type": "璃月地域の特産"
           },
@@ -4740,7 +4740,7 @@
             "name": "哀切なアイスクリスタル·欠片",
             "count": 3,
             "rank": 3,
-            "icon": "/assets/images/Kamisato Ayaka_material_104162_1753016038065.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104162_1753018583217.png",
             "description": "キャラクターの突破用アイテム。\\n「…すみません…」",
             "type": "キャラクター突破素材"
           },
@@ -4749,7 +4749,7 @@
             "name": "占いの絵巻",
             "count": 15,
             "rank": 1,
-            "icon": "/assets/images/Barbara_material_112008_1753016043257.png",
+            "icon": "/assets/images/Barbara_material_112008_1753018587369.png",
             "description": "ある、魔法に関する絵巻の断片だと考えられる。異様で不吉な暖かさがある。",
             "type": "キャラと武器育成素材"
           },
@@ -4758,7 +4758,7 @@
             "name": "極寒のコア",
             "count": 2,
             "rank": 4,
-            "icon": "/assets/images/Kaeya_material_113010_1753016045011.png",
+            "icon": "/assets/images/Kaeya_material_113010_1753018588810.png",
             "description": "急凍樹を倒した後に現れるコア。\\n今にも大地の深淵のエネルギーと思念が噴出しようとしている。哀悼のように静寂な氷霜もいずれ地上の生物に宿る。たとえ生き物を狩らないはずのツル植物でも、強く凶暴になるであろう。",
             "type": "キャラクター育成素材"
           }
@@ -4793,7 +4793,7 @@
             "name": "琉璃袋",
             "count": 20,
             "rank": 1,
-            "icon": "/assets/images/Qiqi_material_100034_1753016070570.png",
+            "icon": "/assets/images/Qiqi_material_100034_1753018611554.png",
             "description": "生命力旺盛な花。地面に向ける咲き方は自らの香りを守るためらしい。",
             "type": "璃月地域の特産"
           },
@@ -4802,7 +4802,7 @@
             "name": "哀切なアイスクリスタル·欠片",
             "count": 6,
             "rank": 3,
-            "icon": "/assets/images/Kamisato Ayaka_material_104162_1753016038065.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104162_1753018583217.png",
             "description": "キャラクターの突破用アイテム。\\n「…すみません…」",
             "type": "キャラクター突破素材"
           },
@@ -4811,7 +4811,7 @@
             "name": "封魔の絵巻",
             "count": 12,
             "rank": 2,
-            "icon": "/assets/images/Barbara_material_112009_1753016043233.png",
+            "icon": "/assets/images/Barbara_material_112009_1753018587373.png",
             "description": "解読が難しい絵がある古書の断章。中の人物を真似することで、魔物も魔法を再現できるようになる。",
             "type": "キャラと武器育成素材"
           },
@@ -4820,7 +4820,7 @@
             "name": "極寒のコア",
             "count": 4,
             "rank": 4,
-            "icon": "/assets/images/Kaeya_material_113010_1753016045011.png",
+            "icon": "/assets/images/Kaeya_material_113010_1753018588810.png",
             "description": "急凍樹を倒した後に現れるコア。\\n今にも大地の深淵のエネルギーと思念が噴出しようとしている。哀悼のように静寂な氷霜もいずれ地上の生物に宿る。たとえ生き物を狩らないはずのツル植物でも、強く凶暴になるであろう。",
             "type": "キャラクター育成素材"
           }
@@ -4855,7 +4855,7 @@
             "name": "琉璃袋",
             "count": 30,
             "rank": 1,
-            "icon": "/assets/images/Qiqi_material_100034_1753016070570.png",
+            "icon": "/assets/images/Qiqi_material_100034_1753018611554.png",
             "description": "生命力旺盛な花。地面に向ける咲き方は自らの香りを守るためらしい。",
             "type": "璃月地域の特産"
           },
@@ -4864,7 +4864,7 @@
             "name": "哀切なアイスクリスタル·塊",
             "count": 3,
             "rank": 4,
-            "icon": "/assets/images/Kamisato Ayaka_material_104163_1753016038108.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104163_1753018583214.png",
             "description": "キャラクターの突破用アイテム。\\n「…すみません…」\\n「あなた達まで、わたしと一緒にこの世界の悲しみを背負わせるなんて…」",
             "type": "キャラクター突破素材"
           },
@@ -4873,7 +4873,7 @@
             "name": "封魔の絵巻",
             "count": 18,
             "rank": 2,
-            "icon": "/assets/images/Barbara_material_112009_1753016043233.png",
+            "icon": "/assets/images/Barbara_material_112009_1753018587373.png",
             "description": "解読が難しい絵がある古書の断章。中の人物を真似することで、魔物も魔法を再現できるようになる。",
             "type": "キャラと武器育成素材"
           },
@@ -4882,7 +4882,7 @@
             "name": "極寒のコア",
             "count": 8,
             "rank": 4,
-            "icon": "/assets/images/Kaeya_material_113010_1753016045011.png",
+            "icon": "/assets/images/Kaeya_material_113010_1753018588810.png",
             "description": "急凍樹を倒した後に現れるコア。\\n今にも大地の深淵のエネルギーと思念が噴出しようとしている。哀悼のように静寂な氷霜もいずれ地上の生物に宿る。たとえ生き物を狩らないはずのツル植物でも、強く凶暴になるであろう。",
             "type": "キャラクター育成素材"
           }
@@ -4917,7 +4917,7 @@
             "name": "琉璃袋",
             "count": 45,
             "rank": 1,
-            "icon": "/assets/images/Qiqi_material_100034_1753016070570.png",
+            "icon": "/assets/images/Qiqi_material_100034_1753018611554.png",
             "description": "生命力旺盛な花。地面に向ける咲き方は自らの香りを守るためらしい。",
             "type": "璃月地域の特産"
           },
@@ -4926,7 +4926,7 @@
             "name": "哀切なアイスクリスタル·塊",
             "count": 6,
             "rank": 4,
-            "icon": "/assets/images/Kamisato Ayaka_material_104163_1753016038108.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104163_1753018583214.png",
             "description": "キャラクターの突破用アイテム。\\n「…すみません…」\\n「あなた達まで、わたしと一緒にこの世界の悲しみを背負わせるなんて…」",
             "type": "キャラクター突破素材"
           },
@@ -4935,7 +4935,7 @@
             "name": "禁呪の絵巻",
             "count": 12,
             "rank": 3,
-            "icon": "/assets/images/Barbara_material_112010_1753016043280.png",
+            "icon": "/assets/images/Barbara_material_112010_1753018587367.png",
             "description": "古代の絵が描かれている古い写本。その意味を解読できる人は少ないが、本当の意味を理解した学者はみんな狂ってしまったという噂がある。",
             "type": "キャラと武器育成素材"
           },
@@ -4944,7 +4944,7 @@
             "name": "極寒のコア",
             "count": 12,
             "rank": 4,
-            "icon": "/assets/images/Kaeya_material_113010_1753016045011.png",
+            "icon": "/assets/images/Kaeya_material_113010_1753018588810.png",
             "description": "急凍樹を倒した後に現れるコア。\\n今にも大地の深淵のエネルギーと思念が噴出しようとしている。哀悼のように静寂な氷霜もいずれ地上の生物に宿る。たとえ生き物を狩らないはずのツル植物でも、強く凶暴になるであろう。",
             "type": "キャラクター育成素材"
           }
@@ -4979,7 +4979,7 @@
             "name": "琉璃袋",
             "count": 60,
             "rank": 1,
-            "icon": "/assets/images/Qiqi_material_100034_1753016070570.png",
+            "icon": "/assets/images/Qiqi_material_100034_1753018611554.png",
             "description": "生命力旺盛な花。地面に向ける咲き方は自らの香りを守るためらしい。",
             "type": "璃月地域の特産"
           },
@@ -4988,7 +4988,7 @@
             "name": "哀切なアイスクリスタル",
             "count": 6,
             "rank": 5,
-            "icon": "/assets/images/Kamisato Ayaka_material_104164_1753016037959.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104164_1753018583221.png",
             "description": "キャラクターの突破用アイテム。\\n「…すみません、あなた達まで、わたしと一緒にこの世界の悲しみを背負わせるなんて…」\\n「わたしの寒さを耐えられる者は、きっと心の中に熱い欲望を持っているだろう？」\\n「なら、わたしの代わりに、旧世界を焼き尽くそう。」",
             "type": "キャラクター突破素材"
           },
@@ -4997,7 +4997,7 @@
             "name": "禁呪の絵巻",
             "count": 24,
             "rank": 3,
-            "icon": "/assets/images/Barbara_material_112010_1753016043280.png",
+            "icon": "/assets/images/Barbara_material_112010_1753018587367.png",
             "description": "古代の絵が描かれている古い写本。その意味を解読できる人は少ないが、本当の意味を理解した学者はみんな狂ってしまったという噂がある。",
             "type": "キャラと武器育成素材"
           },
@@ -5006,7 +5006,7 @@
             "name": "極寒のコア",
             "count": 20,
             "rank": 4,
-            "icon": "/assets/images/Kaeya_material_113010_1753016045011.png",
+            "icon": "/assets/images/Kaeya_material_113010_1753018588810.png",
             "description": "急凍樹を倒した後に現れるコア。\\n今にも大地の深淵のエネルギーと思念が噴出しようとしている。哀悼のように静寂な氷霜もいずれ地上の生物に宿る。たとえ生き物を狩らないはずのツル植物でも、強く凶暴になるであろう。",
             "type": "キャラクター育成素材"
           }

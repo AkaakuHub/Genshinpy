@@ -8,7 +8,7 @@
   "region": "Inazuma",
   "constellation": "天ノ牛座",
   "description": "稲妻城の花見坂で活動する「荒瀧派」の初代親分。なにっ！？荒瀧派なんて聞いたこともないだと？喧嘩売ってんのか、コラァ！？",
-  "icon": "/assets/images/Arataki Itto_icon_1753016103849.png",
+  "icon": "/assets/images/Arataki Itto_icon_1753018640601.png",
   "profile": {
     "baseHp": 1000.986,
     "baseAtk": 17.689,
@@ -23,7 +23,7 @@
       "id": "喧嘩屋伝説",
       "name": "喧嘩屋伝説",
       "description": "",
-      "icon": "/assets/images/Diluc_normal_attack_1753016046495.png",
+      "icon": "/assets/images/Diluc_normal_attack_1753018590240.png",
       "skillType": "normal",
       "params": {
         "1": [],
@@ -47,7 +47,7 @@
       "id": "魔殺絶技·岩牛発破！",
       "name": "魔殺絶技·岩牛発破！",
       "description": "",
-      "icon": "/assets/images/Arataki Itto_elemental_skill_1753016103849.png",
+      "icon": "/assets/images/Arataki Itto_elemental_skill_1753018640601.png",
       "levelData": [
         {
           "tableIndex": 1,
@@ -1136,21 +1136,21 @@
     "elementalBurst": {
       "name": "荒瀧第一",
       "description": "",
-      "icon": "/assets/images/Arataki Itto_elemental_burst_1753016103849.png",
+      "icon": "/assets/images/Arataki Itto_elemental_burst_1753018640601.png",
       "levelData": []
     },
     "passiveTalents": [
       {
         "name": "荒瀧第一",
-        "icon": "/assets/images/Arataki Itto_passive_1_1753016103849.png"
+        "icon": "/assets/images/Arataki Itto_passive_1_1753018640601.png"
       },
       {
         "name": "赤鬼の血",
-        "icon": "/assets/images/Arataki Itto_passive_2_1753016103849.png"
+        "icon": "/assets/images/Arataki Itto_passive_2_1753018640601.png"
       },
       {
         "name": "乾裂枝砕き",
-        "icon": "/assets/images/Arataki Itto_passive_3_1753016103849.png"
+        "icon": "/assets/images/Arataki Itto_passive_3_1753018640601.png"
       }
     ],
     "completeTableData": [
@@ -1324,7 +1324,7 @@
             "description": [
               "1段ダメージ|{param1:F1P}",
               "2段ダメージ|{param2:F1P}",
-              "3段ダメージ|{param3:F1P}",
+              "3段ダメ���ジ|{param3:F1P}",
               "4段ダメージ|{param4:F1P}",
               "荒瀧逆袈裟連斬ダメージ|{param6:F1P}",
               "荒瀧逆袈裟とどめダメージ|{param7:F1P}",
@@ -2097,7 +2097,7 @@
               "乱神の怪力継続時間|{param12:F1}秒",
               "左一文字斬りダメージ|{param5:F1P}",
               "左一文字斬りスタミナ消費|{param8:F1}",
-              "落下期間の��メージ|{param9:F1P}",
+              "落下期間のダメージ|{param9:F1P}",
               "低空/高空落下攻撃ダメージ|{param10:P}/{param11:P}",
               "",
               "",
@@ -4317,32 +4317,32 @@
       {
         "level": null,
         "name": "知らぬなら、聞かせてやろう",
-        "icon": "/assets/images/Arataki Itto_constellation_cNaN_1753016103849.png"
+        "icon": "/assets/images/Arataki Itto_constellation_cNaN_1753018640601.png"
       },
       {
         "level": null,
         "name": "衆よ集いて、山岳倒し",
-        "icon": "/assets/images/Arataki Itto_constellation_cNaN_1753016103849.png"
+        "icon": "/assets/images/Arataki Itto_constellation_cNaN_1753018640601.png"
       },
       {
         "level": null,
         "name": "牛王跨げば、水陸自在",
-        "icon": "/assets/images/Arataki Itto_constellation_cNaN_1753016103850.png"
+        "icon": "/assets/images/Arataki Itto_constellation_cNaN_1753018640601.png"
       },
       {
         "level": null,
         "name": "奉行牢獄、御食事処",
-        "icon": "/assets/images/Arataki Itto_constellation_cNaN_1753016103850.png"
+        "icon": "/assets/images/Arataki Itto_constellation_cNaN_1753018640601.png"
       },
       {
         "level": null,
         "name": "花坂十年、轟く我が名",
-        "icon": "/assets/images/Arataki Itto_constellation_cNaN_1753016103850.png"
+        "icon": "/assets/images/Arataki Itto_constellation_cNaN_1753018640602.png"
       },
       {
         "level": null,
         "name": "傾奇の張本、荒瀧一斗",
-        "icon": "/assets/images/Arataki Itto_constellation_cNaN_1753016103850.png"
+        "icon": "/assets/images/Arataki Itto_constellation_cNaN_1753018640602.png"
       }
     ]
   },
@@ -4359,14 +4359,14 @@
     "id": 210100,
     "name": "祭典·一揆",
     "description": "祭典·一揆",
-    "icon": "/assets/images/Arataki Itto_icon_1753016103849.png"
+    "icon": "/assets/images/Arataki Itto_namecard_1753018640737.png"
   },
   "specialFood": {
     "id": 108364,
     "name": "強者の道のり",
     "rank": 2,
-    "icon": "/assets/images/Arataki Itto_special_food_1753016103850.png",
-    "effectIcon": "/assets/images/Kamisato Ayaka_food_effect_1753016037647.png"
+    "icon": "/assets/images/Arataki Itto_special_food_1753018640602.png",
+    "effectIcon": "/assets/images/Kamisato Ayaka_food_effect_1753018583171.png"
   },
   "levelProgression": [
     {
@@ -4682,7 +4682,7 @@
             "name": "オニカブトムシ",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Arataki Itto_material_101201_1753016104082.png",
+            "icon": "/assets/images/Arataki Itto_material_101201_1753018640617.png",
             "description": "雷元素が豊富なエリアに生息している不思議な甲虫。身を覆う殻には悪鬼の模様があるが、本体はいたって温厚で動きが鈍い。",
             "type": "稲妻地域の特産"
           },
@@ -4691,7 +4691,7 @@
             "name": "堅牢なトパーズ·砕屑",
             "count": 1,
             "rank": 2,
-            "icon": "/assets/images/Ningguang_material_104171_1753016059697.png",
+            "icon": "/assets/images/Ningguang_material_104171_1753018601569.png",
             "description": "キャラクターの突破用アイテム。",
             "type": "キャラクター突破素材"
           },
@@ -4700,7 +4700,7 @@
             "name": "スライムの液体",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Lisa_material_112002_1753016041434.png",
+            "icon": "/assets/images/Lisa_material_112002_1753018585932.png",
             "description": "スライムの表面にある液体、各地の元素工房では最もよくある原料である。",
             "type": "キャラと武器育成素材"
           }
@@ -4731,7 +4731,7 @@
             "name": "オニカブトムシ",
             "count": 10,
             "rank": 1,
-            "icon": "/assets/images/Arataki Itto_material_101201_1753016104082.png",
+            "icon": "/assets/images/Arataki Itto_material_101201_1753018640617.png",
             "description": "雷元素が豊富なエリアに生息している不思議な甲虫。身を覆う殻には悪鬼の模様があるが、本体はいたって温厚で動きが鈍い。",
             "type": "稲妻地域の特産"
           },
@@ -4740,7 +4740,7 @@
             "name": "堅牢なトパーズ·欠片",
             "count": 3,
             "rank": 3,
-            "icon": "/assets/images/Ningguang_material_104172_1753016059875.png",
+            "icon": "/assets/images/Ningguang_material_104172_1753018601561.png",
             "description": "キャラクターの突破用アイテム。\\n「この大陸の全ての金銭は俺の血肉。」",
             "type": "キャラクター突破素材"
           },
@@ -4749,7 +4749,7 @@
             "name": "スライムの液体",
             "count": 15,
             "rank": 1,
-            "icon": "/assets/images/Lisa_material_112002_1753016041434.png",
+            "icon": "/assets/images/Lisa_material_112002_1753018585932.png",
             "description": "スライムの表面にある液体、各地の元素工房では最もよくある原料である。",
             "type": "キャラと武器育成素材"
           },
@@ -4758,7 +4758,7 @@
             "name": "獣域王器",
             "count": 2,
             "rank": 4,
-            "icon": "/assets/images/Arataki Itto_material_113030_1753016104054.png",
+            "icon": "/assets/images/Arataki Itto_material_113030_1753018640613.png",
             "description": "王獣を倒すと入手した折れた角。追放された後、この世に存在すべきではないもの。\\n獣域ウルブズの中で帝王と呼ばれていても、魔獣たちの系譜では、その兄たちの万分の一にも満たないだろう。\\n「黄金」が無数の獣域ウルブズを捨て紙のように圧縮して偶然にできた異形の魔獣。その角には、黒いウルブズを命じて自分のために空間を溶かす権威が秘めている。",
             "type": "キャラクター育成素材"
           }
@@ -4793,7 +4793,7 @@
             "name": "オニカブトムシ",
             "count": 20,
             "rank": 1,
-            "icon": "/assets/images/Arataki Itto_material_101201_1753016104082.png",
+            "icon": "/assets/images/Arataki Itto_material_101201_1753018640617.png",
             "description": "雷元素が豊富なエリアに生息している不思議な甲虫。身を覆う殻には悪鬼の模様があるが、本体はいたって温厚で動きが鈍い。",
             "type": "稲妻地域の特産"
           },
@@ -4802,7 +4802,7 @@
             "name": "堅牢なトパーズ·欠片",
             "count": 6,
             "rank": 3,
-            "icon": "/assets/images/Ningguang_material_104172_1753016059875.png",
+            "icon": "/assets/images/Ningguang_material_104172_1753018601561.png",
             "description": "キャラクターの突破用アイテム。\\n「この大陸の全ての金銭は俺の血肉。」",
             "type": "キャラクター突破素材"
           },
@@ -4811,7 +4811,7 @@
             "name": "スライムの分泌物",
             "count": 12,
             "rank": 2,
-            "icon": "/assets/images/Lisa_material_112003_1753016041563.png",
+            "icon": "/assets/images/Lisa_material_112003_1753018585933.png",
             "description": "純化されたスライムの分泌物、皮膚を傷つけるため、直接接触はしないように。",
             "type": "キャラと武器育成素材"
           },
@@ -4820,7 +4820,7 @@
             "name": "獣域王器",
             "count": 4,
             "rank": 4,
-            "icon": "/assets/images/Arataki Itto_material_113030_1753016104054.png",
+            "icon": "/assets/images/Arataki Itto_material_113030_1753018640613.png",
             "description": "王獣を倒すと入手した折れた角。追放された後、この世に存在すべきではないもの。\\n獣域ウルブズの中で帝王と呼ばれていても、魔獣たちの系譜では、その兄たちの万分の一にも満たないだろう。\\n「黄金」が無数の獣域ウルブズを捨て紙のように圧縮して偶然にできた異形の魔獣。その角には、黒いウルブズを命じて自分のために空間を溶かす権威が秘めている。",
             "type": "キャラクター育成素材"
           }
@@ -4855,7 +4855,7 @@
             "name": "オニカブトムシ",
             "count": 30,
             "rank": 1,
-            "icon": "/assets/images/Arataki Itto_material_101201_1753016104082.png",
+            "icon": "/assets/images/Arataki Itto_material_101201_1753018640617.png",
             "description": "雷元素が豊富なエリアに生息している不思議な甲虫。身を覆う殻には悪鬼の模様があるが、本体はいたって温厚で動きが鈍い。",
             "type": "稲妻地域の特産"
           },
@@ -4864,7 +4864,7 @@
             "name": "堅牢なトパーズ·塊",
             "count": 3,
             "rank": 4,
-            "icon": "/assets/images/Ningguang_material_104173_1753016059850.png",
+            "icon": "/assets/images/Ningguang_material_104173_1753018601591.png",
             "description": "キャラクターの突破用アイテム。\\n「この大陸の全ての金銭は俺の血肉。」\\n「こんな形で俺は、人間の労働、知恵、未来を保証する。」",
             "type": "キャラクター突破素材"
           },
@@ -4873,7 +4873,7 @@
             "name": "スライムの分泌物",
             "count": 18,
             "rank": 2,
-            "icon": "/assets/images/Lisa_material_112003_1753016041563.png",
+            "icon": "/assets/images/Lisa_material_112003_1753018585933.png",
             "description": "純化されたスライムの分泌物、皮膚を傷つけるため、直接接触はしないように。",
             "type": "キャラと武器育成素材"
           },
@@ -4882,7 +4882,7 @@
             "name": "獣域王器",
             "count": 8,
             "rank": 4,
-            "icon": "/assets/images/Arataki Itto_material_113030_1753016104054.png",
+            "icon": "/assets/images/Arataki Itto_material_113030_1753018640613.png",
             "description": "王獣を倒すと入手した折れた角。追放された後、この世に存在すべきではないもの。\\n獣域ウルブズの中で帝王と呼ばれていても、魔獣たちの系譜では、その兄たちの万分の一にも満たないだろう。\\n「黄金」が無数の獣域ウルブズを捨て紙のように圧縮して偶然にできた異形の魔獣。その角には、黒いウルブズを命じて自分のために空間を溶かす権威が秘めている。",
             "type": "キャラクター育成素材"
           }
@@ -4917,7 +4917,7 @@
             "name": "オニカブトムシ",
             "count": 45,
             "rank": 1,
-            "icon": "/assets/images/Arataki Itto_material_101201_1753016104082.png",
+            "icon": "/assets/images/Arataki Itto_material_101201_1753018640617.png",
             "description": "雷元素が豊富なエリアに生息している不思議な甲虫。身を覆う殻には悪鬼の模様があるが、本体はいたって温厚で動きが鈍い。",
             "type": "稲妻地域の特産"
           },
@@ -4926,7 +4926,7 @@
             "name": "堅牢なトパーズ·塊",
             "count": 6,
             "rank": 4,
-            "icon": "/assets/images/Ningguang_material_104173_1753016059850.png",
+            "icon": "/assets/images/Ningguang_material_104173_1753018601591.png",
             "description": "キャラクターの突破用アイテム。\\n「この大陸の全ての金銭は俺の血肉。」\\n「こんな形で俺は、人間の労働、知恵、未来を保証する。」",
             "type": "キャラクター突破素材"
           },
@@ -4935,7 +4935,7 @@
             "name": "スライムのピュレ",
             "count": 12,
             "rank": 3,
-            "icon": "/assets/images/Lisa_material_112004_1753016041461.png",
+            "icon": "/assets/images/Lisa_material_112004_1753018585931.png",
             "description": "スライムの濃縮ピュレ、静止した状態では不規則な動きをする。",
             "type": "キャラと武器育成素材"
           },
@@ -4944,7 +4944,7 @@
             "name": "獣域王器",
             "count": 12,
             "rank": 4,
-            "icon": "/assets/images/Arataki Itto_material_113030_1753016104054.png",
+            "icon": "/assets/images/Arataki Itto_material_113030_1753018640613.png",
             "description": "王獣を倒すと入手した折れた角。追放された後、この世に存在すべきではないもの。\\n獣域ウルブズの中で帝王と呼ばれていても、魔獣たちの系譜では、その兄たちの万分の一にも満たないだろう。\\n「黄金」が無数の獣域ウルブズを捨て紙のように圧縮して偶然にできた異形の魔獣。その角には、黒いウルブズを命じて自分のために空間を溶かす権威が秘めている。",
             "type": "キャラクター育成素材"
           }
@@ -4979,7 +4979,7 @@
             "name": "オニカブトムシ",
             "count": 60,
             "rank": 1,
-            "icon": "/assets/images/Arataki Itto_material_101201_1753016104082.png",
+            "icon": "/assets/images/Arataki Itto_material_101201_1753018640617.png",
             "description": "雷元素が豊富なエリアに生息している不思議な甲虫。身を覆う殻には悪鬼の模様があるが、本体はいたって温厚で動きが鈍い。",
             "type": "稲妻地域の特産"
           },
@@ -4988,7 +4988,7 @@
             "name": "堅牢なトパーズ",
             "count": 6,
             "rank": 5,
-            "icon": "/assets/images/Ningguang_material_104174_1753016059901.png",
+            "icon": "/assets/images/Ningguang_material_104174_1753018601562.png",
             "description": "キャラクターの突破用アイテム。\\n「この大陸の全ての金銭は俺の血肉。」\\n「こんな形で俺は、人間の労働、知恵、未来を保証する。」\\n「これが俺の人間への信頼。金銭に背くことは、俺の血を汚すと同然だ。」",
             "type": "キャラクター突破素材"
           },
@@ -4997,7 +4997,7 @@
             "name": "スライムのピュレ",
             "count": 24,
             "rank": 3,
-            "icon": "/assets/images/Lisa_material_112004_1753016041461.png",
+            "icon": "/assets/images/Lisa_material_112004_1753018585931.png",
             "description": "スライムの濃縮ピュレ、静止した状態では不規則な動きをする。",
             "type": "キャラと武器育成素材"
           },
@@ -5006,7 +5006,7 @@
             "name": "獣域王器",
             "count": 20,
             "rank": 4,
-            "icon": "/assets/images/Arataki Itto_material_113030_1753016104054.png",
+            "icon": "/assets/images/Arataki Itto_material_113030_1753018640613.png",
             "description": "王獣を倒すと入手した折れた角。追放された後、この世に存在すべきではないもの。\\n獣域ウルブズの中で帝王と呼ばれていても、魔獣たちの系譜では、その兄たちの万分の一にも満たないだろう。\\n「黄金」が無数の獣域ウルブズを捨て紙のように圧縮して偶然にできた異形の魔獣。その角には、黒いウルブズを命じて自分のために空間を溶かす権威が秘めている。",
             "type": "キャラクター育成素材"
           }

@@ -8,7 +8,7 @@
   "region": "Liyue",
   "constellation": "玄鳥座",
   "description": "沈玉の谷出身の籐編み職人。端正な面持ちがすっきりとした印象を与える、泉のように瑞々しい少女。",
-  "icon": "/assets/images/Lan Yan_icon_1753016182707.png",
+  "icon": "/assets/images/Lan Yan_icon_1753018713303.png",
   "profile": {
     "baseHp": 775.022,
     "baseAtk": 21.013,
@@ -23,7 +23,7 @@
       "id": "玄鳥画水",
       "name": "玄鳥画水",
       "description": "",
-      "icon": "/assets/images/Lisa_normal_attack_1753016041229.png",
+      "icon": "/assets/images/Lisa_normal_attack_1753018585917.png",
       "skillType": "normal",
       "params": {
         "1": [],
@@ -47,7 +47,7 @@
       "id": "鳳跡随翦舞",
       "name": "鳳跡随翦舞",
       "description": "",
-      "icon": "/assets/images/Lan Yan_elemental_skill_1753016182708.png",
+      "icon": "/assets/images/Lan Yan_elemental_skill_1753018713304.png",
       "levelData": [
         {
           "tableIndex": 1,
@@ -368,7 +368,7 @@
           "description": [
             "翦月輪のダメージ|{param1:F1P}",
             "シールド吸収量|攻撃力{param2:F1P}+{param3:I}",
-            "シールド継続時��|{param4:F1}秒",
+            "シール���継続時間|{param4:F1}秒",
             "クールタイム|{param5:F1}秒",
             "",
             "",
@@ -1136,21 +1136,21 @@
     "elementalBurst": {
       "name": "四方封刀の霊占",
       "description": "",
-      "icon": "/assets/images/Lan Yan_elemental_burst_1753016182708.png",
+      "icon": "/assets/images/Lan Yan_elemental_burst_1753018713304.png",
       "levelData": []
     },
     "passiveTalents": [
       {
         "name": "四方封刀の霊占",
-        "icon": "/assets/images/Lan Yan_passive_1_1753016182708.png"
+        "icon": "/assets/images/Lan Yan_passive_1_1753018713304.png"
       },
       {
         "name": "蒼羽鎮邪の勅符",
-        "icon": "/assets/images/Lan Yan_passive_2_1753016182708.png"
+        "icon": "/assets/images/Lan Yan_passive_2_1753018713304.png"
       },
       {
         "name": "「芳る心、綿々たる想い」",
-        "icon": "/assets/images/Sayu_passive_3_1753016097774.png"
+        "icon": "/assets/images/Sayu_passive_3_1753018635200.png"
       }
     ],
     "completeTableData": [
@@ -1392,7 +1392,7 @@
               0
             ],
             "description": [
-              "1段ダメージ|{param1:F1P}",
+              "1段ダメ���ジ|{param1:F1P}",
               "2段ダメージ|{param2:F1P}+{param3:F1P}",
               "3段ダメージ|{param4:F1P}+{param5:F1P}",
               "4段ダメージ|{param6:F1P}",
@@ -2509,7 +2509,7 @@
             "description": [
               "翦月輪のダメージ|{param1:F1P}",
               "シールド吸収量|攻撃力{param2:F1P}+{param3:I}",
-              "シールド継続時��|{param4:F1}秒",
+              "シール���継続時間|{param4:F1}秒",
               "クールタイム|{param5:F1}秒",
               "",
               "",
@@ -3412,7 +3412,7 @@
               0
             ],
             "description": [
-              "スキルダメ���ジ|{param1:F1P}×3",
+              "スキルダメージ|{param1:F1P}×3",
               "クールタイム|{param2:F1}秒",
               "元素エネルギー|{param3:I}",
               "",
@@ -4316,33 +4316,33 @@
     "constellations": [
       {
         "level": null,
-        "name": "「雲の合間にかの人���り」",
-        "icon": "/assets/images/Lan Yan_constellation_cNaN_1753016182708.png"
+        "name": "「雲の合間にかの人あり」",
+        "icon": "/assets/images/Lan Yan_constellation_cNaN_1753018713304.png"
       },
       {
         "level": null,
         "name": "「舞う袂軽く美玉光る」",
-        "icon": "/assets/images/Lan Yan_constellation_cNaN_1753016182708.png"
+        "icon": "/assets/images/Lan Yan_constellation_cNaN_1753018713304.png"
       },
       {
         "level": null,
         "name": "「白鳳に乗りて霧を裂く」",
-        "icon": "/assets/images/Lan Yan_constellation_cNaN_1753016182708.png"
+        "icon": "/assets/images/Lan Yan_constellation_cNaN_1753018713304.png"
       },
       {
         "level": null,
         "name": "「龍鷹集いて血珠を成す」",
-        "icon": "/assets/images/Lan Yan_constellation_cNaN_1753016182708.png"
+        "icon": "/assets/images/Lan Yan_constellation_cNaN_1753018713304.png"
       },
       {
         "level": null,
         "name": "「一別相逢ひて胸高鳴る」",
-        "icon": "/assets/images/Lan Yan_constellation_cNaN_1753016182708.png"
+        "icon": "/assets/images/Lan Yan_constellation_cNaN_1753018713304.png"
       },
       {
         "level": null,
         "name": "「風に乗る銀鸞の声」",
-        "icon": "/assets/images/Lan Yan_constellation_cNaN_1753016182708.png"
+        "icon": "/assets/images/Lan Yan_constellation_cNaN_1753018713304.png"
       }
     ]
   },
@@ -4359,14 +4359,14 @@
     "id": 210228,
     "name": "藍硯・銀燕",
     "description": "藍硯・銀燕",
-    "icon": "/assets/images/Lan Yan_namecard_1753016182921.png"
+    "icon": "/assets/images/Lan Yan_icon_1753018713303.png"
   },
   "specialFood": {
     "id": 108788,
-    "name": "花に翦���",
+    "name": "花に翦玉",
     "rank": 2,
-    "icon": "/assets/images/Lan Yan_special_food_1753016182708.png",
-    "effectIcon": "/assets/images/Chongyun_food_effect_1753016071902.png"
+    "icon": "/assets/images/Lan Yan_special_food_1753018713305.png",
+    "effectIcon": "/assets/images/Chongyun_food_effect_1753018612965.png"
   },
   "levelProgression": [
     {
@@ -4682,7 +4682,7 @@
             "name": "清水玉",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Xianyun_material_101241_1753016159706.png",
+            "icon": "/assets/images/Xianyun_material_101241_1753018692109.png",
             "description": "沈玉の谷で採れる玉。手触りが清水のように冷たいことからこの名がついた。",
             "type": "璃月地域の特産"
           },
@@ -4691,7 +4691,7 @@
             "name": "自由のターコイズ·砕屑",
             "count": 1,
             "rank": 2,
-            "icon": "/assets/images/Jean_material_104151_1753016039825.png",
+            "icon": "/assets/images/Jean_material_104151_1753018584488.png",
             "description": "キャラクターの突破用アイテム。",
             "type": "キャラクター突破素材"
           },
@@ -4700,7 +4700,7 @@
             "name": "トリックフラワーの蜜",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Ganyu_material_112038_1753016073648.png",
+            "icon": "/assets/images/Ganyu_material_112038_1753018614550.png",
             "description": "花蕊から抽出された花蜜、少量の元素が含まれている。\\nスイートフラワーの味と微妙に似ている。",
             "type": "キャラと武器育成素材"
           }
@@ -4731,7 +4731,7 @@
             "name": "清水玉",
             "count": 10,
             "rank": 1,
-            "icon": "/assets/images/Xianyun_material_101241_1753016159706.png",
+            "icon": "/assets/images/Xianyun_material_101241_1753018692109.png",
             "description": "沈玉の谷で採れる玉。手触りが清水のように冷たいことからこの名がついた。",
             "type": "璃月地域の特産"
           },
@@ -4740,7 +4740,7 @@
             "name": "自由のターコイズ·欠片",
             "count": 3,
             "rank": 3,
-            "icon": "/assets/images/Jean_material_104152_1753016039696.png",
+            "icon": "/assets/images/Jean_material_104152_1753018584488.png",
             "description": "キャラクターの突破用アイテム。\\n「風向きは変わるもの。」",
             "type": "キャラクター突破素材"
           },
@@ -4749,7 +4749,7 @@
             "name": "トリックフラワーの蜜",
             "count": 15,
             "rank": 1,
-            "icon": "/assets/images/Ganyu_material_112038_1753016073648.png",
+            "icon": "/assets/images/Ganyu_material_112038_1753018614550.png",
             "description": "花蕊から抽出された花蜜、少量の元素が含まれている。\\nスイートフラワーの味と微妙に似ている。",
             "type": "キャラと武器育成素材"
           },
@@ -4758,7 +4758,7 @@
             "name": "金紋の刻まれた源核",
             "count": 2,
             "rank": 4,
-            "icon": "/assets/images/Xilonen_material_113066_1753016175267.png",
+            "icon": "/assets/images/Xilonen_material_113066_1753018706497.png",
             "description": "秘源機兵・機巧デバイスを倒した後、動力を失ってバラバラになった体の中から見つけたコア。\\n「秘源機兵」を駆動するコアはすべて同じ種類のものであり、違うのはコアに記録されている情報のみだと言われている。コアにある金色の模様の違いも、この説の証拠と言えるかもしれない。当初、回路にコマンドがたくさん組み込まれたのは、単にツールを自動作動させるためだったのだが、そういったコマンドが積み重なることで、結果的に人工知能の雛形ができたのかもしれない。",
             "type": "キャラクター育成素材"
           }
@@ -4793,7 +4793,7 @@
             "name": "清水玉",
             "count": 20,
             "rank": 1,
-            "icon": "/assets/images/Xianyun_material_101241_1753016159706.png",
+            "icon": "/assets/images/Xianyun_material_101241_1753018692109.png",
             "description": "沈玉の谷で採れる玉。手触りが清水のように冷たいことからこの名がついた。",
             "type": "璃月地域の特産"
           },
@@ -4802,7 +4802,7 @@
             "name": "自由のターコイズ·欠片",
             "count": 6,
             "rank": 3,
-            "icon": "/assets/images/Jean_material_104152_1753016039696.png",
+            "icon": "/assets/images/Jean_material_104152_1753018584488.png",
             "description": "キャラクターの突破用アイテム。\\n「風向きは変わるもの。」",
             "type": "キャラクター突破素材"
           },
@@ -4811,7 +4811,7 @@
             "name": "微光花の蜜",
             "count": 12,
             "rank": 2,
-            "icon": "/assets/images/Ganyu_material_112039_1753016073705.png",
+            "icon": "/assets/images/Ganyu_material_112039_1753018614544.png",
             "description": "元素純度がやや高めの花蜜。\\n学界の見解によるとトリックフラワーは元素植物の高等生命形態である。だがトリックフラワーの食性は未だ解明されていない。",
             "type": "キャラと武器育成素材"
           },
@@ -4820,7 +4820,7 @@
             "name": "金紋の刻まれた源核",
             "count": 4,
             "rank": 4,
-            "icon": "/assets/images/Xilonen_material_113066_1753016175267.png",
+            "icon": "/assets/images/Xilonen_material_113066_1753018706497.png",
             "description": "秘源機兵・機巧デバイスを倒した後、動力を失ってバラバラになった体の中から見つけたコア。\\n「秘源機兵」を駆動するコアはすべて同じ種類のものであり、違うのはコアに記録されている情報のみだと言われている。コアにある金色の模様の違いも、この説の証拠と言えるかもしれない。当初、回路にコマンドがたくさん組み込まれたのは、単にツールを自動作動させるためだったのだが、そういったコマンドが積み重なることで、結果的に人工知能の雛形ができたのかもしれない。",
             "type": "キャラクター育成素材"
           }
@@ -4855,7 +4855,7 @@
             "name": "清水玉",
             "count": 30,
             "rank": 1,
-            "icon": "/assets/images/Xianyun_material_101241_1753016159706.png",
+            "icon": "/assets/images/Xianyun_material_101241_1753018692109.png",
             "description": "沈玉の谷で採れる玉。手触りが清水のように冷たいことからこの名がついた。",
             "type": "璃月地域の特産"
           },
@@ -4864,7 +4864,7 @@
             "name": "自由のターコイズ·塊",
             "count": 3,
             "rank": 4,
-            "icon": "/assets/images/Jean_material_104153_1753016039798.png",
+            "icon": "/assets/images/Jean_material_104153_1753018584489.png",
             "description": "キャラクターの突破用アイテム。\\n「風向きは変わるもの。」\\n「いつか、光射す方へと吹いてくる。」",
             "type": "キャラクター突破素材"
           },
@@ -4873,7 +4873,7 @@
             "name": "微光花の蜜",
             "count": 18,
             "rank": 2,
-            "icon": "/assets/images/Ganyu_material_112039_1753016073705.png",
+            "icon": "/assets/images/Ganyu_material_112039_1753018614544.png",
             "description": "元素純度がやや高めの花蜜。\\n学界の見解によるとトリックフラワーは元素植物の高等生命形態である。だがトリックフラワーの食性は未だ解明されていない。",
             "type": "キャラと武器育成素材"
           },
@@ -4882,7 +4882,7 @@
             "name": "金紋の刻まれた源核",
             "count": 8,
             "rank": 4,
-            "icon": "/assets/images/Xilonen_material_113066_1753016175267.png",
+            "icon": "/assets/images/Xilonen_material_113066_1753018706497.png",
             "description": "秘源機兵・機巧デバイスを倒した後、動力を失ってバラバラになった体の中から見つけたコア。\\n「秘源機兵」を駆動するコアはすべて同じ種類のものであり、違うのはコアに記録されている情報のみだと言われている。コアにある金色の模様の違いも、この説の証拠と言えるかもしれない。当初、回路にコマンドがたくさん組み込まれたのは、単にツールを自動作動させるためだったのだが、そういったコマンドが積み重なることで、結果的に人工知能の雛形ができたのかもしれない。",
             "type": "キャラクター育成素材"
           }
@@ -4917,7 +4917,7 @@
             "name": "清水玉",
             "count": 45,
             "rank": 1,
-            "icon": "/assets/images/Xianyun_material_101241_1753016159706.png",
+            "icon": "/assets/images/Xianyun_material_101241_1753018692109.png",
             "description": "沈玉の谷で採れる玉。手触りが清水のように冷たいことからこの名がついた。",
             "type": "璃月地域の特産"
           },
@@ -4926,7 +4926,7 @@
             "name": "自由のターコイズ·塊",
             "count": 6,
             "rank": 4,
-            "icon": "/assets/images/Jean_material_104153_1753016039798.png",
+            "icon": "/assets/images/Jean_material_104153_1753018584489.png",
             "description": "キャラクターの突破用アイテム。\\n「風向きは変わるもの。」\\n「いつか、光射す方へと吹いてくる。」",
             "type": "キャラクター突破素材"
           },
@@ -4935,7 +4935,7 @@
             "name": "原素花の蜜",
             "count": 12,
             "rank": 3,
-            "icon": "/assets/images/Ganyu_material_112040_1753016073673.png",
+            "icon": "/assets/images/Ganyu_material_112040_1753018614557.png",
             "description": "エネルギーに満ちたネバネバの花蜜。\\nトリックフラワーが獲物を騙しているのは狩るためである。そして捕食しているのはより強くてより純粋な姿へと進化するためであろう…",
             "type": "キャラと武器育成素材"
           },
@@ -4944,7 +4944,7 @@
             "name": "金紋の刻まれた源核",
             "count": 12,
             "rank": 4,
-            "icon": "/assets/images/Xilonen_material_113066_1753016175267.png",
+            "icon": "/assets/images/Xilonen_material_113066_1753018706497.png",
             "description": "秘源機兵・機巧デバイスを倒した後、動力を失ってバラバラになった体の中から見つけたコア。\\n「秘源機兵」を駆動するコアはすべて同じ種類のものであり、違うのはコアに記録されている情報のみだと言われている。コアにある金色の模様の違いも、この説の証拠と言えるかもしれない。当初、回路にコマンドがたくさん組み込まれたのは、単にツールを自動作動させるためだったのだが、そういったコマンドが積み重なることで、結果的に人工知能の雛形ができたのかもしれない。",
             "type": "キャラクター育成素材"
           }
@@ -4979,7 +4979,7 @@
             "name": "清水玉",
             "count": 60,
             "rank": 1,
-            "icon": "/assets/images/Xianyun_material_101241_1753016159706.png",
+            "icon": "/assets/images/Xianyun_material_101241_1753018692109.png",
             "description": "沈玉の谷で採れる玉。手触りが清水のように冷たいことからこの名がついた。",
             "type": "璃月地域の特産"
           },
@@ -4988,7 +4988,7 @@
             "name": "自由のターコイズ",
             "count": 6,
             "rank": 5,
-            "icon": "/assets/images/Jean_material_104154_1753016039745.png",
+            "icon": "/assets/images/Jean_material_104154_1753018584486.png",
             "description": "キャラクターの突破用アイテム。\\n「風向きは変わるもの。」\\n「いつか、光射す方へと吹いてくる。」\\n「これからは、ボクの祝福と共に、もっと自由に生きていこう。」",
             "type": "キャラクター突破素材"
           },
@@ -4997,7 +4997,7 @@
             "name": "原素花の蜜",
             "count": 24,
             "rank": 3,
-            "icon": "/assets/images/Ganyu_material_112040_1753016073673.png",
+            "icon": "/assets/images/Ganyu_material_112040_1753018614557.png",
             "description": "エネルギーに満ちたネバネバの花蜜。\\nトリックフラワーが獲物を騙しているのは狩るためである。そして捕食しているのはより強くてより純粋な姿へと進化するためであろう…",
             "type": "キャラと武器育成素材"
           },
@@ -5006,7 +5006,7 @@
             "name": "金紋の刻まれた源核",
             "count": 20,
             "rank": 4,
-            "icon": "/assets/images/Xilonen_material_113066_1753016175267.png",
+            "icon": "/assets/images/Xilonen_material_113066_1753018706497.png",
             "description": "秘源機兵・機巧デバイスを倒した後、動力を失ってバラバラになった体の中から見つけたコア。\\n「秘源機兵」を駆動するコアはすべて同じ種類のものであり、違うのはコアに記録されている情報のみだと言われている。コアにある金色の模様の違いも、この説の証拠と言えるかもしれない。当初、回路にコマンドがたくさん組み込まれたのは、単にツールを自動作動させるためだったのだが、そういったコマンドが積み重なることで、結果的に人工知能の雛形ができたのかもしれない。",
             "type": "キャラクター育成素材"
           }

@@ -8,7 +8,7 @@
   "region": "Inazuma",
   "constellation": "雪鶴座",
   "description": "稲妻「社奉行」神里家の令嬢。容姿端麗で品行方正な人物。",
-  "icon": "/assets/images/Kamisato Ayaka_icon_1753016037630.png",
+  "icon": "/assets/images/Kamisato Ayaka_icon_1753018583153.png",
   "profile": {
     "baseHp": 1000.986,
     "baseAtk": 26.627,
@@ -23,7 +23,7 @@
       "id": "神里流・傾き",
       "name": "神里流・傾き",
       "description": "",
-      "icon": "/assets/images/Kamisato Ayaka_normal_attack_1753016037630.png",
+      "icon": "/assets/images/Kamisato Ayaka_normal_attack_1753018583153.png",
       "skillType": "normal",
       "params": {
         "1": [],
@@ -47,7 +47,7 @@
       "id": "神里流·氷華",
       "name": "神里流·氷華",
       "description": "",
-      "icon": "/assets/images/Kamisato Ayaka_elemental_skill_1753016037631.png",
+      "icon": "/assets/images/Kamisato Ayaka_elemental_skill_1753018583154.png",
       "levelData": [
         {
           "tableIndex": 1,
@@ -1136,7 +1136,7 @@
     "elementalBurst": {
       "name": "神里流·霜滅",
       "description": "",
-      "icon": "/assets/images/Kamisato Ayaka_elemental_burst_1753016037632.png",
+      "icon": "/assets/images/Kamisato Ayaka_elemental_burst_1753018583156.png",
       "levelData": [
         {
           "tableIndex": 1,
@@ -1237,7 +1237,7 @@
           ],
           "description": [
             "斬撃ダメージ|{param1:P}",
-            "咲きダメ��ジ|{param2:P}",
+            "咲きダメージ|{param2:P}",
             "継続時間|{param3:F1}秒",
             "クールタイム|{param4:F1}秒",
             "元素エネルギー|{param5:I}",
@@ -2111,7 +2111,7 @@
             "斬撃ダメージ|{param1:P}",
             "咲きダメージ|{param2:P}",
             "継続時間|{param3:F1}秒",
-            "クールタイム|{param4:F1}秒",
+            "クールタ���ム|{param4:F1}秒",
             "元素エネルギー|{param5:I}",
             "",
             "",
@@ -2225,15 +2225,15 @@
     "passiveTalents": [
       {
         "name": "天つ罪·国つ罪の鎮詞",
-        "icon": "/assets/images/Kamisato Ayaka_passive_1_1753016037634.png"
+        "icon": "/assets/images/Kamisato Ayaka_passive_1_1753018583158.png"
       },
       {
         "name": "寒空の宣命祝詞",
-        "icon": "/assets/images/Kamisato Ayaka_passive_2_1753016037635.png"
+        "icon": "/assets/images/Kamisato Ayaka_passive_2_1753018583159.png"
       },
       {
         "name": "鑑査の心得",
-        "icon": "/assets/images/Kamisato Ayaka_passive_3_1753016037636.png"
+        "icon": "/assets/images/Kamisato Ayaka_passive_3_1753018583160.png"
       }
     ],
     "completeTableData": [
@@ -2276,7 +2276,7 @@
               "重撃ダメージ|{param8:F1P}×3",
               "重撃スタミナ消費|{param9:F1}",
               "落下期間のダメージ|{param10:P}",
-              "低空/高空落下攻撃ダメージ|{param11:P}/{param12:P}",
+              "低空/高空落下攻撃ダメ��ジ|{param11:P}/{param12:P}",
               "",
               "",
               "",
@@ -2475,7 +2475,7 @@
               0
             ],
             "description": [
-              "1段���メージ|{param1:F1P}",
+              "1段ダメージ|{param1:F1P}",
               "2段ダメージ|{param2:F1P}",
               "3段ダメージ|{param3:F1P}",
               "4段ダメージ|{param4:F1P}×3",
@@ -2622,7 +2622,7 @@
               "5段ダメージ|{param7:F1P}",
               "重撃ダメージ|{param8:F1P}×3",
               "重撃スタミナ消費|{param9:F1}",
-              "落下期間のダメージ|{param10:P}",
+              "落���期間のダメージ|{param10:P}",
               "低空/高空落下攻撃ダメージ|{param11:P}/{param12:P}",
               "",
               "",
@@ -4501,7 +4501,7 @@
             ],
             "description": [
               "斬撃ダメージ|{param1:P}",
-              "咲きダメ��ジ|{param2:P}",
+              "咲きダメージ|{param2:P}",
               "継続時間|{param3:F1}秒",
               "クールタイム|{param4:F1}秒",
               "元素エネルギー|{param5:I}",
@@ -5339,7 +5339,7 @@
               "斬撃ダメージ|{param1:P}",
               "咲きダメージ|{param2:P}",
               "継続時間|{param3:F1}秒",
-              "クールタイム|{param4:F1}秒",
+              "クールタ���ム|{param4:F1}秒",
               "元素エネルギー|{param5:I}",
               "",
               "",
@@ -5475,32 +5475,32 @@
       {
         "level": null,
         "name": "霜枯れの墨染櫻",
-        "icon": "/assets/images/Kamisato Ayaka_constellation_cNaN_1753016037637.png"
+        "icon": "/assets/images/Kamisato Ayaka_constellation_cNaN_1753018583161.png"
       },
       {
         "level": null,
         "name": "三重雪関扉",
-        "icon": "/assets/images/Kamisato Ayaka_constellation_cNaN_1753016037639.png"
+        "icon": "/assets/images/Kamisato Ayaka_constellation_cNaN_1753018583162.png"
       },
       {
         "level": null,
         "name": "花白錦画紙吹雪",
-        "icon": "/assets/images/Kamisato Ayaka_constellation_cNaN_1753016037640.png"
+        "icon": "/assets/images/Kamisato Ayaka_constellation_cNaN_1753018583163.png"
       },
       {
         "level": null,
         "name": "栄枯盛衰",
-        "icon": "/assets/images/Kamisato Ayaka_constellation_cNaN_1753016037641.png"
+        "icon": "/assets/images/Kamisato Ayaka_constellation_cNaN_1753018583164.png"
       },
       {
         "level": null,
         "name": "花雲鐘入月",
-        "icon": "/assets/images/Kamisato Ayaka_constellation_cNaN_1753016037642.png"
+        "icon": "/assets/images/Kamisato Ayaka_constellation_cNaN_1753018583165.png"
       },
       {
         "level": null,
         "name": "間水月",
-        "icon": "/assets/images/Kamisato Ayaka_constellation_cNaN_1753016037643.png"
+        "icon": "/assets/images/Kamisato Ayaka_constellation_cNaN_1753018583167.png"
       }
     ]
   },
@@ -5518,21 +5518,21 @@
       "isDefault": false,
       "rank": 4,
       "storyId": 340010,
-      "icon": "/assets/images/Kamisato Ayaka_costume_2_1753016037644.png"
+      "icon": "/assets/images/Kamisato Ayaka_costume_2_1753018583168.png"
     }
   ],
   "nameCard": {
     "id": 210081,
     "name": "神里綾華·扇子",
     "description": "神里綾華·扇子",
-    "icon": "/assets/images/Kamisato Ayaka_icon_1753016037630.png"
+    "icon": "/assets/images/Kamisato Ayaka_icon_1753018583153.png"
   },
   "specialFood": {
     "id": 108300,
     "name": "「紅炉一点雪」",
     "rank": 3,
-    "icon": "/assets/images/Kamisato Ayaka_special_food_1753016037646.png",
-    "effectIcon": "/assets/images/Kamisato Ayaka_food_effect_1753016037647.png"
+    "icon": "/assets/images/Kamisato Ayaka_special_food_1753018583170.png",
+    "effectIcon": "/assets/images/Kamisato Ayaka_food_effect_1753018583171.png"
   },
   "levelProgression": [
     {
@@ -5848,7 +5848,7 @@
             "name": "緋櫻毬",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Kamisato Ayaka_material_101202_1753016038036.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_101202_1753018583216.png",
             "description": "鳴神大社の神櫻から落ちる花びら。稲妻の地の恵みを受けている。",
             "type": "稲妻地域の特産"
           },
@@ -5857,7 +5857,7 @@
             "name": "哀切なアイスクリスタル·砕屑",
             "count": 1,
             "rank": 2,
-            "icon": "/assets/images/Kamisato Ayaka_material_104161_1753016037888.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104161_1753018583217.png",
             "description": "キャラクターの突破用アイテム。",
             "type": "キャラクター突破素材"
           },
@@ -5866,7 +5866,7 @@
             "name": "古びた鍔",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Kamisato Ayaka_material_112044_1753016038091.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_112044_1753018583215.png",
             "description": "稲妻の刀についている防具。多くの戦いを経験している。\\n剣術の達人にとって、鍔は相手の刃から手を守ってくれる物。新人にとっては、誤って手が柄から刀身へと滑らないよう守ってくれる物だ。",
             "type": "キャラと武器育成素材"
           }
@@ -5897,7 +5897,7 @@
             "name": "緋櫻毬",
             "count": 10,
             "rank": 1,
-            "icon": "/assets/images/Kamisato Ayaka_material_101202_1753016038036.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_101202_1753018583216.png",
             "description": "鳴神大社の神櫻から落ちる花びら。稲妻の地の恵みを受けている。",
             "type": "稲妻地域の特産"
           },
@@ -5906,7 +5906,7 @@
             "name": "哀切なアイスクリスタル·欠片",
             "count": 3,
             "rank": 3,
-            "icon": "/assets/images/Kamisato Ayaka_material_104162_1753016038065.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104162_1753018583217.png",
             "description": "キャラクターの突破用アイテム。\\n「…すみません…」",
             "type": "キャラクター突破素材"
           },
@@ -5915,7 +5915,7 @@
             "name": "古びた鍔",
             "count": 15,
             "rank": 1,
-            "icon": "/assets/images/Kamisato Ayaka_material_112044_1753016038091.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_112044_1753018583215.png",
             "description": "稲妻の刀についている防具。多くの戦いを経験している。\\n剣術の達人にとって、鍔は相手の刃から手を守ってくれる物。新人にとっては、誤って手が柄から刀身へと滑らないよう守ってくれる物だ。",
             "type": "キャラと武器育成素材"
           },
@@ -5924,7 +5924,7 @@
             "name": "恒常からくりの芯",
             "count": 2,
             "rank": 4,
-            "icon": "/assets/images/Kamisato Ayaka_material_113023_1753016037983.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_113023_1753018583215.png",
             "description": "恒常からくり陣形の自律行動を維持するコア。\\n一説によると、コアの模様の中には肉眼で読むことができない言語で、知能とロジックが書かれている。別の説によると、この大きなコアと複雑な模様を持つ遺跡機械は、自発的に生物の姿を捨て、強大な性能を求めたらしい。",
             "type": "キャラクター育成素材"
           }
@@ -5959,7 +5959,7 @@
             "name": "緋櫻毬",
             "count": 20,
             "rank": 1,
-            "icon": "/assets/images/Kamisato Ayaka_material_101202_1753016038036.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_101202_1753018583216.png",
             "description": "鳴神大社の神櫻から落ちる花びら。稲妻の地の恵みを受けている。",
             "type": "稲妻地域の特産"
           },
@@ -5968,7 +5968,7 @@
             "name": "哀切なアイスクリスタル·欠片",
             "count": 6,
             "rank": 3,
-            "icon": "/assets/images/Kamisato Ayaka_material_104162_1753016038065.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104162_1753018583217.png",
             "description": "キャラクターの突破用アイテム。\\n「…すみません…」",
             "type": "キャラクター突破素材"
           },
@@ -5977,7 +5977,7 @@
             "name": "影打の鍔",
             "count": 12,
             "rank": 2,
-            "icon": "/assets/images/Kamisato Ayaka_material_112045_1753016037938.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_112045_1753018583213.png",
             "description": "優れた刀に使われる防具。\\n稲妻には、刀鍛冶の長き伝統がある。刀工が刀を鍛える時、必ず何本か刀を打ち、その中で一番出来の良い物を「真打」として選び、残りは「影打」と呼ぶ。",
             "type": "キャラと武器育成素材"
           },
@@ -5986,7 +5986,7 @@
             "name": "恒常からくりの芯",
             "count": 4,
             "rank": 4,
-            "icon": "/assets/images/Kamisato Ayaka_material_113023_1753016037983.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_113023_1753018583215.png",
             "description": "恒常からくり陣形の自律行動を維持するコア。\\n一説によると、コアの模様の中には肉眼で読むことができない言語で、知能とロジックが書かれている。別の説によると、この大きなコアと複雑な模様を持つ遺跡機械は、自発的に生物の姿を捨て、強大な性能を求めたらしい。",
             "type": "キャラクター育成素材"
           }
@@ -6021,7 +6021,7 @@
             "name": "緋櫻毬",
             "count": 30,
             "rank": 1,
-            "icon": "/assets/images/Kamisato Ayaka_material_101202_1753016038036.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_101202_1753018583216.png",
             "description": "鳴神大社の神櫻から落ちる花びら。稲妻の地の恵みを受けている。",
             "type": "稲妻地域の特産"
           },
@@ -6030,7 +6030,7 @@
             "name": "哀切なアイスクリスタル·塊",
             "count": 3,
             "rank": 4,
-            "icon": "/assets/images/Kamisato Ayaka_material_104163_1753016038108.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104163_1753018583214.png",
             "description": "キャラクターの突破用アイテム。\\n「…すみません…」\\n「あなた達まで、わたしと一緒にこの世界の悲しみを背負わせるなんて…」",
             "type": "キャラクター突破素材"
           },
@@ -6039,7 +6039,7 @@
             "name": "影打の鍔",
             "count": 18,
             "rank": 2,
-            "icon": "/assets/images/Kamisato Ayaka_material_112045_1753016037938.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_112045_1753018583213.png",
             "description": "優れた刀に使われる防具。\\n稲妻には、刀鍛冶の長き伝統がある。刀工が刀を鍛える時、必ず何本か刀を打ち、その中で一番出来の良い物を「真打」として選び、残りは「影打」と呼ぶ。",
             "type": "キャラと武器育成素材"
           },
@@ -6048,7 +6048,7 @@
             "name": "恒常からくりの芯",
             "count": 8,
             "rank": 4,
-            "icon": "/assets/images/Kamisato Ayaka_material_113023_1753016037983.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_113023_1753018583215.png",
             "description": "恒常からくり陣形の自律行動を維持するコア。\\n一説によると、コアの模様の中には肉眼で読むことができない言語で、知能とロジックが書かれている。別の説によると、この大きなコアと複雑な模様を持つ遺跡機械は、自発的に生物の姿を捨て、強大な性能を求めたらしい。",
             "type": "キャラクター育成素材"
           }
@@ -6083,7 +6083,7 @@
             "name": "緋櫻毬",
             "count": 45,
             "rank": 1,
-            "icon": "/assets/images/Kamisato Ayaka_material_101202_1753016038036.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_101202_1753018583216.png",
             "description": "鳴神大社の神櫻から落ちる花びら。稲妻の地の恵みを受けている。",
             "type": "稲妻地域の特産"
           },
@@ -6092,7 +6092,7 @@
             "name": "哀切なアイスクリスタル·塊",
             "count": 6,
             "rank": 4,
-            "icon": "/assets/images/Kamisato Ayaka_material_104163_1753016038108.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104163_1753018583214.png",
             "description": "キャラクターの突破用アイテム。\\n「…すみません…」\\n「あなた達まで、わたしと一緒にこの世界の悲しみを背負わせるなんて…」",
             "type": "キャラクター突破素材"
           },
@@ -6101,7 +6101,7 @@
             "name": "名刀の鍔",
             "count": 12,
             "rank": 3,
-            "icon": "/assets/images/Kamisato Ayaka_material_112046_1753016038012.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_112046_1753018583214.png",
             "description": "名刀に取り付けられた美しい防具。\\n刀には魂が宿り、命が存在すると人々は信じている。刀に名前を付けるのも、そのためである。刀を大切にする者は、刀にも報われる。しかし、刀と親友に、ひいては恋人にまでなった者は、その感情は殺伐を伴うことを肝に銘じておかなければならない。血を浴び、常に刀と踊ってきた者の熱血は、いずれ無情の鋼鉄によって冷めてしまう。",
             "type": "キャラと武器育成素材"
           },
@@ -6110,7 +6110,7 @@
             "name": "恒常からくりの芯",
             "count": 12,
             "rank": 4,
-            "icon": "/assets/images/Kamisato Ayaka_material_113023_1753016037983.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_113023_1753018583215.png",
             "description": "恒常からくり陣形の自律行動を維持するコア。\\n一説によると、コアの模様の中には肉眼で読むことができない言語で、知能とロジックが書かれている。別の説によると、この大きなコアと複雑な模様を持つ遺跡機械は、自発的に生物の姿を捨て、強大な性能を求めたらしい。",
             "type": "キャラクター育成素材"
           }
@@ -6145,7 +6145,7 @@
             "name": "緋櫻毬",
             "count": 60,
             "rank": 1,
-            "icon": "/assets/images/Kamisato Ayaka_material_101202_1753016038036.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_101202_1753018583216.png",
             "description": "鳴神大社の神櫻から落ちる花びら。稲妻の地の恵みを受けている。",
             "type": "稲妻地域の特産"
           },
@@ -6154,7 +6154,7 @@
             "name": "哀切なアイスクリスタル",
             "count": 6,
             "rank": 5,
-            "icon": "/assets/images/Kamisato Ayaka_material_104164_1753016037959.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104164_1753018583221.png",
             "description": "キャラクターの突破用アイテム。\\n「…すみません、あなた達まで、わたしと一緒にこの世界の悲しみを背負わせるなんて…」\\n「わたしの寒さを耐えられる者は、きっと心の中に熱い欲望を持っているだろう？」\\n「なら、わたしの代わりに、旧世界を焼き尽くそう。」",
             "type": "キャラクター突破素材"
           },
@@ -6163,7 +6163,7 @@
             "name": "名刀の鍔",
             "count": 24,
             "rank": 3,
-            "icon": "/assets/images/Kamisato Ayaka_material_112046_1753016038012.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_112046_1753018583214.png",
             "description": "名刀に取り付けられた美しい防具。\\n刀には魂が宿り、命が存在すると人々は信じている。刀に名前を付けるのも、そのためである。刀を大切にする者は、刀にも報われる。しかし、刀と親友に、ひいては恋人にまでなった者は、その感情は殺伐を伴うことを肝に銘じておかなければならない。血を浴び、常に刀と踊ってきた者の熱血は、いずれ無情の鋼鉄によって冷めてしまう。",
             "type": "キャラと武器育成素材"
           },
@@ -6172,7 +6172,7 @@
             "name": "恒常からくりの芯",
             "count": 20,
             "rank": 4,
-            "icon": "/assets/images/Kamisato Ayaka_material_113023_1753016037983.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_113023_1753018583215.png",
             "description": "恒常からくり陣形の自律行動を維持するコア。\\n一説によると、コアの模様の中には肉眼で読むことができない言語で、知能とロジックが書かれている。別の説によると、この大きなコアと複雑な模様を持つ遺跡機械は、自発的に生物の姿を捨て、強大な性能を求めたらしい。",
             "type": "キャラクター育成素材"
           }

@@ -8,7 +8,7 @@
   "region": "Liyue",
   "constellation": "紅檀四弦座",
   "description": "璃月港唯一のロックミュージシャン。音楽と情熱で「先入観」への反抗を歌う。",
-  "icon": "/assets/images/Xinyan_icon_1753016082302.png",
+  "icon": "/assets/images/Xinyan_icon_1753018622801.png",
   "profile": {
     "baseHp": 939.145,
     "baseAtk": 20.835,
@@ -23,7 +23,7 @@
       "id": "炎舞",
       "name": "炎舞",
       "description": "",
-      "icon": "/assets/images/Diluc_normal_attack_1753016046495.png",
+      "icon": "/assets/images/Diluc_normal_attack_1753018590240.png",
       "skillType": "normal",
       "params": {
         "1": [],
@@ -47,7 +47,7 @@
       "id": "情熱の薙ぎ払い",
       "name": "情熱の薙ぎ払い",
       "description": "",
-      "icon": "/assets/images/Xinyan_elemental_skill_1753016082302.png",
+      "icon": "/assets/images/Xinyan_elemental_skill_1753018622801.png",
       "levelData": [
         {
           "tableIndex": 1,
@@ -952,7 +952,7 @@
             "振り回しダメージ|{param1:P}",
             "Lv.1シールド吸収量|防御力{param2:F1P}+{param3:I}",
             "Lv.2シールド吸収量|防御力{param4:F1P}+{param5:I}",
-            "Lv.3シールド吸��量|防御力{param6:F1P}+{param7:I}",
+            "Lv.3シールド吸収量|防御力{param6:F1P}+{param7:I}",
             "継続ダメージ|{param8:F1P}",
             "シールド継続時間|{param9:F1}秒",
             "クールタイム|{param10:F1}秒",
@@ -1136,21 +1136,21 @@
     "elementalBurst": {
       "name": "「観客いなくても演奏するのだ…」",
       "description": "",
-      "icon": "/assets/images/Xinyan_elemental_burst_1753016082302.png",
+      "icon": "/assets/images/Xinyan_elemental_burst_1753018622801.png",
       "levelData": []
     },
     "passiveTalents": [
       {
         "name": "「観客いなくても演奏するのだ…」",
-        "icon": "/assets/images/Xinyan_passive_1_1753016082302.png"
+        "icon": "/assets/images/Xinyan_passive_1_1753018622801.png"
       },
       {
         "name": "「…これこそがロックだ！」",
-        "icon": "/assets/images/Xinyan_passive_2_1753016082303.png"
+        "icon": "/assets/images/Xinyan_passive_2_1753018622802.png"
       },
       {
         "name": "タフレシピ",
-        "icon": "/assets/images/Noelle_passive_3_1753016068893.png"
+        "icon": "/assets/images/Noelle_passive_3_1753018610068.png"
       }
     ],
     "completeTableData": [
@@ -3069,7 +3069,7 @@
               "振り回しダメージ|{param1:P}",
               "Lv.1シールド吸収量|防御力{param2:F1P}+{param3:I}",
               "Lv.2シールド吸収量|防御力{param4:F1P}+{param5:I}",
-              "Lv.3シールド吸��量|防御力{param6:F1P}+{param7:I}",
+              "Lv.3シールド吸収量|防御力{param6:F1P}+{param7:I}",
               "継続ダメージ|{param8:F1P}",
               "シールド継続時間|{param9:F1}秒",
               "クールタイム|{param10:F1}秒",
@@ -4317,32 +4317,32 @@
       {
         "level": null,
         "name": "絶命の加速",
-        "icon": "/assets/images/Xinyan_constellation_cNaN_1753016082303.png"
+        "icon": "/assets/images/Xinyan_constellation_cNaN_1753018622802.png"
       },
       {
         "level": null,
         "name": "オープニング演出",
-        "icon": "/assets/images/Xinyan_constellation_cNaN_1753016082303.png"
+        "icon": "/assets/images/Xinyan_constellation_cNaN_1753018622802.png"
       },
       {
         "level": null,
         "name": "摭分の運指",
-        "icon": "/assets/images/Xinyan_constellation_cNaN_1753016082303.png"
+        "icon": "/assets/images/Xinyan_constellation_cNaN_1753018622802.png"
       },
       {
         "level": null,
         "name": "リズムの伝染",
-        "icon": "/assets/images/Xinyan_constellation_cNaN_1753016082303.png"
+        "icon": "/assets/images/Xinyan_constellation_cNaN_1753018622802.png"
       },
       {
         "level": null,
         "name": "アンコールの叫び",
-        "icon": "/assets/images/Xinyan_constellation_cNaN_1753016082303.png"
+        "icon": "/assets/images/Xinyan_constellation_cNaN_1753018622802.png"
       },
       {
         "level": null,
         "name": "地獄のシェーク",
-        "icon": "/assets/images/Xinyan_constellation_cNaN_1753016082303.png"
+        "icon": "/assets/images/Xinyan_constellation_cNaN_1753018622802.png"
       }
     ]
   },
@@ -4359,14 +4359,14 @@
     "id": 210045,
     "name": "辛炎·演奏終了",
     "description": "辛炎·演奏終了",
-    "icon": "/assets/images/Xinyan_namecard_1753016082425.png"
+    "icon": "/assets/images/Xinyan_icon_1753018622801.png"
   },
   "specialFood": {
     "id": 108174,
     "name": "ロック·チキン！",
     "rank": 2,
-    "icon": "/assets/images/Xinyan_special_food_1753016082303.png",
-    "effectIcon": "/assets/images/Diluc_food_effect_1753016046496.png"
+    "icon": "/assets/images/Xinyan_special_food_1753018622803.png",
+    "effectIcon": "/assets/images/Diluc_food_effect_1753018590242.png"
   },
   "levelProgression": [
     {
@@ -4682,7 +4682,7 @@
             "name": "琉璃袋",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Qiqi_material_100034_1753016070570.png",
+            "icon": "/assets/images/Qiqi_material_100034_1753018611554.png",
             "description": "生命力旺盛な花。地面に向ける咲き方は自らの香りを守るためらしい。",
             "type": "璃月地域の特産"
           },
@@ -4691,7 +4691,7 @@
             "name": "炎願のアゲート·砕屑",
             "count": 1,
             "rank": 2,
-            "icon": "/assets/images/Diluc_material_104111_1753016046752.png",
+            "icon": "/assets/images/Diluc_material_104111_1753018590257.png",
             "description": "キャラクターの突破用アイテム。",
             "type": "キャラクター突破素材"
           },
@@ -4700,7 +4700,7 @@
             "name": "宝探しの鴉マーク",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Kaeya_material_112035_1753016045037.png",
+            "icon": "/assets/images/Kaeya_material_112035_1753018588810.png",
             "description": "宝盗団の誇りであるマーク、彼らの宝物に対する永遠不滅の情熱を示すものである。とはいえ、自分が盗賊ということを誇らしげに示す必要はあるかな…？",
             "type": "キャラと武器育成素材"
           }
@@ -4731,7 +4731,7 @@
             "name": "琉璃袋",
             "count": 10,
             "rank": 1,
-            "icon": "/assets/images/Qiqi_material_100034_1753016070570.png",
+            "icon": "/assets/images/Qiqi_material_100034_1753018611554.png",
             "description": "生命力旺盛な花。地面に向ける咲き方は自らの香りを守るためらしい。",
             "type": "璃月地域の特産"
           },
@@ -4740,7 +4740,7 @@
             "name": "炎願のアゲート·欠片",
             "count": 3,
             "rank": 3,
-            "icon": "/assets/images/Diluc_material_104112_1753016046727.png",
+            "icon": "/assets/images/Diluc_material_104112_1753018590256.png",
             "description": "キャラクターの突破用アイテム。\\n「人々の願いのため、巡礼の道を歩もう。最強を目指して集い、戦うのだ…」",
             "type": "キャラクター突破素材"
           },
@@ -4749,7 +4749,7 @@
             "name": "宝探しの鴉マーク",
             "count": 15,
             "rank": 1,
-            "icon": "/assets/images/Kaeya_material_112035_1753016045037.png",
+            "icon": "/assets/images/Kaeya_material_112035_1753018588810.png",
             "description": "宝盗団の誇りであるマーク、彼らの宝物に対する永遠不滅の情熱を示すものである。とはいえ、自分が盗賊ということを誇らしげに示す必要はあるかな…？",
             "type": "キャラと武器育成素材"
           },
@@ -4758,7 +4758,7 @@
             "name": "常燃の火種",
             "count": 2,
             "rank": 4,
-            "icon": "/assets/images/Diluc_material_113011_1753016046701.png",
+            "icon": "/assets/images/Diluc_material_113011_1753018590262.png",
             "description": "永遠に燃え続ける爆炎樹のエネルギー源である種。世の中にある全ての草木を焼き尽くすような炎元素の熱量を放っている。\\n大地の深所で湧いているエネルギーは無数の願いを背負っている。烈火と共に植物に纏って永遠に燃えさせて、そして爆裂の炎で全てを浄化させようとしている。いったいどんな願いかな？",
             "type": "キャラクター育成素材"
           }
@@ -4793,7 +4793,7 @@
             "name": "琉璃袋",
             "count": 20,
             "rank": 1,
-            "icon": "/assets/images/Qiqi_material_100034_1753016070570.png",
+            "icon": "/assets/images/Qiqi_material_100034_1753018611554.png",
             "description": "生命力旺盛な花。地面に向ける咲き方は自らの香りを守るためらしい。",
             "type": "璃月地域の特産"
           },
@@ -4802,7 +4802,7 @@
             "name": "炎願のアゲート·欠片",
             "count": 6,
             "rank": 3,
-            "icon": "/assets/images/Diluc_material_104112_1753016046727.png",
+            "icon": "/assets/images/Diluc_material_104112_1753018590256.png",
             "description": "キャラクターの突破用アイテム。\\n「人々の願いのため、巡礼の道を歩もう。最強を目指して集い、戦うのだ…」",
             "type": "キャラクター突破素材"
           },
@@ -4811,7 +4811,7 @@
             "name": "シルバーの鴉マーク",
             "count": 12,
             "rank": 2,
-            "icon": "/assets/images/Kaeya_material_112036_1753016045088.png",
+            "icon": "/assets/images/Kaeya_material_112036_1753018588807.png",
             "description": "宝盗団のメンバーが互いの存在を証明する鴉マーク。宝盗団のメンバーは出身を問わず、宝物への貪欲さえあれば、「優秀」なメンバーになれる。",
             "type": "キャラと武器育成素材"
           },
@@ -4820,7 +4820,7 @@
             "name": "常燃の火種",
             "count": 4,
             "rank": 4,
-            "icon": "/assets/images/Diluc_material_113011_1753016046701.png",
+            "icon": "/assets/images/Diluc_material_113011_1753018590262.png",
             "description": "永遠に燃え続ける爆炎樹のエネルギー源である種。世の中にある全ての草木を焼き尽くすような炎元素の熱量を放っている。\\n大地の深所で湧いているエネルギーは無数の願いを背負っている。烈火と共に植物に纏って永遠に燃えさせて、そして爆裂の炎で全てを浄化させようとしている。いったいどんな願いかな？",
             "type": "キャラクター育成素材"
           }
@@ -4855,7 +4855,7 @@
             "name": "琉璃袋",
             "count": 30,
             "rank": 1,
-            "icon": "/assets/images/Qiqi_material_100034_1753016070570.png",
+            "icon": "/assets/images/Qiqi_material_100034_1753018611554.png",
             "description": "生命力旺盛な花。地面に向ける咲き方は自らの香りを守るためらしい。",
             "type": "璃月地域の特産"
           },
@@ -4864,7 +4864,7 @@
             "name": "炎願のアゲート·塊",
             "count": 3,
             "rank": 4,
-            "icon": "/assets/images/Diluc_material_104113_1753016046900.png",
+            "icon": "/assets/images/Diluc_material_104113_1753018590263.png",
             "description": "キャラクターの突破用アイテム。\\n「人々の願いのため、巡礼の道を歩もう。最強を目指して集い、戦うのだ…」\\n「最後は夢のために、劫火の中で燃え尽きる。」",
             "type": "キャラクター突破素材"
           },
@@ -4873,7 +4873,7 @@
             "name": "シルバーの鴉マーク",
             "count": 18,
             "rank": 2,
-            "icon": "/assets/images/Kaeya_material_112036_1753016045088.png",
+            "icon": "/assets/images/Kaeya_material_112036_1753018588807.png",
             "description": "宝盗団のメンバーが互いの存在を証明する鴉マーク。宝盗団のメンバーは出身を問わず、宝物への貪欲さえあれば、「優秀」なメンバーになれる。",
             "type": "キャラと武器育成素材"
           },
@@ -4882,7 +4882,7 @@
             "name": "常燃の火種",
             "count": 8,
             "rank": 4,
-            "icon": "/assets/images/Diluc_material_113011_1753016046701.png",
+            "icon": "/assets/images/Diluc_material_113011_1753018590262.png",
             "description": "永遠に燃え続ける爆炎樹のエネルギー源である種。世の中にある全ての草木を焼き尽くすような炎元素の熱量を放っている。\\n大地の深所で湧いているエネルギーは無数の願いを背負っている。烈火と共に植物に纏って永遠に燃えさせて、そして爆裂の炎で全てを浄化させようとしている。いったいどんな願いかな？",
             "type": "キャラクター育成素材"
           }
@@ -4917,7 +4917,7 @@
             "name": "琉璃袋",
             "count": 45,
             "rank": 1,
-            "icon": "/assets/images/Qiqi_material_100034_1753016070570.png",
+            "icon": "/assets/images/Qiqi_material_100034_1753018611554.png",
             "description": "生命力旺盛な花。地面に向ける咲き方は自らの香りを守るためらしい。",
             "type": "璃月地域の特産"
           },
@@ -4926,7 +4926,7 @@
             "name": "炎願のアゲート·塊",
             "count": 6,
             "rank": 4,
-            "icon": "/assets/images/Diluc_material_104113_1753016046900.png",
+            "icon": "/assets/images/Diluc_material_104113_1753018590263.png",
             "description": "キャラクターの突破用アイテム。\\n「人々の願いのため、巡礼の道を歩もう。最強を目指して集い、戦うのだ…」\\n「最後は夢のために、劫火の中で燃え尽きる。」",
             "type": "キャラクター突破素材"
           },
@@ -4935,7 +4935,7 @@
             "name": "ゴールドの鴉マーク",
             "count": 12,
             "rank": 3,
-            "icon": "/assets/images/Kaeya_material_112037_1753016044988.png",
+            "icon": "/assets/images/Kaeya_material_112037_1753018588811.png",
             "description": "宝盗団の信仰と誇りを示す鴉マーク。この広い大地、幽邃の深淵、未知な海に秘宝が存在していれば、宝盗団の信念は永遠に続く。",
             "type": "キャラと武器育成素材"
           },
@@ -4944,7 +4944,7 @@
             "name": "常燃の火種",
             "count": 12,
             "rank": 4,
-            "icon": "/assets/images/Diluc_material_113011_1753016046701.png",
+            "icon": "/assets/images/Diluc_material_113011_1753018590262.png",
             "description": "永遠に燃え続ける爆炎樹のエネルギー源である種。世の中にある全ての草木を焼き尽くすような炎元素の熱量を放っている。\\n大地の深所で湧いているエネルギーは無数の願いを背負っている。烈火と共に植物に纏って永遠に燃えさせて、そして爆裂の炎で全てを浄化させようとしている。いったいどんな願いかな？",
             "type": "キャラクター育成素材"
           }
@@ -4979,7 +4979,7 @@
             "name": "琉璃袋",
             "count": 60,
             "rank": 1,
-            "icon": "/assets/images/Qiqi_material_100034_1753016070570.png",
+            "icon": "/assets/images/Qiqi_material_100034_1753018611554.png",
             "description": "生命力旺盛な花。地面に向ける咲き方は自らの香りを守るためらしい。",
             "type": "璃月地域の特産"
           },
@@ -4988,7 +4988,7 @@
             "name": "炎願のアゲート",
             "count": 6,
             "rank": 5,
-            "icon": "/assets/images/Diluc_material_104114_1753016046880.png",
+            "icon": "/assets/images/Diluc_material_104114_1753018590281.png",
             "description": "キャラクターの突破用アイテム。\\n「人々の願いのため、巡礼の道を歩もう。最強を目指して集い、戦うのだ…」\\n「最後は夢のために、劫火の中で燃え尽きる。」\\n「その灰燼にまだ初心が残っていれば、██の真実に辿り着いたという。」",
             "type": "キャラクター突破素材"
           },
@@ -4997,7 +4997,7 @@
             "name": "ゴールドの鴉マーク",
             "count": 24,
             "rank": 3,
-            "icon": "/assets/images/Kaeya_material_112037_1753016044988.png",
+            "icon": "/assets/images/Kaeya_material_112037_1753018588811.png",
             "description": "宝盗団の信仰と誇りを示す鴉マーク。この広い大地、幽邃の深淵、未知な海に秘宝が存在していれば、宝盗団の信念は永遠に続く。",
             "type": "キャラと武器育成素材"
           },
@@ -5006,7 +5006,7 @@
             "name": "常燃の火種",
             "count": 20,
             "rank": 4,
-            "icon": "/assets/images/Diluc_material_113011_1753016046701.png",
+            "icon": "/assets/images/Diluc_material_113011_1753018590262.png",
             "description": "永遠に燃え続ける爆炎樹のエネルギー源である種。世の中にある全ての草木を焼き尽くすような炎元素の熱量を放っている。\\n大地の深所で湧いているエネルギーは無数の願いを背負っている。烈火と共に植物に纏って永遠に燃えさせて、そして爆裂の炎で全てを浄化させようとしている。いったいどんな願いかな？",
             "type": "キャラクター育成素材"
           }

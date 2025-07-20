@@ -8,7 +8,7 @@
   "region": "Liyue",
   "constellation": "幽客座",
   "description": "総務司所属を称する謎の人物。しかし、総務司の名簿上では「存在しない人」となっている。",
-  "icon": "/assets/images/Yelan_icon_1753016108587.png",
+  "icon": "/assets/images/Yelan_icon_1753018644737.png",
   "profile": {
     "baseHp": 1124.918,
     "baseAtk": 18.992,
@@ -23,7 +23,7 @@
       "id": "匿影隠曜の弓",
       "name": "匿影隠曜の弓",
       "description": "",
-      "icon": "/assets/images/Amber_normal_attack_1753016049941.png",
+      "icon": "/assets/images/Amber_normal_attack_1753018593143.png",
       "skillType": "normal",
       "params": {
         "1": [],
@@ -47,7 +47,7 @@
       "id": "絡み合う命の糸",
       "name": "絡み合う命の糸",
       "description": "",
-      "icon": "/assets/images/Yelan_elemental_skill_1753016108587.png",
+      "icon": "/assets/images/Yelan_elemental_skill_1753018644737.png",
       "levelData": [
         {
           "tableIndex": 1,
@@ -1136,21 +1136,21 @@
     "elementalBurst": {
       "name": "先後の決め手",
       "description": "",
-      "icon": "/assets/images/Yelan_elemental_burst_1753016108588.png",
+      "icon": "/assets/images/Yelan_elemental_burst_1753018644737.png",
       "levelData": []
     },
     "passiveTalents": [
       {
         "name": "先後の決め手",
-        "icon": "/assets/images/Yelan_passive_1_1753016108588.png"
+        "icon": "/assets/images/Yelan_passive_1_1753018644737.png"
       },
       {
         "name": "気随気儘",
-        "icon": "/assets/images/Yelan_passive_2_1753016108588.png"
+        "icon": "/assets/images/Yelan_passive_2_1753018644737.png"
       },
       {
         "name": "長考一手",
-        "icon": "/assets/images/Chongyun_passive_3_1753016071901.png"
+        "icon": "/assets/images/Chongyun_passive_3_1753018612964.png"
       }
     ],
     "completeTableData": [
@@ -1395,7 +1395,7 @@
               "1段ダメージ|{param1:F1P}",
               "2段ダメージ|{param2:F1P}",
               "3段ダメージ|{param3:F1P}",
-              "4��ダメージ|{param4:F1P}+{param4:F1P}",
+              "4段ダメージ|{param4:F1P}+{param4:F1P}",
               "狙い撃ち|{param5:F1P}",
               "フルチャージ狙い撃ち|{param6:P}",
               "打破の矢ダメージ|HP上限{param7:F2P}",
@@ -4317,32 +4317,32 @@
       {
         "level": null,
         "name": "共謀する者、以局征局",
-        "icon": "/assets/images/Yelan_constellation_cNaN_1753016108588.png"
+        "icon": "/assets/images/Yelan_constellation_cNaN_1753018644737.png"
       },
       {
         "level": null,
         "name": "罠に陥る者、多々益善",
-        "icon": "/assets/images/Yelan_constellation_cNaN_1753016108588.png"
+        "icon": "/assets/images/Yelan_constellation_cNaN_1753018644737.png"
       },
       {
         "level": null,
         "name": "壺振り師、賽子詭計",
-        "icon": "/assets/images/Yelan_constellation_cNaN_1753016108588.png"
+        "icon": "/assets/images/Yelan_constellation_cNaN_1753018644737.png"
       },
       {
         "level": null,
         "name": "騙し取る者、移花接木",
-        "icon": "/assets/images/Yelan_constellation_cNaN_1753016108588.png"
+        "icon": "/assets/images/Yelan_constellation_cNaN_1753018644738.png"
       },
       {
         "level": null,
         "name": "胴元になる者、三仙奇術",
-        "icon": "/assets/images/Yelan_constellation_cNaN_1753016108588.png"
+        "icon": "/assets/images/Yelan_constellation_cNaN_1753018644738.png"
       },
       {
         "level": null,
         "name": "勝ち得る者、独り勝ち",
-        "icon": "/assets/images/Yelan_constellation_cNaN_1753016108588.png"
+        "icon": "/assets/images/Yelan_constellation_cNaN_1753018644738.png"
       }
     ]
   },
@@ -4359,14 +4359,14 @@
     "id": 210119,
     "name": "夜蘭·一擲",
     "description": "夜蘭·一擲",
-    "icon": "/assets/images/Yelan_icon_1753016108587.png"
+    "icon": "/assets/images/Yelan_icon_1753018644737.png"
   },
   "specialFood": {
     "id": 108389,
     "name": "美露エビ",
     "rank": 3,
-    "icon": "/assets/images/Yelan_special_food_1753016108588.png",
-    "effectIcon": "/assets/images/Klee_food_effect_1753016061314.png"
+    "icon": "/assets/images/Yelan_special_food_1753018644738.png",
+    "effectIcon": "/assets/images/Klee_food_effect_1753018602836.png"
   },
   "levelProgression": [
     {
@@ -4682,7 +4682,7 @@
             "name": "星螺",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Tartaglia_material_100033_1753016067503.png",
+            "icon": "/assets/images/Tartaglia_material_100033_1753018608667.png",
             "description": "潮と共に砂浜についた螺。よく聞けば、思いが溢れる海の叫びが聞こえる。",
             "type": "璃月地域の特産"
           },
@@ -4691,7 +4691,7 @@
             "name": "澄明なラピスラズリ·砕屑",
             "count": 1,
             "rank": 2,
-            "icon": "/assets/images/Barbara_material_104121_1753016043335.png",
+            "icon": "/assets/images/Barbara_material_104121_1753018587372.png",
             "description": "キャラクターの突破用アイテム。",
             "type": "キャラクター突破素材"
           },
@@ -4700,7 +4700,7 @@
             "name": "新兵の記章",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Diluc_material_112032_1753016046774.png",
+            "icon": "/assets/images/Diluc_material_112032_1753018590263.png",
             "description": "新兵の身分を記した記章。かつてこれをつけた人は、どんな気持ちでファデュイの戦争兵器になったのだろうか。",
             "type": "キャラと武器育成素材"
           }
@@ -4731,7 +4731,7 @@
             "name": "星螺",
             "count": 10,
             "rank": 1,
-            "icon": "/assets/images/Tartaglia_material_100033_1753016067503.png",
+            "icon": "/assets/images/Tartaglia_material_100033_1753018608667.png",
             "description": "潮と共に砂浜についた螺。よく聞けば、思いが溢れる海の叫びが聞こえる。",
             "type": "璃月地域の特産"
           },
@@ -4740,7 +4740,7 @@
             "name": "澄明なラピスラズリ·欠片",
             "count": 3,
             "rank": 3,
-            "icon": "/assets/images/Barbara_material_104122_1753016043362.png",
+            "icon": "/assets/images/Barbara_material_104122_1753018587368.png",
             "description": "キャラクターの突破用アイテム。\\n「僕の理想には一片の穢れも無い。」",
             "type": "キャラクター突破素材"
           },
@@ -4749,7 +4749,7 @@
             "name": "新兵の記章",
             "count": 15,
             "rank": 1,
-            "icon": "/assets/images/Diluc_material_112032_1753016046774.png",
+            "icon": "/assets/images/Diluc_material_112032_1753018590263.png",
             "description": "新兵の身分を記した記章。かつてこれをつけた人は、どんな気持ちでファデュイの戦争兵器になったのだろうか。",
             "type": "キャラと武器育成素材"
           },
@@ -4758,7 +4758,7 @@
             "name": "符文の歯車",
             "count": 2,
             "rank": 4,
-            "icon": "/assets/images/Shikanoin Heizou_material_113035_1753016107237.png",
+            "icon": "/assets/images/Shikanoin Heizou_material_113035_1753018643410.png",
             "description": "山壁の「歯車」を掘り出すために使われた、謎の蛇の形をした古代の機械。解読不能の不吉な符文が刻まれている。\\n伝説によると、大地の黒き亀裂には、巨大な蛇が潜んでいるらしい。それらは地上の世界に恨みと悪意を抱きながら、未知なる目的のため、巨大な隧道を掘り続けていると言う…",
             "type": "キャラクター育成素材"
           }
@@ -4793,7 +4793,7 @@
             "name": "星螺",
             "count": 20,
             "rank": 1,
-            "icon": "/assets/images/Tartaglia_material_100033_1753016067503.png",
+            "icon": "/assets/images/Tartaglia_material_100033_1753018608667.png",
             "description": "潮と共に砂浜についた螺。よく聞けば、思いが溢れる海の叫びが聞こえる。",
             "type": "璃月地域の特産"
           },
@@ -4802,7 +4802,7 @@
             "name": "澄明なラピスラズリ·欠片",
             "count": 6,
             "rank": 3,
-            "icon": "/assets/images/Barbara_material_104122_1753016043362.png",
+            "icon": "/assets/images/Barbara_material_104122_1753018587368.png",
             "description": "キャラクターの突破用アイテム。\\n「僕の理想には一片の穢れも無い。」",
             "type": "キャラクター突破素材"
           },
@@ -4811,7 +4811,7 @@
             "name": "士官の記章",
             "count": 12,
             "rank": 2,
-            "icon": "/assets/images/Diluc_material_112033_1753016046825.png",
+            "icon": "/assets/images/Diluc_material_112033_1753018590279.png",
             "description": "士官の身分を記した記章、一般兵士とは異なる独特なデザインがあるのは、その複雑な気持ちが含まれたからだろうか。",
             "type": "キャラと武器育成素材"
           },
@@ -4820,7 +4820,7 @@
             "name": "符文の歯車",
             "count": 4,
             "rank": 4,
-            "icon": "/assets/images/Shikanoin Heizou_material_113035_1753016107237.png",
+            "icon": "/assets/images/Shikanoin Heizou_material_113035_1753018643410.png",
             "description": "山壁の「歯車」を掘り出すために使われた、謎の蛇の形をした古代の機械。解読不能の不吉な符文が刻まれている。\\n伝説によると、大地の黒き亀裂には、巨大な蛇が潜んでいるらしい。それらは地上の世界に恨みと悪意を抱きながら、未知なる目的のため、巨大な隧道を掘り続けていると言う…",
             "type": "キャラクター育成素材"
           }
@@ -4855,7 +4855,7 @@
             "name": "星螺",
             "count": 30,
             "rank": 1,
-            "icon": "/assets/images/Tartaglia_material_100033_1753016067503.png",
+            "icon": "/assets/images/Tartaglia_material_100033_1753018608667.png",
             "description": "潮と共に砂浜についた螺。よく聞けば、思いが溢れる海の叫びが聞こえる。",
             "type": "璃月地域の特産"
           },
@@ -4864,7 +4864,7 @@
             "name": "澄明なラピスラズリ·塊",
             "count": 3,
             "rank": 4,
-            "icon": "/assets/images/Barbara_material_104123_1753016043306.png",
+            "icon": "/assets/images/Barbara_material_104123_1753018587373.png",
             "description": "キャラクターの突破用アイテム。\\n「僕の理想には一片の穢れも無い。」\\n「訂正させてもらおう。ここでは、人が神の裁きを受けることはない…」",
             "type": "キャラクター突破素材"
           },
@@ -4873,7 +4873,7 @@
             "name": "士官の記章",
             "count": 18,
             "rank": 2,
-            "icon": "/assets/images/Diluc_material_112033_1753016046825.png",
+            "icon": "/assets/images/Diluc_material_112033_1753018590279.png",
             "description": "士官の身分を記した記章、一般兵士とは異なる独特なデザインがあるのは、その複雑な気持ちが含まれたからだろうか。",
             "type": "キャラと武器育成素材"
           },
@@ -4882,7 +4882,7 @@
             "name": "符文の歯車",
             "count": 8,
             "rank": 4,
-            "icon": "/assets/images/Shikanoin Heizou_material_113035_1753016107237.png",
+            "icon": "/assets/images/Shikanoin Heizou_material_113035_1753018643410.png",
             "description": "山壁の「歯車」を掘り出すために使われた、謎の蛇の形をした古代の機械。解読不能の不吉な符文が刻まれている。\\n伝説によると、大地の黒き亀裂には、巨大な蛇が潜んでいるらしい。それらは地上の世界に恨みと悪意を抱きながら、未知なる目的のため、巨大な隧道を掘り続けていると言う…",
             "type": "キャラクター育成素材"
           }
@@ -4917,7 +4917,7 @@
             "name": "星螺",
             "count": 45,
             "rank": 1,
-            "icon": "/assets/images/Tartaglia_material_100033_1753016067503.png",
+            "icon": "/assets/images/Tartaglia_material_100033_1753018608667.png",
             "description": "潮と共に砂浜についた螺。よく聞けば、思いが溢れる海の叫びが聞こえる。",
             "type": "璃月地域の特産"
           },
@@ -4926,7 +4926,7 @@
             "name": "澄明なラピスラズリ·塊",
             "count": 6,
             "rank": 4,
-            "icon": "/assets/images/Barbara_material_104123_1753016043306.png",
+            "icon": "/assets/images/Barbara_material_104123_1753018587373.png",
             "description": "キャラクターの突破用アイテム。\\n「僕の理想には一片の穢れも無い。」\\n「訂正させてもらおう。ここでは、人が神の裁きを受けることはない…」",
             "type": "キャラクター突破素材"
           },
@@ -4935,7 +4935,7 @@
             "name": "尉官の記章",
             "count": 12,
             "rank": 3,
-            "icon": "/assets/images/Diluc_material_112034_1753016046850.png",
+            "icon": "/assets/images/Diluc_material_112034_1753018590275.png",
             "description": "尉官の身分を記した記章。ファデュイには膨大な軍隊があり、その中で尉官になれる人はきっと優れた能力があるだろう。",
             "type": "キャラと武器育成素材"
           },
@@ -4944,7 +4944,7 @@
             "name": "符文の歯車",
             "count": 12,
             "rank": 4,
-            "icon": "/assets/images/Shikanoin Heizou_material_113035_1753016107237.png",
+            "icon": "/assets/images/Shikanoin Heizou_material_113035_1753018643410.png",
             "description": "山壁の「歯車」を掘り出すために使われた、謎の蛇の形をした古代の機械。解読不能の不吉な符文が刻まれている。\\n伝説によると、大地の黒き亀裂には、巨大な蛇が潜んでいるらしい。それらは地上の世界に恨みと悪意を抱きながら、未知なる目的のため、巨大な隧道を掘り続けていると言う…",
             "type": "キャラクター育成素材"
           }
@@ -4979,7 +4979,7 @@
             "name": "星螺",
             "count": 60,
             "rank": 1,
-            "icon": "/assets/images/Tartaglia_material_100033_1753016067503.png",
+            "icon": "/assets/images/Tartaglia_material_100033_1753018608667.png",
             "description": "潮と共に砂浜についた螺。よく聞けば、思いが溢れる海の叫びが聞こえる。",
             "type": "璃月地域の特産"
           },
@@ -4988,7 +4988,7 @@
             "name": "澄明なラピスラズリ",
             "count": 6,
             "rank": 5,
-            "icon": "/assets/images/Barbara_material_104124_1753016043134.png",
+            "icon": "/assets/images/Barbara_material_104124_1753018587371.png",
             "description": "キャラクターの突破用アイテム。\\n「僕の理想には一片の穢れも無い。」\\n「訂正させてもらおう。ここでは、人が神の裁きを受けることはない。裁きを下せるのは、ただ法と法廷のみ。」\\n「この僕でさえ、断罪され得るのだからね。さあ、僕の崇高と純潔を讃えてくれたまえ。」",
             "type": "キャラクター突破素材"
           },
@@ -4997,7 +4997,7 @@
             "name": "尉官の記章",
             "count": 24,
             "rank": 3,
-            "icon": "/assets/images/Diluc_material_112034_1753016046850.png",
+            "icon": "/assets/images/Diluc_material_112034_1753018590275.png",
             "description": "尉官の身分を記した記章。ファデュイには膨大な軍隊があり、その中で尉官になれる人はきっと優れた能力があるだろう。",
             "type": "キャラと武器育成素材"
           },
@@ -5006,7 +5006,7 @@
             "name": "符文の歯車",
             "count": 20,
             "rank": 4,
-            "icon": "/assets/images/Shikanoin Heizou_material_113035_1753016107237.png",
+            "icon": "/assets/images/Shikanoin Heizou_material_113035_1753018643410.png",
             "description": "山壁の「歯車」を掘り出すために使われた、謎の蛇の形をした古代の機械。解読不能の不吉な符文が刻まれている。\\n伝説によると、大地の黒き亀裂には、巨大な蛇が潜んでいるらしい。それらは地上の世界に恨みと悪意を抱きながら、未知なる目的のため、巨大な隧道を掘り続けていると言う…",
             "type": "キャラクター育成素材"
           }

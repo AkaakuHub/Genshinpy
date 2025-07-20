@@ -8,7 +8,7 @@
   "region": "Mondstadt",
   "constellation": "幻ノ鴉座",
   "description": "自称「断罪の皇女」。オズという漆黒の鴉とともに行動する謎の少女。",
-  "icon": "/assets/images/Fischl_icon_1753016064366.png",
+  "icon": "/assets/images/Fischl_icon_1753018605725.png",
   "profile": {
     "baseHp": 770.463,
     "baseAtk": 20.479,
@@ -23,7 +23,7 @@
       "id": "罪滅ぼしの矢",
       "name": "罪滅ぼしの矢",
       "description": "",
-      "icon": "/assets/images/Amber_normal_attack_1753016049941.png",
+      "icon": "/assets/images/Amber_normal_attack_1753018593143.png",
       "skillType": "normal",
       "params": {
         "1": [],
@@ -47,7 +47,7 @@
       "id": "夜巡りの翼",
       "name": "夜巡りの翼",
       "description": "",
-      "icon": "/assets/images/Fischl_elemental_skill_1753016064366.png",
+      "icon": "/assets/images/Fischl_elemental_skill_1753018605725.png",
       "levelData": [
         {
           "tableIndex": 1,
@@ -1136,21 +1136,21 @@
     "elementalBurst": {
       "name": "星喰いの鴉",
       "description": "",
-      "icon": "/assets/images/Fischl_elemental_burst_1753016064367.png",
+      "icon": "/assets/images/Fischl_elemental_burst_1753018605725.png",
       "levelData": []
     },
     "passiveTalents": [
       {
         "name": "星喰いの鴉",
-        "icon": "/assets/images/Fischl_passive_1_1753016064367.png"
+        "icon": "/assets/images/Fischl_passive_1_1753018605725.png"
       },
       {
         "name": "断罪の雷影",
-        "icon": "/assets/images/Fischl_passive_2_1753016064367.png"
+        "icon": "/assets/images/Fischl_passive_2_1753018605725.png"
       },
       {
         "name": "吾の裏庭",
-        "icon": "/assets/images/Fischl_passive_3_1753016064367.png"
+        "icon": "/assets/images/Fischl_passive_3_1753018605725.png"
       }
     ],
     "completeTableData": [
@@ -4317,32 +4317,32 @@
       {
         "level": null,
         "name": "幽邃な鴉の目",
-        "icon": "/assets/images/Fischl_constellation_cNaN_1753016064367.png"
+        "icon": "/assets/images/Fischl_constellation_cNaN_1753018605726.png"
       },
       {
         "level": null,
         "name": "聖裁の羽根",
-        "icon": "/assets/images/Fischl_constellation_cNaN_1753016064367.png"
+        "icon": "/assets/images/Fischl_constellation_cNaN_1753018605726.png"
       },
       {
         "level": null,
         "name": "黒き翼",
-        "icon": "/assets/images/Fischl_constellation_cNaN_1753016064367.png"
+        "icon": "/assets/images/Fischl_constellation_cNaN_1753018605726.png"
       },
       {
         "level": null,
         "name": "皇女綺譚集",
-        "icon": "/assets/images/Fischl_constellation_cNaN_1753016064367.png"
+        "icon": "/assets/images/Fischl_constellation_cNaN_1753018605726.png"
       },
       {
         "level": null,
         "name": "夜の黙示録",
-        "icon": "/assets/images/Fischl_constellation_cNaN_1753016064367.png"
+        "icon": "/assets/images/Fischl_constellation_cNaN_1753018605726.png"
       },
       {
         "level": null,
         "name": "永夜の禽",
-        "icon": "/assets/images/Fischl_constellation_cNaN_1753016064367.png"
+        "icon": "/assets/images/Fischl_constellation_cNaN_1753018605726.png"
       }
     ]
   },
@@ -4360,21 +4360,21 @@
       "isDefault": false,
       "rank": 4,
       "storyId": 340005,
-      "icon": "/assets/images/Fischl_costume_2_1753016064367.png"
+      "icon": "/assets/images/Fischl_costume_2_1753018605726.png"
     }
   ],
   "nameCard": {
     "id": 210013,
     "name": "フィッシュル·夜鴉",
     "description": "フィッシュル·夜鴉",
-    "icon": "/assets/images/Fischl_icon_1753016064366.png"
+    "icon": "/assets/images/Fischl_icon_1753018605725.png"
   },
   "specialFood": {
     "id": 108117,
     "name": "祈聖シンフォニー",
     "rank": 3,
-    "icon": "/assets/images/Fischl_special_food_1753016064368.png",
-    "effectIcon": "/assets/images/Xiao_food_effect_1753016058133.png"
+    "icon": "/assets/images/Fischl_special_food_1753018605726.png",
+    "effectIcon": "/assets/images/Xiao_food_effect_1753018600089.png"
   },
   "levelProgression": [
     {
@@ -4690,7 +4690,7 @@
             "name": "イグサ",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Diluc_material_100055_1753016046806.png",
+            "icon": "/assets/images/Diluc_material_100055_1753018590259.png",
             "description": "夜になると微かな光を放つ花。他の食材と一緒に料理にすると旨味アップ。",
             "type": "モンド地域の特産"
           },
@@ -4699,7 +4699,7 @@
             "name": "最勝のアメシスト·砕屑",
             "count": 1,
             "rank": 2,
-            "icon": "/assets/images/Lisa_material_104141_1753016041506.png",
+            "icon": "/assets/images/Lisa_material_104141_1753018585934.png",
             "description": "キャラクターの突破用アイテム。",
             "type": "キャラクター突破素材"
           },
@@ -4708,7 +4708,7 @@
             "name": "牢固な矢先",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Amber_material_112011_1753016050193.png",
+            "icon": "/assets/images/Amber_material_112011_1753018593154.png",
             "description": "粗末な矢先。それでもその威力はなめてはいけない。弓弩は危険な武器である。たとえ騎士のような人でも後ろからの矢に撃たれる可能性があるから。",
             "type": "キャラと武器育成素材"
           }
@@ -4739,7 +4739,7 @@
             "name": "イグサ",
             "count": 10,
             "rank": 1,
-            "icon": "/assets/images/Diluc_material_100055_1753016046806.png",
+            "icon": "/assets/images/Diluc_material_100055_1753018590259.png",
             "description": "夜になると微かな光を放つ花。他の食材と一緒に料理にすると旨味アップ。",
             "type": "モンド地域の特産"
           },
@@ -4748,7 +4748,7 @@
             "name": "最勝のアメシスト·欠片",
             "count": 3,
             "rank": 3,
-            "icon": "/assets/images/Lisa_material_104142_1753016041531.png",
+            "icon": "/assets/images/Lisa_material_104142_1753018585931.png",
             "description": "キャラクターの突破用アイテム。\\n「此の身こそ、いと尊き存在。」",
             "type": "キャラクター突破素材"
           },
@@ -4757,7 +4757,7 @@
             "name": "牢固な矢先",
             "count": 15,
             "rank": 1,
-            "icon": "/assets/images/Amber_material_112011_1753016050193.png",
+            "icon": "/assets/images/Amber_material_112011_1753018593154.png",
             "description": "粗末な矢先。それでもその威力はなめてはいけない。弓弩は危険な武器である。たとえ騎士のような人でも後ろからの矢に撃たれる可能性があるから。",
             "type": "キャラと武器育成素材"
           },
@@ -4766,7 +4766,7 @@
             "name": "雷光のプリズム",
             "count": 2,
             "rank": 4,
-            "icon": "/assets/images/Lisa_material_113002_1753016041636.png",
+            "icon": "/assets/images/Lisa_material_113002_1753018585932.png",
             "description": "無相の雷が元素を集め、損傷を直すための物質。中には純粋な雷の力がある。\\nプリズムは光を構成する色彩の区別ができ、雷光のプリズムは流れるエネルギーを純粋な雷光に織り成すことができる。たとえ無相の雷が倒されたとしても、雷元素はこのプリズムの中で集まり続ける。",
             "type": "キャラクター育成素材"
           }
@@ -4801,7 +4801,7 @@
             "name": "イグサ",
             "count": 20,
             "rank": 1,
-            "icon": "/assets/images/Diluc_material_100055_1753016046806.png",
+            "icon": "/assets/images/Diluc_material_100055_1753018590259.png",
             "description": "夜になると微かな光を放つ花。他の食材と一緒に料理にすると旨味アップ。",
             "type": "モンド地域の特産"
           },
@@ -4810,7 +4810,7 @@
             "name": "最勝のアメシスト·欠片",
             "count": 6,
             "rank": 3,
-            "icon": "/assets/images/Lisa_material_104142_1753016041531.png",
+            "icon": "/assets/images/Lisa_material_104142_1753018585931.png",
             "description": "キャラクターの突破用アイテム。\\n「此の身こそ、いと尊き存在。」",
             "type": "キャラクター突破素材"
           },
@@ -4819,7 +4819,7 @@
             "name": "鋭利な矢先",
             "count": 12,
             "rank": 2,
-            "icon": "/assets/images/Amber_material_112012_1753016050049.png",
+            "icon": "/assets/images/Amber_material_112012_1753018593155.png",
             "description": "精良に作られた矢先。鋭利な先端は石を水に投げるように簡単に敵の鎧を貫くことができる。",
             "type": "キャラと武器育成素材"
           },
@@ -4828,7 +4828,7 @@
             "name": "雷光のプリズム",
             "count": 4,
             "rank": 4,
-            "icon": "/assets/images/Lisa_material_113002_1753016041636.png",
+            "icon": "/assets/images/Lisa_material_113002_1753018585932.png",
             "description": "無相の雷が元素を集め、損傷を直すための物質。中には純粋な雷の力がある。\\nプリズムは光を構成する色彩の区別ができ、雷光のプリズムは流れるエネルギーを純粋な雷光に織り成すことができる。たとえ無相の雷が倒されたとしても、雷元素はこのプリズムの中で集まり続ける。",
             "type": "キャラクター育成素材"
           }
@@ -4863,7 +4863,7 @@
             "name": "イグサ",
             "count": 30,
             "rank": 1,
-            "icon": "/assets/images/Diluc_material_100055_1753016046806.png",
+            "icon": "/assets/images/Diluc_material_100055_1753018590259.png",
             "description": "夜になると微かな光を放つ花。他の食材と一緒に料理にすると旨味アップ。",
             "type": "モンド地域の特産"
           },
@@ -4872,7 +4872,7 @@
             "name": "最勝のアメシスト·塊",
             "count": 3,
             "rank": 4,
-            "icon": "/assets/images/Lisa_material_104143_1753016041591.png",
+            "icon": "/assets/images/Lisa_material_104143_1753018585933.png",
             "description": "キャラクターの突破用アイテム。\\n「此の身こそ、いと尊き存在。」\\n「天下を泰平せし者。」",
             "type": "キャラクター突破素材"
           },
@@ -4881,7 +4881,7 @@
             "name": "鋭利な矢先",
             "count": 18,
             "rank": 2,
-            "icon": "/assets/images/Amber_material_112012_1753016050049.png",
+            "icon": "/assets/images/Amber_material_112012_1753018593155.png",
             "description": "精良に作られた矢先。鋭利な先端は石を水に投げるように簡単に敵の鎧を貫くことができる。",
             "type": "キャラと武器育成素材"
           },
@@ -4890,7 +4890,7 @@
             "name": "雷光のプリズム",
             "count": 8,
             "rank": 4,
-            "icon": "/assets/images/Lisa_material_113002_1753016041636.png",
+            "icon": "/assets/images/Lisa_material_113002_1753018585932.png",
             "description": "無相の雷が元素を集め、損傷を直すための物質。中には純粋な雷の力がある。\\nプリズムは光を構成する色彩の区別ができ、雷光のプリズムは流れるエネルギーを純粋な雷光に織り成すことができる。たとえ無相の雷が倒されたとしても、雷元素はこのプリズムの中で集まり続ける。",
             "type": "キャラクター育成素材"
           }
@@ -4925,7 +4925,7 @@
             "name": "イグサ",
             "count": 45,
             "rank": 1,
-            "icon": "/assets/images/Diluc_material_100055_1753016046806.png",
+            "icon": "/assets/images/Diluc_material_100055_1753018590259.png",
             "description": "夜になると微かな光を放つ花。他の食材と一緒に料理にすると旨味アップ。",
             "type": "モンド地域の特産"
           },
@@ -4934,7 +4934,7 @@
             "name": "最勝のアメシスト·塊",
             "count": 6,
             "rank": 4,
-            "icon": "/assets/images/Lisa_material_104143_1753016041591.png",
+            "icon": "/assets/images/Lisa_material_104143_1753018585933.png",
             "description": "キャラクターの突破用アイテム。\\n「此の身こそ、いと尊き存在。」\\n「天下を泰平せし者。」",
             "type": "キャラクター突破素材"
           },
@@ -4943,7 +4943,7 @@
             "name": "歴戦の矢先",
             "count": 12,
             "rank": 3,
-            "icon": "/assets/images/Amber_material_112013_1753016050160.png",
+            "icon": "/assets/images/Amber_material_112013_1753018593155.png",
             "description": "古く、乾いた血がたくさんついた矢先。何度も使用されたため、その鋭さは失われ、武器としては使えなくなったが、狩人の誇りの象徴としてお守りや表彰として使用されている。",
             "type": "キャラと武器育成素材"
           },
@@ -4952,7 +4952,7 @@
             "name": "雷光のプリズム",
             "count": 12,
             "rank": 4,
-            "icon": "/assets/images/Lisa_material_113002_1753016041636.png",
+            "icon": "/assets/images/Lisa_material_113002_1753018585932.png",
             "description": "無相の雷が元素を集め、損傷を直すための物質。中には純粋な雷の力がある。\\nプリズムは光を構成する色彩の区別ができ、雷光のプリズムは流れるエネルギーを純粋な雷光に織り成すことができる。たとえ無相の雷が倒されたとしても、雷元素はこのプリズムの中で集まり続ける。",
             "type": "キャラクター育成素材"
           }
@@ -4987,7 +4987,7 @@
             "name": "イグサ",
             "count": 60,
             "rank": 1,
-            "icon": "/assets/images/Diluc_material_100055_1753016046806.png",
+            "icon": "/assets/images/Diluc_material_100055_1753018590259.png",
             "description": "夜になると微かな光を放つ花。他の食材と一緒に料理にすると旨味アップ。",
             "type": "モンド地域の特産"
           },
@@ -4996,7 +4996,7 @@
             "name": "最勝のアメシスト",
             "count": 6,
             "rank": 5,
-            "icon": "/assets/images/Lisa_material_104144_1753016041608.png",
+            "icon": "/assets/images/Lisa_material_104144_1753018585937.png",
             "description": "キャラクターの突破用アイテム。\\n「此の身こそ、いと尊き存在。」\\n「天下を泰平せし者。」\\n「臣民に夢を与えると誓いましょう。未来永劫、不変の『永遠』を。」",
             "type": "キャラクター突破素材"
           },
@@ -5005,7 +5005,7 @@
             "name": "歴戦の矢先",
             "count": 24,
             "rank": 3,
-            "icon": "/assets/images/Amber_material_112013_1753016050160.png",
+            "icon": "/assets/images/Amber_material_112013_1753018593155.png",
             "description": "古く、乾いた血がたくさんついた矢先。何度も使用されたため、その鋭さは失われ、武器としては使えなくなったが、狩人の誇りの象徴としてお守りや表彰として使用されている。",
             "type": "キャラと武器育成素材"
           },
@@ -5014,7 +5014,7 @@
             "name": "雷光のプリズム",
             "count": 20,
             "rank": 4,
-            "icon": "/assets/images/Lisa_material_113002_1753016041636.png",
+            "icon": "/assets/images/Lisa_material_113002_1753018585932.png",
             "description": "無相の雷が元素を集め、損傷を直すための物質。中には純粋な雷の力がある。\\nプリズムは光を構成する色彩の区別ができ、雷光のプリズムは流れるエネルギーを純粋な雷光に織り成すことができる。たとえ無相の雷が倒されたとしても、雷元素はこのプリズムの中で集まり続ける。",
             "type": "キャラクター育成素材"
           }

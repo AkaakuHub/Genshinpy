@@ -8,7 +8,7 @@
   "region": "Inazuma",
   "constellation": "仙狐座",
   "description": "鳴神大社の宮司様であり、「八重堂」の編集長。華やかな見た目の裏には、思いもよらぬ知性と奸智が隠されている。",
-  "icon": "/assets/images/Yae Miko_icon_1753016105504.png",
+  "icon": "/assets/images/Yae Miko_icon_1753018642059.png",
   "profile": {
     "baseHp": 807.462,
     "baseAtk": 26.44,
@@ -23,7 +23,7 @@
       "id": "狐霊罪喰い式",
       "name": "狐霊罪喰い式",
       "description": "",
-      "icon": "/assets/images/Lisa_normal_attack_1753016041229.png",
+      "icon": "/assets/images/Lisa_normal_attack_1753018585917.png",
       "skillType": "normal",
       "params": {
         "1": [],
@@ -47,7 +47,7 @@
       "id": "野干役呪·殺生櫻",
       "name": "野干役呪·殺生櫻",
       "description": "",
-      "icon": "/assets/images/Yae Miko_elemental_skill_1753016105505.png",
+      "icon": "/assets/images/Yae Miko_elemental_skill_1753018642060.png",
       "levelData": [
         {
           "tableIndex": 1,
@@ -1136,21 +1136,21 @@
     "elementalBurst": {
       "name": "神籬之御蔭",
       "description": "",
-      "icon": "/assets/images/Yae Miko_elemental_burst_1753016105505.png",
+      "icon": "/assets/images/Yae Miko_elemental_burst_1753018642060.png",
       "levelData": []
     },
     "passiveTalents": [
       {
         "name": "神籬之御蔭",
-        "icon": "/assets/images/Yae Miko_passive_1_1753016105505.png"
+        "icon": "/assets/images/Yae Miko_passive_1_1753018642060.png"
       },
       {
         "name": "啓蟄之祝詞",
-        "icon": "/assets/images/Yae Miko_passive_2_1753016105505.png"
+        "icon": "/assets/images/Yae Miko_passive_2_1753018642060.png"
       },
       {
         "name": "野狐説禅",
-        "icon": "/assets/images/Yae Miko_passive_3_1753016105505.png"
+        "icon": "/assets/images/Yae Miko_passive_3_1753018642060.png"
       }
     ],
     "completeTableData": [
@@ -1466,7 +1466,7 @@
               "2段ダメージ|{param2:F1P}",
               "3段ダメージ|{param3:F1P}",
               "重撃ダメージ|{param4:F1P}",
-              "重���スタミナ消費|{param5:F1}",
+              "重撃スタミナ消費|{param5:F1}",
               "落下期間のダメージ|{param6:F1P}",
               "低空/高空落下攻撃ダメージ|{param7:P}/{param8:P}",
               "",
@@ -4317,32 +4317,32 @@
       {
         "level": null,
         "name": "野狐供真編",
-        "icon": "/assets/images/Yae Miko_constellation_cNaN_1753016105505.png"
+        "icon": "/assets/images/Yae Miko_constellation_cNaN_1753018642060.png"
       },
       {
         "level": null,
         "name": "望月之吼噦",
-        "icon": "/assets/images/Yae Miko_constellation_cNaN_1753016105505.png"
+        "icon": "/assets/images/Yae Miko_constellation_cNaN_1753018642060.png"
       },
       {
         "level": null,
         "name": "七化けの段",
-        "icon": "/assets/images/Yae Miko_constellation_cNaN_1753016105505.png"
+        "icon": "/assets/images/Yae Miko_constellation_cNaN_1753018642060.png"
       },
       {
         "level": null,
         "name": "緋櫻誘雷章",
-        "icon": "/assets/images/Yae Miko_constellation_cNaN_1753016105505.png"
+        "icon": "/assets/images/Yae Miko_constellation_cNaN_1753018642060.png"
       },
       {
         "level": null,
         "name": "暴悪嗤笑面",
-        "icon": "/assets/images/Yae Miko_constellation_cNaN_1753016105505.png"
+        "icon": "/assets/images/Yae Miko_constellation_cNaN_1753018642060.png"
       },
       {
         "level": null,
         "name": "大殺生呪禁",
-        "icon": "/assets/images/Yae Miko_constellation_cNaN_1753016105505.png"
+        "icon": "/assets/images/Yae Miko_constellation_cNaN_1753018642060.png"
       }
     ]
   },
@@ -4359,14 +4359,14 @@
     "id": 210112,
     "name": "八重神子·夢狐",
     "description": "八重神子·夢狐",
-    "icon": "/assets/images/Yae Miko_namecard_1753016105711.png"
+    "icon": "/assets/images/Yae Miko_icon_1753018642059.png"
   },
   "specialFood": {
     "id": 108380,
     "name": "福は内うどん",
     "rank": 2,
-    "icon": "/assets/images/Yae Miko_special_food_1753016105505.png",
-    "effectIcon": "/assets/images/Kamisato Ayaka_food_effect_1753016037647.png"
+    "icon": "/assets/images/Yae Miko_special_food_1753018642061.png",
+    "effectIcon": "/assets/images/Kamisato Ayaka_food_effect_1753018583171.png"
   },
   "levelProgression": [
     {
@@ -4682,7 +4682,7 @@
             "name": "ウミレイシ",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Kaedehara Kazuha_material_101206_1753016088146.png",
+            "icon": "/assets/images/Kaedehara Kazuha_material_101206_1753018627165.png",
             "description": "特定の海域や島でしか育たない特殊な品種。キノコ類のように見えるが、実際は軟体動物の分泌と増殖から生まれたものである。",
             "type": "稲妻地域の特産"
           },
@@ -4691,7 +4691,7 @@
             "name": "最勝のアメシスト·砕屑",
             "count": 1,
             "rank": 2,
-            "icon": "/assets/images/Lisa_material_104141_1753016041506.png",
+            "icon": "/assets/images/Lisa_material_104141_1753018585934.png",
             "description": "キャラクターの突破用アイテム。",
             "type": "キャラクター突破素材"
           },
@@ -4700,7 +4700,7 @@
             "name": "古びた鍔",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Kamisato Ayaka_material_112044_1753016038091.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_112044_1753018583215.png",
             "description": "稲妻の刀についている防具。多くの戦いを経験している。\\n剣術の達人にとって、鍔は相手の刃から手を守ってくれる物。新人にとっては、誤って手が柄から刀身へと滑らないよう守ってくれる物だ。",
             "type": "キャラと武器育成素材"
           }
@@ -4731,7 +4731,7 @@
             "name": "ウミレイシ",
             "count": 10,
             "rank": 1,
-            "icon": "/assets/images/Kaedehara Kazuha_material_101206_1753016088146.png",
+            "icon": "/assets/images/Kaedehara Kazuha_material_101206_1753018627165.png",
             "description": "特定の海域や島でしか育たない特殊な品種。キノコ類のように見えるが、実際は軟体動物の分泌と増殖から生まれたものである。",
             "type": "稲妻地域の特産"
           },
@@ -4740,7 +4740,7 @@
             "name": "最勝のアメシスト·欠片",
             "count": 3,
             "rank": 3,
-            "icon": "/assets/images/Lisa_material_104142_1753016041531.png",
+            "icon": "/assets/images/Lisa_material_104142_1753018585931.png",
             "description": "キャラクターの突破用アイテム。\\n「此の身こそ、いと尊き存在。」",
             "type": "キャラクター突破素材"
           },
@@ -4749,7 +4749,7 @@
             "name": "古びた鍔",
             "count": 15,
             "rank": 1,
-            "icon": "/assets/images/Kamisato Ayaka_material_112044_1753016038091.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_112044_1753018583215.png",
             "description": "稲妻の刀についている防具。多くの戦いを経験している。\\n剣術の達人にとって、鍔は相手の刃から手を守ってくれる物。新人にとっては、誤って手が柄から刀身へと滑らないよう守ってくれる物だ。",
             "type": "キャラと武器育成素材"
           },
@@ -4758,8 +4758,8 @@
             "name": "ドラゴエアのニセヒレ",
             "count": 2,
             "rank": 4,
-            "icon": "/assets/images/Yae Miko_material_113031_1753016105725.png",
-            "description": "アビサルヴィシャップを倒すと手に入る生体組織の一部。\\nサメのヒレのように見えるが、実用性はない。\\nかつて、白夜国の民はアビサルヴィシャップについて研究していた。それらが持つ特徴の中でも最も異質なのが、己の意志で自身の特徴を取り除くか継承するかを決められる点。人工的な光を嫌うため、ヴィシャップは成体になると視覚組織の多くが失われる。また戦うために元素の多様性を持ち、適したものへと進化してきた。",
+            "icon": "/assets/images/Yae Miko_material_113031_1753018642070.png",
+            "description": "アビサルヴィシャップを倒すと手に入る生体組織の一部。\\nサメのヒレのように見えるが、実用性はない。\\nかつて、白夜国の民はアビサルヴィシャップについて研究していた。それらが持つ特徴の中でも最も異質なのが、己の意志で自身の特徴を取り除くか継承するかを決められる点。人工的な光を嫌うため、ヴィシャップは成体になると視覚組織の多くが失われる。また戦うために元素の多様性を��ち、適したものへと進化してきた。",
             "type": "キャラクター育成素材"
           }
         ],
@@ -4793,7 +4793,7 @@
             "name": "ウミレイシ",
             "count": 20,
             "rank": 1,
-            "icon": "/assets/images/Kaedehara Kazuha_material_101206_1753016088146.png",
+            "icon": "/assets/images/Kaedehara Kazuha_material_101206_1753018627165.png",
             "description": "特定の海域や島でしか育たない特殊な品種。キノコ類のように見えるが、実際は軟体動物の分泌と増殖から生まれたものである。",
             "type": "稲妻地域の特産"
           },
@@ -4802,7 +4802,7 @@
             "name": "最勝のアメシスト·欠片",
             "count": 6,
             "rank": 3,
-            "icon": "/assets/images/Lisa_material_104142_1753016041531.png",
+            "icon": "/assets/images/Lisa_material_104142_1753018585931.png",
             "description": "キャラクターの突破用アイテム。\\n「此の身こそ、いと尊き存在。」",
             "type": "キャラクター突破素材"
           },
@@ -4811,7 +4811,7 @@
             "name": "影打の鍔",
             "count": 12,
             "rank": 2,
-            "icon": "/assets/images/Kamisato Ayaka_material_112045_1753016037938.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_112045_1753018583213.png",
             "description": "優れた刀に使われる防具。\\n稲妻には、刀鍛冶の長き伝統がある。刀工が刀を鍛える時、必ず何本か刀を打ち、その中で一番出来の良い物を「真打」として選び、残りは「影打」と呼ぶ。",
             "type": "キャラと武器育成素材"
           },
@@ -4820,8 +4820,8 @@
             "name": "ドラゴエアのニセヒレ",
             "count": 4,
             "rank": 4,
-            "icon": "/assets/images/Yae Miko_material_113031_1753016105725.png",
-            "description": "アビサルヴィシャップを倒すと手に入る生体組織の一部。\\nサメのヒレのように見えるが、実用性はない。\\nかつて、白夜国の民はアビサルヴィシャップについて研究していた。それらが持つ特徴の中でも最も異質なのが、己の意志で自身の特徴を取り除くか継承するかを決められる点。人工的な光を嫌うため、ヴィシャップは成体になると視覚組織の多くが失われる。また戦うために元素の多様性を持ち、適したものへと進化してきた。",
+            "icon": "/assets/images/Yae Miko_material_113031_1753018642070.png",
+            "description": "アビサルヴィシャップを倒すと手に入る生体組織の一部。\\nサメのヒレのように見えるが、実用性はない。\\nかつて、白夜国の民はアビサルヴィシャップについて研究していた。それらが持つ特徴の中でも最も異質なのが、己の意志で自身の特徴を取り除くか継承するかを決められる点。人工的な光を嫌うため、ヴィシャップは成体になると視覚組織の多くが失われる。また戦うために元素の多様性を��ち、適したものへと進化してきた。",
             "type": "キャラクター育成素材"
           }
         ],
@@ -4855,7 +4855,7 @@
             "name": "ウミレイシ",
             "count": 30,
             "rank": 1,
-            "icon": "/assets/images/Kaedehara Kazuha_material_101206_1753016088146.png",
+            "icon": "/assets/images/Kaedehara Kazuha_material_101206_1753018627165.png",
             "description": "特定の海域や島でしか育たない特殊な品種。キノコ類のように見えるが、実際は軟体動物の分泌と増殖から生まれたものである。",
             "type": "稲妻地域の特産"
           },
@@ -4864,7 +4864,7 @@
             "name": "最勝のアメシスト·塊",
             "count": 3,
             "rank": 4,
-            "icon": "/assets/images/Lisa_material_104143_1753016041591.png",
+            "icon": "/assets/images/Lisa_material_104143_1753018585933.png",
             "description": "キャラクターの突破用アイテム。\\n「此の身こそ、いと尊き存在。」\\n「天下を泰平せし者。」",
             "type": "キャラクター突破素材"
           },
@@ -4873,7 +4873,7 @@
             "name": "影打の鍔",
             "count": 18,
             "rank": 2,
-            "icon": "/assets/images/Kamisato Ayaka_material_112045_1753016037938.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_112045_1753018583213.png",
             "description": "優れた刀に使われる防具。\\n稲妻には、刀鍛冶の長き伝統がある。刀工が刀を鍛える時、必ず何本か刀を打ち、その中で一番出来の良い物を「真打」として選び、残りは「影打」と呼ぶ。",
             "type": "キャラと武器育成素材"
           },
@@ -4882,8 +4882,8 @@
             "name": "ドラゴエアのニセヒレ",
             "count": 8,
             "rank": 4,
-            "icon": "/assets/images/Yae Miko_material_113031_1753016105725.png",
-            "description": "アビサルヴィシャップを倒すと手に入る生体組織の一部。\\nサメのヒレのように見えるが、実用性はない。\\nかつて、白夜国の民はアビサルヴィシャップについて研究していた。それらが持つ特徴の中でも最も異質なのが、己の意志で自身の特徴を取り除くか継承するかを決められる点。人工的な光を嫌うため、ヴィシャップは成体になると視覚組織の多くが失われる。また戦うために元素の多様性を持ち、適したものへと進化してきた。",
+            "icon": "/assets/images/Yae Miko_material_113031_1753018642070.png",
+            "description": "アビサルヴィシャップを倒すと手に入る生体組織の一部。\\nサメのヒレのように見えるが、実用性はない。\\nかつて、白夜国の民はアビサルヴィシャップについて研究していた。それらが持つ特徴の中でも最も異質なのが、己の意志で自身の特徴を取り除くか継承するかを決められる点。人工的な光を嫌うため、ヴィシャップは成体になると視覚組織の多くが失われる。また戦うために元素の多様性を��ち、適したものへと進化してきた。",
             "type": "キャラクター育成素材"
           }
         ],
@@ -4917,7 +4917,7 @@
             "name": "ウミレイシ",
             "count": 45,
             "rank": 1,
-            "icon": "/assets/images/Kaedehara Kazuha_material_101206_1753016088146.png",
+            "icon": "/assets/images/Kaedehara Kazuha_material_101206_1753018627165.png",
             "description": "特定の海域や島でしか育たない特殊な品種。キノコ類のように見えるが、実際は軟体動物の分泌と増殖から生まれたものである。",
             "type": "稲妻地域の特産"
           },
@@ -4926,7 +4926,7 @@
             "name": "最勝のアメシスト·塊",
             "count": 6,
             "rank": 4,
-            "icon": "/assets/images/Lisa_material_104143_1753016041591.png",
+            "icon": "/assets/images/Lisa_material_104143_1753018585933.png",
             "description": "キャラクターの突破用アイテム。\\n「此の身こそ、いと尊き存在。」\\n「天下を泰平せし者。」",
             "type": "キャラクター突破素材"
           },
@@ -4935,7 +4935,7 @@
             "name": "名刀の鍔",
             "count": 12,
             "rank": 3,
-            "icon": "/assets/images/Kamisato Ayaka_material_112046_1753016038012.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_112046_1753018583214.png",
             "description": "名刀に取り付けられた美しい防具。\\n刀には魂が宿り、命が存在すると人々は信じている。刀に名前を付けるのも、そのためである。刀を大切にする者は、刀にも報われる。しかし、刀と親友に、ひいては恋人にまでなった者は、その感情は殺伐を伴うことを肝に銘じておかなければならない。血を浴び、常に刀と踊ってきた者の熱血は、いずれ無情の鋼鉄によって冷めてしまう。",
             "type": "キャラと武器育成素材"
           },
@@ -4944,8 +4944,8 @@
             "name": "ドラゴエアのニセヒレ",
             "count": 12,
             "rank": 4,
-            "icon": "/assets/images/Yae Miko_material_113031_1753016105725.png",
-            "description": "アビサルヴィシャップを倒すと手に入る生体組織の一部。\\nサメのヒレのように見えるが、実用性はない。\\nかつて、白夜国の民はアビサルヴィシャップについて研究していた。それらが持つ特徴の中でも最も異質なのが、己の意志で自身の特徴を取り除くか継承するかを決められる点。人工的な光を嫌うため、ヴィシャップは成体になると視覚組織の多くが失われる。また戦うために元素の多様性を持ち、適したものへと進化してきた。",
+            "icon": "/assets/images/Yae Miko_material_113031_1753018642070.png",
+            "description": "アビサルヴィシャップを倒すと手に入る生体組織の一部。\\nサメのヒレのように見えるが、実用性はない。\\nかつて、白夜国の民はアビサルヴィシャップについて研究していた。それらが持つ特徴の中でも最も異質なのが、己の意志で自身の特徴を取り除くか継承するかを決められる点。人工的な光を嫌うため、ヴィシャップは成体になると視覚組織の多くが失われる。また戦うために元素の多様性を��ち、適したものへと進化してきた。",
             "type": "キャラクター育成素材"
           }
         ],
@@ -4979,7 +4979,7 @@
             "name": "ウミレイシ",
             "count": 60,
             "rank": 1,
-            "icon": "/assets/images/Kaedehara Kazuha_material_101206_1753016088146.png",
+            "icon": "/assets/images/Kaedehara Kazuha_material_101206_1753018627165.png",
             "description": "特定の海域や島でしか育たない特殊な品種。キノコ類のように見えるが、実際は軟体動物の分泌と増殖から生まれたものである。",
             "type": "稲妻地域の特産"
           },
@@ -4988,7 +4988,7 @@
             "name": "最勝のアメシスト",
             "count": 6,
             "rank": 5,
-            "icon": "/assets/images/Lisa_material_104144_1753016041608.png",
+            "icon": "/assets/images/Lisa_material_104144_1753018585937.png",
             "description": "キャラクターの突破用アイテム。\\n「此の身こそ、いと尊き存在。」\\n「天下を泰平せし者。」\\n「臣民に夢を与えると誓いましょう。未来永劫、不変の『永遠』を。」",
             "type": "キャラクター突破素材"
           },
@@ -4997,7 +4997,7 @@
             "name": "名刀の鍔",
             "count": 24,
             "rank": 3,
-            "icon": "/assets/images/Kamisato Ayaka_material_112046_1753016038012.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_112046_1753018583214.png",
             "description": "名刀に取り付けられた美しい防具。\\n刀には魂が宿り、命が存在すると人々は信じている。刀に名前を付けるのも、そのためである。刀を大切にする者は、刀にも報われる。しかし、刀と親友に、ひいては恋人にまでなった者は、その感情は殺伐を伴うことを肝に銘じておかなければならない。血を浴び、常に刀と踊ってきた者の熱血は、いずれ無情の鋼鉄によって冷めてしまう。",
             "type": "キャラと武器育成素材"
           },
@@ -5006,8 +5006,8 @@
             "name": "ドラゴエアのニセヒレ",
             "count": 20,
             "rank": 4,
-            "icon": "/assets/images/Yae Miko_material_113031_1753016105725.png",
-            "description": "アビサルヴィシャップを倒すと手に入る生体組織の一部。\\nサメのヒレのように見えるが、実用性はない。\\nかつて、白夜国の民はアビサルヴィシャップについて研究していた。それらが持つ特徴の中でも最も異質なのが、己の意志で自身の特徴を取り除くか継承するかを決められる点。人工的な光を嫌うため、ヴィシャップは成体になると視覚組織の多くが失われる。また戦うために元素の多様性を持ち、適したものへと進化してきた。",
+            "icon": "/assets/images/Yae Miko_material_113031_1753018642070.png",
+            "description": "アビサルヴィシャップを倒すと手に入る生体組織の一部。\\nサメのヒレのように見えるが、実用性はない。\\nかつて、白夜国の民はアビサルヴィシャップについて研究していた。それらが持つ特徴の中でも最も異質なのが、己の意志で自身の特徴を取り除くか継承するかを決められる点。人工的な光を嫌うため、ヴィシャップは成体になると視覚組織の多くが失われる。また戦うために元素の多様性を��ち、適したものへと進化してきた。",
             "type": "キャラクター育成素材"
           }
         ],
