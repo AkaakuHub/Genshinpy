@@ -43,6 +43,13 @@ jobs:
     - name: Create assets directory
       run: mkdir -p genshin-viewer/public/assets/images
 
+    - name: Initial build check (debug)
+      run: |
+        cd genshin-viewer
+        pnpm install --frozen-lockfile
+        pnpm run build
+        echo "✅ Initial build successful"
+
     - name: Scrape all character data
       run: |
         echo "🚀 Starting comprehensive character data scraping..."
