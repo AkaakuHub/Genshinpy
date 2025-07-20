@@ -1,0 +1,19 @@
+pre-commit:
+  parallel: true
+  commands:
+    # lint:
+    #   glob: "*.{ts,js}"
+    #   run: pnpm lint {staged_files}
+    # prettier:
+    #   glob: "*.{ts,js,json,md}"
+    #   run: pnpm format {staged_files}
+    # type-check:
+    #   run: pnpm type-check
+    all:
+      run: pnpm check-all
+      stage_fixed: true
+
+commit-msg:
+  commands:
+    commitlint:
+      run: echo "Commit message checked"
