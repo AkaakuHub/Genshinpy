@@ -25,16 +25,6 @@ const CharacterViewer: React.FC = () => {
   const [error, setError] = useState<string | null>(null);
   const [activeTab, setActiveTab] = useState<string>('profile');
 
-  useEffect(() => {
-    fetchCharacterList();
-  }, [fetchCharacterList]);
-
-  useEffect(() => {
-    if (selectedCharacterId) {
-      fetchCharacterData(selectedCharacterId);
-    }
-  }, [selectedCharacterId]);
-
   const fetchCharacterList = useCallback(async () => {
     try {
       const response = await fetch('/data/characters.json');
@@ -47,6 +37,16 @@ const CharacterViewer: React.FC = () => {
       }
     } catch (err) {
       console.error('Failed to load character list:', err);
+    }
+  }, [selectedCharacterId]);
+
+  useEffect(() => {
+    fetchCharacterList();
+  }, [fetchCharacterList]);
+
+  useEffect(() => {
+    if (selectedCharacterId) {
+      fetchCharacterData(selectedCharacterId);
     }
   }, [selectedCharacterId]);
 
