@@ -8,7 +8,7 @@
   "region": "Mondstadt",
   "constellation": "岐路座",
   "description": "モンドの少年冒険者。その優しさにそぐわない不運の持ち主。",
-  "icon": "/assets/images/Bennett_icon_1753000697365.png",
+  "icon": "/assets/images/Bennett_icon_1753003990162.png",
   "profile": {
     "baseHp": 1039.442,
     "baseAtk": 16.027,
@@ -23,7 +23,7 @@
       "id": "好運の剣",
       "name": "好運の剣",
       "description": "",
-      "icon": "/assets/images/Kamisato Ayaka_normal_attack_1753000661887.png",
+      "icon": "/assets/images/Kamisato Ayaka_normal_attack_1753003967511.png",
       "skillType": "normal",
       "params": {
         "1": [],
@@ -47,7 +47,7 @@
       "id": "溢れる情熱",
       "name": "溢れる情熱",
       "description": "",
-      "icon": "/assets/images/Bennett_elemental_skill_1753000697365.png",
+      "icon": "/assets/images/Bennett_elemental_skill_1753003990162.png",
       "levelData": [
         {
           "tableIndex": 1,
@@ -587,7 +587,7 @@
           ],
           "description": [
             "一回押しダメージ|{param1:P}",
-            "1段チャージダメージ|{param2:P}+{param3:P}",
+            "1段チャ���ジダメージ|{param2:P}+{param3:P}",
             "2段チャージダメージ|{param4:P}+{param5:P}",
             "爆発ダメージ|{param6:P}",
             "クールタイム|{param7:F1}/{param8:F1}/{param9:F1}秒",
@@ -1136,21 +1136,21 @@
     "elementalBurst": {
       "name": "情熱復活",
       "description": "",
-      "icon": "/assets/images/Bennett_elemental_burst_1753000697366.png",
+      "icon": "/assets/images/Bennett_elemental_burst_1753003990162.png",
       "levelData": []
     },
     "passiveTalents": [
       {
         "name": "情熱復活",
-        "icon": "/assets/images/Bennett_passive_1_1753000697366.png"
+        "icon": "/assets/images/Bennett_passive_1_1753003990162.png"
       },
       {
         "name": "恐れなき熱血",
-        "icon": "/assets/images/Bennett_passive_2_1753000697366.png"
+        "icon": "/assets/images/Bennett_passive_2_1753003990163.png"
       },
       {
         "name": "多分安全",
-        "icon": "/assets/images/Fischl_passive_3_1753000695550.png"
+        "icon": "/assets/images/Fischl_passive_3_1753003988720.png"
       }
     ],
     "completeTableData": [
@@ -1606,7 +1606,7 @@
               "2段ダメージ|{param2:F1P}",
               "3段ダメージ|{param3:F1P}",
               "4段ダメージ|{param4:F1P}",
-              "5���ダメージ|{param5:P}",
+              "5段ダメージ|{param5:P}",
               "重撃ダメージ|{param6:F1P}+{param7:F1P}",
               "重撃スタミナ消費|{param8:F1}",
               "落下期間のダメージ|{param9:F1P}",
@@ -1955,7 +1955,7 @@
             ],
             "description": [
               "1段ダメージ|{param1:P}",
-              "2段ダメ���ジ|{param2:F1P}",
+              "2段ダメージ|{param2:F1P}",
               "3段ダメージ|{param3:P}",
               "4段ダメージ|{param4:P}",
               "5段ダメージ|{param5:P}",
@@ -2719,7 +2719,7 @@
             ],
             "description": [
               "一回押しダメージ|{param1:P}",
-              "1段チャージダメージ|{param2:P}+{param3:P}",
+              "1段チャ���ジダメージ|{param2:P}+{param3:P}",
               "2段チャージダメージ|{param4:P}+{param5:P}",
               "爆発ダメージ|{param6:P}",
               "クールタイム|{param7:F1}/{param8:F1}/{param9:F1}秒",
@@ -4317,32 +4317,32 @@
       {
         "level": null,
         "name": "冒険の憧れ",
-        "icon": "/assets/images/Bennett_constellation_cNaN_1753000697366.png"
+        "icon": "/assets/images/Bennett_constellation_cNaN_1753003990163.png"
       },
       {
         "level": null,
         "name": "絶境踏破",
-        "icon": "/assets/images/Bennett_constellation_cNaN_1753000697366.png"
+        "icon": "/assets/images/Bennett_constellation_cNaN_1753003990163.png"
       },
       {
         "level": null,
         "name": "炎のような情熱",
-        "icon": "/assets/images/Bennett_constellation_cNaN_1753000697366.png"
+        "icon": "/assets/images/Bennett_constellation_cNaN_1753003990163.png"
       },
       {
         "level": null,
         "name": "消えない情熱",
-        "icon": "/assets/images/Bennett_constellation_cNaN_1753000697366.png"
+        "icon": "/assets/images/Bennett_constellation_cNaN_1753003990163.png"
       },
       {
         "level": null,
         "name": "開拓の心意気",
-        "icon": "/assets/images/Bennett_constellation_cNaN_1753000697366.png"
+        "icon": "/assets/images/Bennett_constellation_cNaN_1753003990163.png"
       },
       {
         "level": null,
         "name": "烈火と勇気",
-        "icon": "/assets/images/Bennett_constellation_cNaN_1753000697366.png"
+        "icon": "/assets/images/Bennett_constellation_cNaN_1753003990163.png"
       }
     ]
   },
@@ -4359,14 +4359,14 @@
     "id": 210016,
     "name": "ベネット·認可",
     "description": "ベネット·認可",
-    "icon": "/assets/images/Bennett_icon_1753000697365.png"
+    "icon": "/assets/images/Bennett_icon_1753003990162.png"
   },
   "specialFood": {
     "id": 108116,
     "name": "テイワット風焦げ卵",
     "rank": 1,
-    "icon": "/assets/images/Bennett_special_food_1753000697366.png",
-    "effectIcon": "/assets/images/Kamisato Ayaka_food_effect_1753000661904.png"
+    "icon": "/assets/images/Bennett_special_food_1753003990163.png",
+    "effectIcon": "/assets/images/Kamisato Ayaka_food_effect_1753003967528.png"
   },
   "levelProgression": [
     {
@@ -4682,7 +4682,7 @@
             "name": "風車アスター",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Bennett_material_100024_1753000697538.png",
+            "icon": "/assets/images/Bennett_material_100024_1753003990177.png",
             "description": "風が好きな植物。風を崇拝するモンドの人々にとって、風車アスターは「見える風」である。",
             "type": "モンド地域の特産"
           },
@@ -4691,7 +4691,7 @@
             "name": "炎願のアゲート·砕屑",
             "count": 1,
             "rank": 2,
-            "icon": "/assets/images/Diluc_material_104111_1753000673109.png",
+            "icon": "/assets/images/Diluc_material_104111_1753003974114.png",
             "description": "キャラクターの突破用アイテム。",
             "type": "キャラクター突破素材"
           },
@@ -4700,7 +4700,7 @@
             "name": "宝探しの鴉マーク",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Kaeya_material_112035_1753000671248.png",
+            "icon": "/assets/images/Kaeya_material_112035_1753003972854.png",
             "description": "宝盗団の誇りであるマーク、彼らの宝物に対する永遠不滅の情熱を示すものである。とはいえ、自分が盗賊ということを誇らしげに示す必要はあるかな…？",
             "type": "キャラと武器育成素材"
           }
@@ -4731,7 +4731,7 @@
             "name": "風車アスター",
             "count": 10,
             "rank": 1,
-            "icon": "/assets/images/Bennett_material_100024_1753000697538.png",
+            "icon": "/assets/images/Bennett_material_100024_1753003990177.png",
             "description": "風が好きな植物。風を崇拝するモンドの人々にとって、風車アスターは「見える風」である。",
             "type": "モンド地域の特産"
           },
@@ -4740,7 +4740,7 @@
             "name": "炎願のアゲート·欠片",
             "count": 3,
             "rank": 3,
-            "icon": "/assets/images/Diluc_material_104112_1753000673082.png",
+            "icon": "/assets/images/Diluc_material_104112_1753003974114.png",
             "description": "キャラクターの突破用アイテム。\\n「人々の願いのため、巡礼の道を歩もう。最強を目指して集い、戦うのだ…」",
             "type": "キャラクター突破素材"
           },
@@ -4749,7 +4749,7 @@
             "name": "宝探しの鴉マーク",
             "count": 15,
             "rank": 1,
-            "icon": "/assets/images/Kaeya_material_112035_1753000671248.png",
+            "icon": "/assets/images/Kaeya_material_112035_1753003972854.png",
             "description": "宝盗団の誇りであるマーク、彼らの宝物に対する永遠不滅の情熱を示すものである。とはいえ、自分が盗賊ということを誇らしげに示す必要はあるかな…？",
             "type": "キャラと武器育成素材"
           },
@@ -4758,7 +4758,7 @@
             "name": "常燃の火種",
             "count": 2,
             "rank": 4,
-            "icon": "/assets/images/Diluc_material_113011_1753000672937.png",
+            "icon": "/assets/images/Diluc_material_113011_1753003974117.png",
             "description": "永遠に燃え続ける爆炎樹のエネルギー源である種。世の中にある全ての草木を焼き尽くすような炎元素の熱量を放っている。\\n大地の深所で湧いているエネルギーは無数の願いを背負っている。烈火と共に植物に纏って永遠に燃えさせて、そして爆裂の炎で全てを浄化させようとしている。いったいどんな願いかな？",
             "type": "キャラクター育成素材"
           }
@@ -4793,7 +4793,7 @@
             "name": "風車アスター",
             "count": 20,
             "rank": 1,
-            "icon": "/assets/images/Bennett_material_100024_1753000697538.png",
+            "icon": "/assets/images/Bennett_material_100024_1753003990177.png",
             "description": "風が好きな植物。風を崇拝するモンドの人々にとって、風車アスターは「見える風」である。",
             "type": "モンド地域の特産"
           },
@@ -4802,7 +4802,7 @@
             "name": "炎願のアゲート·欠片",
             "count": 6,
             "rank": 3,
-            "icon": "/assets/images/Diluc_material_104112_1753000673082.png",
+            "icon": "/assets/images/Diluc_material_104112_1753003974114.png",
             "description": "キャラクターの突破用アイテム。\\n「人々の願いのため、巡礼の道を歩もう。最強を目指して集い、戦うのだ…」",
             "type": "キャラクター突破素材"
           },
@@ -4811,7 +4811,7 @@
             "name": "シルバーの鴉マーク",
             "count": 12,
             "rank": 2,
-            "icon": "/assets/images/Kaeya_material_112036_1753000671174.png",
+            "icon": "/assets/images/Kaeya_material_112036_1753003972854.png",
             "description": "宝盗団のメンバーが互いの存在を証明する鴉マーク。宝盗団のメンバーは出身を問わず、宝物への貪欲さえあれば、「優秀」なメンバーになれる。",
             "type": "キャラと武器育成素材"
           },
@@ -4820,7 +4820,7 @@
             "name": "常燃の火種",
             "count": 4,
             "rank": 4,
-            "icon": "/assets/images/Diluc_material_113011_1753000672937.png",
+            "icon": "/assets/images/Diluc_material_113011_1753003974117.png",
             "description": "永遠に燃え続ける爆炎樹のエネルギー源である種。世の中にある全ての草木を焼き尽くすような炎元素の熱量を放っている。\\n大地の深所で湧いているエネルギーは無数の願いを背負っている。烈火と共に植物に纏って永遠に燃えさせて、そして爆裂の炎で全てを浄化させようとしている。いったいどんな願いかな？",
             "type": "キャラクター育成素材"
           }
@@ -4855,7 +4855,7 @@
             "name": "風車アスター",
             "count": 30,
             "rank": 1,
-            "icon": "/assets/images/Bennett_material_100024_1753000697538.png",
+            "icon": "/assets/images/Bennett_material_100024_1753003990177.png",
             "description": "風が好きな植物。風を崇拝するモンドの人々にとって、風車アスターは「見える風」である。",
             "type": "モンド地域の特産"
           },
@@ -4864,7 +4864,7 @@
             "name": "炎願のアゲート·塊",
             "count": 3,
             "rank": 4,
-            "icon": "/assets/images/Diluc_material_104113_1753000673217.png",
+            "icon": "/assets/images/Diluc_material_104113_1753003974140.png",
             "description": "キャラクターの突破用アイテム。\\n「人々の願いのため、巡礼の道を歩もう。最強を目指して集い、戦うのだ…」\\n「最後は夢のために、劫火の中で燃え尽きる。」",
             "type": "キャラクター突破素材"
           },
@@ -4873,7 +4873,7 @@
             "name": "シルバーの鴉マーク",
             "count": 18,
             "rank": 2,
-            "icon": "/assets/images/Kaeya_material_112036_1753000671174.png",
+            "icon": "/assets/images/Kaeya_material_112036_1753003972854.png",
             "description": "宝盗団のメンバーが互いの存在を証明する鴉マーク。宝盗団のメンバーは出身を問わず、宝物への貪欲さえあれば、「優秀」なメンバーになれる。",
             "type": "キャラと武器育成素材"
           },
@@ -4882,7 +4882,7 @@
             "name": "常燃の火種",
             "count": 8,
             "rank": 4,
-            "icon": "/assets/images/Diluc_material_113011_1753000672937.png",
+            "icon": "/assets/images/Diluc_material_113011_1753003974117.png",
             "description": "永遠に燃え続ける爆炎樹のエネルギー源である種。世の中にある全ての草木を焼き尽くすような炎元素の熱量を放っている。\\n大地の深所で湧いているエネルギーは無数の願いを背負っている。烈火と共に植物に纏って永遠に燃えさせて、そして爆裂の炎で全てを浄化させようとしている。いったいどんな願いかな？",
             "type": "キャラクター育成素材"
           }
@@ -4917,7 +4917,7 @@
             "name": "風車アスター",
             "count": 45,
             "rank": 1,
-            "icon": "/assets/images/Bennett_material_100024_1753000697538.png",
+            "icon": "/assets/images/Bennett_material_100024_1753003990177.png",
             "description": "風が好きな植物。風を崇拝するモンドの人々にとって、風車アスターは「見える風」である。",
             "type": "モンド地域の特産"
           },
@@ -4926,7 +4926,7 @@
             "name": "炎願のアゲート·塊",
             "count": 6,
             "rank": 4,
-            "icon": "/assets/images/Diluc_material_104113_1753000673217.png",
+            "icon": "/assets/images/Diluc_material_104113_1753003974140.png",
             "description": "キャラクターの突破用アイテム。\\n「人々の願いのため、巡礼の道を歩もう。最強を目指して集い、戦うのだ…」\\n「最後は夢のために、劫火の中で燃え尽きる。」",
             "type": "キャラクター突破素材"
           },
@@ -4935,7 +4935,7 @@
             "name": "ゴールドの鴉マーク",
             "count": 12,
             "rank": 3,
-            "icon": "/assets/images/Kaeya_material_112037_1753000671098.png",
+            "icon": "/assets/images/Kaeya_material_112037_1753003972851.png",
             "description": "宝盗団の信仰と誇りを示す鴉マーク。この広い大地、幽邃の深淵、未知な海に秘宝が存在していれば、宝盗団の信念は永遠に続く。",
             "type": "キャラと武器育成素材"
           },
@@ -4944,7 +4944,7 @@
             "name": "常燃の火種",
             "count": 12,
             "rank": 4,
-            "icon": "/assets/images/Diluc_material_113011_1753000672937.png",
+            "icon": "/assets/images/Diluc_material_113011_1753003974117.png",
             "description": "永遠に燃え続ける爆炎樹のエネルギー源である種。世の中にある全ての草木を焼き尽くすような炎元素の熱量を放っている。\\n大地の深所で湧いているエネルギーは無数の願いを背負っている。烈火と共に植物に纏って永遠に燃えさせて、そして爆裂の炎で全てを浄化させようとしている。いったいどんな願いかな？",
             "type": "キャラクター育成素材"
           }
@@ -4979,7 +4979,7 @@
             "name": "風車アスター",
             "count": 60,
             "rank": 1,
-            "icon": "/assets/images/Bennett_material_100024_1753000697538.png",
+            "icon": "/assets/images/Bennett_material_100024_1753003990177.png",
             "description": "風が好きな植物。風を崇拝するモンドの人々にとって、風車アスターは「見える風」である。",
             "type": "モンド地域の特産"
           },
@@ -4988,7 +4988,7 @@
             "name": "炎願のアゲート",
             "count": 6,
             "rank": 5,
-            "icon": "/assets/images/Diluc_material_104114_1753000673309.png",
+            "icon": "/assets/images/Diluc_material_104114_1753003974136.png",
             "description": "キャラクターの突破用アイテム。\\n「人々の願いのため、巡礼の道を歩もう。最強を目指して集い、戦うのだ…」\\n「最後は夢のために、劫火の中で燃え尽きる。」\\n「その灰燼にまだ初心が残っていれば、██の真実に辿り着いたという。」",
             "type": "キャラクター突破素材"
           },
@@ -4997,7 +4997,7 @@
             "name": "ゴールドの鴉マーク",
             "count": 24,
             "rank": 3,
-            "icon": "/assets/images/Kaeya_material_112037_1753000671098.png",
+            "icon": "/assets/images/Kaeya_material_112037_1753003972851.png",
             "description": "宝盗団の信仰と誇りを示す鴉マーク。この広い大地、幽邃の深淵、未知な海に秘宝が存在していれば、宝盗団の信念は永遠に続く。",
             "type": "キャラと武器育成素材"
           },
@@ -5006,7 +5006,7 @@
             "name": "常燃の火種",
             "count": 20,
             "rank": 4,
-            "icon": "/assets/images/Diluc_material_113011_1753000672937.png",
+            "icon": "/assets/images/Diluc_material_113011_1753003974117.png",
             "description": "永遠に燃え続ける爆炎樹のエネルギー源である種。世の中にある全ての草木を焼き尽くすような炎元素の熱量を放っている。\\n大地の深所で湧いているエネルギーは無数の願いを背負っている。烈火と共に植物に纏って永遠に燃えさせて、そして爆裂の炎で全てを浄化させようとしている。いったいどんな願いかな？",
             "type": "キャラクター育成素材"
           }

@@ -8,7 +8,7 @@
   "region": "Inazuma",
   "constellation": "煩悩刈座",
   "description": "有能で信頼できる「荒瀧派」の二番手——注：「有能」と「信頼できる」は「荒瀧派」ではなく、二番手のことを表している。",
-  "icon": "/assets/images/Kuki Shinobu_icon_1753000756224.png",
+  "icon": "/assets/images/Kuki Shinobu_icon_1753004035757.png",
   "profile": {
     "baseHp": 1030.324,
     "baseAtk": 17.808,
@@ -23,7 +23,7 @@
       "id": "忍流飛刃斬り",
       "name": "忍流飛刃斬り",
       "description": "",
-      "icon": "/assets/images/Kamisato Ayaka_normal_attack_1753000661887.png",
+      "icon": "/assets/images/Kamisato Ayaka_normal_attack_1753003967511.png",
       "skillType": "normal",
       "params": {
         "1": [],
@@ -47,7 +47,7 @@
       "id": "越祓雷草の輪",
       "name": "越祓雷草の輪",
       "description": "",
-      "icon": "/assets/images/Kuki Shinobu_elemental_skill_1753000756224.png",
+      "icon": "/assets/images/Kuki Shinobu_elemental_skill_1753004035757.png",
       "levelData": [
         {
           "tableIndex": 1,
@@ -441,7 +441,7 @@
           "description": [
             "スキルダメージ|{param1:P}",
             "越祓草輪治療量|HP上限{param2:F1P}+{param3:I}",
-            "越祓草輪ダメージ|{param4:F1P}",
+            "���祓草輪ダメージ|{param4:F1P}",
             "スキル消費|現在HP{param5:P}",
             "継続時間|{param6:F1}秒",
             "クールタイム|{param7:F1}秒",
@@ -1136,21 +1136,21 @@
     "elementalBurst": {
       "name": "檻を破る志",
       "description": "",
-      "icon": "/assets/images/Kuki Shinobu_elemental_burst_1753000756224.png",
+      "icon": "/assets/images/Kuki Shinobu_elemental_burst_1753004035757.png",
       "levelData": []
     },
     "passiveTalents": [
       {
         "name": "檻を破る志",
-        "icon": "/assets/images/Kuki Shinobu_passive_1_1753000756224.png"
+        "icon": "/assets/images/Kuki Shinobu_passive_1_1753004035757.png"
       },
       {
         "name": "安心の処",
-        "icon": "/assets/images/Kuki Shinobu_passive_2_1753000756224.png"
+        "icon": "/assets/images/Kuki Shinobu_passive_2_1753004035757.png"
       },
       {
         "name": "永き刻の祈り",
-        "icon": "/assets/images/Kuki Shinobu_passive_3_1753000756224.png"
+        "icon": "/assets/images/Kuki Shinobu_passive_3_1753004035757.png"
       }
     ],
     "completeTableData": [
@@ -2579,7 +2579,7 @@
             "description": [
               "スキルダメージ|{param1:P}",
               "越祓草輪治療量|HP上限{param2:F1P}+{param3:I}",
-              "越祓草輪ダメージ|{param4:F1P}",
+              "���祓草輪ダメージ|{param4:F1P}",
               "スキル消費|現在HP{param5:P}",
               "継続時間|{param6:F1}秒",
               "クールタイム|{param7:F1}秒",
@@ -4317,32 +4317,32 @@
       {
         "level": null,
         "name": "捨て去りし憐憫の心",
-        "icon": "/assets/images/Kuki Shinobu_constellation_cNaN_1753000756225.png"
+        "icon": "/assets/images/Kuki Shinobu_constellation_cNaN_1753004035757.png"
       },
       {
         "level": null,
         "name": "捨て去りし僥倖の心",
-        "icon": "/assets/images/Kuki Shinobu_constellation_cNaN_1753000756225.png"
+        "icon": "/assets/images/Kuki Shinobu_constellation_cNaN_1753004035758.png"
       },
       {
         "level": null,
         "name": "捨て去りし苦痛の心",
-        "icon": "/assets/images/Kuki Shinobu_constellation_cNaN_1753000756225.png"
+        "icon": "/assets/images/Kuki Shinobu_constellation_cNaN_1753004035758.png"
       },
       {
         "level": null,
         "name": "捨て去りし閉鎖の心",
-        "icon": "/assets/images/Kuki Shinobu_constellation_cNaN_1753000756225.png"
+        "icon": "/assets/images/Kuki Shinobu_constellation_cNaN_1753004035758.png"
       },
       {
         "level": null,
         "name": "捨て去りし阿諛の心",
-        "icon": "/assets/images/Kuki Shinobu_constellation_cNaN_1753000756225.png"
+        "icon": "/assets/images/Kuki Shinobu_constellation_cNaN_1753004035758.png"
       },
       {
         "level": null,
         "name": "捨て去りし軟弱な心",
-        "icon": "/assets/images/Kuki Shinobu_constellation_cNaN_1753000756225.png"
+        "icon": "/assets/images/Kuki Shinobu_constellation_cNaN_1753004035758.png"
       }
     ]
   },
@@ -4359,14 +4359,14 @@
     "id": 210120,
     "name": "久岐忍·絡",
     "description": "久岐忍·絡",
-    "icon": "/assets/images/Kuki Shinobu_namecard_1753000756446.png"
+    "icon": "/assets/images/Kuki Shinobu_namecard_1753004035990.png"
   },
   "specialFood": {
     "id": 108388,
     "name": "オムライス·ワルツ",
     "rank": 3,
-    "icon": "/assets/images/Kuki Shinobu_special_food_1753000756225.png",
-    "effectIcon": "/assets/images/Barbara_food_effect_1753000668558.png"
+    "icon": "/assets/images/Kuki Shinobu_special_food_1753004035758.png",
+    "effectIcon": "/assets/images/Barbara_food_effect_1753003971351.png"
   },
   "levelProgression": [
     {
@@ -4682,7 +4682,7 @@
             "name": "鳴草",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Yoimiya_material_101205_1753000726847.png",
+            "icon": "/assets/images/Yoimiya_material_101205_1753004013401.png",
             "description": "風のない日でも、雷鳴に反応し微かに揺れ動く植物。花びらのように見える構造は、実は葉っぱであり、脆弱な花を守っている。",
             "type": "稲妻地域の特産"
           },
@@ -4691,7 +4691,7 @@
             "name": "最勝のアメシスト·砕屑",
             "count": 1,
             "rank": 2,
-            "icon": "/assets/images/Lisa_material_104141_1753000666680.png",
+            "icon": "/assets/images/Lisa_material_104141_1753003970099.png",
             "description": "キャラクターの突破用アイテム。",
             "type": "キャラクター突破素材"
           },
@@ -4700,7 +4700,7 @@
             "name": "フライムの乾核",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Sangonomiya Kokomi_material_112053_1753000736137.png",
+            "icon": "/assets/images/Sangonomiya Kokomi_material_112053_1753004020132.png",
             "description": "フライムを浮遊させるエネルギー核。中には微かな元素が含まれている。\\n多くのエネルギーは逸散していったようだ。",
             "type": "キャラと武器育成素材"
           }
@@ -4731,7 +4731,7 @@
             "name": "鳴草",
             "count": 10,
             "rank": 1,
-            "icon": "/assets/images/Yoimiya_material_101205_1753000726847.png",
+            "icon": "/assets/images/Yoimiya_material_101205_1753004013401.png",
             "description": "風のない日でも、雷鳴に反応し微かに揺れ動く植物。花びらのように見える構造は、実は葉っぱであり、脆弱な花を守っている。",
             "type": "稲妻地域の特産"
           },
@@ -4740,7 +4740,7 @@
             "name": "最勝のアメシスト·欠片",
             "count": 3,
             "rank": 3,
-            "icon": "/assets/images/Lisa_material_104142_1753000666856.png",
+            "icon": "/assets/images/Lisa_material_104142_1753003970098.png",
             "description": "キャラクターの突破用アイテム。\\n「此の身こそ、いと尊き存在。」",
             "type": "キャラクター突破素材"
           },
@@ -4749,7 +4749,7 @@
             "name": "フライムの乾核",
             "count": 15,
             "rank": 1,
-            "icon": "/assets/images/Sangonomiya Kokomi_material_112053_1753000736137.png",
+            "icon": "/assets/images/Sangonomiya Kokomi_material_112053_1753004020132.png",
             "description": "フライムを浮遊させるエネルギー核。中には微かな元素が含まれている。\\n多くのエネルギーは逸散していったようだ。",
             "type": "キャラと武器育成素材"
           },
@@ -4758,7 +4758,7 @@
             "name": "符文の歯車",
             "count": 2,
             "rank": 4,
-            "icon": "/assets/images/Shikanoin Heizou_material_113035_1753000746239.png",
+            "icon": "/assets/images/Shikanoin Heizou_material_113035_1753004027046.png",
             "description": "山壁の「歯車」を掘り出すために使われた、謎の蛇の形をした古代の機械。解読不能の不吉な符文が刻まれている。\\n伝説によると、大地の黒き亀裂には、巨大な蛇が潜んでいるらしい。それらは地上の世界に恨みと悪意を抱きながら、未知なる目的のため、巨大な隧道を掘り続けていると言う…",
             "type": "キャラクター育成素材"
           }
@@ -4793,7 +4793,7 @@
             "name": "鳴草",
             "count": 20,
             "rank": 1,
-            "icon": "/assets/images/Yoimiya_material_101205_1753000726847.png",
+            "icon": "/assets/images/Yoimiya_material_101205_1753004013401.png",
             "description": "風のない日でも、雷鳴に反応し微かに揺れ動く植物。花びらのように見える構造は、実は葉っぱであり、脆弱な花を守っている。",
             "type": "稲妻地域の特産"
           },
@@ -4802,7 +4802,7 @@
             "name": "最勝のアメシスト·欠片",
             "count": 6,
             "rank": 3,
-            "icon": "/assets/images/Lisa_material_104142_1753000666856.png",
+            "icon": "/assets/images/Lisa_material_104142_1753003970098.png",
             "description": "キャラクターの突破用アイテム。\\n「此の身こそ、いと尊き存在。」",
             "type": "キャラクター突破素材"
           },
@@ -4811,7 +4811,7 @@
             "name": "フライムの幽核",
             "count": 12,
             "rank": 2,
-            "icon": "/assets/images/Sangonomiya Kokomi_material_112054_1753000736013.png",
+            "icon": "/assets/images/Sangonomiya Kokomi_material_112054_1753004020124.png",
             "description": "フライムを浮遊させるエネルギー核。\\nこの元素生物は特殊な習性を持っているようで、周期的に大量に現れたり、消えたりしている。",
             "type": "キャラと武器育成素材"
           },
@@ -4820,7 +4820,7 @@
             "name": "符文の歯車",
             "count": 4,
             "rank": 4,
-            "icon": "/assets/images/Shikanoin Heizou_material_113035_1753000746239.png",
+            "icon": "/assets/images/Shikanoin Heizou_material_113035_1753004027046.png",
             "description": "山壁の「歯車」を掘り出すために使われた、謎の蛇の形をした古代の機械。解読不能の不吉な符文が刻まれている。\\n伝説によると、大地の黒き亀裂には、巨大な蛇が潜んでいるらしい。それらは地上の世界に恨みと悪意を抱きながら、未知なる目的のため、巨大な隧道を掘り続けていると言う…",
             "type": "キャラクター育成素材"
           }
@@ -4855,7 +4855,7 @@
             "name": "鳴草",
             "count": 30,
             "rank": 1,
-            "icon": "/assets/images/Yoimiya_material_101205_1753000726847.png",
+            "icon": "/assets/images/Yoimiya_material_101205_1753004013401.png",
             "description": "風のない日でも、雷鳴に反応し微かに揺れ動く植物。花びらのように見える構造は、実は葉っぱであり、脆弱な花を守っている。",
             "type": "稲妻地域の特産"
           },
@@ -4864,7 +4864,7 @@
             "name": "最勝のアメシスト·塊",
             "count": 3,
             "rank": 4,
-            "icon": "/assets/images/Lisa_material_104143_1753000666653.png",
+            "icon": "/assets/images/Lisa_material_104143_1753003970096.png",
             "description": "キャラクターの突破用アイテム。\\n「此の身こそ、いと尊き存在。」\\n「天下を泰平せし者。」",
             "type": "キャラクター突破素材"
           },
@@ -4873,7 +4873,7 @@
             "name": "フライムの幽核",
             "count": 18,
             "rank": 2,
-            "icon": "/assets/images/Sangonomiya Kokomi_material_112054_1753000736013.png",
+            "icon": "/assets/images/Sangonomiya Kokomi_material_112054_1753004020124.png",
             "description": "フライムを浮遊させるエネルギー核。\\nこの元素生物は特殊な習性を持っているようで、周期的に大量に現れたり、消えたりしている。",
             "type": "キャラと武器育成素材"
           },
@@ -4882,7 +4882,7 @@
             "name": "符文の歯車",
             "count": 8,
             "rank": 4,
-            "icon": "/assets/images/Shikanoin Heizou_material_113035_1753000746239.png",
+            "icon": "/assets/images/Shikanoin Heizou_material_113035_1753004027046.png",
             "description": "山壁の「歯車」を掘り出すために使われた、謎の蛇の形をした古代の機械。解読不能の不吉な符文が刻まれている。\\n伝説によると、大地の黒き亀裂には、巨大な蛇が潜んでいるらしい。それらは地上の世界に恨みと悪意を抱きながら、未知なる目的のため、巨大な隧道を掘り続けていると言う…",
             "type": "キャラクター育成素材"
           }
@@ -4917,7 +4917,7 @@
             "name": "鳴草",
             "count": 45,
             "rank": 1,
-            "icon": "/assets/images/Yoimiya_material_101205_1753000726847.png",
+            "icon": "/assets/images/Yoimiya_material_101205_1753004013401.png",
             "description": "風のない日でも、雷鳴に反応し微かに揺れ動く植物。花びらのように見える構造は、実は葉っぱであり、脆弱な花を守っている。",
             "type": "稲妻地域の特産"
           },
@@ -4926,7 +4926,7 @@
             "name": "最勝のアメシスト·塊",
             "count": 6,
             "rank": 4,
-            "icon": "/assets/images/Lisa_material_104143_1753000666653.png",
+            "icon": "/assets/images/Lisa_material_104143_1753003970096.png",
             "description": "キャラクターの突破用アイテム。\\n「此の身こそ、いと尊き存在。」\\n「天下を泰平せし者。」",
             "type": "キャラクター突破素材"
           },
@@ -4935,7 +4935,7 @@
             "name": "フライムの晶化核",
             "count": 12,
             "rank": 3,
-            "icon": "/assets/images/Sangonomiya Kokomi_material_112055_1753000736117.png",
+            "icon": "/assets/images/Sangonomiya Kokomi_material_112055_1753004020128.png",
             "description": "フライムを倒すと、たまに見つけられる完全なエネルギー核。\\n物事の雌雄を決させたい人たちの間では、よくこんな議論がある。フライムと風スライムの浮かぶ力、一体どちらが上なのか。",
             "type": "キャラと武器育成素材"
           },
@@ -4944,7 +4944,7 @@
             "name": "符文の歯車",
             "count": 12,
             "rank": 4,
-            "icon": "/assets/images/Shikanoin Heizou_material_113035_1753000746239.png",
+            "icon": "/assets/images/Shikanoin Heizou_material_113035_1753004027046.png",
             "description": "山壁の「歯車」を掘り出すために使われた、謎の蛇の形をした古代の機械。解読不能の不吉な符文が刻まれている。\\n伝説によると、大地の黒き亀裂には、巨大な蛇が潜んでいるらしい。それらは地上の世界に恨みと悪意を抱きながら、未知なる目的のため、巨大な隧道を掘り続けていると言う…",
             "type": "キャラクター育成素材"
           }
@@ -4979,7 +4979,7 @@
             "name": "鳴草",
             "count": 60,
             "rank": 1,
-            "icon": "/assets/images/Yoimiya_material_101205_1753000726847.png",
+            "icon": "/assets/images/Yoimiya_material_101205_1753004013401.png",
             "description": "風のない日でも、雷鳴に反応し微かに揺れ動く植物。花びらのように見える構造は、実は葉っぱであり、脆弱な花を守っている。",
             "type": "稲妻地域の特産"
           },
@@ -4988,7 +4988,7 @@
             "name": "最勝のアメシスト",
             "count": 6,
             "rank": 5,
-            "icon": "/assets/images/Lisa_material_104144_1753000666879.png",
+            "icon": "/assets/images/Lisa_material_104144_1753003970099.png",
             "description": "キャラクターの突破用アイテム。\\n「此の身こそ、いと尊き存在。」\\n「天下を泰平せし者。」\\n「臣民に夢を与えると誓いましょう。未来永劫、不変の『永遠』を。」",
             "type": "キャラクター突破素材"
           },
@@ -4997,7 +4997,7 @@
             "name": "フライムの晶化核",
             "count": 24,
             "rank": 3,
-            "icon": "/assets/images/Sangonomiya Kokomi_material_112055_1753000736117.png",
+            "icon": "/assets/images/Sangonomiya Kokomi_material_112055_1753004020128.png",
             "description": "フライムを倒すと、たまに見つけられる完全なエネルギー核。\\n物事の雌雄を決させたい人たちの間では、よくこんな議論がある。フライムと風スライムの浮かぶ力、一体どちらが上なのか。",
             "type": "キャラと武器育成素材"
           },
@@ -5006,7 +5006,7 @@
             "name": "符文の歯車",
             "count": 20,
             "rank": 4,
-            "icon": "/assets/images/Shikanoin Heizou_material_113035_1753000746239.png",
+            "icon": "/assets/images/Shikanoin Heizou_material_113035_1753004027046.png",
             "description": "山壁の「歯車」を掘り出すために使われた、謎の蛇の形をした古代の機械。解読不能の不吉な符文が刻まれている。\\n伝説によると、大地の黒き亀裂には、巨大な蛇が潜んでいるらしい。それらは地上の世界に恨みと悪意を抱きながら、未知なる目的のため、巨大な隧道を掘り続けていると言う…",
             "type": "キャラクター育成素材"
           }

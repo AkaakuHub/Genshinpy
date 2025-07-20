@@ -8,7 +8,7 @@
   "region": "Sumeru",
   "constellation": "夜鶯座",
   "description": "理論占星学を専攻するルタワヒスト学院の学生。時々夢遊状態になる。寝不足が長期にわたり続いており、睡眠障害に悩まされている。",
-  "icon": "/assets/images/Layla_icon_1753000774066.png",
+  "icon": "/assets/images/Layla_icon_1753004048231.png",
   "profile": {
     "baseHp": 930.027,
     "baseAtk": 18.164,
@@ -23,7 +23,7 @@
       "id": "煌めく軌跡の剣",
       "name": "煌めく軌跡の剣",
       "description": "",
-      "icon": "/assets/images/Kamisato Ayaka_normal_attack_1753000661887.png",
+      "icon": "/assets/images/Kamisato Ayaka_normal_attack_1753003967511.png",
       "skillType": "normal",
       "params": {
         "1": [],
@@ -47,7 +47,7 @@
       "id": "垂裳凛然の夜",
       "name": "垂裳凛然の夜",
       "description": "",
-      "icon": "/assets/images/Layla_elemental_skill_1753000774066.png",
+      "icon": "/assets/images/Layla_elemental_skill_1753004048232.png",
       "levelData": [
         {
           "tableIndex": 1,
@@ -1091,7 +1091,7 @@
           "description": [
             "スキルダメージ|{param1:F1P}",
             "飛星ダメージ|{param2:F1P}",
-            "シールド基礎吸収量|HP上限{param3:F1P}+{param4:I}",
+            "シール��基礎吸収量|HP上限{param3:F1P}+{param4:I}",
             "シールド継続時間|{param5:F1}秒",
             "クールタイム|{param6:F1}秒",
             "",
@@ -1136,21 +1136,21 @@
     "elementalBurst": {
       "name": "降って湧いた光のように",
       "description": "",
-      "icon": "/assets/images/Layla_elemental_burst_1753000774066.png",
+      "icon": "/assets/images/Layla_elemental_burst_1753004048232.png",
       "levelData": []
     },
     "passiveTalents": [
       {
         "name": "降って湧いた光のように",
-        "icon": "/assets/images/Layla_passive_1_1753000774066.png"
+        "icon": "/assets/images/Layla_passive_1_1753004048232.png"
       },
       {
         "name": "熟睡妨害禁止！",
-        "icon": "/assets/images/Layla_passive_2_1753000774066.png"
+        "icon": "/assets/images/Layla_passive_2_1753004048232.png"
       },
       {
         "name": "重なる影の夢兆",
-        "icon": "/assets/images/Eula_passive_3_1753000730556.png"
+        "icon": "/assets/images/Eula_passive_3_1753004016279.png"
       }
     ],
     "completeTableData": [
@@ -1252,7 +1252,7 @@
               0
             ],
             "description": [
-              "1段ダメージ|{param1:F1P}",
+              "1段ダメー���|{param1:F1P}",
               "2段ダメージ|{param2:F1P}",
               "3段ダメージ|{param3:F1P}",
               "重撃ダメージ|{param4:F1P}+{param5:F1P}",
@@ -1608,7 +1608,7 @@
               "重撃ダメージ|{param4:F1P}+{param5:F1P}",
               "重撃スタミナ消費|{param6:F1}",
               "落下期間のダメージ|{param7:F1P}",
-              "低空/高空落下攻撃ダメージ|{param8:P}/{param9:P}",
+              "低空/��空落下攻撃ダメージ|{param8:P}/{param9:P}",
               "",
               "",
               "",
@@ -1816,7 +1816,7 @@
             ],
             "description": [
               "1段ダメージ|{param1:F1P}",
-              "2段ダメー���|{param2:F1P}",
+              "2段ダメージ|{param2:F1P}",
               "3段ダメージ|{param3:F1P}",
               "重撃ダメージ|{param4:F1P}+{param5:F1P}",
               "重撃スタミナ消費|{param6:F1}",
@@ -3202,7 +3202,7 @@
             "description": [
               "スキルダメージ|{param1:F1P}",
               "飛星ダメージ|{param2:F1P}",
-              "シールド基礎吸収量|HP上限{param3:F1P}+{param4:I}",
+              "シール��基礎吸収量|HP上限{param3:F1P}+{param4:I}",
               "シールド継続時間|{param5:F1}秒",
               "クールタイム|{param6:F1}秒",
               "",
@@ -3763,7 +3763,7 @@
               0
             ],
             "description": [
-              "星光弾ダメー��|HP上限{param1:F1P}",
+              "星光弾ダメージ|HP上限{param1:F1P}",
               "継続時間|{param2:F1}秒",
               "クールタイム|{param3:F1}秒",
               "元素エネルギー|{param4:I}",
@@ -4317,32 +4317,32 @@
       {
         "level": null,
         "name": "果てなき夢の領土",
-        "icon": "/assets/images/Layla_constellation_cNaN_1753000774066.png"
+        "icon": "/assets/images/Layla_constellation_cNaN_1753004048232.png"
       },
       {
         "level": null,
         "name": "便りと共に還る星影",
-        "icon": "/assets/images/Layla_constellation_cNaN_1753000774066.png"
+        "icon": "/assets/images/Layla_constellation_cNaN_1753004048232.png"
       },
       {
         "level": null,
         "name": "秘密を見せる長夜",
-        "icon": "/assets/images/Layla_constellation_cNaN_1753000774066.png"
+        "icon": "/assets/images/Layla_constellation_cNaN_1753004048232.png"
       },
       {
         "level": null,
         "name": "啓示を照らす星芒",
-        "icon": "/assets/images/Layla_constellation_cNaN_1753000774066.png"
+        "icon": "/assets/images/Layla_constellation_cNaN_1753004048232.png"
       },
       {
         "level": null,
         "name": "浮流の時に夢みるように",
-        "icon": "/assets/images/Layla_constellation_cNaN_1753000774066.png"
+        "icon": "/assets/images/Layla_constellation_cNaN_1753004048232.png"
       },
       {
         "level": null,
         "name": "夜彩は輝く灯火のように",
-        "icon": "/assets/images/Layla_constellation_cNaN_1753000774067.png"
+        "icon": "/assets/images/Layla_constellation_cNaN_1753004048232.png"
       }
     ]
   },
@@ -4359,14 +4359,14 @@
     "id": 210141,
     "name": "レイラ·白昼夢",
     "description": "レイラ·白昼夢",
-    "icon": "/assets/images/Layla_icon_1753000774066.png"
+    "icon": "/assets/images/Layla_icon_1753004048231.png"
   },
   "specialFood": {
     "id": 108473,
-    "name": "安眠へのデザイア",
+    "name": "安眠へのデザ��ア",
     "rank": 2,
-    "icon": "/assets/images/Layla_special_food_1753000774067.png",
-    "effectIcon": "/assets/images/Jean_food_effect_1753000664320.png"
+    "icon": "/assets/images/Layla_special_food_1753004048232.png",
+    "effectIcon": "/assets/images/Jean_food_effect_1753003968823.png"
   },
   "levelProgression": [
     {
@@ -4682,7 +4682,7 @@
             "name": "サウマラタ蓮",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Tighnari_material_101215_1753000764323.png",
+            "icon": "/assets/images/Tighnari_material_101215_1753004041469.png",
             "description": "雨林の湿地に生える、夜にしか咲かない花。月のように明るい光を放つ。",
             "type": "スメール地域の特産"
           },
@@ -4691,7 +4691,7 @@
             "name": "哀切なアイスクリスタル·砕屑",
             "count": 1,
             "rank": 2,
-            "icon": "/assets/images/Kamisato Ayaka_material_104161_1753000662353.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104161_1753003967592.png",
             "description": "キャラクターの突破用アイテム。",
             "type": "キャラクター突破素材"
           },
@@ -4700,7 +4700,7 @@
             "name": "占いの絵巻",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Barbara_material_112008_1753000668855.png",
+            "icon": "/assets/images/Barbara_material_112008_1753003971368.png",
             "description": "ある、魔法に関する絵巻の断片だと考えられる。異様で不吉な暖かさがある。",
             "type": "キャラと武器育成素材"
           }
@@ -4731,7 +4731,7 @@
             "name": "サウマラタ蓮",
             "count": 10,
             "rank": 1,
-            "icon": "/assets/images/Tighnari_material_101215_1753000764323.png",
+            "icon": "/assets/images/Tighnari_material_101215_1753004041469.png",
             "description": "雨林の湿地に生える、夜にしか咲かない花。月のように明るい光を放つ。",
             "type": "スメール地域の特産"
           },
@@ -4740,7 +4740,7 @@
             "name": "哀切なアイスクリスタル·欠片",
             "count": 3,
             "rank": 3,
-            "icon": "/assets/images/Kamisato Ayaka_material_104162_1753000662253.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104162_1753003967586.png",
             "description": "キャラクターの突破用アイテム。\\n「…すみません…」",
             "type": "キャラクター突破素材"
           },
@@ -4749,7 +4749,7 @@
             "name": "占いの絵巻",
             "count": 15,
             "rank": 1,
-            "icon": "/assets/images/Barbara_material_112008_1753000668855.png",
+            "icon": "/assets/images/Barbara_material_112008_1753003971368.png",
             "description": "ある、魔法に関する絵巻の断片だと考えられる。異様で不吉な暖かさがある。",
             "type": "キャラと武器育成素材"
           },
@@ -4758,7 +4758,7 @@
             "name": "永続コア",
             "count": 2,
             "rank": 4,
-            "icon": "/assets/images/Nilou_material_113038_1753000766518.png",
+            "icon": "/assets/images/Nilou_material_113038_1753004042837.png",
             "description": "謎めいた遺跡機械からとれた駆動装置。\\n動かすべき機体が壊れたにもかかわらず、回り続けている。\\n地上に際限なく出力できるエネルギー源など存在しないはずであり、「永久運動」に関する研究成果も大多数が反証されてしまった。それを踏まえてこのコアを見てみると、既に滅亡したこの文明はかつて、人が触れてはならない領域にまで達していたことがわかる。",
             "type": "キャラクター育成素材"
           }
@@ -4793,7 +4793,7 @@
             "name": "サウマラタ蓮",
             "count": 20,
             "rank": 1,
-            "icon": "/assets/images/Tighnari_material_101215_1753000764323.png",
+            "icon": "/assets/images/Tighnari_material_101215_1753004041469.png",
             "description": "雨林の湿地に生える、夜にしか咲かない花。月のように明るい光を放つ。",
             "type": "スメール地域の特産"
           },
@@ -4802,7 +4802,7 @@
             "name": "哀切なアイスクリスタル·欠片",
             "count": 6,
             "rank": 3,
-            "icon": "/assets/images/Kamisato Ayaka_material_104162_1753000662253.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104162_1753003967586.png",
             "description": "キャラクターの突破用アイテム。\\n「…すみません…」",
             "type": "キャラクター突破素材"
           },
@@ -4811,7 +4811,7 @@
             "name": "封魔の絵巻",
             "count": 12,
             "rank": 2,
-            "icon": "/assets/images/Barbara_material_112009_1753000668935.png",
+            "icon": "/assets/images/Barbara_material_112009_1753003971365.png",
             "description": "解読が難しい絵がある古書の断章。中の人物を真似することで、魔物も魔法を再現できるようになる。",
             "type": "キャラと武器育成素材"
           },
@@ -4820,7 +4820,7 @@
             "name": "永続コア",
             "count": 4,
             "rank": 4,
-            "icon": "/assets/images/Nilou_material_113038_1753000766518.png",
+            "icon": "/assets/images/Nilou_material_113038_1753004042837.png",
             "description": "謎めいた遺跡機械からとれた駆動装置。\\n動かすべき機体が壊れたにもかかわらず、回り続けている。\\n地上に際限なく出力できるエネルギー源など存在しないはずであり、「永久運動」に関する研究成果も大多数が反証されてしまった。それを踏まえてこのコアを見てみると、既に滅亡したこの文明はかつて、人が触れてはならない領域にまで達していたことがわかる。",
             "type": "キャラクター育成素材"
           }
@@ -4855,7 +4855,7 @@
             "name": "サウマラタ蓮",
             "count": 30,
             "rank": 1,
-            "icon": "/assets/images/Tighnari_material_101215_1753000764323.png",
+            "icon": "/assets/images/Tighnari_material_101215_1753004041469.png",
             "description": "雨林の湿地に生える、夜にしか咲かない花。月のように明るい光を放つ。",
             "type": "スメール地域の特産"
           },
@@ -4864,7 +4864,7 @@
             "name": "哀切なアイスクリスタル·塊",
             "count": 3,
             "rank": 4,
-            "icon": "/assets/images/Kamisato Ayaka_material_104163_1753000662304.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104163_1753003967587.png",
             "description": "キャラクターの突破用アイテム。\\n「…すみません…」\\n「あなた達まで、わたしと一緒にこの世界の悲しみを背負わせるなんて…」",
             "type": "キャラクター突破素材"
           },
@@ -4873,7 +4873,7 @@
             "name": "封魔の絵巻",
             "count": 18,
             "rank": 2,
-            "icon": "/assets/images/Barbara_material_112009_1753000668935.png",
+            "icon": "/assets/images/Barbara_material_112009_1753003971365.png",
             "description": "解読が難しい絵がある古書の断章。中の人物を真似することで、魔物も魔法を再現できるようになる。",
             "type": "キャラと武器育成素材"
           },
@@ -4882,7 +4882,7 @@
             "name": "永続コア",
             "count": 8,
             "rank": 4,
-            "icon": "/assets/images/Nilou_material_113038_1753000766518.png",
+            "icon": "/assets/images/Nilou_material_113038_1753004042837.png",
             "description": "謎めいた遺跡機械からとれた駆動装置。\\n動かすべき機体が壊れたにもかかわらず、回り続けている。\\n地上に際限なく出力できるエネルギー源など存在しないはずであり、「永久運動」に関する研究成果も大多数が反証されてしまった。それを踏まえてこのコアを見てみると、既に滅亡したこの文明はかつて、人が触れてはならない領域にまで達していたことがわかる。",
             "type": "キャラクター育成素材"
           }
@@ -4917,7 +4917,7 @@
             "name": "サウマラタ蓮",
             "count": 45,
             "rank": 1,
-            "icon": "/assets/images/Tighnari_material_101215_1753000764323.png",
+            "icon": "/assets/images/Tighnari_material_101215_1753004041469.png",
             "description": "雨林の湿地に生える、夜にしか咲かない花。月のように明るい光を放つ。",
             "type": "スメール地域の特産"
           },
@@ -4926,7 +4926,7 @@
             "name": "哀切なアイスクリスタル·塊",
             "count": 6,
             "rank": 4,
-            "icon": "/assets/images/Kamisato Ayaka_material_104163_1753000662304.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104163_1753003967587.png",
             "description": "キャラクターの突破用アイテム。\\n「…すみません…」\\n「あなた達まで、わたしと一緒にこの世界の悲しみを背負わせるなんて…」",
             "type": "キャラクター突破素材"
           },
@@ -4935,7 +4935,7 @@
             "name": "禁呪の絵巻",
             "count": 12,
             "rank": 3,
-            "icon": "/assets/images/Barbara_material_112010_1753000668883.png",
+            "icon": "/assets/images/Barbara_material_112010_1753003971364.png",
             "description": "古代の絵が描かれている古い写本。その意味を解読できる人は少ないが、本当の意味を理解した学者はみんな狂ってしまったという噂がある。",
             "type": "キャラと武器育成素材"
           },
@@ -4944,7 +4944,7 @@
             "name": "永続コア",
             "count": 12,
             "rank": 4,
-            "icon": "/assets/images/Nilou_material_113038_1753000766518.png",
+            "icon": "/assets/images/Nilou_material_113038_1753004042837.png",
             "description": "謎めいた遺跡機械からとれた駆動装置。\\n動かすべき機体が壊れたにもかかわらず、回り続けている。\\n地上に際限なく出力できるエネルギー源など存在しないはずであり、「永久運動」に関する研究成果も大多数が反証されてしまった。それを踏まえてこのコアを見てみると、既に滅亡したこの文明はかつて、人が触れてはならない領域にまで達していたことがわかる。",
             "type": "キャラクター育成素材"
           }
@@ -4979,7 +4979,7 @@
             "name": "サウマラタ蓮",
             "count": 60,
             "rank": 1,
-            "icon": "/assets/images/Tighnari_material_101215_1753000764323.png",
+            "icon": "/assets/images/Tighnari_material_101215_1753004041469.png",
             "description": "雨林の湿地に生える、夜にしか咲かない花。月のように明るい光を放つ。",
             "type": "スメール地域の特産"
           },
@@ -4988,7 +4988,7 @@
             "name": "哀切なアイスクリスタル",
             "count": 6,
             "rank": 5,
-            "icon": "/assets/images/Kamisato Ayaka_material_104164_1753000662278.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104164_1753003967583.png",
             "description": "キャラクターの突破用アイテム。\\n「…すみません、あなた達まで、わたしと一緒にこの世界の悲しみを背負わせるなんて…」\\n「わたしの寒さを耐えられる者は、きっと心の中に熱い欲望を持っているだろう？」\\n「なら、わたしの代わりに、旧世界を焼き尽くそう。」",
             "type": "キャラクター突破素材"
           },
@@ -4997,7 +4997,7 @@
             "name": "禁呪の絵巻",
             "count": 24,
             "rank": 3,
-            "icon": "/assets/images/Barbara_material_112010_1753000668883.png",
+            "icon": "/assets/images/Barbara_material_112010_1753003971364.png",
             "description": "古代の絵が描かれている古い写本。その意味を解読できる人は少ないが、本当の意味を理解した学者はみんな狂ってしまったという噂がある。",
             "type": "キャラと武器育成素材"
           },
@@ -5006,7 +5006,7 @@
             "name": "永続コア",
             "count": 20,
             "rank": 4,
-            "icon": "/assets/images/Nilou_material_113038_1753000766518.png",
+            "icon": "/assets/images/Nilou_material_113038_1753004042837.png",
             "description": "謎めいた遺跡機械からとれた駆動装置。\\n動かすべき機体が壊れたにもかかわらず、回り続けている。\\n地上に際限なく出力できるエネルギー源など存在しないはずであり、「永久運動」に関する研究成果も大多数が反証されてしまった。それを踏まえてこのコアを見てみると、既に滅亡したこの文明はかつて、人が触れてはならない領域にまで達していたことがわかる。",
             "type": "キャラクター育成素材"
           }
@@ -5035,7 +5035,7 @@
   "voiceActors": {
     "EN": "Ashely Biski",
     "CHS": "侯小菲",
-    "JP": "富田��憂",
+    "JP": "���田美憂",
     "KR": "강새봄"
   },
   "birthday": "12/19",

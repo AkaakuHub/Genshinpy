@@ -8,7 +8,7 @@
   "region": "Mondstadt",
   "constellation": "クリスタリナ座",
   "description": "かつて深淵の裂け目や原始胎海に足を踏み入れた来訪者であり、タルタリヤに武芸を仕込んだ師。孤独に戦う。",
-  "icon": "/assets/images/Skirk_icon_1753000848808.png",
+  "icon": "/assets/images/Skirk_icon_1753004105507.png",
   "profile": {
     "baseHp": 966.667,
     "baseAtk": 27.93,
@@ -23,7 +23,7 @@
       "id": "極悪技・断",
       "name": "極悪技・断",
       "description": "",
-      "icon": "/assets/images/Kamisato Ayaka_normal_attack_1753000661887.png",
+      "icon": "/assets/images/Kamisato Ayaka_normal_attack_1753003967511.png",
       "skillType": "normal",
       "params": {
         "1": [],
@@ -47,7 +47,7 @@
       "id": "極悪技・閃",
       "name": "極悪技・閃",
       "description": "",
-      "icon": "/assets/images/Skirk_elemental_skill_1753000848809.png",
+      "icon": "/assets/images/Skirk_elemental_skill_1753004105508.png",
       "levelData": [
         {
           "tableIndex": 1,
@@ -520,7 +520,7 @@
             "重撃ダメージ|{param8:F1P}×3",
             "重撃スタミナ消費|{param9:F1}",
             "落下期間のダメージ|{param10:F1P}",
-            "低空/高���落下攻撃ダメージ|{param11:P}/{param12:P}",
+            "低空/高空落下攻撃ダメージ|{param11:P}/{param12:P}",
             "七相一閃モード継続時間|{param13:F1}秒",
             "蛇の狡智上限|{param14:F1}",
             "クールタイム|{param15:F1}秒",
@@ -1136,21 +1136,21 @@
     "elementalBurst": {
       "name": "理の超越",
       "description": "",
-      "icon": "/assets/images/Skirk_elemental_burst_1753000848809.png",
+      "icon": "/assets/images/Skirk_elemental_burst_1753004105508.png",
       "levelData": []
     },
     "passiveTalents": [
       {
         "name": "理の超越",
-        "icon": "/assets/images/Skirk_passive_1_1753000848809.png"
+        "icon": "/assets/images/Skirk_passive_1_1753004105508.png"
       },
       {
         "name": "万流帰寂",
-        "icon": "/assets/images/Skirk_passive_2_1753000848809.png"
+        "icon": "/assets/images/Skirk_passive_2_1753004105508.png"
       },
       {
         "name": "武芸伝授",
-        "icon": "/assets/images/Skirk_passive_3_1753000848809.png"
+        "icon": "/assets/images/Skirk_passive_3_1753004105508.png"
       }
     ],
     "completeTableData": [
@@ -1392,7 +1392,7 @@
               0
             ],
             "description": [
-              "1���ダメージ|{param1:F1P}",
+              "1段ダメージ|{param1:F1P}",
               "2段ダメージ|{param2:F1P}",
               "3段ダメージ|{param3:F1P}+{param4:F1P}",
               "4段ダメージ|{param5:F1P}",
@@ -1538,7 +1538,7 @@
               "4段ダメージ|{param5:F1P}",
               "5段ダメージ|{param6:F1P}",
               "重撃ダメージ|{param7:F1P}×2",
-              "重撃スタミ���消費|{param8:F1}",
+              "重撃スタミナ消費|{param8:F1}",
               "落下期間のダメージ|{param9:F1P}",
               "低空/高空落下攻撃ダメージ|{param10:P}/{param11:P}",
               "",
@@ -1888,7 +1888,7 @@
             ],
             "description": [
               "1段ダメージ|{param1:F1P}",
-              "2段ダメー��|{param2:F1P}",
+              "2段ダメージ|{param2:F1P}",
               "3段ダメージ|{param3:F1P}+{param4:F1P}",
               "4段ダメージ|{param5:F1P}",
               "5段ダメージ|{param6:F1P}",
@@ -2655,7 +2655,7 @@
               "重撃ダメージ|{param8:F1P}×3",
               "重撃スタミナ消費|{param9:F1}",
               "落下期間のダメージ|{param10:F1P}",
-              "低空/高���落下攻撃ダメージ|{param11:P}/{param12:P}",
+              "低空/高空落下攻撃ダメージ|{param11:P}/{param12:P}",
               "七相一閃モード継続時間|{param13:F1}秒",
               "蛇の狡智上限|{param14:F1}",
               "クールタイム|{param15:F1}秒",
@@ -4317,32 +4317,32 @@
       {
         "level": null,
         "name": "悠遠",
-        "icon": "/assets/images/Skirk_constellation_cNaN_1753000848809.png"
+        "icon": "/assets/images/Skirk_constellation_cNaN_1753004105508.png"
       },
       {
         "level": null,
         "name": "落淵",
-        "icon": "/assets/images/Skirk_constellation_cNaN_1753000848809.png"
+        "icon": "/assets/images/Skirk_constellation_cNaN_1753004105508.png"
       },
       {
         "level": null,
         "name": "罪縁",
-        "icon": "/assets/images/Skirk_constellation_cNaN_1753000848809.png"
+        "icon": "/assets/images/Skirk_constellation_cNaN_1753004105508.png"
       },
       {
         "level": null,
         "name": "流断",
-        "icon": "/assets/images/Skirk_constellation_cNaN_1753000848809.png"
+        "icon": "/assets/images/Skirk_constellation_cNaN_1753004105508.png"
       },
       {
         "level": null,
         "name": "祈念",
-        "icon": "/assets/images/Skirk_constellation_cNaN_1753000848809.png"
+        "icon": "/assets/images/Skirk_constellation_cNaN_1753004105508.png"
       },
       {
         "level": null,
         "name": "至源",
-        "icon": "/assets/images/Skirk_constellation_cNaN_1753000848809.png"
+        "icon": "/assets/images/Skirk_constellation_cNaN_1753004105508.png"
       }
     ]
   },
@@ -4359,14 +4359,14 @@
     "id": 210244,
     "name": "スカーク・孤影",
     "description": "スカーク・孤影",
-    "icon": "/assets/images/Skirk_icon_1753000848808.png"
+    "icon": "/assets/images/Skirk_namecard_1753004105638.png"
   },
   "specialFood": {
     "id": 108838,
     "name": "「暗き淵の獲物」",
     "rank": 1,
-    "icon": "/assets/images/Skirk_special_food_1753000848809.png",
-    "effectIcon": "/assets/images/Kaeya_food_effect_1753000670791.png"
+    "icon": "/assets/images/Skirk_special_food_1753004105509.png",
+    "effectIcon": "/assets/images/Kaeya_food_effect_1753003972834.png"
   },
   "levelProgression": [
     {
@@ -4682,7 +4682,7 @@
             "name": "岩裂の花",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Varesa_material_101254_1753000843139.png",
+            "icon": "/assets/images/Varesa_material_101254_1753004101147.png",
             "description": "花びらの外側が石のように硬い、奇妙な植物。開花すると、晶石に似た芯が露わになる。",
             "type": "ナタ地域の特産"
           },
@@ -4691,7 +4691,7 @@
             "name": "哀切なアイスクリスタル·砕屑",
             "count": 1,
             "rank": 2,
-            "icon": "/assets/images/Kamisato Ayaka_material_104161_1753000662353.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104161_1753003967592.png",
             "description": "キャラクターの突破用アイテム。",
             "type": "キャラクター突破素材"
           },
@@ -4700,7 +4700,7 @@
             "name": "整合の歯車",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Lynette_material_112083_1753000790432.png",
+            "icon": "/assets/images/Lynette_material_112083_1753004061144.png",
             "description": "クロックワーク·マシナリーの歯車。\\n動力伝達のための重要な部品。この部品がないと、対応のモジュールは機能しなくなる。",
             "type": "キャラと武器育成素材"
           }
@@ -4731,7 +4731,7 @@
             "name": "岩裂の花",
             "count": 10,
             "rank": 1,
-            "icon": "/assets/images/Varesa_material_101254_1753000843139.png",
+            "icon": "/assets/images/Varesa_material_101254_1753004101147.png",
             "description": "花びらの外側が石のように硬い、奇妙な植物。開花すると、晶石に似た芯が露わになる。",
             "type": "ナタ地域の特産"
           },
@@ -4740,7 +4740,7 @@
             "name": "哀切なアイスクリスタル·欠片",
             "count": 3,
             "rank": 3,
-            "icon": "/assets/images/Kamisato Ayaka_material_104162_1753000662253.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104162_1753003967586.png",
             "description": "キャラクターの突破用アイテム。\\n「…すみません…」",
             "type": "キャラクター突破素材"
           },
@@ -4749,7 +4749,7 @@
             "name": "整合の歯車",
             "count": 15,
             "rank": 1,
-            "icon": "/assets/images/Lynette_material_112083_1753000790432.png",
+            "icon": "/assets/images/Lynette_material_112083_1753004061144.png",
             "description": "クロックワーク·マシナリーの歯車。\\n動力伝達のための重要な部品。この部品がないと、対応のモジュールは機能しなくなる。",
             "type": "キャラと武器育成素材"
           },
@@ -4758,7 +4758,7 @@
             "name": "深遠と絡み合う眼差し",
             "count": 2,
             "rank": 4,
-            "icon": "/assets/images/Chasca_material_113067_1753000830683.png",
+            "icon": "/assets/images/Chasca_material_113067_1753004091316.png",
             "description": "深遠なるミミックパピラを倒した後、獲得した果実のようで果実ではないもの。\\n一ヶ所に集まったエネルギーによって形成された「目」——遥か暗闇の彼方からの視線を感じる。",
             "type": "キャラクター育成素材"
           }
@@ -4793,7 +4793,7 @@
             "name": "岩裂の花",
             "count": 20,
             "rank": 1,
-            "icon": "/assets/images/Varesa_material_101254_1753000843139.png",
+            "icon": "/assets/images/Varesa_material_101254_1753004101147.png",
             "description": "花びらの外側が石のように硬い、奇妙な植物。開花すると、晶石に似た芯が露わになる。",
             "type": "ナタ地域の特産"
           },
@@ -4802,7 +4802,7 @@
             "name": "哀切なアイスクリスタル·欠片",
             "count": 6,
             "rank": 3,
-            "icon": "/assets/images/Kamisato Ayaka_material_104162_1753000662253.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104162_1753003967586.png",
             "description": "キャラクターの突破用アイテム。\\n「…すみません…」",
             "type": "キャラクター突破素材"
           },
@@ -4811,7 +4811,7 @@
             "name": "機構の平歯車",
             "count": 12,
             "rank": 2,
-            "icon": "/assets/images/Lynette_material_112084_1753000790597.png",
+            "icon": "/assets/images/Lynette_material_112084_1753004061148.png",
             "description": "クロックワーク·マシナリーの歯車。\\nクロックワーク·マシナリーは運動学において数々の画期的な進歩を遂げてきたが、動力学においては、400年以上も前に、アラン·ギヨタンが築き上げた基礎と枠を未だに突破できていない。",
             "type": "キャラと武器育成素材"
           },
@@ -4820,7 +4820,7 @@
             "name": "深遠と絡み合う眼差し",
             "count": 4,
             "rank": 4,
-            "icon": "/assets/images/Chasca_material_113067_1753000830683.png",
+            "icon": "/assets/images/Chasca_material_113067_1753004091316.png",
             "description": "深遠なるミミックパピラを倒した後、獲得した果実のようで果実ではないもの。\\n一ヶ所に集まったエネルギーによって形成された「目」——遥か暗闇の彼方からの視線を感じる。",
             "type": "キャラクター育成素材"
           }
@@ -4855,7 +4855,7 @@
             "name": "岩裂の花",
             "count": 30,
             "rank": 1,
-            "icon": "/assets/images/Varesa_material_101254_1753000843139.png",
+            "icon": "/assets/images/Varesa_material_101254_1753004101147.png",
             "description": "花びらの外側が石のように硬い、奇妙な植物。開花すると、晶石に似た芯が露わになる。",
             "type": "ナタ地域の特産"
           },
@@ -4864,7 +4864,7 @@
             "name": "哀切なアイスクリスタル·塊",
             "count": 3,
             "rank": 4,
-            "icon": "/assets/images/Kamisato Ayaka_material_104163_1753000662304.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104163_1753003967587.png",
             "description": "キャラクターの突破用アイテム。\\n「…すみません…」\\n「あなた達まで、わたしと一緒にこの世界の悲しみを背負わせるなんて…」",
             "type": "キャラクター突破素材"
           },
@@ -4873,7 +4873,7 @@
             "name": "機構の平歯車",
             "count": 18,
             "rank": 2,
-            "icon": "/assets/images/Lynette_material_112084_1753000790597.png",
+            "icon": "/assets/images/Lynette_material_112084_1753004061148.png",
             "description": "クロックワーク·マシナリーの歯車。\\nクロックワーク·マシナリーは運動学において数々の画期的な進歩を遂げてきたが、動力学においては、400年以上も前に、アラン·ギヨタンが築き上げた基礎と枠を未だに突破できていない。",
             "type": "キャラと武器育成素材"
           },
@@ -4882,7 +4882,7 @@
             "name": "深遠と絡み合う眼差し",
             "count": 8,
             "rank": 4,
-            "icon": "/assets/images/Chasca_material_113067_1753000830683.png",
+            "icon": "/assets/images/Chasca_material_113067_1753004091316.png",
             "description": "深遠なるミミックパピラを倒した後、獲得した果実のようで果実ではないもの。\\n一ヶ所に集まったエネルギーによって形成された「目」——遥か暗闇の彼方からの視線を感じる。",
             "type": "キャラクター育成素材"
           }
@@ -4917,7 +4917,7 @@
             "name": "岩裂の花",
             "count": 45,
             "rank": 1,
-            "icon": "/assets/images/Varesa_material_101254_1753000843139.png",
+            "icon": "/assets/images/Varesa_material_101254_1753004101147.png",
             "description": "花びらの外側が石のように硬い、奇妙な植物。開花すると、晶石に似た芯が露わになる。",
             "type": "ナタ地域の特産"
           },
@@ -4926,7 +4926,7 @@
             "name": "哀切なアイスクリスタル·塊",
             "count": 6,
             "rank": 4,
-            "icon": "/assets/images/Kamisato Ayaka_material_104163_1753000662304.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104163_1753003967587.png",
             "description": "キャラクターの突破用アイテム。\\n「…すみません…」\\n「あなた達まで、わたしと一緒にこの世界の悲しみを背負わせるなんて…」",
             "type": "キャラクター突破素材"
           },
@@ -4935,7 +4935,7 @@
             "name": "奇械のコア歯車",
             "count": 12,
             "rank": 3,
-            "icon": "/assets/images/Lynette_material_112085_1753000790623.png",
+            "icon": "/assets/images/Lynette_material_112085_1753004061145.png",
             "description": "クロックワーク·マシナリーの歯車。\\n加工の精度および材料学の進歩はフォンテーヌのクロックワーク·マシナリーの発展のカギとなる。先進的設備の力を借りれば、どのエンジニアだって「奇械公」ギヨタンの時代を凌駕する機械を作り出せる可能性がある。",
             "type": "キャラと武器育成素材"
           },
@@ -4944,7 +4944,7 @@
             "name": "深遠と絡み合う眼差し",
             "count": 12,
             "rank": 4,
-            "icon": "/assets/images/Chasca_material_113067_1753000830683.png",
+            "icon": "/assets/images/Chasca_material_113067_1753004091316.png",
             "description": "深遠なるミミックパピラを倒した後、獲得した果実のようで果実ではないもの。\\n一ヶ所に集まったエネルギーによって形成された「目」——遥か暗闇の彼方からの視線を感じる。",
             "type": "キャラクター育成素材"
           }
@@ -4979,7 +4979,7 @@
             "name": "岩裂の花",
             "count": 60,
             "rank": 1,
-            "icon": "/assets/images/Varesa_material_101254_1753000843139.png",
+            "icon": "/assets/images/Varesa_material_101254_1753004101147.png",
             "description": "花びらの外側が石のように硬い、奇妙な植物。開花すると、晶石に似た芯が露わになる。",
             "type": "ナタ地域の特産"
           },
@@ -4988,7 +4988,7 @@
             "name": "哀切なアイスクリスタル",
             "count": 6,
             "rank": 5,
-            "icon": "/assets/images/Kamisato Ayaka_material_104164_1753000662278.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104164_1753003967583.png",
             "description": "キャラクターの突破用アイテム。\\n「…すみません、あなた達まで、わたしと一緒にこの世界の悲しみを背負わせるなんて…」\\n「わたしの寒さを耐えられる者は、きっと心の中に熱い欲望を持っているだろう？」\\n「なら、わたしの代わりに、旧世界を焼き尽くそう。」",
             "type": "キャラクター突破素材"
           },
@@ -4997,7 +4997,7 @@
             "name": "奇械のコア歯車",
             "count": 24,
             "rank": 3,
-            "icon": "/assets/images/Lynette_material_112085_1753000790623.png",
+            "icon": "/assets/images/Lynette_material_112085_1753004061145.png",
             "description": "クロックワーク·マシナリーの歯車。\\n加工の精度および材料学の進歩はフォンテーヌのクロックワーク·マシナリーの発展のカギとなる。先進的設備の力を借りれば、どのエンジニアだって「奇械公」ギヨタンの時代を凌駕する機械を作り出せる可能性がある。",
             "type": "キャラと武器育成素材"
           },
@@ -5006,7 +5006,7 @@
             "name": "深遠と絡み合う眼差し",
             "count": 20,
             "rank": 4,
-            "icon": "/assets/images/Chasca_material_113067_1753000830683.png",
+            "icon": "/assets/images/Chasca_material_113067_1753004091316.png",
             "description": "深遠なるミミックパピラを倒した後、獲得した果実のようで果実ではないもの。\\n一ヶ所に集まったエネルギーによって形成された「目」——遥か暗闇の彼方からの視線を感じる。",
             "type": "キャラクター育成素材"
           }

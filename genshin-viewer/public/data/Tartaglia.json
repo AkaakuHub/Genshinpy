@@ -8,7 +8,7 @@
   "region": "Mondstadt",
   "constellation": "空鯨座",
   "description": "ファトゥス第十一位、「公子」。その戦績や名前は広く知られている。",
-  "icon": "/assets/images/Tartaglia_icon_1753000699271.png",
+  "icon": "/assets/images/Tartaglia_icon_1753003991618.png",
   "profile": {
     "baseHp": 1020.052,
     "baseAtk": 23.461,
@@ -23,7 +23,7 @@
       "id": "断雨",
       "name": "断雨",
       "description": "",
-      "icon": "/assets/images/Amber_normal_attack_1753000677027.png",
+      "icon": "/assets/images/Amber_normal_attack_1753003976614.png",
       "skillType": "normal",
       "params": {
         "1": [],
@@ -47,7 +47,7 @@
       "id": "魔王の武装·荒波",
       "name": "魔王の武装·荒波",
       "description": "",
-      "icon": "/assets/images/Tartaglia_elemental_skill_1753000699271.png",
+      "icon": "/assets/images/Tartaglia_elemental_skill_1753003991618.png",
       "levelData": [
         {
           "tableIndex": 1,
@@ -1136,21 +1136,21 @@
     "elementalBurst": {
       "name": "無尽蔵",
       "description": "",
-      "icon": "/assets/images/Tartaglia_elemental_burst_1753000699271.png",
+      "icon": "/assets/images/Tartaglia_elemental_burst_1753003991618.png",
       "levelData": []
     },
     "passiveTalents": [
       {
         "name": "無尽蔵",
-        "icon": "/assets/images/Tartaglia_passive_1_1753000699272.png"
+        "icon": "/assets/images/Tartaglia_passive_1_1753003991618.png"
       },
       {
         "name": "水形剣",
-        "icon": "/assets/images/Tartaglia_passive_2_1753000699272.png"
+        "icon": "/assets/images/Tartaglia_passive_2_1753003991618.png"
       },
       {
         "name": "武芸マスター",
-        "icon": "/assets/images/Tartaglia_passive_3_1753000699272.png"
+        "icon": "/assets/images/Tartaglia_passive_3_1753003991618.png"
       }
     ],
     "completeTableData": [
@@ -1333,7 +1333,7 @@
               "断流·閃 ダメージ|{param9:F1P}×3",
               "断流·破 ダメージ|{param10:F1P}",
               "断流継続時間|{param14:F1}秒",
-              "落下期間のダメージ|{param11:F1P}",
+              "落���期間のダメージ|{param11:F1P}",
               "低空/高空落下攻撃ダメージ|{param12:P}/{param13:P}",
               "",
               "",
@@ -4178,7 +4178,7 @@
               0
             ],
             "description": [
-              "スキルダメージ·��接|{param1:P}",
+              "スキルダメ��ジ·近接|{param1:P}",
               "スキルダメージ·遠隔|{param3:P}",
               "断流·爆 ダメージ|{param2:P}",
               "スキルによる元素エネルギー回復（遠隔）|{param4:I}",
@@ -4317,32 +4317,32 @@
       {
         "level": null,
         "name": "魔王の武装·押波",
-        "icon": "/assets/images/Tartaglia_constellation_cNaN_1753000699272.png"
+        "icon": "/assets/images/Tartaglia_constellation_cNaN_1753003991618.png"
       },
       {
         "level": null,
         "name": "魔王の武装·暗流",
-        "icon": "/assets/images/Tartaglia_constellation_cNaN_1753000699272.png"
+        "icon": "/assets/images/Tartaglia_constellation_cNaN_1753003991618.png"
       },
       {
         "level": null,
         "name": "淵の災い·紛争の源",
-        "icon": "/assets/images/Tartaglia_constellation_cNaN_1753000699272.png"
+        "icon": "/assets/images/Tartaglia_constellation_cNaN_1753003991618.png"
       },
       {
         "level": null,
         "name": "淵の災い·復水放流",
-        "icon": "/assets/images/Tartaglia_constellation_cNaN_1753000699272.png"
+        "icon": "/assets/images/Tartaglia_constellation_cNaN_1753003991619.png"
       },
       {
         "level": null,
         "name": "極悪技·雨斬り",
-        "icon": "/assets/images/Tartaglia_constellation_cNaN_1753000699272.png"
+        "icon": "/assets/images/Tartaglia_constellation_cNaN_1753003991619.png"
       },
       {
         "level": null,
         "name": "極悪技·天使の滅び",
-        "icon": "/assets/images/Tartaglia_constellation_cNaN_1753000699272.png"
+        "icon": "/assets/images/Tartaglia_constellation_cNaN_1753003991619.png"
       }
     ]
   },
@@ -4359,14 +4359,14 @@
     "id": 210211,
     "name": "ナタ·神の軍",
     "description": "ナタ·神の軍",
-    "icon": "/assets/images/Tartaglia_namecard_1753000699449.png"
+    "icon": "/assets/images/Tartaglia_icon_1753003991618.png"
   },
   "specialFood": {
     "id": 108175,
     "name": "極みの一釣り",
     "rank": 3,
-    "icon": "/assets/images/Tartaglia_special_food_1753000699272.png",
-    "effectIcon": "/assets/images/Klee_food_effect_1753000691324.png"
+    "icon": "/assets/images/Tartaglia_special_food_1753003991619.png",
+    "effectIcon": "/assets/images/Klee_food_effect_1753003986019.png"
   },
   "levelProgression": [
     {
@@ -4682,7 +4682,7 @@
             "name": "星螺",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Tartaglia_material_100033_1753000699639.png",
+            "icon": "/assets/images/Tartaglia_material_100033_1753003991648.png",
             "description": "潮と共に砂浜についた螺。よく聞けば、思いが溢れる海の叫びが聞こえる。",
             "type": "璃月地域の特産"
           },
@@ -4691,7 +4691,7 @@
             "name": "澄明なラピスラズリ·砕屑",
             "count": 1,
             "rank": 2,
-            "icon": "/assets/images/Barbara_material_104121_1753000668730.png",
+            "icon": "/assets/images/Barbara_material_104121_1753003971372.png",
             "description": "キャラクターの突破用アイテム。",
             "type": "キャラクター突破素材"
           },
@@ -4700,7 +4700,7 @@
             "name": "新兵の記章",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Diluc_material_112032_1753000673158.png",
+            "icon": "/assets/images/Diluc_material_112032_1753003974116.png",
             "description": "新兵の身分を記した記章。かつてこれをつけた人は、どんな気持ちでファデュイの戦争兵器になったのだろうか。",
             "type": "キャラと武器育成素材"
           }
@@ -4731,7 +4731,7 @@
             "name": "星螺",
             "count": 10,
             "rank": 1,
-            "icon": "/assets/images/Tartaglia_material_100033_1753000699639.png",
+            "icon": "/assets/images/Tartaglia_material_100033_1753003991648.png",
             "description": "潮と共に砂浜についた螺。よく聞けば、思いが溢れる海の叫びが聞こえる。",
             "type": "璃月地域の特産"
           },
@@ -4740,7 +4740,7 @@
             "name": "澄明なラピスラズリ·欠片",
             "count": 3,
             "rank": 3,
-            "icon": "/assets/images/Barbara_material_104122_1753000668907.png",
+            "icon": "/assets/images/Barbara_material_104122_1753003971366.png",
             "description": "キャラクターの突破用アイテム。\\n「僕の理想には一片の穢れも無い。」",
             "type": "キャラクター突破素材"
           },
@@ -4749,7 +4749,7 @@
             "name": "新兵の記章",
             "count": 15,
             "rank": 1,
-            "icon": "/assets/images/Diluc_material_112032_1753000673158.png",
+            "icon": "/assets/images/Diluc_material_112032_1753003974116.png",
             "description": "新兵の身分を記した記章。かつてこれをつけた人は、どんな気持ちでファデュイの戦争兵器になったのだろうか。",
             "type": "キャラと武器育成素材"
           },
@@ -4758,7 +4758,7 @@
             "name": "浄水の心",
             "count": 2,
             "rank": 4,
-            "icon": "/assets/images/Barbara_material_113012_1753000669033.png",
+            "icon": "/assets/images/Barbara_material_113012_1753003971370.png",
             "description": "純水精霊が残した永遠に透き通る一掬の涙。\\n湖に溶いても希釈されないだろう。でもこんな高貴な純水精霊はなぜ浄水で変身してまで地上の生き物になろうとしているのかな？呼吸も、食事もする必要がないのに…",
             "type": "キャラクター育成素材"
           }
@@ -4793,7 +4793,7 @@
             "name": "星螺",
             "count": 20,
             "rank": 1,
-            "icon": "/assets/images/Tartaglia_material_100033_1753000699639.png",
+            "icon": "/assets/images/Tartaglia_material_100033_1753003991648.png",
             "description": "潮と共に砂浜についた螺。よく聞けば、思いが溢れる海の叫びが聞こえる。",
             "type": "璃月地域の特産"
           },
@@ -4802,7 +4802,7 @@
             "name": "澄明なラピスラズリ·欠片",
             "count": 6,
             "rank": 3,
-            "icon": "/assets/images/Barbara_material_104122_1753000668907.png",
+            "icon": "/assets/images/Barbara_material_104122_1753003971366.png",
             "description": "キャラクターの突破用アイテム。\\n「僕の理想には一片の穢れも無い。」",
             "type": "キャラクター突破素材"
           },
@@ -4811,7 +4811,7 @@
             "name": "士官の記章",
             "count": 12,
             "rank": 2,
-            "icon": "/assets/images/Diluc_material_112033_1753000673183.png",
+            "icon": "/assets/images/Diluc_material_112033_1753003974136.png",
             "description": "士官の身分を記した記章、一般兵士とは異なる独特なデザインがあるのは、その複雑な気持ちが含まれたからだろうか。",
             "type": "キャラと武器育成素材"
           },
@@ -4820,7 +4820,7 @@
             "name": "浄水の心",
             "count": 4,
             "rank": 4,
-            "icon": "/assets/images/Barbara_material_113012_1753000669033.png",
+            "icon": "/assets/images/Barbara_material_113012_1753003971370.png",
             "description": "純水精霊が残した永遠に透き通る一掬の涙。\\n湖に溶いても希釈されないだろう。でもこんな高貴な純水精霊はなぜ浄水で変身してまで地上の生き物になろうとしているのかな？呼吸も、食事もする必要がないのに…",
             "type": "キャラクター育成素材"
           }
@@ -4855,7 +4855,7 @@
             "name": "星螺",
             "count": 30,
             "rank": 1,
-            "icon": "/assets/images/Tartaglia_material_100033_1753000699639.png",
+            "icon": "/assets/images/Tartaglia_material_100033_1753003991648.png",
             "description": "潮と共に砂浜についた螺。よく聞けば、思いが溢れる海の叫びが聞こえる。",
             "type": "璃月地域の特産"
           },
@@ -4864,7 +4864,7 @@
             "name": "澄明なラピスラズリ·塊",
             "count": 3,
             "rank": 4,
-            "icon": "/assets/images/Barbara_material_104123_1753000668982.png",
+            "icon": "/assets/images/Barbara_material_104123_1753003971366.png",
             "description": "キャラクターの突破用アイテム。\\n「僕の理想には一片の穢れも無い。」\\n「訂正させてもらおう。ここでは、人が神の裁きを受けることはない…」",
             "type": "キャラクター突破素材"
           },
@@ -4873,7 +4873,7 @@
             "name": "士官の記章",
             "count": 18,
             "rank": 2,
-            "icon": "/assets/images/Diluc_material_112033_1753000673183.png",
+            "icon": "/assets/images/Diluc_material_112033_1753003974136.png",
             "description": "士官の身分を記した記章、一般兵士とは異なる独特なデザインがあるのは、その複雑な気持ちが含まれたからだろうか。",
             "type": "キャラと武器育成素材"
           },
@@ -4882,7 +4882,7 @@
             "name": "浄水の心",
             "count": 8,
             "rank": 4,
-            "icon": "/assets/images/Barbara_material_113012_1753000669033.png",
+            "icon": "/assets/images/Barbara_material_113012_1753003971370.png",
             "description": "純水精霊が残した永遠に透き通る一掬の涙。\\n湖に溶いても希釈されないだろう。でもこんな高貴な純水精霊はなぜ浄水で変身してまで地上の生き物になろうとしているのかな？呼吸も、食事もする必要がないのに…",
             "type": "キャラクター育成素材"
           }
@@ -4917,7 +4917,7 @@
             "name": "星螺",
             "count": 45,
             "rank": 1,
-            "icon": "/assets/images/Tartaglia_material_100033_1753000699639.png",
+            "icon": "/assets/images/Tartaglia_material_100033_1753003991648.png",
             "description": "潮と共に砂浜についた螺。よく聞けば、思いが溢れる海の叫びが聞こえる。",
             "type": "璃月地域の特産"
           },
@@ -4926,7 +4926,7 @@
             "name": "澄明なラピスラズリ·塊",
             "count": 6,
             "rank": 4,
-            "icon": "/assets/images/Barbara_material_104123_1753000668982.png",
+            "icon": "/assets/images/Barbara_material_104123_1753003971366.png",
             "description": "キャラクターの突破用アイテム。\\n「僕の理想には一片の穢れも無い。」\\n「訂正させてもらおう。ここでは、人が神の裁きを受けることはない…」",
             "type": "キャラクター突破素材"
           },
@@ -4935,7 +4935,7 @@
             "name": "尉官の記章",
             "count": 12,
             "rank": 3,
-            "icon": "/assets/images/Diluc_material_112034_1753000673233.png",
+            "icon": "/assets/images/Diluc_material_112034_1753003974138.png",
             "description": "尉官の身分を記した記章。ファデュイには膨大な軍隊があり、その中で尉官になれる人はきっと優れた能力があるだろう。",
             "type": "キャラと武器育成素材"
           },
@@ -4944,7 +4944,7 @@
             "name": "浄水の心",
             "count": 12,
             "rank": 4,
-            "icon": "/assets/images/Barbara_material_113012_1753000669033.png",
+            "icon": "/assets/images/Barbara_material_113012_1753003971370.png",
             "description": "純水精霊が残した永遠に透き通る一掬の涙。\\n湖に溶いても希釈されないだろう。でもこんな高貴な純水精霊はなぜ浄水で変身してまで地上の生き物になろうとしているのかな？呼吸も、食事もする必要がないのに…",
             "type": "キャラクター育成素材"
           }
@@ -4979,7 +4979,7 @@
             "name": "星螺",
             "count": 60,
             "rank": 1,
-            "icon": "/assets/images/Tartaglia_material_100033_1753000699639.png",
+            "icon": "/assets/images/Tartaglia_material_100033_1753003991648.png",
             "description": "潮と共に砂浜についた螺。よく聞けば、思いが溢れる海の叫びが聞こえる。",
             "type": "璃月地域の特産"
           },
@@ -4988,7 +4988,7 @@
             "name": "澄明なラピスラズリ",
             "count": 6,
             "rank": 5,
-            "icon": "/assets/images/Barbara_material_104124_1753000668954.png",
+            "icon": "/assets/images/Barbara_material_104124_1753003971367.png",
             "description": "キャラクターの突破用アイテム。\\n「僕の理想には一片の穢れも無い。」\\n「訂正させてもらおう。ここでは、人が神の裁きを受けることはない。裁きを下せるのは、ただ法と法廷のみ。」\\n「この僕でさえ、断罪され得るのだからね。さあ、僕の崇高と純潔を讃えてくれたまえ。」",
             "type": "キャラクター突破素材"
           },
@@ -4997,7 +4997,7 @@
             "name": "尉官の記章",
             "count": 24,
             "rank": 3,
-            "icon": "/assets/images/Diluc_material_112034_1753000673233.png",
+            "icon": "/assets/images/Diluc_material_112034_1753003974138.png",
             "description": "尉官の身分を記した記章。ファデュイには膨大な軍隊があり、その中で尉官になれる人はきっと優れた能力があるだろう。",
             "type": "キャラと武器育成素材"
           },
@@ -5006,7 +5006,7 @@
             "name": "浄水の心",
             "count": 20,
             "rank": 4,
-            "icon": "/assets/images/Barbara_material_113012_1753000669033.png",
+            "icon": "/assets/images/Barbara_material_113012_1753003971370.png",
             "description": "純水精霊が残した永遠に透き通る一掬の涙。\\n湖に溶いても希釈されないだろう。でもこんな高貴な純水精霊はなぜ浄水で変身してまで地上の生き物になろうとしているのかな？呼吸も、食事もする必要がないのに…",
             "type": "キャラクター育成素材"
           }

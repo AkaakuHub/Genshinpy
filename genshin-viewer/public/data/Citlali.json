@@ -8,7 +8,7 @@
   "region": "Natlan",
   "constellation": "アナワトルの鏡座",
   "description": "謎煙の主の大シャーマン。一族の誰もが敬う「黒曜石の老婆」。",
-  "icon": "/assets/images/Citlali_icon_1753000835986.png",
+  "icon": "/assets/images/Citlali_icon_1753004095506.png",
   "profile": {
     "baseHp": 905.654,
     "baseAtk": 9.869,
@@ -23,7 +23,7 @@
       "id": "憑霊影縛",
       "name": "憑霊影縛",
       "description": "",
-      "icon": "/assets/images/Lisa_normal_attack_1753000666488.png",
+      "icon": "/assets/images/Lisa_normal_attack_1753003970077.png",
       "skillType": "normal",
       "params": {
         "1": [],
@@ -47,7 +47,7 @@
       "id": "霜暁の黒星",
       "name": "霜暁の黒星",
       "description": "",
-      "icon": "/assets/images/Citlali_elemental_skill_1753000835986.png",
+      "icon": "/assets/images/Citlali_elemental_skill_1753004095506.png",
       "levelData": [
         {
           "tableIndex": 1,
@@ -1136,7 +1136,7 @@
     "elementalBurst": {
       "name": "諸曜の令",
       "description": "",
-      "icon": "/assets/images/Citlali_elemental_burst_1753000835986.png",
+      "icon": "/assets/images/Citlali_elemental_burst_1753004095506.png",
       "levelData": [
         {
           "tableIndex": 1,
@@ -1459,7 +1459,7 @@
             "氷晶の嵐の夜魂値獲得|{param3:F1}",
             "憑霊のスカルのダメージ|{param2:F1P}",
             "憑霊のスカルの夜魂値獲得|{param4:F1}",
-            "クールタイム|{param5:F1}��",
+            "クールタイム|{param5:F1}秒",
             "元素エネルギー|{param6:I}",
             "",
             "",
@@ -2225,19 +2225,19 @@
     "passiveTalents": [
       {
         "name": "五重天の寒雨",
-        "icon": "/assets/images/Citlali_passive_1_1753000835986.png"
+        "icon": "/assets/images/Citlali_passive_1_1753004095506.png"
       },
       {
         "name": "白燧蝶の星衣",
-        "icon": "/assets/images/Citlali_passive_2_1753000835986.png"
+        "icon": "/assets/images/Citlali_passive_2_1753004095506.png"
       },
       {
         "name": "夜域の賜物・宙に舞う鏡と煙",
-        "icon": "/assets/images/Citlali_passive_3_1753000835986.png"
+        "icon": "/assets/images/Citlali_passive_3_1753004095506.png"
       },
       {
         "name": "奥秘伝唱",
-        "icon": "/assets/images/Citlali_passive_4_1753000835986.png"
+        "icon": "/assets/images/Citlali_passive_4_1753004095506.png"
       }
     ],
     "completeTableData": [
@@ -3113,7 +3113,7 @@
               "3段ダメージ|{param3:F1P}",
               "重撃ダメージ|{param4:F1P}",
               "重撃スタミナ消費|{param5:F1}",
-              "落下期間のダメージ|{param6:F1P}",
+              "落下期間��ダメージ|{param6:F1P}",
               "低空/高空落下攻撃ダメージ|{param7:P}/{param8:P}",
               "",
               "",
@@ -4650,7 +4650,7 @@
               "氷晶の嵐の夜魂値獲得|{param3:F1}",
               "憑霊のスカルのダメージ|{param2:F1P}",
               "憑霊のスカルの夜魂値獲得|{param4:F1}",
-              "クールタイム|{param5:F1}��",
+              "クールタイム|{param5:F1}秒",
               "元素エネルギー|{param6:I}",
               "",
               "",
@@ -5418,32 +5418,32 @@
       {
         "level": null,
         "name": "四百星の芒刃",
-        "icon": "/assets/images/Citlali_constellation_cNaN_1753000835987.png"
+        "icon": "/assets/images/Citlali_constellation_cNaN_1753004095506.png"
       },
       {
         "level": null,
         "name": "心を呑む者の ピルグリメイジ",
-        "icon": "/assets/images/Citlali_constellation_cNaN_1753000835987.png"
+        "icon": "/assets/images/Citlali_constellation_cNaN_1753004095506.png"
       },
       {
         "level": null,
         "name": "雲中蛇の フェザークラウン",
-        "icon": "/assets/images/Citlali_constellation_cNaN_1753000835987.png"
+        "icon": "/assets/images/Citlali_constellation_cNaN_1753004095506.png"
       },
       {
         "level": null,
         "name": "拒死者の スピリットスカル",
-        "icon": "/assets/images/Citlali_constellation_cNaN_1753000835987.png"
+        "icon": "/assets/images/Citlali_constellation_cNaN_1753004095506.png"
       },
       {
         "level": null,
-        "name": "五悪��のカーズ",
-        "icon": "/assets/images/Citlali_constellation_cNaN_1753000835987.png"
+        "name": "���悪曜のカーズ",
+        "icon": "/assets/images/Citlali_constellation_cNaN_1753004095507.png"
       },
       {
         "level": null,
         "name": "原動天の シークレットパクト",
-        "icon": "/assets/images/Citlali_constellation_cNaN_1753000835987.png"
+        "icon": "/assets/images/Citlali_constellation_cNaN_1753004095507.png"
       }
     ]
   },
@@ -5460,14 +5460,14 @@
     "id": 210227,
     "name": "シトラリ・白星",
     "description": "シトラリ・白星",
-    "icon": "/assets/images/Citlali_icon_1753000835986.png"
+    "icon": "/assets/images/Citlali_icon_1753004095506.png"
   },
   "specialFood": {
     "id": 108789,
     "name": "「唯一無二の秘法」",
     "rank": 3,
-    "icon": "/assets/images/Citlali_special_food_1753000835987.png",
-    "effectIcon": "/assets/images/Kamisato Ayaka_food_effect_1753000661904.png"
+    "icon": "/assets/images/Citlali_special_food_1753004095507.png",
+    "effectIcon": "/assets/images/Kamisato Ayaka_food_effect_1753003967528.png"
   },
   "levelProgression": [
     {
@@ -5783,7 +5783,7 @@
             "name": "ケネパベリー",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Kachina_material_101249_1753000822914.png",
+            "icon": "/assets/images/Kachina_material_101249_1753004085586.png",
             "description": "果汁たっぷりの青色のベリー。形はフレイムグレネードの実と似ており、「懸木の民」付近に樹が大量に生えている。",
             "type": "ナタ地域の特産"
           },
@@ -5792,7 +5792,7 @@
             "name": "哀切なアイスクリスタル·砕屑",
             "count": 1,
             "rank": 2,
-            "icon": "/assets/images/Kamisato Ayaka_material_104161_1753000662353.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104161_1753003967592.png",
             "description": "キャラクターの突破用アイテム。",
             "type": "キャラクター突破素材"
           },
@@ -5801,7 +5801,7 @@
             "name": "未熟な牙",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Kinich_material_112101_1753000824761.png",
+            "icon": "/assets/images/Kinich_material_112101_1753004087000.png",
             "description": "ナタの竜が落とした牙。\\nまだ育ち切っていないようだ。もし牙から年齢を推定する方法があるなら、この牙の主はあまり長い年月を過ごしていないと結論づけられるかもしれない。",
             "type": "キャラと武器育成素材"
           }
@@ -5832,7 +5832,7 @@
             "name": "ケネパベリー",
             "count": 10,
             "rank": 1,
-            "icon": "/assets/images/Kachina_material_101249_1753000822914.png",
+            "icon": "/assets/images/Kachina_material_101249_1753004085586.png",
             "description": "果汁たっぷりの青色のベリー。形はフレイムグレネードの実と似ており、「懸木の民」付近に樹が大量に生えている。",
             "type": "ナタ地域の特産"
           },
@@ -5841,7 +5841,7 @@
             "name": "哀切なアイスクリスタル·欠片",
             "count": 3,
             "rank": 3,
-            "icon": "/assets/images/Kamisato Ayaka_material_104162_1753000662253.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104162_1753003967586.png",
             "description": "キャラクターの突破用アイテム。\\n「…すみません…」",
             "type": "キャラクター突破素材"
           },
@@ -5850,7 +5850,7 @@
             "name": "未熟な牙",
             "count": 15,
             "rank": 1,
-            "icon": "/assets/images/Kinich_material_112101_1753000824761.png",
+            "icon": "/assets/images/Kinich_material_112101_1753004087000.png",
             "description": "ナタの竜が落とした牙。\\nまだ育ち切っていないようだ。もし牙から年齢を推定する方法があるなら、この牙の主はあまり長い年月を過ごしていないと結論づけられるかもしれない。",
             "type": "キャラと武器育成素材"
           },
@@ -5859,8 +5859,8 @@
             "name": "謎土の護符",
             "count": 2,
             "rank": 4,
-            "icon": "/assets/images/Citlali_material_113071_1753000836179.png",
-            "description": "迷える霊覚の修験者の試練を乗り越えた後、いつの間にかバッグに入っていた護符。\\n「謎煙の主」の記録によると、「霊覚」の強い祭司は瞑想することで、黒曜石に反射する光と影の中を通り、死者のみが踏み入ることを許された地下の謎土に意識を飛ばすことができるのだという。ただし、この行為には危険が伴うため、祭司たちがこれを行う時には魂が謎土で迷わないように似たような護符を身に着けていたそうだ。と���いえ、この護符は実用的な意味合いより象徴的な意味の方が強い。このひっそりと修行する祭司が試練を乗り越えた勇士にこれを託すのも、単なる祝福なのかもしれない。",
+            "icon": "/assets/images/Citlali_material_113071_1753004095546.png",
+            "description": "迷える霊覚の修験者の試練を乗り越えた後、いつの間にかバッグに入っていた護符。\\n「謎煙の主」の記録によると、「霊覚」の強い祭司は瞑想することで、黒曜石に反射する光と影の中を通り、死者のみが踏み入ることを許された地下の謎土に意識を飛ばすことができるのだという。ただし、この行為には危険が伴うため、祭司たちがこれを行う時には魂が謎土で迷わないように似たような護符を身に着けていたそうだ。とはいえ、この護符は実用的な意味合いより象徴的な意味の方が強い。このひっそりと修行する祭司が試練を乗り越えた勇士にこれを託すのも、単なる祝福なのかもしれない。",
             "type": "キャラクター育成素材"
           }
         ],
@@ -5894,7 +5894,7 @@
             "name": "ケネパベリー",
             "count": 20,
             "rank": 1,
-            "icon": "/assets/images/Kachina_material_101249_1753000822914.png",
+            "icon": "/assets/images/Kachina_material_101249_1753004085586.png",
             "description": "果汁たっぷりの青色のベリー。形はフレイムグレネードの実と似ており、「懸木の民」付近に樹が大量に生えている。",
             "type": "ナタ地域の特産"
           },
@@ -5903,7 +5903,7 @@
             "name": "哀切なアイスクリスタル·欠片",
             "count": 6,
             "rank": 3,
-            "icon": "/assets/images/Kamisato Ayaka_material_104162_1753000662253.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104162_1753003967586.png",
             "description": "キャラクターの突破用アイテム。\\n「…すみません…」",
             "type": "キャラクター突破素材"
           },
@@ -5912,7 +5912,7 @@
             "name": "熟練の牙",
             "count": 12,
             "rank": 2,
-            "icon": "/assets/images/Kinich_material_112102_1753000824883.png",
+            "icon": "/assets/images/Kinich_material_112102_1753004087005.png",
             "description": "ナタの竜が落とした堅い牙。\\n牙の摩耗具合から、持ち主が経験したであろう暮らしや戦いが想像できる。竜の中でも、優秀な戦士と呼ばれるにふさわしいだろう。",
             "type": "キャラと武器育成素材"
           },
@@ -5921,8 +5921,8 @@
             "name": "謎土の護符",
             "count": 4,
             "rank": 4,
-            "icon": "/assets/images/Citlali_material_113071_1753000836179.png",
-            "description": "迷える霊覚の修験者の試練を乗り越えた後、いつの間にかバッグに入っていた護符。\\n「謎煙の主」の記録によると、「霊覚」の強い祭司は瞑想することで、黒曜石に反射する光と影の中を通り、死者のみが踏み入ることを許された地下の謎土に意識を飛ばすことができるのだという。ただし、この行為には危険が伴うため、祭司たちがこれを行う時には魂が謎土で迷わないように似たような護符を身に着けていたそうだ。と���いえ、この護符は実用的な意味合いより象徴的な意味の方が強い。このひっそりと修行する祭司が試練を乗り越えた勇士にこれを託すのも、単なる祝福なのかもしれない。",
+            "icon": "/assets/images/Citlali_material_113071_1753004095546.png",
+            "description": "迷える霊覚の修験者の試練を乗り越えた後、いつの間にかバッグに入っていた護符。\\n「謎煙の主」の記録によると、「霊覚」の強い祭司は瞑想することで、黒曜石に反射する光と影の中を通り、死者のみが踏み入ることを許された地下の謎土に意識を飛ばすことができるのだという。ただし、この行為には危険が伴うため、祭司たちがこれを行う時には魂が謎土で迷わないように似たような護符を身に着けていたそうだ。とはいえ、この護符は実用的な意味合いより象徴的な意味の方が強い。このひっそりと修行する祭司が試練を乗り越えた勇士にこれを託すのも、単なる祝福なのかもしれない。",
             "type": "キャラクター育成素材"
           }
         ],
@@ -5956,7 +5956,7 @@
             "name": "ケネパベリー",
             "count": 30,
             "rank": 1,
-            "icon": "/assets/images/Kachina_material_101249_1753000822914.png",
+            "icon": "/assets/images/Kachina_material_101249_1753004085586.png",
             "description": "果汁たっぷりの青色のベリー。形はフレイムグレネードの実と似ており、「懸木の民」付近に樹が大量に生えている。",
             "type": "ナタ地域の特産"
           },
@@ -5965,7 +5965,7 @@
             "name": "哀切なアイスクリスタル·塊",
             "count": 3,
             "rank": 4,
-            "icon": "/assets/images/Kamisato Ayaka_material_104163_1753000662304.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104163_1753003967587.png",
             "description": "キャラクターの突破用アイテム。\\n「…すみません…」\\n「あなた達まで、わたしと一緒にこの世界の悲しみを背負わせるなんて…」",
             "type": "キャラクター突破素材"
           },
@@ -5974,7 +5974,7 @@
             "name": "熟練の牙",
             "count": 18,
             "rank": 2,
-            "icon": "/assets/images/Kinich_material_112102_1753000824883.png",
+            "icon": "/assets/images/Kinich_material_112102_1753004087005.png",
             "description": "ナタの竜が落とした堅い牙。\\n牙の摩耗具合から、持ち主が経験したであろう暮らしや戦いが想像できる。竜の中でも、優秀な戦士と呼ばれるにふさわしいだろう。",
             "type": "キャラと武器育成素材"
           },
@@ -5983,8 +5983,8 @@
             "name": "謎土の護符",
             "count": 8,
             "rank": 4,
-            "icon": "/assets/images/Citlali_material_113071_1753000836179.png",
-            "description": "迷える霊覚の修験者の試練を乗り越えた後、いつの間にかバッグに入っていた護符。\\n「謎煙の主」の記録によると、「霊覚」の強い祭司は瞑想することで、黒曜石に反射する光と影の中を通り、死者のみが踏み入ることを許された地下の謎土に意識を飛ばすことができるのだという。ただし、この行為には危険が伴うため、祭司たちがこれを行う時には魂が謎土で迷わないように似たような護符を身に着けていたそうだ。と���いえ、この護符は実用的な意味合いより象徴的な意味の方が強い。このひっそりと修行する祭司が試練を乗り越えた勇士にこれを託すのも、単なる祝福なのかもしれない。",
+            "icon": "/assets/images/Citlali_material_113071_1753004095546.png",
+            "description": "迷える霊覚の修験者の試練を乗り越えた後、いつの間にかバッグに入っていた護符。\\n「謎煙の主」の記録によると、「霊覚」の強い祭司は瞑想することで、黒曜石に反射する光と影の中を通り、死者のみが踏み入ることを許された地下の謎土に意識を飛ばすことができるのだという。ただし、この行為には危険が伴うため、祭司たちがこれを行う時には魂が謎土で迷わないように似たような護符を身に着けていたそうだ。とはいえ、この護符は実用的な意味合いより象徴的な意味の方が強い。このひっそりと修行する祭司が試練を乗り越えた勇士にこれを託すのも、単なる祝福なのかもしれない。",
             "type": "キャラクター育成素材"
           }
         ],
@@ -6018,7 +6018,7 @@
             "name": "ケネパベリー",
             "count": 45,
             "rank": 1,
-            "icon": "/assets/images/Kachina_material_101249_1753000822914.png",
+            "icon": "/assets/images/Kachina_material_101249_1753004085586.png",
             "description": "果汁たっぷりの青色のベリー。形はフレイムグレネードの実と似ており、「懸木の民」付近に樹が大量に生えている。",
             "type": "ナタ地域の特産"
           },
@@ -6027,7 +6027,7 @@
             "name": "哀切なアイスクリスタル·塊",
             "count": 6,
             "rank": 4,
-            "icon": "/assets/images/Kamisato Ayaka_material_104163_1753000662304.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104163_1753003967587.png",
             "description": "キャラクターの突破用アイテム。\\n「…すみません…」\\n「あなた達まで、わたしと一緒にこの世界の悲しみを背負わせるなんて…」",
             "type": "キャラクター突破素材"
           },
@@ -6036,7 +6036,7 @@
             "name": "覇道の牙",
             "count": 12,
             "rank": 3,
-            "icon": "/assets/images/Kinich_material_112103_1753000824735.png",
+            "icon": "/assets/images/Kinich_material_112103_1753004087219.png",
             "description": "ナタの強い竜が落とした鋭い牙。\\n側面のギザギザや獰猛な形から、持ち主が戦場でいかに勇猛であったかが窺える。「覇者」と言える竜だったのだろう。",
             "type": "キャラと武器育成素材"
           },
@@ -6045,8 +6045,8 @@
             "name": "謎土の護符",
             "count": 12,
             "rank": 4,
-            "icon": "/assets/images/Citlali_material_113071_1753000836179.png",
-            "description": "迷える霊覚の修験者の試練を乗り越えた後、いつの間にかバッグに入っていた護符。\\n「謎煙の主」の記録によると、「霊覚」の強い祭司は瞑想することで、黒曜石に反射する光と影の中を通り、死者のみが踏み入ることを許された地下の謎土に意識を飛ばすことができるのだという。ただし、この行為には危険が伴うため、祭司たちがこれを行う時には魂が謎土で迷わないように似たような護符を身に着けていたそうだ。と���いえ、この護符は実用的な意味合いより象徴的な意味の方が強い。このひっそりと修行する祭司が試練を乗り越えた勇士にこれを託すのも、単なる祝福なのかもしれない。",
+            "icon": "/assets/images/Citlali_material_113071_1753004095546.png",
+            "description": "迷える霊覚の修験者の試練を乗り越えた後、いつの間にかバッグに入っていた護符。\\n「謎煙の主」の記録によると、「霊覚」の強い祭司は瞑想することで、黒曜石に反射する光と影の中を通り、死者のみが踏み入ることを許された地下の謎土に意識を飛ばすことができるのだという。ただし、この行為には危険が伴うため、祭司たちがこれを行う時には魂が謎土で迷わないように似たような護符を身に着けていたそうだ。とはいえ、この護符は実用的な意味合いより象徴的な意味の方が強い。このひっそりと修行する祭司が試練を乗り越えた勇士にこれを託すのも、単なる祝福なのかもしれない。",
             "type": "キャラクター育成素材"
           }
         ],
@@ -6080,7 +6080,7 @@
             "name": "ケネパベリー",
             "count": 60,
             "rank": 1,
-            "icon": "/assets/images/Kachina_material_101249_1753000822914.png",
+            "icon": "/assets/images/Kachina_material_101249_1753004085586.png",
             "description": "果汁たっぷりの青色のベリー。形はフレイムグレネードの実と似ており、「懸木の民」付近に樹が大量に生えている。",
             "type": "ナタ地域の特産"
           },
@@ -6089,7 +6089,7 @@
             "name": "哀切なアイスクリスタル",
             "count": 6,
             "rank": 5,
-            "icon": "/assets/images/Kamisato Ayaka_material_104164_1753000662278.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104164_1753003967583.png",
             "description": "キャラクターの突破用アイテム。\\n「…すみません、あなた達まで、わたしと一緒にこの世界の悲しみを背負わせるなんて…」\\n「わたしの寒さを耐えられる者は、きっと心の中に熱い欲望を持っているだろう？」\\n「なら、わたしの代わりに、旧世界を焼き尽くそう。」",
             "type": "キャラクター突破素材"
           },
@@ -6098,7 +6098,7 @@
             "name": "覇道の牙",
             "count": 24,
             "rank": 3,
-            "icon": "/assets/images/Kinich_material_112103_1753000824735.png",
+            "icon": "/assets/images/Kinich_material_112103_1753004087219.png",
             "description": "ナタの強い竜が落とした鋭い牙。\\n側面のギザギザや獰猛な形から、持ち主が戦場でいかに勇猛であったかが窺える。「覇者」と言える竜だったのだろう。",
             "type": "キャラと武器育成素材"
           },
@@ -6107,8 +6107,8 @@
             "name": "謎土の護符",
             "count": 20,
             "rank": 4,
-            "icon": "/assets/images/Citlali_material_113071_1753000836179.png",
-            "description": "迷える霊覚の修験者の試練を乗り越えた後、いつの間にかバッグに入っていた護符。\\n「謎煙の主」の記録によると、「霊覚」の強い祭司は瞑想することで、黒曜石に反射する光と影の中を通り、死者のみが踏み入ることを許された地下の謎土に意識を飛ばすことができるのだという。ただし、この行為には危険が伴うため、祭司たちがこれを行う時には魂が謎土で迷わないように似たような護符を身に着けていたそうだ。と���いえ、この護符は実用的な意味合いより象徴的な意味の方が強い。このひっそりと修行する祭司が試練を乗り越えた勇士にこれを託すのも、単なる祝福なのかもしれない。",
+            "icon": "/assets/images/Citlali_material_113071_1753004095546.png",
+            "description": "迷える霊覚の修験者の試練を乗り越えた後、いつの間にかバッグに入っていた護符。\\n「謎煙の主」の記録によると、「霊覚」の強い祭司は瞑想することで、黒曜石に反射する光と影の中を通り、死者のみが踏み入ることを許された地下の謎土に意識を飛ばすことができるのだという。ただし、この行為には危険が伴うため、祭司たちがこれを行う時には魂が謎土で迷わないように似たような護符を身に着けていたそうだ。とはいえ、この護符は実用的な意味合いより象徴的な意味の方が強い。このひっそりと修行する祭司が試練を乗り越えた勇士にこれを託すのも、単なる祝福なのかもしれない。",
             "type": "キャラクター育成素材"
           }
         ],

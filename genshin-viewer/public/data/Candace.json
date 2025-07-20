@@ -8,7 +8,7 @@
   "region": "Sumeru",
   "constellation": "矢盾座",
   "description": "琥珀色の左目を持つ、キングデシェレトの末裔。アアル村のガーディアンをしている。",
-  "icon": "/assets/images/Candace_icon_1753000770413.png",
+  "icon": "/assets/images/Candace_icon_1753004045616.png",
   "profile": {
     "baseHp": 911.791,
     "baseAtk": 17.808,
@@ -23,7 +23,7 @@
       "id": "流耀槍術・守勢",
       "name": "流耀槍術・守勢",
       "description": "",
-      "icon": "/assets/images/Xiangling_normal_attack_1753000681041.png",
+      "icon": "/assets/images/Xiangling_normal_attack_1753003979325.png",
       "skillType": "normal",
       "params": {
         "1": [],
@@ -47,7 +47,7 @@
       "id": "聖儀·蒼鷺による庇護",
       "name": "聖儀·蒼鷺による庇護",
       "description": "",
-      "icon": "/assets/images/Candace_elemental_skill_1753000770414.png",
+      "icon": "/assets/images/Candace_elemental_skill_1753004045616.png",
       "levelData": [
         {
           "tableIndex": 1,
@@ -295,7 +295,7 @@
           "description": [
             "シールド吸収量|HP上限{param1:F1P}+{param2:I}",
             "基礎ダメージ|HP上限{param3:F1P}",
-            "チャージ後のダメージ|HP上限{param4:F1P}",
+            "チャージ後の��メージ|HP上限{param4:F1P}",
             "一回押しクールタイム|{param5:F1}秒",
             "長押しクールタイム|{param6:F1}秒",
             "",
@@ -515,7 +515,7 @@
             "シールド吸収量|HP上限{param1:F1P}+{param2:I}",
             "基礎ダメージ|HP上限{param3:F1P}",
             "チャージ後のダメージ|HP上限{param4:F1P}",
-            "一回押しクールタイム|{param5:F1}秒",
+            "一回押しクー��タイム|{param5:F1}秒",
             "長押しクールタイム|{param6:F1}秒",
             "",
             "",
@@ -1136,21 +1136,21 @@
     "elementalBurst": {
       "name": "流羽の守り",
       "description": "",
-      "icon": "/assets/images/Candace_elemental_burst_1753000770414.png",
+      "icon": "/assets/images/Candace_elemental_burst_1753004045616.png",
       "levelData": []
     },
     "passiveTalents": [
       {
         "name": "流羽の守り",
-        "icon": "/assets/images/Candace_passive_1_1753000770414.png"
+        "icon": "/assets/images/Candace_passive_1_1753004045616.png"
       },
       {
         "name": "砂の円蓋",
-        "icon": "/assets/images/Candace_passive_2_1753000770414.png"
+        "icon": "/assets/images/Candace_passive_2_1753004045616.png"
       },
       {
         "name": "暁の初陽へ",
-        "icon": "/assets/images/Xiao_passive_3_1753000687146.png"
+        "icon": "/assets/images/Xiao_passive_3_1753003983106.png"
       }
     ],
     "completeTableData": [
@@ -1607,7 +1607,7 @@
               "3段ダメージ|{param3:F1P}+{param4:F1P}",
               "4段ダメージ|{param5:F1P}",
               "重撃ダメージ|{param6:F1P}",
-              "重撃スタミナ消費|{param7:F1}",
+              "重撃スタ���ナ消費|{param7:F1}",
               "落下期間のダメージ|{param8:F1P}",
               "低空/高空落下攻撃ダメージ|{param9:P}/{param10:P}",
               "",
@@ -2439,7 +2439,7 @@
             "description": [
               "シールド吸収量|HP上限{param1:F1P}+{param2:I}",
               "基礎ダメージ|HP上限{param3:F1P}",
-              "チャージ後のダメージ|HP上限{param4:F1P}",
+              "チャージ後の��メージ|HP上限{param4:F1P}",
               "一回押しクールタイム|{param5:F1}秒",
               "長押しクールタイム|{param6:F1}秒",
               "",
@@ -2650,7 +2650,7 @@
               "シールド吸収量|HP上限{param1:F1P}+{param2:I}",
               "基礎ダメージ|HP上限{param3:F1P}",
               "チャージ後のダメージ|HP上限{param4:F1P}",
-              "一回押しクールタイム|{param5:F1}秒",
+              "一回押しクー��タイム|{param5:F1}秒",
               "長押しクールタイム|{param6:F1}秒",
               "",
               "",
@@ -4317,32 +4317,32 @@
       {
         "level": null,
         "name": "赤砂の後嗣",
-        "icon": "/assets/images/Candace_constellation_cNaN_1753000770414.png"
+        "icon": "/assets/images/Candace_constellation_cNaN_1753004045616.png"
       },
       {
         "level": null,
         "name": "貫月の鋒芒",
-        "icon": "/assets/images/Candace_constellation_cNaN_1753000770414.png"
+        "icon": "/assets/images/Candace_constellation_cNaN_1753004045616.png"
       },
       {
         "level": null,
         "name": "織狩の奉祀",
-        "icon": "/assets/images/Candace_constellation_cNaN_1753000770414.png"
+        "icon": "/assets/images/Candace_constellation_cNaN_1753004045616.png"
       },
       {
         "level": null,
         "name": "戍守の誓約",
-        "icon": "/assets/images/Candace_constellation_cNaN_1753000770414.png"
+        "icon": "/assets/images/Candace_constellation_cNaN_1753004045616.png"
       },
       {
         "level": null,
         "name": "金縷の蒼瞳",
-        "icon": "/assets/images/Candace_constellation_cNaN_1753000770414.png"
+        "icon": "/assets/images/Candace_constellation_cNaN_1753004045616.png"
       },
       {
         "level": null,
         "name": "満溢の潮汐",
-        "icon": "/assets/images/Candace_constellation_cNaN_1753000770414.png"
+        "icon": "/assets/images/Candace_constellation_cNaN_1753004045616.png"
       }
     ]
   },
@@ -4359,14 +4359,14 @@
     "id": 210135,
     "name": "キャンディス·蒼鷺",
     "description": "キャンディス·蒼鷺",
-    "icon": "/assets/images/Candace_namecard_1753000770605.png"
+    "icon": "/assets/images/Candace_icon_1753004045616.png"
   },
   "specialFood": {
     "id": 108468,
     "name": "至れり尽くせり",
     "rank": 2,
-    "icon": "/assets/images/Candace_special_food_1753000770415.png",
-    "effectIcon": "/assets/images/Chongyun_food_effect_1753000705234.png"
+    "icon": "/assets/images/Candace_special_food_1753004045617.png",
+    "effectIcon": "/assets/images/Chongyun_food_effect_1753003995975.png"
   },
   "levelProgression": [
     {
@@ -4682,7 +4682,7 @@
             "name": "赤念の実",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Candace_material_101220_1753000770736.png",
+            "icon": "/assets/images/Candace_material_101220_1753004045628.png",
             "description": "砂漠の劣悪な環境でも生存できる植物の実。赤い果実は黄色い砂に映え、人々の心を動かす。",
             "type": "スメール地域の特産"
           },
@@ -4691,7 +4691,7 @@
             "name": "澄明なラピスラズリ·砕屑",
             "count": 1,
             "rank": 2,
-            "icon": "/assets/images/Barbara_material_104121_1753000668730.png",
+            "icon": "/assets/images/Barbara_material_104121_1753003971372.png",
             "description": "キャラクターの突破用アイテム。",
             "type": "キャラクター突破素材"
           },
@@ -4700,7 +4700,7 @@
             "name": "色褪せた赤い絹",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Dori_material_112065_1753000762326.png",
+            "icon": "/assets/images/Dori_material_112065_1753004040049.png",
             "description": "目を覆うために使われていた赤絹。少し破れている。\\nエルマイト旅団には、織物で目を覆う者が時々いる。しかしその行動の起源はとっくに、時の砂漠の中で失われている。",
             "type": "キャラと武器育成素材"
           }
@@ -4731,7 +4731,7 @@
             "name": "赤念の実",
             "count": 10,
             "rank": 1,
-            "icon": "/assets/images/Candace_material_101220_1753000770736.png",
+            "icon": "/assets/images/Candace_material_101220_1753004045628.png",
             "description": "砂漠の劣悪な環境でも生存できる植物の実。赤い果実は黄色い砂に映え、人々の心を動かす。",
             "type": "スメール地域の特産"
           },
@@ -4740,7 +4740,7 @@
             "name": "澄明なラピスラズリ·欠片",
             "count": 3,
             "rank": 3,
-            "icon": "/assets/images/Barbara_material_104122_1753000668907.png",
+            "icon": "/assets/images/Barbara_material_104122_1753003971366.png",
             "description": "キャラクターの突破用アイテム。\\n「僕の理想には一片の穢れも無い。」",
             "type": "キャラクター突破素材"
           },
@@ -4749,7 +4749,7 @@
             "name": "色褪せた赤い絹",
             "count": 15,
             "rank": 1,
-            "icon": "/assets/images/Dori_material_112065_1753000762326.png",
+            "icon": "/assets/images/Dori_material_112065_1753004040049.png",
             "description": "目を覆うために使われていた赤絹。少し破れている。\\nエルマイト旅団には、織物で目を覆う者が時々いる。しかしその行動の起源はとっくに、時の砂漠の中で失われている。",
             "type": "キャラと武器育成素材"
           },
@@ -4758,8 +4758,8 @@
             "name": "導光四面体",
             "count": 2,
             "rank": 4,
-            "icon": "/assets/images/Candace_material_113039_1753000770618.png",
-            "description": "謎めいた機械を倒して獲得したコアの部品。\\n今になっても、古の機械は主の夢と己の責務を忘れたことがない——千の宮殿を築き、三千の機械を統制し、万の今では咲けぬ花を植え、地上にある全ての意識あるもののために、砂海に埋もれた「楽園」を再現したい——\\n砂漠の王が消え、夢までが深き罪の囁きによって腐敗したとしても。すべての魔柱が完全に打ち壊され、王に愛された巨獣が熱砂の嵐に姿を隠したと���ても。",
+            "icon": "/assets/images/Candace_material_113039_1753004045633.png",
+            "description": "謎めいた機械を倒して獲得したコアの部品。\\n今になっても、古の機械は主の夢と己の責務を忘れたことがない——千の宮殿を築き、三千の機械を統制し、万の今では咲けぬ花を植え、地上にある全ての意識あるもののために、砂海に埋もれた「楽園」を再現したい——\\n砂漠の王が消え、夢までが深き罪の囁きによって腐敗したとしても。すべての魔柱が完全に打ち壊され、王に愛された巨獣が熱砂の嵐に姿を隠したとしても。",
             "type": "キャラクター育成素材"
           }
         ],
@@ -4793,7 +4793,7 @@
             "name": "赤念の実",
             "count": 20,
             "rank": 1,
-            "icon": "/assets/images/Candace_material_101220_1753000770736.png",
+            "icon": "/assets/images/Candace_material_101220_1753004045628.png",
             "description": "砂漠の劣悪な環境でも生存できる植物の実。赤い果実は黄色い砂に映え、人々の心を動かす。",
             "type": "スメール地域の特産"
           },
@@ -4802,7 +4802,7 @@
             "name": "澄明なラピスラズリ·欠片",
             "count": 6,
             "rank": 3,
-            "icon": "/assets/images/Barbara_material_104122_1753000668907.png",
+            "icon": "/assets/images/Barbara_material_104122_1753003971366.png",
             "description": "キャラクターの突破用アイテム。\\n「僕の理想には一片の穢れも無い。」",
             "type": "キャラクター突破素材"
           },
@@ -4811,7 +4811,7 @@
             "name": "縁飾の赤い絹",
             "count": 12,
             "rank": 2,
-            "icon": "/assets/images/Dori_material_112066_1753000762208.png",
+            "icon": "/assets/images/Dori_material_112066_1753004040054.png",
             "description": "シンプルな装飾の赤い絹。\\nベテランの戦士は相手の隙をついて先制攻撃をし、戦況を有利にできる。忠誠を誓う主をとっくに失ったエルマイト旅団にとって、信じられるのは自分だけ。噂によれば、彼らはあらゆるもの——自分自身の目でさえも、自分を裏切ると確信しているらしい。",
             "type": "キャラと武器育成素材"
           },
@@ -4820,8 +4820,8 @@
             "name": "導光四面体",
             "count": 4,
             "rank": 4,
-            "icon": "/assets/images/Candace_material_113039_1753000770618.png",
-            "description": "謎めいた機械を倒して獲得したコアの部品。\\n今になっても、古の機械は主の夢と己の責務を忘れたことがない——千の宮殿を築き、三千の機械を統制し、万の今では咲けぬ花を植え、地上にある全ての意識あるもののために、砂海に埋もれた「楽園」を再現したい——\\n砂漠の王が消え、夢までが深き罪の囁きによって腐敗したとしても。すべての魔柱が完全に打ち壊され、王に愛された巨獣が熱砂の嵐に姿を隠したと���ても。",
+            "icon": "/assets/images/Candace_material_113039_1753004045633.png",
+            "description": "謎めいた機械を倒して獲得したコアの部品。\\n今になっても、古の機械は主の夢と己の責務を忘れたことがない——千の宮殿を築き、三千の機械を統制し、万の今では咲けぬ花を植え、地上にある全ての意識あるもののために、砂海に埋もれた「楽園」を再現したい——\\n砂漠の王が消え、夢までが深き罪の囁きによって腐敗したとしても。すべての魔柱が完全に打ち壊され、王に愛された巨獣が熱砂の嵐に姿を隠したとしても。",
             "type": "キャラクター育成素材"
           }
         ],
@@ -4855,7 +4855,7 @@
             "name": "赤念の実",
             "count": 30,
             "rank": 1,
-            "icon": "/assets/images/Candace_material_101220_1753000770736.png",
+            "icon": "/assets/images/Candace_material_101220_1753004045628.png",
             "description": "砂漠の劣悪な環境でも生存できる植物の実。赤い果実は黄色い砂に映え、人々の心を動かす。",
             "type": "スメール地域の特産"
           },
@@ -4864,7 +4864,7 @@
             "name": "澄明なラピスラズリ·塊",
             "count": 3,
             "rank": 4,
-            "icon": "/assets/images/Barbara_material_104123_1753000668982.png",
+            "icon": "/assets/images/Barbara_material_104123_1753003971366.png",
             "description": "キャラクターの突破用アイテム。\\n「僕の理想には一片の穢れも無い。」\\n「訂正させてもらおう。ここでは、人が神の裁きを受けることはない…」",
             "type": "キャラクター突破素材"
           },
@@ -4873,7 +4873,7 @@
             "name": "縁飾の赤い絹",
             "count": 18,
             "rank": 2,
-            "icon": "/assets/images/Dori_material_112066_1753000762208.png",
+            "icon": "/assets/images/Dori_material_112066_1753004040054.png",
             "description": "シンプルな装飾の赤い絹。\\nベテランの戦士は相手の隙をついて先制攻撃をし、戦況を有利にできる。忠誠を誓う主をとっくに失ったエルマイト旅団にとって、信じられるのは自分だけ。噂によれば、彼らはあらゆるもの——自分自身の目でさえも、自分を裏切ると確信しているらしい。",
             "type": "キャラと武器育成素材"
           },
@@ -4882,8 +4882,8 @@
             "name": "導光四面体",
             "count": 8,
             "rank": 4,
-            "icon": "/assets/images/Candace_material_113039_1753000770618.png",
-            "description": "謎めいた機械を倒して獲得したコアの部品。\\n今になっても、古の機械は主の夢と己の責務を忘れたことがない——千の宮殿を築き、三千の機械を統制し、万の今では咲けぬ花を植え、地上にある全ての意識あるもののために、砂海に埋もれた「楽園」を再現したい——\\n砂漠の王が消え、夢までが深き罪の囁きによって腐敗したとしても。すべての魔柱が完全に打ち壊され、王に愛された巨獣が熱砂の嵐に姿を隠したと���ても。",
+            "icon": "/assets/images/Candace_material_113039_1753004045633.png",
+            "description": "謎めいた機械を倒して獲得したコアの部品。\\n今になっても、古の機械は主の夢と己の責務を忘れたことがない——千の宮殿を築き、三千の機械を統制し、万の今では咲けぬ花を植え、地上にある全ての意識あるもののために、砂海に埋もれた「楽園」を再現したい——\\n砂漠の王が消え、夢までが深き罪の囁きによって腐敗したとしても。すべての魔柱が完全に打ち壊され、王に愛された巨獣が熱砂の嵐に姿を隠したとしても。",
             "type": "キャラクター育成素材"
           }
         ],
@@ -4917,7 +4917,7 @@
             "name": "赤念の実",
             "count": 45,
             "rank": 1,
-            "icon": "/assets/images/Candace_material_101220_1753000770736.png",
+            "icon": "/assets/images/Candace_material_101220_1753004045628.png",
             "description": "砂漠の劣悪な環境でも生存できる植物の実。赤い果実は黄色い砂に映え、人々の心を動かす。",
             "type": "スメール地域の特産"
           },
@@ -4926,7 +4926,7 @@
             "name": "澄明なラピスラズリ·塊",
             "count": 6,
             "rank": 4,
-            "icon": "/assets/images/Barbara_material_104123_1753000668982.png",
+            "icon": "/assets/images/Barbara_material_104123_1753003971366.png",
             "description": "キャラクターの突破用アイテム。\\n「僕の理想には一片の穢れも無い。」\\n「訂正させてもらおう。ここでは、人が神の裁きを受けることはない…」",
             "type": "キャラクター突破素材"
           },
@@ -4935,17 +4935,17 @@
             "name": "金織の赤い絹",
             "count": 12,
             "rank": 3,
-            "icon": "/assets/images/Dori_material_112067_1753000762354.png",
+            "icon": "/assets/images/Dori_material_112067_1753004040050.png",
             "description": "金糸で紋様を織り込んだ赤い絹。\\n日光の下で金色に輝く砂漠の中で生まれた遺民は、たまに意味さえ忘れられた歌を歌ったり、大地を平等に照らす太陽を讃えたり、夕暮れの終わりの残照を惜しんだりする。歌の最後に繰り返し出てくる聞き慣れない言葉は、古い神様の名前だと言われている。噂によれば、砂漠の王がまだ生きていた頃、民は太陽の光を直視する勇気がなく、自分の目を覆ったようだ。",
-            "type": "キャラと���器育成素材"
+            "type": "キ���ラと武器育成素材"
           },
           {
             "itemId": "113039",
             "name": "導光四面体",
             "count": 12,
             "rank": 4,
-            "icon": "/assets/images/Candace_material_113039_1753000770618.png",
-            "description": "謎めいた機械を倒して獲得したコアの部品。\\n今になっても、古の機械は主の夢と己の責務を忘れたことがない——千の宮殿を築き、三千の機械を統制し、万の今では咲けぬ花を植え、地上にある全ての意識あるもののために、砂海に埋もれた「楽園」を再現したい——\\n砂漠の王が消え、夢までが深き罪の囁きによって腐敗したとしても。すべての魔柱が完全に打ち壊され、王に愛された巨獣が熱砂の嵐に姿を隠したと���ても。",
+            "icon": "/assets/images/Candace_material_113039_1753004045633.png",
+            "description": "謎めいた機械を倒して獲得したコアの部品。\\n今になっても、古の機械は主の夢と己の責務を忘れたことがない——千の宮殿を築き、三千の機械を統制し、万の今では咲けぬ花を植え、地上にある全ての意識あるもののために、砂海に埋もれた「楽園」を再現したい——\\n砂漠の王が消え、夢までが深き罪の囁きによって腐敗したとしても。すべての魔柱が完全に打ち壊され、王に愛された巨獣が熱砂の嵐に姿を隠したとしても。",
             "type": "キャラクター育成素材"
           }
         ],
@@ -4979,7 +4979,7 @@
             "name": "赤念の実",
             "count": 60,
             "rank": 1,
-            "icon": "/assets/images/Candace_material_101220_1753000770736.png",
+            "icon": "/assets/images/Candace_material_101220_1753004045628.png",
             "description": "砂漠の劣悪な環境でも生存できる植物の実。赤い果実は黄色い砂に映え、人々の心を動かす。",
             "type": "スメール地域の特産"
           },
@@ -4988,7 +4988,7 @@
             "name": "澄明なラピスラズリ",
             "count": 6,
             "rank": 5,
-            "icon": "/assets/images/Barbara_material_104124_1753000668954.png",
+            "icon": "/assets/images/Barbara_material_104124_1753003971367.png",
             "description": "キャラクターの突破用アイテム。\\n「僕の理想には一片の穢れも無い。」\\n「訂正させてもらおう。ここでは、人が神の裁きを受けることはない。裁きを下せるのは、ただ法と法廷のみ。」\\n「この僕でさえ、断罪され得るのだからね。さあ、僕の崇高と純潔を讃えてくれたまえ。」",
             "type": "キャラクター突破素材"
           },
@@ -4997,17 +4997,17 @@
             "name": "金織の赤い絹",
             "count": 24,
             "rank": 3,
-            "icon": "/assets/images/Dori_material_112067_1753000762354.png",
+            "icon": "/assets/images/Dori_material_112067_1753004040050.png",
             "description": "金糸で紋様を織り込んだ赤い絹。\\n日光の下で金色に輝く砂漠の中で生まれた遺民は、たまに意味さえ忘れられた歌を歌ったり、大地を平等に照らす太陽を讃えたり、夕暮れの終わりの残照を惜しんだりする。歌の最後に繰り返し出てくる聞き慣れない言葉は、古い神様の名前だと言われている。噂によれば、砂漠の王がまだ生きていた頃、民は太陽の光を直視する勇気がなく、自分の目を覆ったようだ。",
-            "type": "キャラと���器育成素材"
+            "type": "キ���ラと武器育成素材"
           },
           {
             "itemId": "113039",
             "name": "導光四面体",
             "count": 20,
             "rank": 4,
-            "icon": "/assets/images/Candace_material_113039_1753000770618.png",
-            "description": "謎めいた機械を倒して獲得したコアの部品。\\n今になっても、古の機械は主の夢と己の責務を忘れたことがない——千の宮殿を築き、三千の機械を統制し、万の今では咲けぬ花を植え、地上にある全ての意識あるもののために、砂海に埋もれた「楽園」を再現したい——\\n砂漠の王が消え、夢までが深き罪の囁きによって腐敗したとしても。すべての魔柱が完全に打ち壊され、王に愛された巨獣が熱砂の嵐に姿を隠したと���ても。",
+            "icon": "/assets/images/Candace_material_113039_1753004045633.png",
+            "description": "謎めいた機械を倒して獲得したコアの部品。\\n今になっても、古の機械は主の夢と己の責務を忘れたことがない——千の宮殿を築き、三千の機械を統制し、万の今では咲けぬ花を植え、地上にある全ての意識あるもののために、砂海に埋もれた「楽園」を再現したい——\\n砂漠の王が消え、夢までが深き罪の囁きによって腐敗したとしても。すべての魔柱が完全に打ち壊され、王に愛された巨獣が熱砂の嵐に姿を隠したとしても。",
             "type": "キャラクター育成素材"
           }
         ],

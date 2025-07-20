@@ -8,7 +8,7 @@
   "region": "Liyue",
   "constellation": "錦織座",
   "description": "よく本売り場で見かける少年。手には剣を、胸の中には義侠心を。",
-  "icon": "/assets/images/Xingqiu_icon_1753000684793.png",
+  "icon": "/assets/images/Xingqiu_icon_1753003981830.png",
   "profile": {
     "baseHp": 857.084,
     "baseAtk": 16.918,
@@ -23,7 +23,7 @@
       "id": "古華剣法",
       "name": "古華剣法",
       "description": "",
-      "icon": "/assets/images/Kamisato Ayaka_normal_attack_1753000661887.png",
+      "icon": "/assets/images/Kamisato Ayaka_normal_attack_1753003967511.png",
       "skillType": "normal",
       "params": {
         "1": [],
@@ -47,7 +47,7 @@
       "id": "古華剣·画雨籠山",
       "name": "古華剣·画雨籠山",
       "description": "",
-      "icon": "/assets/images/Xingqiu_elemental_skill_1753000684793.png",
+      "icon": "/assets/images/Xingqiu_elemental_skill_1753003981830.png",
       "levelData": [
         {
           "tableIndex": 1,
@@ -1136,21 +1136,21 @@
     "elementalBurst": {
       "name": "水生みの要訣",
       "description": "",
-      "icon": "/assets/images/Xingqiu_elemental_burst_1753000684794.png",
+      "icon": "/assets/images/Xingqiu_elemental_burst_1753003981830.png",
       "levelData": []
     },
     "passiveTalents": [
       {
         "name": "水生みの要訣",
-        "icon": "/assets/images/Xingqiu_passive_1_1753000684794.png"
+        "icon": "/assets/images/Xingqiu_passive_1_1753003981830.png"
       },
       {
         "name": "虚実の筆",
-        "icon": "/assets/images/Xingqiu_passive_2_1753000684794.png"
+        "icon": "/assets/images/Xingqiu_passive_2_1753003981831.png"
       },
       {
         "name": "靈光突如",
-        "icon": "/assets/images/Xingqiu_passive_3_1753000684794.png"
+        "icon": "/assets/images/Xingqiu_passive_3_1753003981831.png"
       }
     ],
     "completeTableData": [
@@ -1470,7 +1470,7 @@
               "重撃ダメージ|{param8:F1P}+{param9:F1P}",
               "重撃スタミナ消費|{param10:F1}",
               "落下期間のダメージ|{param11:F1P}",
-              "低空/高空落下攻撃ダメージ|{param12:P}/{param13:P}",
+              "低空/高空落下攻撃ダ��ージ|{param12:P}/{param13:P}",
               "",
               "",
               "",
@@ -1891,7 +1891,7 @@
               "2段ダメージ|{param2:P}",
               "3段ダメージ|{param3:F1P}+{param4:F1P}",
               "4段ダメージ|{param5:P}",
-              "5段ダメー���|{param6:F1P}+{param7:F1P}",
+              "5段ダメージ|{param6:F1P}+{param7:F1P}",
               "重撃ダメージ|{param8:P}+{param9:P}",
               "重撃スタミナ消費|{param10:F1}",
               "落下期間のダメージ|{param11:F1P}",
@@ -1961,7 +1961,7 @@
               "5段ダメージ|{param6:F1P}+{param7:F1P}",
               "重撃ダメージ|{param8:P}+{param9:P}",
               "重撃スタミナ消費|{param10:F1}",
-              "落下期間のダメージ|{param11:F1P}",
+              "落下期間のダメ��ジ|{param11:F1P}",
               "低空/高空落下攻撃ダメージ|{param12:P}/{param13:P}",
               "",
               "",
@@ -4247,7 +4247,7 @@
             "description": [
               "剣雨のダメージ|{param1:P}",
               "継続時間|{param2:F1}秒",
-              "クールタイム|{param3:F1}秒",
+              "��ールタイム|{param3:F1}秒",
               "元素エネルギー|{param4:I}",
               "",
               "",
@@ -4317,32 +4317,32 @@
       {
         "level": null,
         "name": "すだれの残香",
-        "icon": "/assets/images/Xingqiu_constellation_cNaN_1753000684794.png"
+        "icon": "/assets/images/Xingqiu_constellation_cNaN_1753003981831.png"
       },
       {
         "level": null,
         "name": "青空の虹",
-        "icon": "/assets/images/Xingqiu_constellation_cNaN_1753000684794.png"
+        "icon": "/assets/images/Xingqiu_constellation_cNaN_1753003981831.png"
       },
       {
         "level": null,
         "name": "詩の錦",
-        "icon": "/assets/images/Xingqiu_constellation_cNaN_1753000684794.png"
+        "icon": "/assets/images/Xingqiu_constellation_cNaN_1753003981831.png"
       },
       {
         "level": null,
         "name": "孤舟斬蛟",
-        "icon": "/assets/images/Xingqiu_constellation_cNaN_1753000684794.png"
+        "icon": "/assets/images/Xingqiu_constellation_cNaN_1753003981831.png"
       },
       {
         "level": null,
         "name": "雨深閉門",
-        "icon": "/assets/images/Xingqiu_constellation_cNaN_1753000684794.png"
+        "icon": "/assets/images/Xingqiu_constellation_cNaN_1753003981831.png"
       },
       {
         "level": null,
         "name": "万文ここにあり",
-        "icon": "/assets/images/Xingqiu_constellation_cNaN_1753000684794.png"
+        "icon": "/assets/images/Xingqiu_constellation_cNaN_1753003981831.png"
       }
     ]
   },
@@ -4360,21 +4360,21 @@
       "isDefault": false,
       "rank": 4,
       "storyId": 340016,
-      "icon": "/assets/images/Xingqiu_costume_2_1753000684794.png"
+      "icon": "/assets/images/Xingqiu_costume_2_1753003981831.png"
     }
   ],
   "nameCard": {
     "id": 210018,
     "name": "行秋·雨虹",
     "description": "行秋·雨虹",
-    "icon": "/assets/images/Xingqiu_namecard_1753000684978.png"
+    "icon": "/assets/images/Xingqiu_icon_1753003981830.png"
   },
   "specialFood": {
     "id": 108136,
     "name": "江湖百味",
     "rank": 2,
-    "icon": "/assets/images/Xingqiu_special_food_1753000684795.png",
-    "effectIcon": "/assets/images/Jean_food_effect_1753000664320.png"
+    "icon": "/assets/images/Xingqiu_special_food_1753003981831.png",
+    "effectIcon": "/assets/images/Jean_food_effect_1753003968823.png"
   },
   "levelProgression": [
     {
@@ -4690,7 +4690,7 @@
             "name": "霓裳花",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Xingqiu_material_100029_1753000685127.png",
+            "icon": "/assets/images/Xingqiu_material_100029_1753003981869.png",
             "description": "璃月で霓雲のように咲く赤い花。水のように滑らかな織物の原料である。",
             "type": "璃月地域の特産"
           },
@@ -4699,7 +4699,7 @@
             "name": "澄明なラピスラズリ·砕屑",
             "count": 1,
             "rank": 2,
-            "icon": "/assets/images/Barbara_material_104121_1753000668730.png",
+            "icon": "/assets/images/Barbara_material_104121_1753003971372.png",
             "description": "キャラクターの突破用アイテム。",
             "type": "キャラクター突破素材"
           },
@@ -4708,7 +4708,7 @@
             "name": "破損した仮面",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Jean_material_112005_1753000664669.png",
+            "icon": "/assets/images/Jean_material_112005_1753003968842.png",
             "description": "破損した骨の仮面、あるヒルチャールの所持品だった。\\n破損した部分のほうが多く、仮面としての機能は失われている。",
             "type": "キャラと武器育成素材"
           }
@@ -4739,7 +4739,7 @@
             "name": "霓裳花",
             "count": 10,
             "rank": 1,
-            "icon": "/assets/images/Xingqiu_material_100029_1753000685127.png",
+            "icon": "/assets/images/Xingqiu_material_100029_1753003981869.png",
             "description": "璃月で霓雲のように咲く赤い花。水のように滑らかな織物の原料である。",
             "type": "璃月地域の特産"
           },
@@ -4748,7 +4748,7 @@
             "name": "澄明なラピスラズリ·欠片",
             "count": 3,
             "rank": 3,
-            "icon": "/assets/images/Barbara_material_104122_1753000668907.png",
+            "icon": "/assets/images/Barbara_material_104122_1753003971366.png",
             "description": "キャラクターの突破用アイテム。\\n「僕の理想には一片の穢れも無い。」",
             "type": "キャラクター突破素材"
           },
@@ -4757,7 +4757,7 @@
             "name": "破損した仮面",
             "count": 15,
             "rank": 1,
-            "icon": "/assets/images/Jean_material_112005_1753000664669.png",
+            "icon": "/assets/images/Jean_material_112005_1753003968842.png",
             "description": "破損した骨の仮面、あるヒルチャールの所持品だった。\\n破損した部分のほうが多く、仮面としての機能は失われている。",
             "type": "キャラと武器育成素材"
           },
@@ -4766,7 +4766,7 @@
             "name": "浄水の心",
             "count": 2,
             "rank": 4,
-            "icon": "/assets/images/Barbara_material_113012_1753000669033.png",
+            "icon": "/assets/images/Barbara_material_113012_1753003971370.png",
             "description": "純水精霊が残した永遠に透き通る一掬の涙。\\n湖に溶いても希釈されないだろう。でもこんな高貴な純水精霊はなぜ浄水で変身してまで地上の生き物になろうとしているのかな？呼吸も、食事もする必要がないのに…",
             "type": "キャラクター育成素材"
           }
@@ -4801,7 +4801,7 @@
             "name": "霓裳花",
             "count": 20,
             "rank": 1,
-            "icon": "/assets/images/Xingqiu_material_100029_1753000685127.png",
+            "icon": "/assets/images/Xingqiu_material_100029_1753003981869.png",
             "description": "璃月で霓雲のように咲く赤い花。水のように滑らかな織物の原料である。",
             "type": "璃月地域の特産"
           },
@@ -4810,7 +4810,7 @@
             "name": "澄明なラピスラズリ·欠片",
             "count": 6,
             "rank": 3,
-            "icon": "/assets/images/Barbara_material_104122_1753000668907.png",
+            "icon": "/assets/images/Barbara_material_104122_1753003971366.png",
             "description": "キャラクターの突破用アイテム。\\n「僕の理想には一片の穢れも無い。」",
             "type": "キャラクター突破素材"
           },
@@ -4819,7 +4819,7 @@
             "name": "汚れた仮面",
             "count": 12,
             "rank": 2,
-            "icon": "/assets/images/Jean_material_112006_1753000664694.png",
+            "icon": "/assets/images/Jean_material_112006_1753003968844.png",
             "description": "汚れまみれで、何とも言えないにおいがする骨の仮面。\\nそれでも被るのは、ヒルチャールのこだわりだろうか。",
             "type": "キャラと武器育成素材"
           },
@@ -4828,7 +4828,7 @@
             "name": "浄水の心",
             "count": 4,
             "rank": 4,
-            "icon": "/assets/images/Barbara_material_113012_1753000669033.png",
+            "icon": "/assets/images/Barbara_material_113012_1753003971370.png",
             "description": "純水精霊が残した永遠に透き通る一掬の涙。\\n湖に溶いても希釈されないだろう。でもこんな高貴な純水精霊はなぜ浄水で変身してまで地上の生き物になろうとしているのかな？呼吸も、食事もする必要がないのに…",
             "type": "キャラクター育成素材"
           }
@@ -4863,7 +4863,7 @@
             "name": "霓裳花",
             "count": 30,
             "rank": 1,
-            "icon": "/assets/images/Xingqiu_material_100029_1753000685127.png",
+            "icon": "/assets/images/Xingqiu_material_100029_1753003981869.png",
             "description": "璃月で霓雲のように咲く赤い花。水のように滑らかな織物の原料である。",
             "type": "璃月地域の特産"
           },
@@ -4872,7 +4872,7 @@
             "name": "澄明なラピスラズリ·塊",
             "count": 3,
             "rank": 4,
-            "icon": "/assets/images/Barbara_material_104123_1753000668982.png",
+            "icon": "/assets/images/Barbara_material_104123_1753003971366.png",
             "description": "キャラクターの突破用アイテム。\\n「僕の理想には一片の穢れも無い。」\\n「訂正させてもらおう。ここでは、人が神の裁きを受けることはない…」",
             "type": "キャラクター突破素材"
           },
@@ -4881,7 +4881,7 @@
             "name": "汚れた仮面",
             "count": 18,
             "rank": 2,
-            "icon": "/assets/images/Jean_material_112006_1753000664694.png",
+            "icon": "/assets/images/Jean_material_112006_1753003968844.png",
             "description": "汚れまみれで、何とも言えないにおいがする骨の仮面。\\nそれでも被るのは、ヒルチャールのこだわりだろうか。",
             "type": "キャラと武器育成素材"
           },
@@ -4890,7 +4890,7 @@
             "name": "浄水の心",
             "count": 8,
             "rank": 4,
-            "icon": "/assets/images/Barbara_material_113012_1753000669033.png",
+            "icon": "/assets/images/Barbara_material_113012_1753003971370.png",
             "description": "純水精霊が残した永遠に透き通る一掬の涙。\\n湖に溶いても希釈されないだろう。でもこんな高貴な純水精霊はなぜ浄水で変身してまで地上の生き物になろうとしているのかな？呼吸も、食事もする必要がないのに…",
             "type": "キャラクター育成素材"
           }
@@ -4925,7 +4925,7 @@
             "name": "霓裳花",
             "count": 45,
             "rank": 1,
-            "icon": "/assets/images/Xingqiu_material_100029_1753000685127.png",
+            "icon": "/assets/images/Xingqiu_material_100029_1753003981869.png",
             "description": "璃月で霓雲のように咲く赤い花。水のように滑らかな織物の原料である。",
             "type": "璃月地域の特産"
           },
@@ -4934,7 +4934,7 @@
             "name": "澄明なラピスラズリ·塊",
             "count": 6,
             "rank": 4,
-            "icon": "/assets/images/Barbara_material_104123_1753000668982.png",
+            "icon": "/assets/images/Barbara_material_104123_1753003971366.png",
             "description": "キャラクターの突破用アイテム。\\n「僕の理想には一片の穢れも無い。」\\n「訂正させてもらおう。ここでは、人が神の裁きを受けることはない…」",
             "type": "キャラクター突破素材"
           },
@@ -4943,7 +4943,7 @@
             "name": "不吉な仮面",
             "count": 12,
             "rank": 3,
-            "icon": "/assets/images/Jean_material_112007_1753000664723.png",
+            "icon": "/assets/images/Jean_material_112007_1753003968845.png",
             "description": "つるりとした骨の仮面の上には、敵を威嚇する絵が描かれている。\\nヒルチャールが仮面に対するこだわりは今でも解明されていない。一説では、水に反射する自分の倒影を見たくないかららしい。",
             "type": "キャラと武器育成素材"
           },
@@ -4952,7 +4952,7 @@
             "name": "浄水の心",
             "count": 12,
             "rank": 4,
-            "icon": "/assets/images/Barbara_material_113012_1753000669033.png",
+            "icon": "/assets/images/Barbara_material_113012_1753003971370.png",
             "description": "純水精霊が残した永遠に透き通る一掬の涙。\\n湖に溶いても希釈されないだろう。でもこんな高貴な純水精霊はなぜ浄水で変身してまで地上の生き物になろうとしているのかな？呼吸も、食事もする必要がないのに…",
             "type": "キャラクター育成素材"
           }
@@ -4987,7 +4987,7 @@
             "name": "霓裳花",
             "count": 60,
             "rank": 1,
-            "icon": "/assets/images/Xingqiu_material_100029_1753000685127.png",
+            "icon": "/assets/images/Xingqiu_material_100029_1753003981869.png",
             "description": "璃月で霓雲のように咲く赤い花。水のように滑らかな織物の原料である。",
             "type": "璃月地域の特産"
           },
@@ -4996,7 +4996,7 @@
             "name": "澄明なラピスラズリ",
             "count": 6,
             "rank": 5,
-            "icon": "/assets/images/Barbara_material_104124_1753000668954.png",
+            "icon": "/assets/images/Barbara_material_104124_1753003971367.png",
             "description": "キャラクターの突破用アイテム。\\n「僕の理想には一片の穢れも無い。」\\n「訂正させてもらおう。ここでは、人が神の裁きを受けることはない。裁きを下せるのは、ただ法と法廷のみ。」\\n「この僕でさえ、断罪され得るのだからね。さあ、僕の崇高と純潔を讃えてくれたまえ。」",
             "type": "キャラクター突破素材"
           },
@@ -5005,7 +5005,7 @@
             "name": "不吉な仮面",
             "count": 24,
             "rank": 3,
-            "icon": "/assets/images/Jean_material_112007_1753000664723.png",
+            "icon": "/assets/images/Jean_material_112007_1753003968845.png",
             "description": "つるりとした骨の仮面の上には、敵を威嚇する絵が描かれている。\\nヒルチャールが仮面に対するこだわりは今でも解明されていない。一説では、水に反射する自分の倒影を見たくないかららしい。",
             "type": "キャラと武器育成素材"
           },
@@ -5014,7 +5014,7 @@
             "name": "浄水の心",
             "count": 20,
             "rank": 4,
-            "icon": "/assets/images/Barbara_material_113012_1753000669033.png",
+            "icon": "/assets/images/Barbara_material_113012_1753003971370.png",
             "description": "純水精霊が残した永遠に透き通る一掬の涙。\\n湖に溶いても希釈されないだろう。でもこんな高貴な純水精霊はなぜ浄水で変身してまで地上の生き物になろうとしているのかな？呼吸も、食事もする必要がないのに…",
             "type": "キャラクター育成素材"
           }

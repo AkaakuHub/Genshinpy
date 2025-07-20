@@ -8,7 +8,7 @@
   "region": "Mondstadt",
   "constellation": "ノラの義勇兵座",
   "description": "かつては異端者であったが、今は機敏で腕の立つ狩人。いついかなる時も、正確無比な矢を放つことができる。",
-  "icon": "/assets/images/Aloy_icon_1753000751510.png",
+  "icon": "/assets/images/Aloy_icon_1753004031275.png",
   "profile": {
     "baseHp": 848.455,
     "baseAtk": 18.21,
@@ -23,7 +23,7 @@
       "id": "ラピッドファイア",
       "name": "ラピッドファイア",
       "description": "",
-      "icon": "/assets/images/Amber_normal_attack_1753000677027.png",
+      "icon": "/assets/images/Amber_normal_attack_1753003976614.png",
       "skillType": "normal",
       "params": {
         "1": [],
@@ -47,7 +47,7 @@
       "id": "凍てついた大地",
       "name": "凍てついた大地",
       "description": "",
-      "icon": "/assets/images/Aloy_elemental_skill_1753000751510.png",
+      "icon": "/assets/images/Aloy_elemental_skill_1753004031275.png",
       "levelData": [
         {
           "tableIndex": 1,
@@ -299,7 +299,7 @@
             "攻撃力ダウン継続時間|{param4:F1}秒",
             "コイル通常攻撃ダメージアップ|{param5:F1P}/{param6:F1P}/{param7:F1P}",
             "アイスラッシュ通常攻撃ダメージアップ|{param8:F1P}",
-            "アイスラッシュ継続��間|{param9:F1}秒",
+            "アイスラッシュ継続時間|{param9:F1}秒",
             "クールタイム|{param10:F1}秒",
             "",
             "",
@@ -662,7 +662,7 @@
           "description": [
             "氷の爆弾ダメージ|{param1:P}",
             "冷凍爆弾ダメージ|{param2:F1P}",
-            "攻撃力ダ��ン|{param3:P}",
+            "攻撃力ダウン|{param3:P}",
             "攻撃力ダウン継続時間|{param4:F1}秒",
             "コイル通常攻撃ダメージアップ|{param5:F1P}/{param6:F1P}/{param7:F1P}",
             "アイスラッシュ通常攻撃ダメージアップ|{param8:F1P}",
@@ -814,7 +814,7 @@
             "攻撃力ダウン|{param3:P}",
             "攻撃力ダウン継続時間|{param4:F1}秒",
             "コイル通常攻撃ダメージアップ|{param5:F1P}/{param6:F1P}/{param7:F1P}",
-            "アイスラッシュ���常攻撃ダメージアップ|{param8:F1P}",
+            "アイスラッシュ通常攻撃ダメージアップ|{param8:F1P}",
             "アイスラッシュ継続時間|{param9:F1}秒",
             "クールタイム|{param10:F1}秒",
             "",
@@ -1136,21 +1136,21 @@
     "elementalBurst": {
       "name": "戦闘オーバーライド",
       "description": "",
-      "icon": "/assets/images/Aloy_elemental_burst_1753000751511.png",
+      "icon": "/assets/images/Aloy_elemental_burst_1753004031275.png",
       "levelData": []
     },
     "passiveTalents": [
       {
         "name": "戦闘オーバーライド",
-        "icon": "/assets/images/Aloy_passive_1_1753000751511.png"
+        "icon": "/assets/images/Aloy_passive_1_1753004031275.png"
       },
       {
         "name": "強打",
-        "icon": "/assets/images/Aloy_passive_2_1753000751511.png"
+        "icon": "/assets/images/Aloy_passive_2_1753004031276.png"
       },
       {
         "name": "まあまあ落ち着け",
-        "icon": "/assets/images/Kirara_passive_3_1753000749645.png"
+        "icon": "/assets/images/Kirara_passive_3_1753004029819.png"
       }
     ],
     "completeTableData": [
@@ -1539,7 +1539,7 @@
               "狙い撃ち|{param6:F1P}",
               "フルチャージ狙い撃ち|{param7:P}",
               "落下期間のダメージ|{param8:F1P}",
-              "低空/高空落下攻撃ダメージ|{param9:P}/{param10:P}",
+              "��空/高空落下攻撃ダメージ|{param9:P}/{param10:P}",
               "",
               "",
               "",
@@ -1605,7 +1605,7 @@
               "1段ダメージ|{param1:F1P}+{param2:F1P}",
               "2段ダメージ|{param3:F1P}",
               "3段ダメージ|{param4:F1P}",
-              "4段ダ��ージ|{param5:F1P}",
+              "4段ダメージ|{param5:F1P}",
               "狙い撃ち|{param6:F1P}",
               "フルチャージ狙い撃ち|{param7:P}",
               "落下期間のダメージ|{param8:F1P}",
@@ -1959,7 +1959,7 @@
               "3段ダメージ|{param4:F1P}",
               "4段ダメージ|{param5:F1P}",
               "狙い撃ち|{param6:F1P}",
-              "フルチ��ージ狙い撃ち|{param7:P}",
+              "フルチャージ狙い撃ち|{param7:P}",
               "落下期間のダメージ|{param8:F1P}",
               "低空/高空落下攻撃ダメージ|{param9:P}/{param10:P}",
               "",
@@ -2443,7 +2443,7 @@
               "攻撃力ダウン継続時間|{param4:F1}秒",
               "コイル通常攻撃ダメージアップ|{param5:F1P}/{param6:F1P}/{param7:F1P}",
               "アイスラッシュ通常攻撃ダメージアップ|{param8:F1P}",
-              "アイスラッシュ継続��間|{param9:F1}秒",
+              "アイスラッシュ継続時間|{param9:F1}秒",
               "クールタイム|{param10:F1}秒",
               "",
               "",
@@ -2791,7 +2791,7 @@
             "description": [
               "氷の爆弾ダメージ|{param1:P}",
               "冷凍爆弾ダメージ|{param2:F1P}",
-              "攻撃力ダ��ン|{param3:P}",
+              "攻撃力ダウン|{param3:P}",
               "攻撃力ダウン継続時間|{param4:F1}秒",
               "コイル通常攻撃ダメージアップ|{param5:F1P}/{param6:F1P}/{param7:F1P}",
               "アイスラッシュ通常攻撃ダメージアップ|{param8:F1P}",
@@ -2937,7 +2937,7 @@
               "攻撃力ダウン|{param3:P}",
               "攻撃力ダウン継続時間|{param4:F1}秒",
               "コイル通常攻撃ダメージアップ|{param5:F1P}/{param6:F1P}/{param7:F1P}",
-              "アイスラッシュ���常攻撃ダメージアップ|{param8:F1P}",
+              "アイスラッシュ通常攻撃ダメージアップ|{param8:F1P}",
               "アイスラッシュ継続時間|{param9:F1}秒",
               "クールタイム|{param10:F1}秒",
               "",
@@ -3693,7 +3693,7 @@
             ],
             "description": [
               "スキルダメージ|{param1:P}",
-              "クール��イム|{param2:F1}秒",
+              "クールタイム|{param2:F1}秒",
               "元素エネルギー|{param3:I}",
               "",
               "",
@@ -3978,7 +3978,7 @@
             ],
             "description": [
               "スキルダメージ|{param1:P}",
-              "クールタイム|{param2:F1}���",
+              "クールタイム|{param2:F1}秒",
               "元素エネルギー|{param3:I}",
               "",
               "",
@@ -4178,7 +4178,7 @@
               0
             ],
             "description": [
-              "スキルダメージ|{param1:P}",
+              "ス���ルダメージ|{param1:P}",
               "クールタイム|{param2:F1}秒",
               "元素エネルギー|{param3:I}",
               "",
@@ -4317,32 +4317,32 @@
       {
         "level": null,
         "name": "異界の星",
-        "icon": "/assets/images/Aloy_constellation_cNaN_1753000751511.png"
+        "icon": "/assets/images/Aloy_constellation_cNaN_1753004031276.png"
       },
       {
         "level": null,
         "name": "異界の星",
-        "icon": "/assets/images/Aloy_constellation_cNaN_1753000751511.png"
+        "icon": "/assets/images/Aloy_constellation_cNaN_1753004031276.png"
       },
       {
         "level": null,
         "name": "異界の星",
-        "icon": "/assets/images/Aloy_constellation_cNaN_1753000751511.png"
+        "icon": "/assets/images/Aloy_constellation_cNaN_1753004031276.png"
       },
       {
         "level": null,
         "name": "異界の星",
-        "icon": "/assets/images/Aloy_constellation_cNaN_1753000751511.png"
+        "icon": "/assets/images/Aloy_constellation_cNaN_1753004031276.png"
       },
       {
         "level": null,
         "name": "異界の星",
-        "icon": "/assets/images/Aloy_constellation_cNaN_1753000751511.png"
+        "icon": "/assets/images/Aloy_constellation_cNaN_1753004031276.png"
       },
       {
         "level": null,
         "name": "異界の星",
-        "icon": "/assets/images/Aloy_constellation_cNaN_1753000751511.png"
+        "icon": "/assets/images/Aloy_constellation_cNaN_1753004031276.png"
       }
     ]
   },
@@ -4359,14 +4359,14 @@
     "id": 210095,
     "name": "アーロイ·ドーン",
     "description": "アーロイ·ドーン",
-    "icon": "/assets/images/Aloy_icon_1753000751510.png"
+    "icon": "/assets/images/Aloy_icon_1753004031275.png"
   },
   "specialFood": {
     "id": 108339,
     "name": "満腹感ゼリー",
     "rank": 1,
-    "icon": "/assets/images/Aloy_special_food_1753000751512.png",
-    "effectIcon": "/assets/images/Kaeya_food_effect_1753000670791.png"
+    "icon": "/assets/images/Aloy_special_food_1753004031276.png",
+    "effectIcon": "/assets/images/Kaeya_food_effect_1753003972834.png"
   },
   "levelProgression": [
     {
@@ -4682,7 +4682,7 @@
             "name": "晶化骨髄",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Sayu_material_101203_1753000734267.png",
+            "icon": "/assets/images/Sayu_material_101203_1753004018784.png",
             "description": "「祟り神」の力を宿した結晶体。鍛冶時にこの物質を加えると、鋼鉄製品の強度と靭性を大幅に向上させることができる。",
             "type": "稲妻地域の特産"
           },
@@ -4691,7 +4691,7 @@
             "name": "哀切なアイスクリスタル·砕屑",
             "count": 1,
             "rank": 2,
-            "icon": "/assets/images/Kamisato Ayaka_material_104161_1753000662353.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104161_1753003967592.png",
             "description": "キャラクターの突破用アイテム。",
             "type": "キャラクター突破素材"
           },
@@ -4700,7 +4700,7 @@
             "name": "フライムの乾核",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Sangonomiya Kokomi_material_112053_1753000736137.png",
+            "icon": "/assets/images/Sangonomiya Kokomi_material_112053_1753004020132.png",
             "description": "フライムを浮遊させるエネルギー核。中には微かな元素が含まれている。\\n多くのエネルギーは逸散していったようだ。",
             "type": "キャラと武器育成素材"
           }
@@ -4731,7 +4731,7 @@
             "name": "晶化骨髄",
             "count": 10,
             "rank": 1,
-            "icon": "/assets/images/Sayu_material_101203_1753000734267.png",
+            "icon": "/assets/images/Sayu_material_101203_1753004018784.png",
             "description": "「祟り神」の力を宿した結晶体。鍛冶時にこの物質を加えると、鋼鉄製品の強度と靭性を大幅に向上させることができる。",
             "type": "稲妻地域の特産"
           },
@@ -4740,7 +4740,7 @@
             "name": "哀切なアイスクリスタル·欠片",
             "count": 3,
             "rank": 3,
-            "icon": "/assets/images/Kamisato Ayaka_material_104162_1753000662253.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104162_1753003967586.png",
             "description": "キャラクターの突破用アイテム。\\n「…すみません…」",
             "type": "キャラクター突破素材"
           },
@@ -4749,7 +4749,7 @@
             "name": "フライムの乾核",
             "count": 15,
             "rank": 1,
-            "icon": "/assets/images/Sangonomiya Kokomi_material_112053_1753000736137.png",
+            "icon": "/assets/images/Sangonomiya Kokomi_material_112053_1753004020132.png",
             "description": "フライムを浮遊させるエネルギー核。中には微かな元素が含まれている。\\n多くのエネルギーは逸散していったようだ。",
             "type": "キャラと武器育成素材"
           },
@@ -4758,7 +4758,7 @@
             "name": "凝結の華",
             "count": 2,
             "rank": 4,
-            "icon": "/assets/images/Eula_material_113020_1753000730743.png",
+            "icon": "/assets/images/Eula_material_113020_1753004016324.png",
             "description": "無相の氷が開花する極寒の瞬間、純粋な氷晶が凝結される。\\n氷霜の結晶は、必ず氷のように冷たい規則に従って成長し、開花し、やがてすべてを凍らせる寒冬の花となる。停滞した時間、溶けることのない意思こそが、不滅の花の真意であるはずだ。",
             "type": "キャラクター育成素材"
           }
@@ -4793,7 +4793,7 @@
             "name": "晶化骨髄",
             "count": 20,
             "rank": 1,
-            "icon": "/assets/images/Sayu_material_101203_1753000734267.png",
+            "icon": "/assets/images/Sayu_material_101203_1753004018784.png",
             "description": "「祟り神」の力を宿した結晶体。鍛冶時にこの物質を加えると、鋼鉄製品の強度と靭性を大幅に向上させることができる。",
             "type": "稲妻地域の特産"
           },
@@ -4802,7 +4802,7 @@
             "name": "哀切なアイスクリスタル·欠片",
             "count": 6,
             "rank": 3,
-            "icon": "/assets/images/Kamisato Ayaka_material_104162_1753000662253.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104162_1753003967586.png",
             "description": "キャラクターの突破用アイテム。\\n「…すみません…」",
             "type": "キャラクター突破素材"
           },
@@ -4811,7 +4811,7 @@
             "name": "フライムの幽核",
             "count": 12,
             "rank": 2,
-            "icon": "/assets/images/Sangonomiya Kokomi_material_112054_1753000736013.png",
+            "icon": "/assets/images/Sangonomiya Kokomi_material_112054_1753004020124.png",
             "description": "フライムを浮遊させるエネルギー核。\\nこの元素生物は特殊な習性を持っているようで、周期的に大量に現れたり、消えたりしている。",
             "type": "キャラと武器育成素材"
           },
@@ -4820,7 +4820,7 @@
             "name": "凝結の華",
             "count": 4,
             "rank": 4,
-            "icon": "/assets/images/Eula_material_113020_1753000730743.png",
+            "icon": "/assets/images/Eula_material_113020_1753004016324.png",
             "description": "無相の氷が開花する極寒の瞬間、純粋な氷晶が凝結される。\\n氷霜の結晶は、必ず氷のように冷たい規則に従って成長し、開花し、やがてすべてを凍らせる寒冬の花となる。停滞した時間、溶けることのない意思こそが、不滅の花の真意であるはずだ。",
             "type": "キャラクター育成素材"
           }
@@ -4855,7 +4855,7 @@
             "name": "晶化骨髄",
             "count": 30,
             "rank": 1,
-            "icon": "/assets/images/Sayu_material_101203_1753000734267.png",
+            "icon": "/assets/images/Sayu_material_101203_1753004018784.png",
             "description": "「祟り神」の力を宿した結晶体。鍛冶時にこの物質を加えると、鋼鉄製品の強度と靭性を大幅に向上させることができる。",
             "type": "稲妻地域の特産"
           },
@@ -4864,7 +4864,7 @@
             "name": "哀切なアイスクリスタル·塊",
             "count": 3,
             "rank": 4,
-            "icon": "/assets/images/Kamisato Ayaka_material_104163_1753000662304.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104163_1753003967587.png",
             "description": "キャラクターの突破用アイテム。\\n「…すみません…」\\n「あなた達まで、わたしと一緒にこの世界の悲しみを背負わせるなんて…」",
             "type": "キャラクター突破素材"
           },
@@ -4873,7 +4873,7 @@
             "name": "フライムの幽核",
             "count": 18,
             "rank": 2,
-            "icon": "/assets/images/Sangonomiya Kokomi_material_112054_1753000736013.png",
+            "icon": "/assets/images/Sangonomiya Kokomi_material_112054_1753004020124.png",
             "description": "フライムを浮遊させるエネルギー核。\\nこの元素生物は特殊な習性を持っているようで、周期的に大量に現れたり、消えたりしている。",
             "type": "キャラと武器育成素材"
           },
@@ -4882,7 +4882,7 @@
             "name": "凝結の華",
             "count": 8,
             "rank": 4,
-            "icon": "/assets/images/Eula_material_113020_1753000730743.png",
+            "icon": "/assets/images/Eula_material_113020_1753004016324.png",
             "description": "無相の氷が開花する極寒の瞬間、純粋な氷晶が凝結される。\\n氷霜の結晶は、必ず氷のように冷たい規則に従って成長し、開花し、やがてすべてを凍らせる寒冬の花となる。停滞した時間、溶けることのない意思こそが、不滅の花の真意であるはずだ。",
             "type": "キャラクター育成素材"
           }
@@ -4917,7 +4917,7 @@
             "name": "晶化骨髄",
             "count": 45,
             "rank": 1,
-            "icon": "/assets/images/Sayu_material_101203_1753000734267.png",
+            "icon": "/assets/images/Sayu_material_101203_1753004018784.png",
             "description": "「祟り神」の力を宿した結晶体。鍛冶時にこの物質を加えると、鋼鉄製品の強度と靭性を大幅に向上させることができる。",
             "type": "稲妻地域の特産"
           },
@@ -4926,7 +4926,7 @@
             "name": "哀切なアイスクリスタル·塊",
             "count": 6,
             "rank": 4,
-            "icon": "/assets/images/Kamisato Ayaka_material_104163_1753000662304.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104163_1753003967587.png",
             "description": "キャラクターの突破用アイテム。\\n「…すみません…」\\n「あなた達まで、わたしと一緒にこの世界の悲しみを背負わせるなんて…」",
             "type": "キャラクター突破素材"
           },
@@ -4935,7 +4935,7 @@
             "name": "フライムの晶化核",
             "count": 12,
             "rank": 3,
-            "icon": "/assets/images/Sangonomiya Kokomi_material_112055_1753000736117.png",
+            "icon": "/assets/images/Sangonomiya Kokomi_material_112055_1753004020128.png",
             "description": "フライムを倒すと、たまに見つけられる完全なエネルギー核。\\n物事の雌雄を決させたい人たちの間では、よくこんな議論がある。フライムと風スライムの浮かぶ力、一体どちらが上なのか。",
             "type": "キャラと武器育成素材"
           },
@@ -4944,7 +4944,7 @@
             "name": "凝結の華",
             "count": 12,
             "rank": 4,
-            "icon": "/assets/images/Eula_material_113020_1753000730743.png",
+            "icon": "/assets/images/Eula_material_113020_1753004016324.png",
             "description": "無相の氷が開花する極寒の瞬間、純粋な氷晶が凝結される。\\n氷霜の結晶は、必ず氷のように冷たい規則に従って成長し、開花し、やがてすべてを凍らせる寒冬の花となる。停滞した時間、溶けることのない意思こそが、不滅の花の真意であるはずだ。",
             "type": "キャラクター育成素材"
           }
@@ -4979,7 +4979,7 @@
             "name": "晶化骨髄",
             "count": 60,
             "rank": 1,
-            "icon": "/assets/images/Sayu_material_101203_1753000734267.png",
+            "icon": "/assets/images/Sayu_material_101203_1753004018784.png",
             "description": "「祟り神」の力を宿した結晶体。鍛冶時にこの物質を加えると、鋼鉄製品の強度と靭性を大幅に向上させることができる。",
             "type": "稲妻地域の特産"
           },
@@ -4988,7 +4988,7 @@
             "name": "哀切なアイスクリスタル",
             "count": 6,
             "rank": 5,
-            "icon": "/assets/images/Kamisato Ayaka_material_104164_1753000662278.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104164_1753003967583.png",
             "description": "キャラクターの突破用アイテム。\\n「…すみません、あなた達まで、わたしと一緒にこの世界の悲しみを背負わせるなんて…」\\n「わたしの寒さを耐えられる者は、きっと心の中に熱い欲望を持っているだろう？」\\n「なら、わたしの代わりに、旧世界を焼き尽くそう。」",
             "type": "キャラクター突破素材"
           },
@@ -4997,7 +4997,7 @@
             "name": "フライムの晶化核",
             "count": 24,
             "rank": 3,
-            "icon": "/assets/images/Sangonomiya Kokomi_material_112055_1753000736117.png",
+            "icon": "/assets/images/Sangonomiya Kokomi_material_112055_1753004020128.png",
             "description": "フライムを倒すと、たまに見つけられる完全なエネルギー核。\\n物事の雌雄を決させたい人たちの間では、よくこんな議論がある。フライムと風スライムの浮かぶ力、一体どちらが上なのか。",
             "type": "キャラと武器育成素材"
           },
@@ -5006,7 +5006,7 @@
             "name": "凝結の華",
             "count": 20,
             "rank": 4,
-            "icon": "/assets/images/Eula_material_113020_1753000730743.png",
+            "icon": "/assets/images/Eula_material_113020_1753004016324.png",
             "description": "無相の氷が開花する極寒の瞬間、純粋な氷晶が凝結される。\\n氷霜の結晶は、必ず氷のように冷たい規則に従って成長し、開花し、やがてすべてを凍らせる寒冬の花となる。停滞した時間、溶けることのない意思こそが、不滅の花の真意であるはずだ。",
             "type": "キャラクター育成素材"
           }

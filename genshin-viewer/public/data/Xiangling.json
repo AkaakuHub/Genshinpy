@@ -8,7 +8,7 @@
   "region": "Liyue",
   "constellation": "長杓座",
   "description": "璃月出身で少し有名な料理人。料理に対して情熱があり、激辛料理が大の得意。",
-  "icon": "/assets/images/Xiangling_icon_1753000681040.png",
+  "icon": "/assets/images/Xiangling_icon_1753003979325.png",
   "profile": {
     "baseHp": 911.791,
     "baseAtk": 18.876,
@@ -23,7 +23,7 @@
       "id": "料理技法",
       "name": "料理技法",
       "description": "",
-      "icon": "/assets/images/Xiangling_normal_attack_1753000681041.png",
+      "icon": "/assets/images/Xiangling_normal_attack_1753003979325.png",
       "skillType": "normal",
       "params": {
         "1": [],
@@ -47,7 +47,7 @@
       "id": "グゥオパァー出撃",
       "name": "グゥオパァー出撃",
       "description": "",
-      "icon": "/assets/images/Xiangling_elemental_skill_1753000681041.png",
+      "icon": "/assets/images/Xiangling_elemental_skill_1753003979325.png",
       "levelData": [
         {
           "tableIndex": 1,
@@ -1136,21 +1136,21 @@
     "elementalBurst": {
       "name": "交差する炎",
       "description": "",
-      "icon": "/assets/images/Xiangling_elemental_burst_1753000681041.png",
+      "icon": "/assets/images/Xiangling_elemental_burst_1753003979326.png",
       "levelData": []
     },
     "passiveTalents": [
       {
         "name": "交差する炎",
-        "icon": "/assets/images/Xiangling_passive_1_1753000681041.png"
+        "icon": "/assets/images/Xiangling_passive_1_1753003979326.png"
       },
       {
         "name": "激辛唐辛子",
-        "icon": "/assets/images/Xiangling_passive_2_1753000681041.png"
+        "icon": "/assets/images/Xiangling_passive_2_1753003979326.png"
       },
       {
         "name": "万民堂のシェフ",
-        "icon": "/assets/images/Xiangling_passive_3_1753000681041.png"
+        "icon": "/assets/images/Xiangling_passive_3_1753003979326.png"
       }
     ],
     "completeTableData": [
@@ -1398,7 +1398,7 @@
               "4段ダメージ|{param4:F1P}×4",
               "5段ダメージ|{param5:F1P}",
               "重撃ダメージ|{param6:P}",
-              "重撃スタミナ消費|{param7:F1}",
+              "��撃スタミナ消費|{param7:F1}",
               "落下期間のダメージ|{param8:F1P}",
               "低空/高空落下攻撃ダメージ|{param9:P}/{param10:P}",
               "",
@@ -4317,32 +4317,32 @@
       {
         "level": null,
         "name": "外カリ中フワ",
-        "icon": "/assets/images/Xiangling_constellation_cNaN_1753000681041.png"
+        "icon": "/assets/images/Xiangling_constellation_cNaN_1753003979326.png"
       },
       {
         "level": null,
         "name": "強火と油",
-        "icon": "/assets/images/Xiangling_constellation_cNaN_1753000681041.png"
+        "icon": "/assets/images/Xiangling_constellation_cNaN_1753003979326.png"
       },
       {
         "level": null,
         "name": "武火調理",
-        "icon": "/assets/images/Xiangling_constellation_cNaN_1753000681041.png"
+        "icon": "/assets/images/Xiangling_constellation_cNaN_1753003979326.png"
       },
       {
         "level": null,
         "name": "弱火でじっくり",
-        "icon": "/assets/images/Xiangling_constellation_cNaN_1753000681041.png"
+        "icon": "/assets/images/Xiangling_constellation_cNaN_1753003979326.png"
       },
       {
         "level": null,
         "name": "凶猛なグゥオパァー",
-        "icon": "/assets/images/Xiangling_constellation_cNaN_1753000681042.png"
+        "icon": "/assets/images/Xiangling_constellation_cNaN_1753003979326.png"
       },
       {
         "level": null,
         "name": "竜巻旋火輪",
-        "icon": "/assets/images/Xiangling_constellation_cNaN_1753000681042.png"
+        "icon": "/assets/images/Xiangling_constellation_cNaN_1753003979326.png"
       }
     ]
   },
@@ -4360,21 +4360,21 @@
       "isDefault": false,
       "rank": 4,
       "storyId": 340020,
-      "icon": "/assets/images/Xiangling_costume_2_1753000681042.png"
+      "icon": "/assets/images/Xiangling_costume_2_1753003979326.png"
     }
   ],
   "nameCard": {
     "id": 210017,
     "name": "香菱·出来上がり",
     "description": "香菱·出来上がり",
-    "icon": "/assets/images/Xiangling_icon_1753000681040.png"
+    "icon": "/assets/images/Xiangling_icon_1753003979325.png"
   },
   "specialFood": {
     "id": 108135,
     "name": "万民堂水煮魚",
     "rank": 3,
-    "icon": "/assets/images/Xiangling_special_food_1753000681042.png",
-    "effectIcon": "/assets/images/Jean_food_effect_1753000664320.png"
+    "icon": "/assets/images/Xiangling_special_food_1753003979327.png",
+    "effectIcon": "/assets/images/Jean_food_effect_1753003968823.png"
   },
   "levelProgression": [
     {
@@ -4690,7 +4690,7 @@
             "name": "絶雲の唐辛子",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Xiangling_material_100027_1753000681220.png",
+            "icon": "/assets/images/Xiangling_material_100027_1753003979343.png",
             "description": "璃月特有の唐辛子。匂いを嗅ぐだけで体が熱くなり、水を欲しがる",
             "type": "璃月地域の特産"
           },
@@ -4699,7 +4699,7 @@
             "name": "炎願のアゲート·砕屑",
             "count": 1,
             "rank": 2,
-            "icon": "/assets/images/Diluc_material_104111_1753000673109.png",
+            "icon": "/assets/images/Diluc_material_104111_1753003974114.png",
             "description": "キャラクターの突破用アイテム。",
             "type": "キャラクター突破素材"
           },
@@ -4708,7 +4708,7 @@
             "name": "スライムの液体",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Lisa_material_112002_1753000666916.png",
+            "icon": "/assets/images/Lisa_material_112002_1753003970097.png",
             "description": "スライムの表面にある液体、各地の元素工房では最もよくある原料である。",
             "type": "キャラと武器育成素材"
           }
@@ -4739,7 +4739,7 @@
             "name": "絶雲の唐辛子",
             "count": 10,
             "rank": 1,
-            "icon": "/assets/images/Xiangling_material_100027_1753000681220.png",
+            "icon": "/assets/images/Xiangling_material_100027_1753003979343.png",
             "description": "璃月特有の唐辛子。匂いを嗅ぐだけで体が熱くなり、水を欲しがる",
             "type": "璃月地域の特産"
           },
@@ -4748,7 +4748,7 @@
             "name": "炎願のアゲート·欠片",
             "count": 3,
             "rank": 3,
-            "icon": "/assets/images/Diluc_material_104112_1753000673082.png",
+            "icon": "/assets/images/Diluc_material_104112_1753003974114.png",
             "description": "キャラクターの突破用アイテム。\\n「人々の願いのため、巡礼の道を歩もう。最強を目指して集い、戦うのだ…」",
             "type": "キャラクター突破素材"
           },
@@ -4757,7 +4757,7 @@
             "name": "スライムの液体",
             "count": 15,
             "rank": 1,
-            "icon": "/assets/images/Lisa_material_112002_1753000666916.png",
+            "icon": "/assets/images/Lisa_material_112002_1753003970097.png",
             "description": "スライムの表面にある液体、各地の元素工房では最もよくある原料である。",
             "type": "キャラと武器育成素材"
           },
@@ -4766,7 +4766,7 @@
             "name": "常燃の火種",
             "count": 2,
             "rank": 4,
-            "icon": "/assets/images/Diluc_material_113011_1753000672937.png",
+            "icon": "/assets/images/Diluc_material_113011_1753003974117.png",
             "description": "永遠に燃え続ける爆炎樹のエネルギー源である種。世の中にある全ての草木を焼き尽くすような炎元素の熱量を放っている。\\n大地の深所で湧いているエネルギーは無数の願いを背負っている。烈火と共に植物に纏って永遠に燃えさせて、そして爆裂の炎で全てを浄化させようとしている。いったいどんな願いかな？",
             "type": "キャラクター育成素材"
           }
@@ -4801,7 +4801,7 @@
             "name": "絶雲の唐辛子",
             "count": 20,
             "rank": 1,
-            "icon": "/assets/images/Xiangling_material_100027_1753000681220.png",
+            "icon": "/assets/images/Xiangling_material_100027_1753003979343.png",
             "description": "璃月特有の唐辛子。匂いを嗅ぐだけで体が熱くなり、水を欲しがる",
             "type": "璃月地域の特産"
           },
@@ -4810,7 +4810,7 @@
             "name": "炎願のアゲート·欠片",
             "count": 6,
             "rank": 3,
-            "icon": "/assets/images/Diluc_material_104112_1753000673082.png",
+            "icon": "/assets/images/Diluc_material_104112_1753003974114.png",
             "description": "キャラクターの突破用アイテム。\\n「人々の願いのため、巡礼の道を歩もう。最強を目指して集い、戦うのだ…」",
             "type": "キャラクター突破素材"
           },
@@ -4819,7 +4819,7 @@
             "name": "スライムの分泌物",
             "count": 12,
             "rank": 2,
-            "icon": "/assets/images/Lisa_material_112003_1753000666779.png",
+            "icon": "/assets/images/Lisa_material_112003_1753003970094.png",
             "description": "純化されたスライムの分泌物、皮膚を傷つけるため、直接接触はしないように。",
             "type": "キャラと武器育成素材"
           },
@@ -4828,7 +4828,7 @@
             "name": "常燃の火種",
             "count": 4,
             "rank": 4,
-            "icon": "/assets/images/Diluc_material_113011_1753000672937.png",
+            "icon": "/assets/images/Diluc_material_113011_1753003974117.png",
             "description": "永遠に燃え続ける爆炎樹のエネルギー源である種。世の中にある全ての草木を焼き尽くすような炎元素の熱量を放っている。\\n大地の深所で湧いているエネルギーは無数の願いを背負っている。烈火と共に植物に纏って永遠に燃えさせて、そして爆裂の炎で全てを浄化させようとしている。いったいどんな願いかな？",
             "type": "キャラクター育成素材"
           }
@@ -4863,7 +4863,7 @@
             "name": "絶雲の唐辛子",
             "count": 30,
             "rank": 1,
-            "icon": "/assets/images/Xiangling_material_100027_1753000681220.png",
+            "icon": "/assets/images/Xiangling_material_100027_1753003979343.png",
             "description": "璃月特有の唐辛子。匂いを嗅ぐだけで体が熱くなり、水を欲しがる",
             "type": "璃月地域の特産"
           },
@@ -4872,7 +4872,7 @@
             "name": "炎願のアゲート·塊",
             "count": 3,
             "rank": 4,
-            "icon": "/assets/images/Diluc_material_104113_1753000673217.png",
+            "icon": "/assets/images/Diluc_material_104113_1753003974140.png",
             "description": "キャラクターの突破用アイテム。\\n「人々の願いのため、巡礼の道を歩もう。最強を目指して集い、戦うのだ…」\\n「最後は夢のために、劫火の中で燃え尽きる。」",
             "type": "キャラクター突破素材"
           },
@@ -4881,7 +4881,7 @@
             "name": "スライムの分泌物",
             "count": 18,
             "rank": 2,
-            "icon": "/assets/images/Lisa_material_112003_1753000666779.png",
+            "icon": "/assets/images/Lisa_material_112003_1753003970094.png",
             "description": "純化されたスライムの分泌物、皮膚を傷つけるため、直接接触はしないように。",
             "type": "キャラと武器育成素材"
           },
@@ -4890,7 +4890,7 @@
             "name": "常燃の火種",
             "count": 8,
             "rank": 4,
-            "icon": "/assets/images/Diluc_material_113011_1753000672937.png",
+            "icon": "/assets/images/Diluc_material_113011_1753003974117.png",
             "description": "永遠に燃え続ける爆炎樹のエネルギー源である種。世の中にある全ての草木を焼き尽くすような炎元素の熱量を放っている。\\n大地の深所で湧いているエネルギーは無数の願いを背負っている。烈火と共に植物に纏って永遠に燃えさせて、そして爆裂の炎で全てを浄化させようとしている。いったいどんな願いかな？",
             "type": "キャラクター育成素材"
           }
@@ -4925,7 +4925,7 @@
             "name": "絶雲の唐辛子",
             "count": 45,
             "rank": 1,
-            "icon": "/assets/images/Xiangling_material_100027_1753000681220.png",
+            "icon": "/assets/images/Xiangling_material_100027_1753003979343.png",
             "description": "璃月特有の唐辛子。匂いを嗅ぐだけで体が熱くなり、水を欲しがる",
             "type": "璃月地域の特産"
           },
@@ -4934,7 +4934,7 @@
             "name": "炎願のアゲート·塊",
             "count": 6,
             "rank": 4,
-            "icon": "/assets/images/Diluc_material_104113_1753000673217.png",
+            "icon": "/assets/images/Diluc_material_104113_1753003974140.png",
             "description": "キャラクターの突破用アイテム。\\n「人々の願いのため、巡礼の道を歩もう。最強を目指して集い、戦うのだ…」\\n「最後は夢のために、劫火の中で燃え尽きる。」",
             "type": "キャラクター突破素材"
           },
@@ -4943,7 +4943,7 @@
             "name": "スライムのピュレ",
             "count": 12,
             "rank": 3,
-            "icon": "/assets/images/Lisa_material_112004_1753000666930.png",
+            "icon": "/assets/images/Lisa_material_112004_1753003970092.png",
             "description": "スライムの濃縮ピュレ、静止した状態では不規則な動きをする。",
             "type": "キャラと武器育成素材"
           },
@@ -4952,7 +4952,7 @@
             "name": "常燃の火種",
             "count": 12,
             "rank": 4,
-            "icon": "/assets/images/Diluc_material_113011_1753000672937.png",
+            "icon": "/assets/images/Diluc_material_113011_1753003974117.png",
             "description": "永遠に燃え続ける爆炎樹のエネルギー源である種。世の中にある全ての草木を焼き尽くすような炎元素の熱量を放っている。\\n大地の深所で湧いているエネルギーは無数の願いを背負っている。烈火と共に植物に纏って永遠に燃えさせて、そして爆裂の炎で全てを浄化させようとしている。いったいどんな願いかな？",
             "type": "キャラクター育成素材"
           }
@@ -4987,7 +4987,7 @@
             "name": "絶雲の唐辛子",
             "count": 60,
             "rank": 1,
-            "icon": "/assets/images/Xiangling_material_100027_1753000681220.png",
+            "icon": "/assets/images/Xiangling_material_100027_1753003979343.png",
             "description": "璃月特有の唐辛子。匂いを嗅ぐだけで体が熱くなり、水を欲しがる",
             "type": "璃月地域の特産"
           },
@@ -4996,7 +4996,7 @@
             "name": "炎願のアゲート",
             "count": 6,
             "rank": 5,
-            "icon": "/assets/images/Diluc_material_104114_1753000673309.png",
+            "icon": "/assets/images/Diluc_material_104114_1753003974136.png",
             "description": "キャラクターの突破用アイテム。\\n「人々の願いのため、巡礼の道を歩もう。最強を目指して集い、戦うのだ…」\\n「最後は夢のために、劫火の中で燃え尽きる。」\\n「その灰燼にまだ初心が残っていれば、██の真実に辿り着いたという。」",
             "type": "キャラクター突破素材"
           },
@@ -5005,7 +5005,7 @@
             "name": "スライムのピュレ",
             "count": 24,
             "rank": 3,
-            "icon": "/assets/images/Lisa_material_112004_1753000666930.png",
+            "icon": "/assets/images/Lisa_material_112004_1753003970092.png",
             "description": "スライムの濃縮ピュレ、静止した状態では不規則な動きをする。",
             "type": "キャラと武器育成素材"
           },
@@ -5014,7 +5014,7 @@
             "name": "常燃の火種",
             "count": 20,
             "rank": 4,
-            "icon": "/assets/images/Diluc_material_113011_1753000672937.png",
+            "icon": "/assets/images/Diluc_material_113011_1753003974117.png",
             "description": "永遠に燃え続ける爆炎樹のエネルギー源である種。世の中にある全ての草木を焼き尽くすような炎元素の熱量を放っている。\\n大地の深所で湧いているエネルギーは無数の願いを背負っている。烈火と共に植物に纏って永遠に燃えさせて、そして爆裂の炎で全てを浄化させようとしている。いったいどんな願いかな？",
             "type": "キャラクター育成素材"
           }

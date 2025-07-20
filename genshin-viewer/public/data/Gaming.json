@@ -7,8 +7,8 @@
   "rarity": 4,
   "region": "Liyue",
   "constellation": "醒獅座",
-  "description": "剣鞘鏢局の鏢師であり、威水獣舞隊の責任���。",
-  "icon": "/assets/images/Gaming_icon_1753000807964.png",
+  "description": "剣鞘鏢局の鏢師であり、威水獣舞隊の責任者。",
+  "icon": "/assets/images/Gaming_icon_1753004073924.png",
   "profile": {
     "baseHp": 957.381,
     "baseAtk": 25.287,
@@ -23,7 +23,7 @@
       "id": "懸星の爪刃",
       "name": "懸星の爪刃",
       "description": "",
-      "icon": "/assets/images/Diluc_normal_attack_1753000672769.png",
+      "icon": "/assets/images/Diluc_normal_attack_1753003974094.png",
       "skillType": "normal",
       "params": {
         "1": [],
@@ -47,7 +47,7 @@
       "id": "瑞獣登楼",
       "name": "瑞獣登楼",
       "description": "",
-      "icon": "/assets/images/Gaming_elemental_skill_1753000807964.png",
+      "icon": "/assets/images/Gaming_elemental_skill_1753004073924.png",
       "levelData": [
         {
           "tableIndex": 1,
@@ -1019,7 +1019,7 @@
             0
           ],
           "description": [
-            "落下攻撃·踏雲献瑞���メージ|{param1:F1P}",
+            "落下攻撃·踏雲献瑞ダメージ|{param1:F1P}",
             "HP消費|HP上限{param2:F1P}",
             "クールタイム|{param3:F1}秒",
             "",
@@ -1136,21 +1136,21 @@
     "elementalBurst": {
       "name": "泰平の舞",
       "description": "",
-      "icon": "/assets/images/Gaming_elemental_burst_1753000807964.png",
+      "icon": "/assets/images/Gaming_elemental_burst_1753004073924.png",
       "levelData": []
     },
     "passiveTalents": [
       {
         "name": "泰平の舞",
-        "icon": "/assets/images/Gaming_passive_1_1753000807964.png"
+        "icon": "/assets/images/Gaming_passive_1_1753004073925.png"
       },
       {
         "name": "祥煙の瑞気",
-        "icon": "/assets/images/Gaming_passive_2_1753000807964.png"
+        "icon": "/assets/images/Gaming_passive_2_1753004073925.png"
       },
       {
         "name": "猛る獣の健脚",
-        "icon": "/assets/images/Dehya_passive_3_1753000783081.png"
+        "icon": "/assets/images/Dehya_passive_3_1753004055210.png"
       }
     ],
     "completeTableData": [
@@ -1961,7 +1961,7 @@
               "連続重撃ダメージ|{param5:F1P}",
               "重撃終了ダメージ|{param6:P}",
               "重撃スタミナ消費|毎秒{param7:F1}",
-              "最大継続時間|{param8:F1}秒",
+              "最��継続時間|{param8:F1}秒",
               "落下期間のダメージ|{param9:F1P}",
               "低空/高空落下攻撃ダメージ|{param10:P}/{param11:P}",
               "",
@@ -3133,7 +3133,7 @@
               0
             ],
             "description": [
-              "落下攻撃·踏雲献瑞���メージ|{param1:F1P}",
+              "落下攻撃·踏雲献瑞ダメージ|{param1:F1P}",
               "HP消費|HP上限{param2:F1P}",
               "クールタイム|{param3:F1}秒",
               "",
@@ -3416,7 +3416,7 @@
               "スキルによる回復量|HP上限{param2:F1P}",
               "獣舞態勢継続時間|{param3:F1}秒",
               "クールタイム|{param4:F1}秒",
-              "元素エネルギー|{param5:I}",
+              "元素���ネルギー|{param5:I}",
               "",
               "",
               "",
@@ -4317,32 +4317,32 @@
       {
         "level": null,
         "name": "瑞獣庇護",
-        "icon": "/assets/images/Gaming_constellation_cNaN_1753000807965.png"
+        "icon": "/assets/images/Gaming_constellation_cNaN_1753004073925.png"
       },
       {
         "level": null,
         "name": "梅花踏歩",
-        "icon": "/assets/images/Gaming_constellation_cNaN_1753000807965.png"
+        "icon": "/assets/images/Gaming_constellation_cNaN_1753004073925.png"
       },
       {
         "level": null,
         "name": "醒霊叩震",
-        "icon": "/assets/images/Gaming_constellation_cNaN_1753000807965.png"
+        "icon": "/assets/images/Gaming_constellation_cNaN_1753004073925.png"
       },
       {
         "level": null,
         "name": "雲中越山",
-        "icon": "/assets/images/Gaming_constellation_cNaN_1753000807965.png"
+        "icon": "/assets/images/Gaming_constellation_cNaN_1753004073925.png"
       },
       {
         "level": null,
         "name": "退魔咆哮",
-        "icon": "/assets/images/Gaming_constellation_cNaN_1753000807965.png"
+        "icon": "/assets/images/Gaming_constellation_cNaN_1753004073925.png"
       },
       {
         "level": null,
         "name": "百獣支配",
-        "icon": "/assets/images/Gaming_constellation_cNaN_1753000807965.png"
+        "icon": "/assets/images/Gaming_constellation_cNaN_1753004073925.png"
       }
     ]
   },
@@ -4359,14 +4359,14 @@
     "id": 210188,
     "name": "嘉明·ウェンツァイ",
     "description": "嘉明·ウェンツァイ",
-    "icon": "/assets/images/Gaming_namecard_1753000808147.png"
+    "icon": "/assets/images/Gaming_icon_1753004073924.png"
   },
   "specialFood": {
     "id": 108664,
     "name": "飲茶しようぜ！",
     "rank": 1,
-    "icon": "/assets/images/Gaming_special_food_1753000807965.png",
-    "effectIcon": "/assets/images/Jean_food_effect_1753000664320.png"
+    "icon": "/assets/images/Gaming_special_food_1753004073925.png",
+    "effectIcon": "/assets/images/Jean_food_effect_1753003968823.png"
   },
   "levelProgression": [
     {
@@ -4682,7 +4682,7 @@
             "name": "星螺",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Tartaglia_material_100033_1753000699639.png",
+            "icon": "/assets/images/Tartaglia_material_100033_1753003991648.png",
             "description": "潮と共に砂浜についた螺。よく聞けば、思いが溢れる海の叫びが聞こえる。",
             "type": "璃月地域の特産"
           },
@@ -4691,7 +4691,7 @@
             "name": "炎願のアゲート·砕屑",
             "count": 1,
             "rank": 2,
-            "icon": "/assets/images/Diluc_material_104111_1753000673109.png",
+            "icon": "/assets/images/Diluc_material_104111_1753003974114.png",
             "description": "キャラクターの突破用アイテム。",
             "type": "キャラクター突破素材"
           },
@@ -4700,7 +4700,7 @@
             "name": "スライムの液体",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Lisa_material_112002_1753000666916.png",
+            "icon": "/assets/images/Lisa_material_112002_1753003970097.png",
             "description": "スライムの表面にある液体、各地の元素工房では最もよくある原料である。",
             "type": "キャラと武器育成素材"
           }
@@ -4731,7 +4731,7 @@
             "name": "星螺",
             "count": 10,
             "rank": 1,
-            "icon": "/assets/images/Tartaglia_material_100033_1753000699639.png",
+            "icon": "/assets/images/Tartaglia_material_100033_1753003991648.png",
             "description": "潮と共に砂浜についた螺。よく聞けば、思いが溢れる海の叫びが聞こえる。",
             "type": "璃月地域の特産"
           },
@@ -4740,7 +4740,7 @@
             "name": "炎願のアゲート·欠片",
             "count": 3,
             "rank": 3,
-            "icon": "/assets/images/Diluc_material_104112_1753000673082.png",
+            "icon": "/assets/images/Diluc_material_104112_1753003974114.png",
             "description": "キャラクターの突破用アイテム。\\n「人々の願いのため、巡礼の道を歩もう。最強を目指して集い、戦うのだ…」",
             "type": "キャラクター突破素材"
           },
@@ -4749,7 +4749,7 @@
             "name": "スライムの液体",
             "count": 15,
             "rank": 1,
-            "icon": "/assets/images/Lisa_material_112002_1753000666916.png",
+            "icon": "/assets/images/Lisa_material_112002_1753003970097.png",
             "description": "スライムの表面にある液体、各地の元素工房では最もよくある原料である。",
             "type": "キャラと武器育成素材"
           },
@@ -4758,7 +4758,7 @@
             "name": "帝王の決断",
             "count": 2,
             "rank": 4,
-            "icon": "/assets/images/Lyney_material_113051_1753000792669.png",
+            "icon": "/assets/images/Lyney_material_113051_1753004062472.png",
             "description": "鉄甲熔炎帝王のハンマー。\\nその巨大な爪は、他の原海アベラント、クロックワーク・マシナリー、はたまた突然現れた討伐者を問わず、無数の謁見者を粉々にしてきた。\\n人間と違って、原海アベラントの中には、貴族とか金持ちの親を持つ子供とか存在しないし、生まれながらに高貴な身分に恵まれる等あり得ない。如何なる逆境をも乗り越え、全ての天敵との闘いで勝ち続けてきた原海アベラントは、長い歳月の捕食により力を蓄え続けた末に、覇者と呼ばれ恐れられる存在となった。",
             "type": "キャラクター育成素材"
           }
@@ -4793,7 +4793,7 @@
             "name": "星螺",
             "count": 20,
             "rank": 1,
-            "icon": "/assets/images/Tartaglia_material_100033_1753000699639.png",
+            "icon": "/assets/images/Tartaglia_material_100033_1753003991648.png",
             "description": "潮と共に砂浜についた螺。よく聞けば、思いが溢れる海の叫びが聞こえる。",
             "type": "璃月地域の特産"
           },
@@ -4802,7 +4802,7 @@
             "name": "炎願のアゲート·欠片",
             "count": 6,
             "rank": 3,
-            "icon": "/assets/images/Diluc_material_104112_1753000673082.png",
+            "icon": "/assets/images/Diluc_material_104112_1753003974114.png",
             "description": "キャラクターの突破用アイテム。\\n「人々の願いのため、巡礼の道を歩もう。最強を目指して集い、戦うのだ…」",
             "type": "キャラクター突破素材"
           },
@@ -4811,7 +4811,7 @@
             "name": "スライムの分泌物",
             "count": 12,
             "rank": 2,
-            "icon": "/assets/images/Lisa_material_112003_1753000666779.png",
+            "icon": "/assets/images/Lisa_material_112003_1753003970094.png",
             "description": "純化されたスライムの分泌物、皮膚を傷つけるため、直接接触はしないように。",
             "type": "キャラと武器育成素材"
           },
@@ -4820,7 +4820,7 @@
             "name": "帝王の決断",
             "count": 4,
             "rank": 4,
-            "icon": "/assets/images/Lyney_material_113051_1753000792669.png",
+            "icon": "/assets/images/Lyney_material_113051_1753004062472.png",
             "description": "鉄甲熔炎帝王のハンマー。\\nその巨大な爪は、他の原海アベラント、クロックワーク・マシナリー、はたまた突然現れた討伐者を問わず、無数の謁見者を粉々にしてきた。\\n人間と違って、原海アベラントの中には、貴族とか金持ちの親を持つ子供とか存在しないし、生まれながらに高貴な身分に恵まれる等あり得ない。如何なる逆境をも乗り越え、全ての天敵との闘いで勝ち続けてきた原海アベラントは、長い歳月の捕食により力を蓄え続けた末に、覇者と呼ばれ恐れられる存在となった。",
             "type": "キャラクター育成素材"
           }
@@ -4855,7 +4855,7 @@
             "name": "星螺",
             "count": 30,
             "rank": 1,
-            "icon": "/assets/images/Tartaglia_material_100033_1753000699639.png",
+            "icon": "/assets/images/Tartaglia_material_100033_1753003991648.png",
             "description": "潮と共に砂浜についた螺。よく聞けば、思いが溢れる海の叫びが聞こえる。",
             "type": "璃月地域の特産"
           },
@@ -4864,7 +4864,7 @@
             "name": "炎願のアゲート·塊",
             "count": 3,
             "rank": 4,
-            "icon": "/assets/images/Diluc_material_104113_1753000673217.png",
+            "icon": "/assets/images/Diluc_material_104113_1753003974140.png",
             "description": "キャラクターの突破用アイテム。\\n「人々の願いのため、巡礼の道を歩もう。最強を目指して集い、戦うのだ…」\\n「最後は夢のために、劫火の中で燃え尽きる。」",
             "type": "キャラクター突破素材"
           },
@@ -4873,7 +4873,7 @@
             "name": "スライムの分泌物",
             "count": 18,
             "rank": 2,
-            "icon": "/assets/images/Lisa_material_112003_1753000666779.png",
+            "icon": "/assets/images/Lisa_material_112003_1753003970094.png",
             "description": "純化されたスライムの分泌物、皮膚を傷つけるため、直接接触はしないように。",
             "type": "キャラと武器育成素材"
           },
@@ -4882,7 +4882,7 @@
             "name": "帝王の決断",
             "count": 8,
             "rank": 4,
-            "icon": "/assets/images/Lyney_material_113051_1753000792669.png",
+            "icon": "/assets/images/Lyney_material_113051_1753004062472.png",
             "description": "鉄甲熔炎帝王のハンマー。\\nその巨大な爪は、他の原海アベラント、クロックワーク・マシナリー、はたまた突然現れた討伐者を問わず、無数の謁見者を粉々にしてきた。\\n人間と違って、原海アベラントの中には、貴族とか金持ちの親を持つ子供とか存在しないし、生まれながらに高貴な身分に恵まれる等あり得ない。如何なる逆境をも乗り越え、全ての天敵との闘いで勝ち続けてきた原海アベラントは、長い歳月の捕食により力を蓄え続けた末に、覇者と呼ばれ恐れられる存在となった。",
             "type": "キャラクター育成素材"
           }
@@ -4917,7 +4917,7 @@
             "name": "星螺",
             "count": 45,
             "rank": 1,
-            "icon": "/assets/images/Tartaglia_material_100033_1753000699639.png",
+            "icon": "/assets/images/Tartaglia_material_100033_1753003991648.png",
             "description": "潮と共に砂浜についた螺。よく聞けば、思いが溢れる海の叫びが聞こえる。",
             "type": "璃月地域の特産"
           },
@@ -4926,7 +4926,7 @@
             "name": "炎願のアゲート·塊",
             "count": 6,
             "rank": 4,
-            "icon": "/assets/images/Diluc_material_104113_1753000673217.png",
+            "icon": "/assets/images/Diluc_material_104113_1753003974140.png",
             "description": "キャラクターの突破用アイテム。\\n「人々の願いのため、巡礼の道を歩もう。最強を目指して集い、戦うのだ…」\\n「最後は夢のために、劫火の中で燃え尽きる。」",
             "type": "キャラクター突破素材"
           },
@@ -4935,7 +4935,7 @@
             "name": "スライムのピュレ",
             "count": 12,
             "rank": 3,
-            "icon": "/assets/images/Lisa_material_112004_1753000666930.png",
+            "icon": "/assets/images/Lisa_material_112004_1753003970092.png",
             "description": "スライムの濃縮ピュレ、静止した状態では不規則な動きをする。",
             "type": "キャラと武器育成素材"
           },
@@ -4944,7 +4944,7 @@
             "name": "帝王の決断",
             "count": 12,
             "rank": 4,
-            "icon": "/assets/images/Lyney_material_113051_1753000792669.png",
+            "icon": "/assets/images/Lyney_material_113051_1753004062472.png",
             "description": "鉄甲熔炎帝王のハンマー。\\nその巨大な爪は、他の原海アベラント、クロックワーク・マシナリー、はたまた突然現れた討伐者を問わず、無数の謁見者を粉々にしてきた。\\n人間と違って、原海アベラントの中には、貴族とか金持ちの親を持つ子供とか存在しないし、生まれながらに高貴な身分に恵まれる等あり得ない。如何なる逆境をも乗り越え、全ての天敵との闘いで勝ち続けてきた原海アベラントは、長い歳月の捕食により力を蓄え続けた末に、覇者と呼ばれ恐れられる存在となった。",
             "type": "キャラクター育成素材"
           }
@@ -4979,7 +4979,7 @@
             "name": "星螺",
             "count": 60,
             "rank": 1,
-            "icon": "/assets/images/Tartaglia_material_100033_1753000699639.png",
+            "icon": "/assets/images/Tartaglia_material_100033_1753003991648.png",
             "description": "潮と共に砂浜についた螺。よく聞けば、思いが溢れる海の叫びが聞こえる。",
             "type": "璃月地域の特産"
           },
@@ -4988,7 +4988,7 @@
             "name": "炎願のアゲート",
             "count": 6,
             "rank": 5,
-            "icon": "/assets/images/Diluc_material_104114_1753000673309.png",
+            "icon": "/assets/images/Diluc_material_104114_1753003974136.png",
             "description": "キャラクターの突破用アイテム。\\n「人々の願いのため、巡礼の道を歩もう。最強を目指して集い、戦うのだ…」\\n「最後は夢のために、劫火の中で燃え尽きる。」\\n「その灰燼にまだ初心が残っていれば、██の真実に辿り着いたという。」",
             "type": "キャラクター突破素材"
           },
@@ -4997,7 +4997,7 @@
             "name": "スライムのピュレ",
             "count": 24,
             "rank": 3,
-            "icon": "/assets/images/Lisa_material_112004_1753000666930.png",
+            "icon": "/assets/images/Lisa_material_112004_1753003970092.png",
             "description": "スライムの濃縮ピュレ、静止した状態では不規則な動きをする。",
             "type": "キャラと武器育成素材"
           },
@@ -5006,7 +5006,7 @@
             "name": "帝王の決断",
             "count": 20,
             "rank": 4,
-            "icon": "/assets/images/Lyney_material_113051_1753000792669.png",
+            "icon": "/assets/images/Lyney_material_113051_1753004062472.png",
             "description": "鉄甲熔炎帝王のハンマー。\\nその巨大な爪は、他の原海アベラント、クロックワーク・マシナリー、はたまた突然現れた討伐者を問わず、無数の謁見者を粉々にしてきた。\\n人間と違って、原海アベラントの中には、貴族とか金持ちの親を持つ子供とか存在しないし、生まれながらに高貴な身分に恵まれる等あり得ない。如何なる逆境をも乗り越え、全ての天敵との闘いで勝ち続けてきた原海アベラントは、長い歳月の捕食により力を蓄え続けた末に、覇者と呼ばれ恐れられる存在となった。",
             "type": "キャラクター育成素材"
           }

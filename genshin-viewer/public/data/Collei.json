@@ -8,7 +8,7 @@
   "region": "Sumeru",
   "constellation": "サーバル座",
   "description": "アビディアの森で活躍する見習いレンジャー。親切な言動の裏には、少し内向的な性格が隠されている。",
-  "icon": "/assets/images/Collei_icon_1753000759838.png",
+  "icon": "/assets/images/Collei_icon_1753004038557.png",
   "profile": {
     "baseHp": 820.612,
     "baseAtk": 16.74,
@@ -23,7 +23,7 @@
       "id": "祈りの射技",
       "name": "祈りの射技",
       "description": "",
-      "icon": "/assets/images/Amber_normal_attack_1753000677027.png",
+      "icon": "/assets/images/Amber_normal_attack_1753003976614.png",
       "skillType": "normal",
       "params": {
         "1": [],
@@ -47,7 +47,7 @@
       "id": "花触葉讃",
       "name": "花触葉讃",
       "description": "",
-      "icon": "/assets/images/Collei_elemental_skill_1753000759838.png",
+      "icon": "/assets/images/Collei_elemental_skill_1753004038557.png",
       "levelData": [
         {
           "tableIndex": 1,
@@ -1136,21 +1136,21 @@
     "elementalBurst": {
       "name": "フライリーフワインダー",
       "description": "",
-      "icon": "/assets/images/Collei_elemental_burst_1753000759839.png",
+      "icon": "/assets/images/Collei_elemental_burst_1753004038557.png",
       "levelData": []
     },
     "passiveTalents": [
       {
         "name": "フライリーフワインダー",
-        "icon": "/assets/images/Collei_passive_1_1753000759839.png"
+        "icon": "/assets/images/Collei_passive_1_1753004038557.png"
       },
       {
         "name": "徐かなること森の如く",
-        "icon": "/assets/images/Collei_passive_2_1753000759839.png"
+        "icon": "/assets/images/Collei_passive_2_1753004038557.png"
       },
       {
         "name": "「スメールの飛行チャンピオン」",
-        "icon": "/assets/images/Amber_passive_3_1753000677028.png"
+        "icon": "/assets/images/Amber_passive_3_1753003976614.png"
       }
     ],
     "completeTableData": [
@@ -1464,7 +1464,7 @@
             "description": [
               "1段ダメージ|{param1:F1P}",
               "2段ダメージ|{param2:F1P}",
-              "3段ダメージ|{param3:F1P}",
+              "3段���メージ|{param3:F1P}",
               "4段ダメージ|{param4:F1P}",
               "狙い撃ち|{param5:F1P}",
               "フルチャージ狙い撃ち|{param6:P}",
@@ -4317,32 +4317,32 @@
       {
         "level": null,
         "name": "ディープウッドパトロール",
-        "icon": "/assets/images/Collei_constellation_cNaN_1753000759839.png"
+        "icon": "/assets/images/Collei_constellation_cNaN_1753004038557.png"
       },
       {
         "level": null,
         "name": "フォレストハイカー",
-        "icon": "/assets/images/Collei_constellation_cNaN_1753000759839.png"
+        "icon": "/assets/images/Collei_constellation_cNaN_1753004038558.png"
       },
       {
         "level": null,
         "name": "セントオブサマー",
-        "icon": "/assets/images/Collei_constellation_cNaN_1753000759839.png"
+        "icon": "/assets/images/Collei_constellation_cNaN_1753004038558.png"
       },
       {
         "level": null,
         "name": "ギフトオブフォレスト",
-        "icon": "/assets/images/Collei_constellation_cNaN_1753000759839.png"
+        "icon": "/assets/images/Collei_constellation_cNaN_1753004038558.png"
       },
       {
         "level": null,
         "name": "オールエンバーズ",
-        "icon": "/assets/images/Collei_constellation_cNaN_1753000759839.png"
+        "icon": "/assets/images/Collei_constellation_cNaN_1753004038558.png"
       },
       {
         "level": null,
         "name": "フォーリングアロー",
-        "icon": "/assets/images/Collei_constellation_cNaN_1753000759839.png"
+        "icon": "/assets/images/Collei_constellation_cNaN_1753004038558.png"
       }
     ]
   },
@@ -4359,14 +4359,14 @@
     "id": 210125,
     "name": "コレイ·春風駘蕩",
     "description": "コレイ·春風駘蕩",
-    "icon": "/assets/images/Collei_icon_1753000759838.png"
+    "icon": "/assets/images/Collei_icon_1753004038557.png"
   },
   "specialFood": {
     "id": 108437,
     "name": "憧れ",
     "rank": 3,
-    "icon": "/assets/images/Collei_special_food_1753000759839.png",
-    "effectIcon": "/assets/images/Kaeya_food_effect_1753000670791.png"
+    "icon": "/assets/images/Collei_special_food_1753004038558.png",
+    "effectIcon": "/assets/images/Kaeya_food_effect_1753003972834.png"
   },
   "levelProgression": [
     {
@@ -4682,7 +4682,7 @@
             "name": "ルッカデヴァータダケ",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Collei_material_101213_1753000760056.png",
+            "icon": "/assets/images/Collei_material_101213_1753004038804.png",
             "description": "雲海のように重なり合って成長するキノコ類。ほとんどは雨林の奥深くの高木に生えている。",
             "type": "スメール地域の特産"
           },
@@ -4691,7 +4691,7 @@
             "name": "成長のエメラルド·砕屑",
             "count": 1,
             "rank": 2,
-            "icon": "/assets/images/Kirara_material_104131_1753000749987.png",
+            "icon": "/assets/images/Kirara_material_104131_1753004029866.png",
             "description": "キャラクターの突破用アイテム。",
             "type": "キャラクター突破素材"
           },
@@ -4700,7 +4700,7 @@
             "name": "牢固な矢先",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Amber_material_112011_1753000677200.png",
+            "icon": "/assets/images/Amber_material_112011_1753003976629.png",
             "description": "粗末な矢先。それでもその威力はなめてはいけない。弓弩は危険な武器である。たとえ騎士のような人でも後ろからの矢に撃たれる可能性があるから。",
             "type": "キャラと武器育成素材"
           }
@@ -4731,7 +4731,7 @@
             "name": "ルッカデヴァータダケ",
             "count": 10,
             "rank": 1,
-            "icon": "/assets/images/Collei_material_101213_1753000760056.png",
+            "icon": "/assets/images/Collei_material_101213_1753004038804.png",
             "description": "雲海のように重なり合って成長するキノコ類。ほとんどは雨林の奥深くの高木に生えている。",
             "type": "スメール地域の特産"
           },
@@ -4740,7 +4740,7 @@
             "name": "成長のエメラルド·欠片",
             "count": 3,
             "rank": 3,
-            "icon": "/assets/images/Kirara_material_104132_1753000749893.png",
+            "icon": "/assets/images/Kirara_material_104132_1753004029868.png",
             "description": "キャラクターの突破用アイテム。\\n「長い長い夢を見ていたわ…」",
             "type": "キャラクター突破素材"
           },
@@ -4749,7 +4749,7 @@
             "name": "牢固な矢先",
             "count": 15,
             "rank": 1,
-            "icon": "/assets/images/Amber_material_112011_1753000677200.png",
+            "icon": "/assets/images/Amber_material_112011_1753003976629.png",
             "description": "粗末な矢先。それでもその威力はなめてはいけない。弓弩は危険な武器である。たとえ騎士のような人でも後ろからの矢に撃たれる可能性があるから。",
             "type": "キャラと武器育成素材"
           },
@@ -4758,7 +4758,7 @@
             "name": "茸王の鉤状のくちばし",
             "count": 2,
             "rank": 4,
-            "icon": "/assets/images/Collei_material_113036_1753000760195.png",
+            "icon": "/assets/images/Collei_material_113036_1753004038585.png",
             "description": "マッシュラプトルを倒した後、手に入れた角質構造。\\n学者たちは、柔らかいキノコンが岩のように頑丈な鉤状のくちばしを持つように進化したことは、奇跡だと今も考えている。進化の終着点であるこの華麗なキノコンの王は、悠然と歩き、時に長い鳴き声を上げながら、雨林の万物にこう伝えている——最も弱く臆病な生き物でも、将来は山の主人になれる可能性があると。",
             "type": "キャラクター育成素材"
           }
@@ -4793,7 +4793,7 @@
             "name": "ルッカデヴァータダケ",
             "count": 20,
             "rank": 1,
-            "icon": "/assets/images/Collei_material_101213_1753000760056.png",
+            "icon": "/assets/images/Collei_material_101213_1753004038804.png",
             "description": "雲海のように重なり合って成長するキノコ類。ほとんどは雨林の奥深くの高木に生えている。",
             "type": "スメール地域の特産"
           },
@@ -4802,7 +4802,7 @@
             "name": "成長のエメラルド·欠片",
             "count": 6,
             "rank": 3,
-            "icon": "/assets/images/Kirara_material_104132_1753000749893.png",
+            "icon": "/assets/images/Kirara_material_104132_1753004029868.png",
             "description": "キャラクターの突破用アイテム。\\n「長い長い夢を見ていたわ…」",
             "type": "キャラクター突破素材"
           },
@@ -4811,7 +4811,7 @@
             "name": "鋭利な矢先",
             "count": 12,
             "rank": 2,
-            "icon": "/assets/images/Amber_material_112012_1753000677221.png",
+            "icon": "/assets/images/Amber_material_112012_1753003976628.png",
             "description": "精良に作られた矢先。鋭利な先端は石を水に投げるように簡単に敵の鎧を貫くことができる。",
             "type": "キャラと武器育成素材"
           },
@@ -4820,7 +4820,7 @@
             "name": "茸王の鉤状のくちばし",
             "count": 4,
             "rank": 4,
-            "icon": "/assets/images/Collei_material_113036_1753000760195.png",
+            "icon": "/assets/images/Collei_material_113036_1753004038585.png",
             "description": "マッシュラプトルを倒した後、手に入れた角質構造。\\n学者たちは、柔らかいキノコンが岩のように頑丈な鉤状のくちばしを持つように進化したことは、奇跡だと今も考えている。進化の終着点であるこの華麗なキノコンの王は、悠然と歩き、時に長い鳴き声を上げながら、雨林の万物にこう伝えている——最も弱く臆病な生き物でも、将来は山の主人になれる可能性があると。",
             "type": "キャラクター育成素材"
           }
@@ -4855,7 +4855,7 @@
             "name": "ルッカデヴァータダケ",
             "count": 30,
             "rank": 1,
-            "icon": "/assets/images/Collei_material_101213_1753000760056.png",
+            "icon": "/assets/images/Collei_material_101213_1753004038804.png",
             "description": "雲海のように重なり合って成長するキノコ類。ほとんどは雨林の奥深くの高木に生えている。",
             "type": "スメール地域の特産"
           },
@@ -4864,7 +4864,7 @@
             "name": "成長のエメラルド·塊",
             "count": 3,
             "rank": 4,
-            "icon": "/assets/images/Kirara_material_104133_1753000749880.png",
+            "icon": "/assets/images/Kirara_material_104133_1753004029865.png",
             "description": "キャラクターの突破用アイテム。\\n「長い長い夢を見ていたわ…」\\n「人々は手をつなぎ、円を描くようにくるくると回っていた。賢者と愚者、舞人と勇士、人形と神像…」",
             "type": "キャラクター突破素材"
           },
@@ -4873,7 +4873,7 @@
             "name": "鋭利な矢先",
             "count": 18,
             "rank": 2,
-            "icon": "/assets/images/Amber_material_112012_1753000677221.png",
+            "icon": "/assets/images/Amber_material_112012_1753003976628.png",
             "description": "精良に作られた矢先。鋭利な先端は石を水に投げるように簡単に敵の鎧を貫くことができる。",
             "type": "キャラと武器育成素材"
           },
@@ -4882,7 +4882,7 @@
             "name": "茸王の鉤状のくちばし",
             "count": 8,
             "rank": 4,
-            "icon": "/assets/images/Collei_material_113036_1753000760195.png",
+            "icon": "/assets/images/Collei_material_113036_1753004038585.png",
             "description": "マッシュラプトルを倒した後、手に入れた角質構造。\\n学者たちは、柔らかいキノコンが岩のように頑丈な鉤状のくちばしを持つように進化したことは、奇跡だと今も考えている。進化の終着点であるこの華麗なキノコンの王は、悠然と歩き、時に長い鳴き声を上げながら、雨林の万物にこう伝えている——最も弱く臆病な生き物でも、将来は山の主人になれる可能性があると。",
             "type": "キャラクター育成素材"
           }
@@ -4917,7 +4917,7 @@
             "name": "ルッカデヴァータダケ",
             "count": 45,
             "rank": 1,
-            "icon": "/assets/images/Collei_material_101213_1753000760056.png",
+            "icon": "/assets/images/Collei_material_101213_1753004038804.png",
             "description": "雲海のように重なり合って成長するキノコ類。ほとんどは雨林の奥深くの高木に生えている。",
             "type": "スメール地域の特産"
           },
@@ -4926,7 +4926,7 @@
             "name": "成長のエメラルド·塊",
             "count": 6,
             "rank": 4,
-            "icon": "/assets/images/Kirara_material_104133_1753000749880.png",
+            "icon": "/assets/images/Kirara_material_104133_1753004029865.png",
             "description": "キャラクターの突破用アイテム。\\n「長い長い夢を見ていたわ…」\\n「人々は手をつなぎ、円を描くようにくるくると回っていた。賢者と愚者、舞人と勇士、人形と神像…」",
             "type": "キャラクター突破素材"
           },
@@ -4935,7 +4935,7 @@
             "name": "歴戦の矢先",
             "count": 12,
             "rank": 3,
-            "icon": "/assets/images/Amber_material_112013_1753000677443.png",
+            "icon": "/assets/images/Amber_material_112013_1753003976629.png",
             "description": "古く、乾いた血がたくさんついた矢先。何度も使用されたため、その鋭さは失われ、武器としては使えなくなったが、狩人の誇りの象徴としてお守りや表彰として使用されている。",
             "type": "キャラと武器育成素材"
           },
@@ -4944,7 +4944,7 @@
             "name": "茸王の鉤状のくちばし",
             "count": 12,
             "rank": 4,
-            "icon": "/assets/images/Collei_material_113036_1753000760195.png",
+            "icon": "/assets/images/Collei_material_113036_1753004038585.png",
             "description": "マッシュラプトルを倒した後、手に入れた角質構造。\\n学者たちは、柔らかいキノコンが岩のように頑丈な鉤状のくちばしを持つように進化したことは、奇跡だと今も考えている。進化の終着点であるこの華麗なキノコンの王は、悠然と歩き、時に長い鳴き声を上げながら、雨林の万物にこう伝えている——最も弱く臆病な生き物でも、将来は山の主人になれる可能性があると。",
             "type": "キャラクター育成素材"
           }
@@ -4979,7 +4979,7 @@
             "name": "ルッカデヴァータダケ",
             "count": 60,
             "rank": 1,
-            "icon": "/assets/images/Collei_material_101213_1753000760056.png",
+            "icon": "/assets/images/Collei_material_101213_1753004038804.png",
             "description": "雲海のように重なり合って成長するキノコ類。ほとんどは雨林の奥深くの高木に生えている。",
             "type": "スメール地域の特産"
           },
@@ -4988,7 +4988,7 @@
             "name": "成長のエメラルド",
             "count": 6,
             "rank": 5,
-            "icon": "/assets/images/Kirara_material_104134_1753000750010.png",
+            "icon": "/assets/images/Kirara_material_104134_1753004029864.png",
             "description": "キャラクターの突破用アイテム。\\n「長い長い夢を見ていたわ…」\\n「人々は手をつなぎ、円を描くようにくるくると回っていた。賢者と愚者、舞人と勇士、人形と神像…」\\n「みんなの喜びの踊りの中には、宇宙のすべてが秘められている。『命』はいつも目的で、『知恵』こそが手段なの。」",
             "type": "キャラクター突破素材"
           },
@@ -4997,7 +4997,7 @@
             "name": "歴戦の矢先",
             "count": 24,
             "rank": 3,
-            "icon": "/assets/images/Amber_material_112013_1753000677443.png",
+            "icon": "/assets/images/Amber_material_112013_1753003976629.png",
             "description": "古く、乾いた血がたくさんついた矢先。何度も使用されたため、その鋭さは失われ、武器としては使えなくなったが、狩人の誇りの象徴としてお守りや表彰として使用されている。",
             "type": "キャラと武器育成素材"
           },
@@ -5006,7 +5006,7 @@
             "name": "茸王の鉤状のくちばし",
             "count": 20,
             "rank": 4,
-            "icon": "/assets/images/Collei_material_113036_1753000760195.png",
+            "icon": "/assets/images/Collei_material_113036_1753004038585.png",
             "description": "マッシュラプトルを倒した後、手に入れた角質構造。\\n学者たちは、柔らかいキノコンが岩のように頑丈な鉤状のくちばしを持つように進化したことは、奇跡だと今も考えている。進化の終着点であるこの華麗なキノコンの王は、悠然と歩き、時に長い鳴き声を上げながら、雨林の万物にこう伝えている——最も弱く臆病な生き物でも、将来は山の主人になれる可能性があると。",
             "type": "キャラクター育成素材"
           }

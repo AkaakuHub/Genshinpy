@@ -8,7 +8,7 @@
   "region": "Liyue",
   "constellation": "紫金錘重座",
   "description": "「璃月七星」の一人、「玉衡」。「帝君の一言で決まる璃月」に不満を持っている——だが実のところ、神は彼女のような者を高く評価している。",
-  "icon": "/assets/images/Keqing_icon_1753000714068.png",
+  "icon": "/assets/images/Keqing_icon_1753004003127.png",
   "profile": {
     "baseHp": 1020.052,
     "baseAtk": 25.137,
@@ -23,7 +23,7 @@
       "id": "雲来剣法",
       "name": "雲来剣法",
       "description": "",
-      "icon": "/assets/images/Kamisato Ayaka_normal_attack_1753000661887.png",
+      "icon": "/assets/images/Kamisato Ayaka_normal_attack_1753003967511.png",
       "skillType": "normal",
       "params": {
         "1": [],
@@ -47,7 +47,7 @@
       "id": "星辰帰位",
       "name": "星辰帰位",
       "description": "",
-      "icon": "/assets/images/Keqing_elemental_skill_1753000714068.png",
+      "icon": "/assets/images/Keqing_elemental_skill_1753004003127.png",
       "levelData": [
         {
           "tableIndex": 1,
@@ -1136,21 +1136,21 @@
     "elementalBurst": {
       "name": "抵天の雷罰",
       "description": "",
-      "icon": "/assets/images/Keqing_elemental_burst_1753000714068.png",
+      "icon": "/assets/images/Keqing_elemental_burst_1753004003127.png",
       "levelData": []
     },
     "passiveTalents": [
       {
         "name": "抵天の雷罰",
-        "icon": "/assets/images/Keqing_passive_1_1753000714068.png"
+        "icon": "/assets/images/Keqing_passive_1_1753004003127.png"
       },
       {
         "name": "玉衡の貴",
-        "icon": "/assets/images/Keqing_passive_2_1753000714068.png"
+        "icon": "/assets/images/Keqing_passive_2_1753004003127.png"
       },
       {
         "name": "総務土地",
-        "icon": "/assets/images/Chongyun_passive_3_1753000705233.png"
+        "icon": "/assets/images/Chongyun_passive_3_1753003995975.png"
       }
     ],
     "completeTableData": [
@@ -3980,7 +3980,7 @@
               "スキルダメージ|{param1:P}",
               "連斬ダメージ|{param2:F1P}×8",
               "最後の一撃ダメージ|{param3:P}",
-              "クールタイム|{param4:F1}秒",
+              "クール��イム|{param4:F1}秒",
               "元素エネルギー|{param5:I}",
               "",
               "",
@@ -4317,32 +4317,32 @@
       {
         "level": null,
         "name": "迅雷",
-        "icon": "/assets/images/Keqing_constellation_cNaN_1753000714068.png"
+        "icon": "/assets/images/Keqing_constellation_cNaN_1753004003127.png"
       },
       {
         "level": null,
         "name": "苛捐",
-        "icon": "/assets/images/Keqing_constellation_cNaN_1753000714068.png"
+        "icon": "/assets/images/Keqing_constellation_cNaN_1753004003127.png"
       },
       {
         "level": null,
         "name": "登楼",
-        "icon": "/assets/images/Keqing_constellation_cNaN_1753000714068.png"
+        "icon": "/assets/images/Keqing_constellation_cNaN_1753004003127.png"
       },
       {
         "level": null,
         "name": "調律",
-        "icon": "/assets/images/Keqing_constellation_cNaN_1753000714068.png"
+        "icon": "/assets/images/Keqing_constellation_cNaN_1753004003127.png"
       },
       {
         "level": null,
         "name": "移燈",
-        "icon": "/assets/images/Keqing_constellation_cNaN_1753000714069.png"
+        "icon": "/assets/images/Keqing_constellation_cNaN_1753004003127.png"
       },
       {
         "level": null,
         "name": "廉貞",
-        "icon": "/assets/images/Keqing_constellation_cNaN_1753000714069.png"
+        "icon": "/assets/images/Keqing_constellation_cNaN_1753004003128.png"
       }
     ]
   },
@@ -4360,21 +4360,21 @@
       "isDefault": false,
       "rank": 4,
       "storyId": 340003,
-      "icon": "/assets/images/Keqing_costume_2_1753000714069.png"
+      "icon": "/assets/images/Keqing_costume_2_1753004003128.png"
     }
   ],
   "nameCard": {
     "id": 210020,
     "name": "刻晴·雷楔",
     "description": "刻晴·雷楔",
-    "icon": "/assets/images/Keqing_namecard_1753000714247.png"
+    "icon": "/assets/images/Keqing_icon_1753004003127.png"
   },
   "specialFood": {
     "id": 108145,
-    "name": "九死一生��焼き魚",
+    "name": "九死一生の焼き魚",
     "rank": 1,
-    "icon": "/assets/images/Keqing_special_food_1753000714069.png",
-    "effectIcon": "/assets/images/Kaeya_food_effect_1753000670791.png"
+    "icon": "/assets/images/Keqing_special_food_1753004003128.png",
+    "effectIcon": "/assets/images/Kaeya_food_effect_1753003972834.png"
   },
   "levelProgression": [
     {
@@ -4690,7 +4690,7 @@
             "name": "石珀",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Zhongli_material_100058_1753000693637.png",
+            "icon": "/assets/images/Zhongli_material_100058_1753003987479.png",
             "description": "純度が極めて高い岩の元素の晶石。よくほかの鉱物と一緒に発見される。「岩の心」とも呼ばれる。",
             "type": "璃月地域の特産"
           },
@@ -4699,7 +4699,7 @@
             "name": "最勝のアメシスト·砕屑",
             "count": 1,
             "rank": 2,
-            "icon": "/assets/images/Lisa_material_104141_1753000666680.png",
+            "icon": "/assets/images/Lisa_material_104141_1753003970099.png",
             "description": "キャラクターの突破用アイテム。",
             "type": "キャラクター突破素材"
           },
@@ -4708,7 +4708,7 @@
             "name": "トリックフラワーの蜜",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Ganyu_material_112038_1753000707312.png",
+            "icon": "/assets/images/Ganyu_material_112038_1753003997674.png",
             "description": "花蕊から抽出された花蜜、少量の元素が含まれている。\\nスイートフラワーの味と微妙に似ている。",
             "type": "キャラと武器育成素材"
           }
@@ -4739,7 +4739,7 @@
             "name": "石珀",
             "count": 10,
             "rank": 1,
-            "icon": "/assets/images/Zhongli_material_100058_1753000693637.png",
+            "icon": "/assets/images/Zhongli_material_100058_1753003987479.png",
             "description": "純度が極めて高い岩の元素の晶石。よくほかの鉱物と一緒に発見される。「岩の心」とも呼ばれる。",
             "type": "璃月地域の特産"
           },
@@ -4748,7 +4748,7 @@
             "name": "最勝のアメシスト·欠片",
             "count": 3,
             "rank": 3,
-            "icon": "/assets/images/Lisa_material_104142_1753000666856.png",
+            "icon": "/assets/images/Lisa_material_104142_1753003970098.png",
             "description": "キャラクターの突破用アイテム。\\n「此の身こそ、いと尊き存在。」",
             "type": "キャラクター突破素材"
           },
@@ -4757,7 +4757,7 @@
             "name": "トリックフラワーの蜜",
             "count": 15,
             "rank": 1,
-            "icon": "/assets/images/Ganyu_material_112038_1753000707312.png",
+            "icon": "/assets/images/Ganyu_material_112038_1753003997674.png",
             "description": "花蕊から抽出された花蜜、少量の元素が含まれている。\\nスイートフラワーの味と微妙に似ている。",
             "type": "キャラと武器育成素材"
           },
@@ -4766,7 +4766,7 @@
             "name": "雷光のプリズム",
             "count": 2,
             "rank": 4,
-            "icon": "/assets/images/Lisa_material_113002_1753000666809.png",
+            "icon": "/assets/images/Lisa_material_113002_1753003970098.png",
             "description": "無相の雷が元素を集め、損傷を直すための物質。中には純粋な雷の力がある。\\nプリズムは光を構成する色彩の区別ができ、雷光のプリズムは流れるエネルギーを純粋な雷光に織り成すことができる。たとえ無相の雷が倒されたとしても、雷元素はこのプリズムの中で集まり続ける。",
             "type": "キャラクター育成素材"
           }
@@ -4801,7 +4801,7 @@
             "name": "石珀",
             "count": 20,
             "rank": 1,
-            "icon": "/assets/images/Zhongli_material_100058_1753000693637.png",
+            "icon": "/assets/images/Zhongli_material_100058_1753003987479.png",
             "description": "純度が極めて高い岩の元素の晶石。よくほかの鉱物と一緒に発見される。「岩の心」とも呼ばれる。",
             "type": "璃月地域の特産"
           },
@@ -4810,7 +4810,7 @@
             "name": "最勝のアメシスト·欠片",
             "count": 6,
             "rank": 3,
-            "icon": "/assets/images/Lisa_material_104142_1753000666856.png",
+            "icon": "/assets/images/Lisa_material_104142_1753003970098.png",
             "description": "キャラクターの突破用アイテム。\\n「此の身こそ、いと尊き存在。」",
             "type": "キャラクター突破素材"
           },
@@ -4819,7 +4819,7 @@
             "name": "微光花の蜜",
             "count": 12,
             "rank": 2,
-            "icon": "/assets/images/Ganyu_material_112039_1753000707040.png",
+            "icon": "/assets/images/Ganyu_material_112039_1753003997662.png",
             "description": "元素純度がやや高めの花蜜。\\n学界の見解によるとトリックフラワーは元素植物の高等生命形態である。だがトリックフラワーの食性は未だ解明されていない。",
             "type": "キャラと武器育成素材"
           },
@@ -4828,7 +4828,7 @@
             "name": "雷光のプリズム",
             "count": 4,
             "rank": 4,
-            "icon": "/assets/images/Lisa_material_113002_1753000666809.png",
+            "icon": "/assets/images/Lisa_material_113002_1753003970098.png",
             "description": "無相の雷が元素を集め、損傷を直すための物質。中には純粋な雷の力がある。\\nプリズムは光を構成する色彩の区別ができ、雷光のプリズムは流れるエネルギーを純粋な雷光に織り成すことができる。たとえ無相の雷が倒されたとしても、雷元素はこのプリズムの中で集まり続ける。",
             "type": "キャラクター育成素材"
           }
@@ -4863,7 +4863,7 @@
             "name": "石珀",
             "count": 30,
             "rank": 1,
-            "icon": "/assets/images/Zhongli_material_100058_1753000693637.png",
+            "icon": "/assets/images/Zhongli_material_100058_1753003987479.png",
             "description": "純度が極めて高い岩の元素の晶石。よくほかの鉱物と一緒に発見される。「岩の心」とも呼ばれる。",
             "type": "璃月地域の特産"
           },
@@ -4872,7 +4872,7 @@
             "name": "最勝のアメシスト·塊",
             "count": 3,
             "rank": 4,
-            "icon": "/assets/images/Lisa_material_104143_1753000666653.png",
+            "icon": "/assets/images/Lisa_material_104143_1753003970096.png",
             "description": "キャラクターの突破用アイテム。\\n「此の身こそ、いと尊き存在。」\\n「天下を泰平せし者。」",
             "type": "キャラクター突破素材"
           },
@@ -4881,7 +4881,7 @@
             "name": "微光花の蜜",
             "count": 18,
             "rank": 2,
-            "icon": "/assets/images/Ganyu_material_112039_1753000707040.png",
+            "icon": "/assets/images/Ganyu_material_112039_1753003997662.png",
             "description": "元素純度がやや高めの花蜜。\\n学界の見解によるとトリックフラワーは元素植物の高等生命形態である。だがトリックフラワーの食性は未だ解明されていない。",
             "type": "キャラと武器育成素材"
           },
@@ -4890,7 +4890,7 @@
             "name": "雷光のプリズム",
             "count": 8,
             "rank": 4,
-            "icon": "/assets/images/Lisa_material_113002_1753000666809.png",
+            "icon": "/assets/images/Lisa_material_113002_1753003970098.png",
             "description": "無相の雷が元素を集め、損傷を直すための物質。中には純粋な雷の力がある。\\nプリズムは光を構成する色彩の区別ができ、雷光のプリズムは流れるエネルギーを純粋な雷光に織り成すことができる。たとえ無相の雷が倒されたとしても、雷元素はこのプリズムの中で集まり続ける。",
             "type": "キャラクター育成素材"
           }
@@ -4925,7 +4925,7 @@
             "name": "石珀",
             "count": 45,
             "rank": 1,
-            "icon": "/assets/images/Zhongli_material_100058_1753000693637.png",
+            "icon": "/assets/images/Zhongli_material_100058_1753003987479.png",
             "description": "純度が極めて高い岩の元素の晶石。よくほかの鉱物と一緒に発見される。「岩の心」とも呼ばれる。",
             "type": "璃月地域の特産"
           },
@@ -4934,7 +4934,7 @@
             "name": "最勝のアメシスト·塊",
             "count": 6,
             "rank": 4,
-            "icon": "/assets/images/Lisa_material_104143_1753000666653.png",
+            "icon": "/assets/images/Lisa_material_104143_1753003970096.png",
             "description": "キャラクターの突破用アイテム。\\n「此の身こそ、いと尊き存在。」\\n「天下を泰平せし者。」",
             "type": "キャラクター突破素材"
           },
@@ -4943,7 +4943,7 @@
             "name": "原素花の蜜",
             "count": 12,
             "rank": 3,
-            "icon": "/assets/images/Ganyu_material_112040_1753000707211.png",
+            "icon": "/assets/images/Ganyu_material_112040_1753003997670.png",
             "description": "エネルギーに満ちたネバネバの花蜜。\\nトリックフラワーが獲物を騙しているのは狩るためである。そして捕食しているのはより強くてより純粋な姿へと進化するためであろう…",
             "type": "キャラと武器育成素材"
           },
@@ -4952,7 +4952,7 @@
             "name": "雷光のプリズム",
             "count": 12,
             "rank": 4,
-            "icon": "/assets/images/Lisa_material_113002_1753000666809.png",
+            "icon": "/assets/images/Lisa_material_113002_1753003970098.png",
             "description": "無相の雷が元素を集め、損傷を直すための物質。中には純粋な雷の力がある。\\nプリズムは光を構成する色彩の区別ができ、雷光のプリズムは流れるエネルギーを純粋な雷光に織り成すことができる。たとえ無相の雷が倒されたとしても、雷元素はこのプリズムの中で集まり続ける。",
             "type": "キャラクター育成素材"
           }
@@ -4987,7 +4987,7 @@
             "name": "石珀",
             "count": 60,
             "rank": 1,
-            "icon": "/assets/images/Zhongli_material_100058_1753000693637.png",
+            "icon": "/assets/images/Zhongli_material_100058_1753003987479.png",
             "description": "純度が極めて高い岩の元素の晶石。よくほかの鉱物と一緒に発見される。「岩の心」とも呼ばれる。",
             "type": "璃月地域の特産"
           },
@@ -4996,7 +4996,7 @@
             "name": "最勝のアメシスト",
             "count": 6,
             "rank": 5,
-            "icon": "/assets/images/Lisa_material_104144_1753000666879.png",
+            "icon": "/assets/images/Lisa_material_104144_1753003970099.png",
             "description": "キャラクターの突破用アイテム。\\n「此の身こそ、いと尊き存在。」\\n「天下を泰平せし者。」\\n「臣民に夢を与えると誓いましょう。未来永劫、不変の『永遠』を。」",
             "type": "キャラクター突破素材"
           },
@@ -5005,7 +5005,7 @@
             "name": "原素花の蜜",
             "count": 24,
             "rank": 3,
-            "icon": "/assets/images/Ganyu_material_112040_1753000707211.png",
+            "icon": "/assets/images/Ganyu_material_112040_1753003997670.png",
             "description": "エネルギーに満ちたネバネバの花蜜。\\nトリックフラワーが獲物を騙しているのは狩るためである。そして捕食しているのはより強くてより純粋な姿へと進化するためであろう…",
             "type": "キャラと武器育成素材"
           },
@@ -5014,7 +5014,7 @@
             "name": "雷光のプリズム",
             "count": 20,
             "rank": 4,
-            "icon": "/assets/images/Lisa_material_113002_1753000666809.png",
+            "icon": "/assets/images/Lisa_material_113002_1753003970098.png",
             "description": "無相の雷が元素を集め、損傷を直すための物質。中には純粋な雷の力がある。\\nプリズムは光を構成する色彩の区別ができ、雷光のプリズムは流れるエネルギーを純粋な雷光に織り成すことができる。たとえ無相の雷が倒されたとしても、雷元素はこのプリズムの中で集まり続ける。",
             "type": "キャラクター育成素材"
           }
