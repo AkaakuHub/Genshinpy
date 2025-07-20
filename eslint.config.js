@@ -8,6 +8,7 @@ export default [
   js.configs.recommended,
   {
     files: ['**/*.ts', '*.ts'],
+    ignores: ['genshin-viewer/**'],
     languageOptions: {
       parser: tsparser,
       parserOptions: {
