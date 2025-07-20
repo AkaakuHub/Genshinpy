@@ -44,8 +44,8 @@ jobs:
       run: mkdir -p genshin-viewer/public/assets/images
 
     - name: Initial build check (debug)
+      working-directory: genshin-viewer
       run: |
-        cd genshin-viewer
         pnpm install --frozen-lockfile
         pnpm run build
         echo "✅ Initial build successful"
@@ -57,8 +57,8 @@ jobs:
         pnpm tsx scrape-all-characters.ts
 
     - name: Build React application
+      working-directory: genshin-viewer
       run: |
-        cd genshin-viewer
         pnpm install --frozen-lockfile
         pnpm run build
         

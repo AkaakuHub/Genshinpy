@@ -8,5 +8,8 @@ export default defineConfig({
   base: '/Genshinpy/',
   build: {
     outDir: 'dist',
+    rollupOptions: {
+      input: 'index.html',
+    },
   },
 });
