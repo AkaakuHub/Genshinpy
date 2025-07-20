@@ -27,7 +27,7 @@ const CharacterViewer: React.FC = () => {
 
   const fetchCharacterList = useCallback(async () => {
     try {
-      const response = await fetch('/data/characters.json');
+      const response = await fetch('./data/characters.json');
       if (response.ok) {
         const data = await response.json();
         setCharacterList(data);
@@ -53,7 +53,7 @@ const CharacterViewer: React.FC = () => {
   const fetchCharacterData = async (characterId: string) => {
     try {
       setLoading(true);
-      const response = await fetch(`/data/${characterId}.json`);
+      const response = await fetch(`./data/${characterId}.json`);
       if (!response.ok) {
         throw new Error('データの読み込みに失敗しました');
       }
