@@ -78,23 +78,18 @@ jobs:
         ls -la
         pnpm install --frozen-lockfile
         npx vite build --config vite.config.ts
-        
-    - name: Upload artifact
-      uses: actions/upload-pages-artifact@v3
-      with:
-        path: ./genshin-viewer/dist
 
-  # GitHub Pagesにデプロイ
-  deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
-    needs: scrape-data
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+    - name: Commit built dist
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action Bot"
+        git add genshin-viewer/dist/
+        if ! git diff --cached --quiet; then
+          git commit -m "bot: Update built dist $(date '+%Y-%m-%d %H:%M')"
+          git push
+        else
+          echo "No dist changes to commit"
+        fi
 
       - name: Notify completion
         run: |
