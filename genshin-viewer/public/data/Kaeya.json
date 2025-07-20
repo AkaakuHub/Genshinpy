@@ -8,7 +8,7 @@
   "region": "Mondstadt",
   "constellation": "孔雀羽座",
   "description": "異国の顔を持つ剣士。西風騎士団の頭脳派である。",
-  "icon": "/assets/images/Kaeya_icon_1753003972832.png",
+  "icon": "/assets/images/Kaeya_icon_1753016044775.png",
   "profile": {
     "baseHp": 975.616,
     "baseAtk": 18.698,
@@ -23,7 +23,7 @@
       "id": "儀典の剣術",
       "name": "儀典の剣術",
       "description": "",
-      "icon": "/assets/images/Kamisato Ayaka_normal_attack_1753003967511.png",
+      "icon": "/assets/images/Kamisato Ayaka_normal_attack_1753016037630.png",
       "skillType": "normal",
       "params": {
         "1": [],
@@ -47,7 +47,7 @@
       "id": "霜の襲撃",
       "name": "霜の襲撃",
       "description": "",
-      "icon": "/assets/images/Kaeya_elemental_skill_1753003972832.png",
+      "icon": "/assets/images/Kaeya_elemental_skill_1753016044775.png",
       "levelData": [
         {
           "tableIndex": 1,
@@ -1136,21 +1136,21 @@
     "elementalBurst": {
       "name": "冷血の剣",
       "description": "",
-      "icon": "/assets/images/Kaeya_elemental_burst_1753003972832.png",
+      "icon": "/assets/images/Kaeya_elemental_burst_1753016044775.png",
       "levelData": []
     },
     "passiveTalents": [
       {
         "name": "冷血の剣",
-        "icon": "/assets/images/Kaeya_passive_1_1753003972832.png"
+        "icon": "/assets/images/Kaeya_passive_1_1753016044775.png"
       },
       {
         "name": "氷淵の心",
-        "icon": "/assets/images/Kaeya_passive_2_1753003972832.png"
+        "icon": "/assets/images/Kaeya_passive_2_1753016044775.png"
       },
       {
         "name": "秘められた実力",
-        "icon": "/assets/images/Kaeya_passive_3_1753003972832.png"
+        "icon": "/assets/images/Kaeya_passive_3_1753016044775.png"
       }
     ],
     "completeTableData": [
@@ -2094,7 +2094,7 @@
               "4段ダメージ|{param4:P}",
               "5段ダメージ|{param5:P}",
               "重撃ダメージ|{param6:P}+{param7:P}",
-              "重���スタミナ消費|{param8:F1}",
+              "重撃スタミナ消費|{param8:F1}",
               "落下期間のダメージ|{param9:F1P}",
               "低空/高空落下攻撃ダメージ|{param10:P}/{param11:P}",
               "",
@@ -4317,32 +4317,32 @@
       {
         "level": null,
         "name": "優れた血筋",
-        "icon": "/assets/images/Kaeya_constellation_cNaN_1753003972833.png"
+        "icon": "/assets/images/Kaeya_constellation_cNaN_1753016044776.png"
       },
       {
         "level": null,
         "name": "無尽なる霜舞",
-        "icon": "/assets/images/Kaeya_constellation_cNaN_1753003972833.png"
+        "icon": "/assets/images/Kaeya_constellation_cNaN_1753016044776.png"
       },
       {
         "level": null,
         "name": "凛冽なる戯れ",
-        "icon": "/assets/images/Kaeya_constellation_cNaN_1753003972833.png"
+        "icon": "/assets/images/Kaeya_constellation_cNaN_1753016044776.png"
       },
       {
         "level": null,
         "name": "極寒の口付け",
-        "icon": "/assets/images/Kaeya_constellation_cNaN_1753003972833.png"
+        "icon": "/assets/images/Kaeya_constellation_cNaN_1753016044776.png"
       },
       {
         "level": null,
         "name": "冷たい抱擁",
-        "icon": "/assets/images/Kaeya_constellation_cNaN_1753003972833.png"
+        "icon": "/assets/images/Kaeya_constellation_cNaN_1753016044776.png"
       },
       {
         "level": null,
         "name": "輪旋の氷",
-        "icon": "/assets/images/Kaeya_constellation_cNaN_1753003972833.png"
+        "icon": "/assets/images/Kaeya_constellation_cNaN_1753016044776.png"
       }
     ]
   },
@@ -4360,21 +4360,21 @@
       "isDefault": false,
       "rank": 4,
       "storyId": 340013,
-      "icon": "/assets/images/Kaeya_costume_2_1753003972833.png"
+      "icon": "/assets/images/Kaeya_costume_2_1753016044776.png"
     }
   ],
   "nameCard": {
     "id": 210010,
     "name": "ガイア·孔雀",
     "description": "ガイア·孔雀",
-    "icon": "/assets/images/Kaeya_icon_1753003972832.png"
+    "icon": "/assets/images/Kaeya_icon_1753016044775.png"
   },
   "specialFood": {
     "id": 108014,
     "name": "フルーティーな串焼き",
     "rank": 1,
-    "icon": "/assets/images/Kaeya_special_food_1753003972833.png",
-    "effectIcon": "/assets/images/Kaeya_food_effect_1753003972834.png"
+    "icon": "/assets/images/Kaeya_special_food_1753016044776.png",
+    "effectIcon": "/assets/images/Kaeya_food_effect_1753016044776.png"
   },
   "levelProgression": [
     {
@@ -4690,7 +4690,7 @@
             "name": "ドドリアン",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Kaeya_material_100056_1753003972849.png",
+            "icon": "/assets/images/Kaeya_material_100056_1753016045062.png",
             "description": "水辺に育つ花。花びらを料理すると、爽やかな口当たりで、ほろ苦い。",
             "type": "モンド地域の特産"
           },
@@ -4699,7 +4699,7 @@
             "name": "哀切なアイスクリスタル·砕屑",
             "count": 1,
             "rank": 2,
-            "icon": "/assets/images/Kamisato Ayaka_material_104161_1753003967592.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104161_1753016037888.png",
             "description": "キャラクターの突破用アイテム。",
             "type": "キャラクター突破素材"
           },
@@ -4708,7 +4708,7 @@
             "name": "宝探しの鴉マーク",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Kaeya_material_112035_1753003972854.png",
+            "icon": "/assets/images/Kaeya_material_112035_1753016045037.png",
             "description": "宝盗団の誇りであるマーク、彼らの宝物に対する永遠不滅の情熱を示すものである。とはいえ、自分が盗賊ということを誇らしげに示す必要はあるかな…？",
             "type": "キャラと武器育成素材"
           }
@@ -4739,7 +4739,7 @@
             "name": "ドドリアン",
             "count": 10,
             "rank": 1,
-            "icon": "/assets/images/Kaeya_material_100056_1753003972849.png",
+            "icon": "/assets/images/Kaeya_material_100056_1753016045062.png",
             "description": "水辺に育つ花。花びらを料理すると、爽やかな口当たりで、ほろ苦い。",
             "type": "モンド地域の特産"
           },
@@ -4748,7 +4748,7 @@
             "name": "哀切なアイスクリスタル·欠片",
             "count": 3,
             "rank": 3,
-            "icon": "/assets/images/Kamisato Ayaka_material_104162_1753003967586.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104162_1753016038065.png",
             "description": "キャラクターの突破用アイテム。\\n「…すみません…」",
             "type": "キャラクター突破素材"
           },
@@ -4757,7 +4757,7 @@
             "name": "宝探しの鴉マーク",
             "count": 15,
             "rank": 1,
-            "icon": "/assets/images/Kaeya_material_112035_1753003972854.png",
+            "icon": "/assets/images/Kaeya_material_112035_1753016045037.png",
             "description": "宝盗団の誇りであるマーク、彼らの宝物に対する永遠不滅の情熱を示すものである。とはいえ、自分が盗賊ということを誇らしげに示す必要はあるかな…？",
             "type": "キャラと武器育成素材"
           },
@@ -4766,7 +4766,7 @@
             "name": "極寒のコア",
             "count": 2,
             "rank": 4,
-            "icon": "/assets/images/Kaeya_material_113010_1753003972853.png",
+            "icon": "/assets/images/Kaeya_material_113010_1753016045011.png",
             "description": "急凍樹を倒した後に現れるコア。\\n今にも大地の深淵のエネルギーと思念が噴出しようとしている。哀悼のように静寂な氷霜もいずれ地上の生物に宿る。たとえ生き物を狩らないはずのツル植物でも、強く凶暴になるであろう。",
             "type": "キャラクター育成素材"
           }
@@ -4801,7 +4801,7 @@
             "name": "ドドリアン",
             "count": 20,
             "rank": 1,
-            "icon": "/assets/images/Kaeya_material_100056_1753003972849.png",
+            "icon": "/assets/images/Kaeya_material_100056_1753016045062.png",
             "description": "水辺に育つ花。花びらを料理すると、爽やかな口当たりで、ほろ苦い。",
             "type": "モンド地域の特産"
           },
@@ -4810,7 +4810,7 @@
             "name": "哀切なアイスクリスタル·欠片",
             "count": 6,
             "rank": 3,
-            "icon": "/assets/images/Kamisato Ayaka_material_104162_1753003967586.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104162_1753016038065.png",
             "description": "キャラクターの突破用アイテム。\\n「…すみません…」",
             "type": "キャラクター突破素材"
           },
@@ -4819,7 +4819,7 @@
             "name": "シルバーの鴉マーク",
             "count": 12,
             "rank": 2,
-            "icon": "/assets/images/Kaeya_material_112036_1753003972854.png",
+            "icon": "/assets/images/Kaeya_material_112036_1753016045088.png",
             "description": "宝盗団のメンバーが互いの存在を証明する鴉マーク。宝盗団のメンバーは出身を問わず、宝物への貪欲さえあれば、「優秀」なメンバーになれる。",
             "type": "キャラと武器育成素材"
           },
@@ -4828,7 +4828,7 @@
             "name": "極寒のコア",
             "count": 4,
             "rank": 4,
-            "icon": "/assets/images/Kaeya_material_113010_1753003972853.png",
+            "icon": "/assets/images/Kaeya_material_113010_1753016045011.png",
             "description": "急凍樹を倒した後に現れるコア。\\n今にも大地の深淵のエネルギーと思念が噴出しようとしている。哀悼のように静寂な氷霜もいずれ地上の生物に宿る。たとえ生き物を狩らないはずのツル植物でも、強く凶暴になるであろう。",
             "type": "キャラクター育成素材"
           }
@@ -4863,7 +4863,7 @@
             "name": "ドドリアン",
             "count": 30,
             "rank": 1,
-            "icon": "/assets/images/Kaeya_material_100056_1753003972849.png",
+            "icon": "/assets/images/Kaeya_material_100056_1753016045062.png",
             "description": "水辺に育つ花。花びらを料理すると、爽やかな口当たりで、ほろ苦い。",
             "type": "モンド地域の特産"
           },
@@ -4872,7 +4872,7 @@
             "name": "哀切なアイスクリスタル·塊",
             "count": 3,
             "rank": 4,
-            "icon": "/assets/images/Kamisato Ayaka_material_104163_1753003967587.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104163_1753016038108.png",
             "description": "キャラクターの突破用アイテム。\\n「…すみません…」\\n「あなた達まで、わたしと一緒にこの世界の悲しみを背負わせるなんて…」",
             "type": "キャラクター突破素材"
           },
@@ -4881,7 +4881,7 @@
             "name": "シルバーの鴉マーク",
             "count": 18,
             "rank": 2,
-            "icon": "/assets/images/Kaeya_material_112036_1753003972854.png",
+            "icon": "/assets/images/Kaeya_material_112036_1753016045088.png",
             "description": "宝盗団のメンバーが互いの存在を証明する鴉マーク。宝盗団のメンバーは出身を問わず、宝物への貪欲さえあれば、「優秀」なメンバーになれる。",
             "type": "キャラと武器育成素材"
           },
@@ -4890,7 +4890,7 @@
             "name": "極寒のコア",
             "count": 8,
             "rank": 4,
-            "icon": "/assets/images/Kaeya_material_113010_1753003972853.png",
+            "icon": "/assets/images/Kaeya_material_113010_1753016045011.png",
             "description": "急凍樹を倒した後に現れるコア。\\n今にも大地の深淵のエネルギーと思念が噴出しようとしている。哀悼のように静寂な氷霜もいずれ地上の生物に宿る。たとえ生き物を狩らないはずのツル植物でも、強く凶暴になるであろう。",
             "type": "キャラクター育成素材"
           }
@@ -4925,7 +4925,7 @@
             "name": "ドドリアン",
             "count": 45,
             "rank": 1,
-            "icon": "/assets/images/Kaeya_material_100056_1753003972849.png",
+            "icon": "/assets/images/Kaeya_material_100056_1753016045062.png",
             "description": "水辺に育つ花。花びらを料理すると、爽やかな口当たりで、ほろ苦い。",
             "type": "モンド地域の特産"
           },
@@ -4934,7 +4934,7 @@
             "name": "哀切なアイスクリスタル·塊",
             "count": 6,
             "rank": 4,
-            "icon": "/assets/images/Kamisato Ayaka_material_104163_1753003967587.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104163_1753016038108.png",
             "description": "キャラクターの突破用アイテム。\\n「…すみません…」\\n「あなた達まで、わたしと一緒にこの世界の悲しみを背負わせるなんて…」",
             "type": "キャラクター突破素材"
           },
@@ -4943,7 +4943,7 @@
             "name": "ゴールドの鴉マーク",
             "count": 12,
             "rank": 3,
-            "icon": "/assets/images/Kaeya_material_112037_1753003972851.png",
+            "icon": "/assets/images/Kaeya_material_112037_1753016044988.png",
             "description": "宝盗団の信仰と誇りを示す鴉マーク。この広い大地、幽邃の深淵、未知な海に秘宝が存在していれば、宝盗団の信念は永遠に続く。",
             "type": "キャラと武器育成素材"
           },
@@ -4952,7 +4952,7 @@
             "name": "極寒のコア",
             "count": 12,
             "rank": 4,
-            "icon": "/assets/images/Kaeya_material_113010_1753003972853.png",
+            "icon": "/assets/images/Kaeya_material_113010_1753016045011.png",
             "description": "急凍樹を倒した後に現れるコア。\\n今にも大地の深淵のエネルギーと思念が噴出しようとしている。哀悼のように静寂な氷霜もいずれ地上の生物に宿る。たとえ生き物を狩らないはずのツル植物でも、強く凶暴になるであろう。",
             "type": "キャラクター育成素材"
           }
@@ -4987,7 +4987,7 @@
             "name": "ドドリアン",
             "count": 60,
             "rank": 1,
-            "icon": "/assets/images/Kaeya_material_100056_1753003972849.png",
+            "icon": "/assets/images/Kaeya_material_100056_1753016045062.png",
             "description": "水辺に育つ花。花びらを料理すると、爽やかな口当たりで、ほろ苦い。",
             "type": "モンド地域の特産"
           },
@@ -4996,7 +4996,7 @@
             "name": "哀切なアイスクリスタル",
             "count": 6,
             "rank": 5,
-            "icon": "/assets/images/Kamisato Ayaka_material_104164_1753003967583.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104164_1753016037959.png",
             "description": "キャラクターの突破用アイテム。\\n「…すみません、あなた達まで、わたしと一緒にこの世界の悲しみを背負わせるなんて…」\\n「わたしの寒さを耐えられる者は、きっと心の中に熱い欲望を持っているだろう？」\\n「なら、わたしの代わりに、旧世界を焼き尽くそう。」",
             "type": "キャラクター突破素材"
           },
@@ -5005,7 +5005,7 @@
             "name": "ゴールドの鴉マーク",
             "count": 24,
             "rank": 3,
-            "icon": "/assets/images/Kaeya_material_112037_1753003972851.png",
+            "icon": "/assets/images/Kaeya_material_112037_1753016044988.png",
             "description": "宝盗団の信仰と誇りを示す鴉マーク。この広い大地、幽邃の深淵、未知な海に秘宝が存在していれば、宝盗団の信念は永遠に続く。",
             "type": "キャラと武器育成素材"
           },
@@ -5014,7 +5014,7 @@
             "name": "極寒のコア",
             "count": 20,
             "rank": 4,
-            "icon": "/assets/images/Kaeya_material_113010_1753003972853.png",
+            "icon": "/assets/images/Kaeya_material_113010_1753016045011.png",
             "description": "急凍樹を倒した後に現れるコア。\\n今にも大地の深淵のエネルギーと思念が噴出しようとしている。哀悼のように静寂な氷霜もいずれ地上の生物に宿る。たとえ生き物を狩らないはずのツル植物でも、強く凶暴になるであろう。",
             "type": "キャラクター育成素材"
           }

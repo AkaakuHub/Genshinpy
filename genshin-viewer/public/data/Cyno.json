@@ -8,7 +8,7 @@
   "region": "Sumeru",
   "constellation": "金狼座",
   "description": "教令院の学者たちを監督する「大マハマトラ」。クシャレワー学院が作った『大マッハマシン』よりも効率よく仕事をこなす。",
-  "icon": "/assets/images/Cyno_icon_1753004044269.png",
+  "icon": "/assets/images/Cyno_icon_1753016125850.png",
   "profile": {
     "baseHp": 972.386,
     "baseAtk": 24.765,
@@ -23,7 +23,7 @@
       "id": "七聖槍術",
       "name": "七聖槍術",
       "description": "",
-      "icon": "/assets/images/Xiangling_normal_attack_1753003979325.png",
+      "icon": "/assets/images/Xiangling_normal_attack_1753016053320.png",
       "skillType": "normal",
       "params": {
         "1": [],
@@ -47,7 +47,7 @@
       "id": "秘儀·律淵渡魂",
       "name": "秘儀·律淵渡魂",
       "description": "",
-      "icon": "/assets/images/Cyno_elemental_skill_1753004044269.png",
+      "icon": "/assets/images/Cyno_elemental_skill_1753016125850.png",
       "levelData": [
         {
           "tableIndex": 1,
@@ -1136,21 +1136,21 @@
     "elementalBurst": {
       "name": "落羽の裁決",
       "description": "",
-      "icon": "/assets/images/Cyno_elemental_burst_1753004044269.png",
+      "icon": "/assets/images/Cyno_elemental_burst_1753016125850.png",
       "levelData": []
     },
     "passiveTalents": [
       {
         "name": "落羽の裁決",
-        "icon": "/assets/images/Cyno_passive_1_1753004044269.png"
+        "icon": "/assets/images/Cyno_passive_1_1753016125850.png"
       },
       {
         "name": "九弓の権能",
-        "icon": "/assets/images/Cyno_passive_2_1753004044269.png"
+        "icon": "/assets/images/Cyno_passive_2_1753016125850.png"
       },
       {
         "name": "沈黙の恵賜",
-        "icon": "/assets/images/Cyno_passive_3_1753004044269.png"
+        "icon": "/assets/images/Cyno_passive_3_1753016125850.png"
       }
     ],
     "completeTableData": [
@@ -3984,7 +3984,7 @@
               "5段ダメージ|{param6:F1P}",
               "重撃ダメージ|{param7:F1P}",
               "重撃スタミナ消費|{param8:F1}",
-              "落下期間のダメージ|{param9:F1P}",
+              "落��期間のダメージ|{param9:F1P}",
               "低空/高空落下攻撃ダメージ|{param10:P}/{param11:P}",
               "元素熟知アップ|{param12:I}",
               "基礎継続時間|{param13:F1}秒",
@@ -4317,32 +4317,32 @@
       {
         "level": null,
         "name": "立儀·俯瞰晦冥",
-        "icon": "/assets/images/Cyno_constellation_cNaN_1753004044269.png"
+        "icon": "/assets/images/Cyno_constellation_cNaN_1753016125850.png"
       },
       {
         "level": null,
         "name": "令儀·拝謁返霊",
-        "icon": "/assets/images/Cyno_constellation_cNaN_1753004044269.png"
+        "icon": "/assets/images/Cyno_constellation_cNaN_1753016125850.png"
       },
       {
         "level": null,
         "name": "律儀·行度誓戒",
-        "icon": "/assets/images/Cyno_constellation_cNaN_1753004044269.png"
+        "icon": "/assets/images/Cyno_constellation_cNaN_1753016125850.png"
       },
       {
         "level": null,
         "name": "巡儀·貫徹禁網",
-        "icon": "/assets/images/Cyno_constellation_cNaN_1753004044269.png"
+        "icon": "/assets/images/Cyno_constellation_cNaN_1753016125850.png"
       },
       {
         "level": null,
         "name": "幽儀·往昔星芒",
-        "icon": "/assets/images/Cyno_constellation_cNaN_1753004044269.png"
+        "icon": "/assets/images/Cyno_constellation_cNaN_1753016125850.png"
       },
       {
         "level": null,
         "name": "羽儀·裁落鈞衡",
-        "icon": "/assets/images/Cyno_constellation_cNaN_1753004044270.png"
+        "icon": "/assets/images/Cyno_constellation_cNaN_1753016125850.png"
       }
     ]
   },
@@ -4359,14 +4359,14 @@
     "id": 210134,
     "name": "セノ·噤閉",
     "description": "セノ·噤閉",
-    "icon": "/assets/images/Cyno_icon_1753004044269.png"
+    "icon": "/assets/images/Cyno_icon_1753016125850.png"
   },
   "specialFood": {
     "id": 108467,
     "name": "決闘の魂",
     "rank": 3,
-    "icon": "/assets/images/Cyno_special_food_1753004044270.png",
-    "effectIcon": "/assets/images/Jean_food_effect_1753003968823.png"
+    "icon": "/assets/images/Cyno_special_food_1753016125851.png",
+    "effectIcon": "/assets/images/Jean_food_effect_1753016039441.png"
   },
   "levelProgression": [
     {
@@ -4682,7 +4682,7 @@
             "name": "聖金虫",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Cyno_material_101225_1753004044285.png",
+            "icon": "/assets/images/Cyno_material_101225_1753016126070.png",
             "description": "広大な砂海に生息している頑強な甲虫。外骨格にある金色の模様は、まるでこの虫たちが、砂漠に散らばる古代遺跡と何らかの繋がりを持つことを示唆しているかのようだ。",
             "type": "スメール地域の特産"
           },
@@ -4691,7 +4691,7 @@
             "name": "最勝のアメシスト·砕屑",
             "count": 1,
             "rank": 2,
-            "icon": "/assets/images/Lisa_material_104141_1753003970099.png",
+            "icon": "/assets/images/Lisa_material_104141_1753016041506.png",
             "description": "キャラクターの突破用アイテム。",
             "type": "キャラクター突破素材"
           },
@@ -4700,7 +4700,7 @@
             "name": "占いの絵巻",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Barbara_material_112008_1753003971368.png",
+            "icon": "/assets/images/Barbara_material_112008_1753016043257.png",
             "description": "ある、魔法に関する絵巻の断片だと考えられる。異様で不吉な暖かさがある。",
             "type": "キャラと武器育成素材"
           }
@@ -4731,7 +4731,7 @@
             "name": "聖金虫",
             "count": 10,
             "rank": 1,
-            "icon": "/assets/images/Cyno_material_101225_1753004044285.png",
+            "icon": "/assets/images/Cyno_material_101225_1753016126070.png",
             "description": "広大な砂海に生息している頑強な甲虫。外骨格にある金色の模様は、まるでこの虫たちが、砂漠に散らばる古代遺跡と何らかの繋がりを持つことを示唆しているかのようだ。",
             "type": "スメール地域の特産"
           },
@@ -4740,7 +4740,7 @@
             "name": "最勝のアメシスト·欠片",
             "count": 3,
             "rank": 3,
-            "icon": "/assets/images/Lisa_material_104142_1753003970098.png",
+            "icon": "/assets/images/Lisa_material_104142_1753016041531.png",
             "description": "キャラクターの突破用アイテム。\\n「此の身こそ、いと尊き存在。」",
             "type": "キャラクター突破素材"
           },
@@ -4749,7 +4749,7 @@
             "name": "占いの絵巻",
             "count": 15,
             "rank": 1,
-            "icon": "/assets/images/Barbara_material_112008_1753003971368.png",
+            "icon": "/assets/images/Barbara_material_112008_1753016043257.png",
             "description": "ある、魔法に関する絵巻の断片だと考えられる。異様で不吉な暖かさがある。",
             "type": "キャラと武器育成素材"
           },
@@ -4758,9 +4758,9 @@
             "name": "隠雷の実",
             "count": 2,
             "rank": 4,
-            "icon": "/assets/images/Dori_material_113037_1753004040053.png",
+            "icon": "/assets/images/Dori_material_113037_1753016121178.png",
             "description": "鋭利な葉っぱに包まれた迅電樹のコア。周囲に雷元素を好き勝手に放つ。\\n大地の奥深くで咆哮するエネルギーは焦燥感を滲ませながら、怒りを注ぎ込もうとしている。そして、不幸なツル草も狂暴さに染めあげられ、ねじ曲がった枝を振りかざして泣き叫ぶのだ。雷火が体を貫く痛みを他の人にも味わって欲しいのだろうか——それとも、必ず訪れる破滅を前に、もがき苦しんでいるのだろうか。",
-            "type": "キャラク���ー育成素材"
+            "type": "キャラクター育成素材"
           }
         ],
         "statBonus": [
@@ -4793,7 +4793,7 @@
             "name": "聖金虫",
             "count": 20,
             "rank": 1,
-            "icon": "/assets/images/Cyno_material_101225_1753004044285.png",
+            "icon": "/assets/images/Cyno_material_101225_1753016126070.png",
             "description": "広大な砂海に生息している頑強な甲虫。外骨格にある金色の模様は、まるでこの虫たちが、砂漠に散らばる古代遺跡と何らかの繋がりを持つことを示唆しているかのようだ。",
             "type": "スメール地域の特産"
           },
@@ -4802,7 +4802,7 @@
             "name": "最勝のアメシスト·欠片",
             "count": 6,
             "rank": 3,
-            "icon": "/assets/images/Lisa_material_104142_1753003970098.png",
+            "icon": "/assets/images/Lisa_material_104142_1753016041531.png",
             "description": "キャラクターの突破用アイテム。\\n「此の身こそ、いと尊き存在。」",
             "type": "キャラクター突破素材"
           },
@@ -4811,7 +4811,7 @@
             "name": "封魔の絵巻",
             "count": 12,
             "rank": 2,
-            "icon": "/assets/images/Barbara_material_112009_1753003971365.png",
+            "icon": "/assets/images/Barbara_material_112009_1753016043233.png",
             "description": "解読が難しい絵がある古書の断章。中の人物を真似することで、魔物も魔法を再現できるようになる。",
             "type": "キャラと武器育成素材"
           },
@@ -4820,9 +4820,9 @@
             "name": "隠雷の実",
             "count": 4,
             "rank": 4,
-            "icon": "/assets/images/Dori_material_113037_1753004040053.png",
+            "icon": "/assets/images/Dori_material_113037_1753016121178.png",
             "description": "鋭利な葉っぱに包まれた迅電樹のコア。周囲に雷元素を好き勝手に放つ。\\n大地の奥深くで咆哮するエネルギーは焦燥感を滲ませながら、怒りを注ぎ込もうとしている。そして、不幸なツル草も狂暴さに染めあげられ、ねじ曲がった枝を振りかざして泣き叫ぶのだ。雷火が体を貫く痛みを他の人にも味わって欲しいのだろうか——それとも、必ず訪れる破滅を前に、もがき苦しんでいるのだろうか。",
-            "type": "キャラク���ー育成素材"
+            "type": "キャラクター育成素材"
           }
         ],
         "statBonus": [
@@ -4855,7 +4855,7 @@
             "name": "聖金虫",
             "count": 30,
             "rank": 1,
-            "icon": "/assets/images/Cyno_material_101225_1753004044285.png",
+            "icon": "/assets/images/Cyno_material_101225_1753016126070.png",
             "description": "広大な砂海に生息している頑強な甲虫。外骨格にある金色の模様は、まるでこの虫たちが、砂漠に散らばる古代遺跡と何らかの繋がりを持つことを示唆しているかのようだ。",
             "type": "スメール地域の特産"
           },
@@ -4864,7 +4864,7 @@
             "name": "最勝のアメシスト·塊",
             "count": 3,
             "rank": 4,
-            "icon": "/assets/images/Lisa_material_104143_1753003970096.png",
+            "icon": "/assets/images/Lisa_material_104143_1753016041591.png",
             "description": "キャラクターの突破用アイテム。\\n「此の身こそ、いと尊き存在。」\\n「天下を泰平せし者。」",
             "type": "キャラクター突破素材"
           },
@@ -4873,7 +4873,7 @@
             "name": "封魔の絵巻",
             "count": 18,
             "rank": 2,
-            "icon": "/assets/images/Barbara_material_112009_1753003971365.png",
+            "icon": "/assets/images/Barbara_material_112009_1753016043233.png",
             "description": "解読が難しい絵がある古書の断章。中の人物を真似することで、魔物も魔法を再現できるようになる。",
             "type": "キャラと武器育成素材"
           },
@@ -4882,9 +4882,9 @@
             "name": "隠雷の実",
             "count": 8,
             "rank": 4,
-            "icon": "/assets/images/Dori_material_113037_1753004040053.png",
+            "icon": "/assets/images/Dori_material_113037_1753016121178.png",
             "description": "鋭利な葉っぱに包まれた迅電樹のコア。周囲に雷元素を好き勝手に放つ。\\n大地の奥深くで咆哮するエネルギーは焦燥感を滲ませながら、怒りを注ぎ込もうとしている。そして、不幸なツル草も狂暴さに染めあげられ、ねじ曲がった枝を振りかざして泣き叫ぶのだ。雷火が体を貫く痛みを他の人にも味わって欲しいのだろうか——それとも、必ず訪れる破滅を前に、もがき苦しんでいるのだろうか。",
-            "type": "キャラク���ー育成素材"
+            "type": "キャラクター育成素材"
           }
         ],
         "statBonus": [
@@ -4917,7 +4917,7 @@
             "name": "聖金虫",
             "count": 45,
             "rank": 1,
-            "icon": "/assets/images/Cyno_material_101225_1753004044285.png",
+            "icon": "/assets/images/Cyno_material_101225_1753016126070.png",
             "description": "広大な砂海に生息している頑強な甲虫。外骨格にある金色の模様は、まるでこの虫たちが、砂漠に散らばる古代遺跡と何らかの繋がりを持つことを示唆しているかのようだ。",
             "type": "スメール地域の特産"
           },
@@ -4926,7 +4926,7 @@
             "name": "最勝のアメシスト·塊",
             "count": 6,
             "rank": 4,
-            "icon": "/assets/images/Lisa_material_104143_1753003970096.png",
+            "icon": "/assets/images/Lisa_material_104143_1753016041591.png",
             "description": "キャラクターの突破用アイテム。\\n「此の身こそ、いと尊き存在。」\\n「天下を泰平せし者。」",
             "type": "キャラクター突破素材"
           },
@@ -4935,7 +4935,7 @@
             "name": "禁呪の絵巻",
             "count": 12,
             "rank": 3,
-            "icon": "/assets/images/Barbara_material_112010_1753003971364.png",
+            "icon": "/assets/images/Barbara_material_112010_1753016043280.png",
             "description": "古代の絵が描かれている古い写本。その意味を解読できる人は少ないが、本当の意味を理解した学者はみんな狂ってしまったという噂がある。",
             "type": "キャラと武器育成素材"
           },
@@ -4944,9 +4944,9 @@
             "name": "隠雷の実",
             "count": 12,
             "rank": 4,
-            "icon": "/assets/images/Dori_material_113037_1753004040053.png",
+            "icon": "/assets/images/Dori_material_113037_1753016121178.png",
             "description": "鋭利な葉っぱに包まれた迅電樹のコア。周囲に雷元素を好き勝手に放つ。\\n大地の奥深くで咆哮するエネルギーは焦燥感を滲ませながら、怒りを注ぎ込もうとしている。そして、不幸なツル草も狂暴さに染めあげられ、ねじ曲がった枝を振りかざして泣き叫ぶのだ。雷火が体を貫く痛みを他の人にも味わって欲しいのだろうか——それとも、必ず訪れる破滅を前に、もがき苦しんでいるのだろうか。",
-            "type": "キャラク���ー育成素材"
+            "type": "キャラクター育成素材"
           }
         ],
         "statBonus": [
@@ -4979,7 +4979,7 @@
             "name": "聖金虫",
             "count": 60,
             "rank": 1,
-            "icon": "/assets/images/Cyno_material_101225_1753004044285.png",
+            "icon": "/assets/images/Cyno_material_101225_1753016126070.png",
             "description": "広大な砂海に生息している頑強な甲虫。外骨格にある金色の模様は、まるでこの虫たちが、砂漠に散らばる古代遺跡と何らかの繋がりを持つことを示唆しているかのようだ。",
             "type": "スメール地域の特産"
           },
@@ -4988,7 +4988,7 @@
             "name": "最勝のアメシスト",
             "count": 6,
             "rank": 5,
-            "icon": "/assets/images/Lisa_material_104144_1753003970099.png",
+            "icon": "/assets/images/Lisa_material_104144_1753016041608.png",
             "description": "キャラクターの突破用アイテム。\\n「此の身こそ、いと尊き存在。」\\n「天下を泰平せし者。」\\n「臣民に夢を与えると誓いましょう。未来永劫、不変の『永遠』を。」",
             "type": "キャラクター突破素材"
           },
@@ -4997,7 +4997,7 @@
             "name": "禁呪の絵巻",
             "count": 24,
             "rank": 3,
-            "icon": "/assets/images/Barbara_material_112010_1753003971364.png",
+            "icon": "/assets/images/Barbara_material_112010_1753016043280.png",
             "description": "古代の絵が描かれている古い写本。その意味を解読できる人は少ないが、本当の意味を理解した学者はみんな狂ってしまったという噂がある。",
             "type": "キャラと武器育成素材"
           },
@@ -5006,9 +5006,9 @@
             "name": "隠雷の実",
             "count": 20,
             "rank": 4,
-            "icon": "/assets/images/Dori_material_113037_1753004040053.png",
+            "icon": "/assets/images/Dori_material_113037_1753016121178.png",
             "description": "鋭利な葉っぱに包まれた迅電樹のコア。周囲に雷元素を好き勝手に放つ。\\n大地の奥深くで咆哮するエネルギーは焦燥感を滲ませながら、怒りを注ぎ込もうとしている。そして、不幸なツル草も狂暴さに染めあげられ、ねじ曲がった枝を振りかざして泣き叫ぶのだ。雷火が体を貫く痛みを他の人にも味わって欲しいのだろうか——それとも、必ず訪れる破滅を前に、もがき苦しんでいるのだろうか。",
-            "type": "キャラク���ー育成素材"
+            "type": "キャラクター育成素材"
           }
         ],
         "statBonus": [

@@ -8,7 +8,7 @@
   "region": "Mondstadt",
   "constellation": "歌仙座",
   "description": "モンドの街にいる、数多くの自由な吟遊詩人の一人。",
-  "icon": "/assets/images/Venti_icon_1753003978068.png",
+  "icon": "/assets/images/Venti_icon_1753016051651.png",
   "profile": {
     "baseHp": 819.855,
     "baseAtk": 20.482,
@@ -23,7 +23,7 @@
       "id": "神代の射術",
       "name": "神代の射術",
       "description": "",
-      "icon": "/assets/images/Amber_normal_attack_1753003976614.png",
+      "icon": "/assets/images/Amber_normal_attack_1753016049941.png",
       "skillType": "normal",
       "params": {
         "1": [],
@@ -47,7 +47,7 @@
       "id": "高天の歌",
       "name": "高天の歌",
       "description": "",
-      "icon": "/assets/images/Venti_elemental_skill_1753003978068.png",
+      "icon": "/assets/images/Venti_elemental_skill_1753016051651.png",
       "levelData": [
         {
           "tableIndex": 1,
@@ -296,7 +296,7 @@
             "一回押しダメージ|{param1:P}",
             "一回押しクールタイム|{param2:F1}秒",
             "長押しダメージ|{param3:P}",
-            "長押しクールタイム|{param4:F1}秒",
+            "長押しクー���タイム|{param4:F1}秒",
             "",
             "",
             "",
@@ -1136,21 +1136,21 @@
     "elementalBurst": {
       "name": "余風の抱擁",
       "description": "",
-      "icon": "/assets/images/Venti_elemental_burst_1753003978068.png",
+      "icon": "/assets/images/Venti_elemental_burst_1753016051651.png",
       "levelData": []
     },
     "passiveTalents": [
       {
         "name": "余風の抱擁",
-        "icon": "/assets/images/Venti_passive_1_1753003978069.png"
+        "icon": "/assets/images/Venti_passive_1_1753016051651.png"
       },
       {
         "name": "暴風の目",
-        "icon": "/assets/images/Venti_passive_2_1753003978069.png"
+        "icon": "/assets/images/Venti_passive_2_1753016051652.png"
       },
       {
         "name": "恒風と共に",
-        "icon": "/assets/images/Amber_passive_3_1753003976614.png"
+        "icon": "/assets/images/Amber_passive_3_1753016049942.png"
       }
     ],
     "completeTableData": [
@@ -1895,7 +1895,7 @@
               "6段ダメージ|{param6:P}",
               "狙い撃ち|{param7:F1P}",
               "フルチャージ狙い撃ち|{param8:P}",
-              "落下期���のダメージ|{param9:F1P}",
+              "落下期間の��メージ|{param9:F1P}",
               "低空/高空落下攻撃ダメージ|{param10:P}/{param11:P}",
               "",
               "",
@@ -2440,7 +2440,7 @@
               "一回押しダメージ|{param1:P}",
               "一回押しクールタイム|{param2:F1}秒",
               "長押しダメージ|{param3:P}",
-              "長押しクールタイム|{param4:F1}秒",
+              "長押しクー���タイム|{param4:F1}秒",
               "",
               "",
               "",
@@ -4317,32 +4317,32 @@
       {
         "level": null,
         "name": "矢先の蒼風",
-        "icon": "/assets/images/Venti_constellation_cNaN_1753003978069.png"
+        "icon": "/assets/images/Venti_constellation_cNaN_1753016051652.png"
       },
       {
         "level": null,
         "name": "恋い焦がれるそよ風",
-        "icon": "/assets/images/Venti_constellation_cNaN_1753003978069.png"
+        "icon": "/assets/images/Venti_constellation_cNaN_1753016051652.png"
       },
       {
         "level": null,
         "name": "千の風の詩",
-        "icon": "/assets/images/Venti_constellation_cNaN_1753003978069.png"
+        "icon": "/assets/images/Venti_constellation_cNaN_1753016051652.png"
       },
       {
         "level": null,
         "name": "自由の凛風",
-        "icon": "/assets/images/Venti_constellation_cNaN_1753003978069.png"
+        "icon": "/assets/images/Venti_constellation_cNaN_1753016051652.png"
       },
       {
         "level": null,
         "name": "高天の協奏",
-        "icon": "/assets/images/Venti_constellation_cNaN_1753003978069.png"
+        "icon": "/assets/images/Venti_constellation_cNaN_1753016051652.png"
       },
       {
         "level": null,
         "name": "抗争の暴風",
-        "icon": "/assets/images/Venti_constellation_cNaN_1753003978069.png"
+        "icon": "/assets/images/Venti_constellation_cNaN_1753016051652.png"
       }
     ]
   },
@@ -4359,14 +4359,14 @@
     "id": 210007,
     "name": "ウェンティ·青空",
     "description": "ウェンティ·青空",
-    "icon": "/assets/images/Venti_icon_1753003978068.png"
+    "icon": "/assets/images/Venti_icon_1753016051651.png"
   },
   "specialFood": {
     "id": 108113,
     "name": "真·風神ヒュッツポット",
     "rank": 3,
-    "icon": "/assets/images/Venti_special_food_1753003978069.png",
-    "effectIcon": "/assets/images/Barbara_food_effect_1753003971351.png"
+    "icon": "/assets/images/Venti_special_food_1753016051653.png",
+    "effectIcon": "/assets/images/Barbara_food_effect_1753016043006.png"
   },
   "levelProgression": [
     {
@@ -4682,7 +4682,7 @@
             "name": "セシリアの花",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Venti_material_100023_1753003978084.png",
+            "icon": "/assets/images/Venti_material_100023_1753016051876.png",
             "description": "名も形も美しい花。清冷かつ風の強い場所にしか咲かず、どこかの詩人のように掴み所がない。",
             "type": "モンド地域の特産"
           },
@@ -4691,7 +4691,7 @@
             "name": "自由のターコイズ·砕屑",
             "count": 1,
             "rank": 2,
-            "icon": "/assets/images/Jean_material_104151_1753003969041.png",
+            "icon": "/assets/images/Jean_material_104151_1753016039825.png",
             "description": "キャラクターの突破用アイテム。",
             "type": "キャラクター突破素材"
           },
@@ -4700,7 +4700,7 @@
             "name": "スライムの液体",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Lisa_material_112002_1753003970097.png",
+            "icon": "/assets/images/Lisa_material_112002_1753016041434.png",
             "description": "スライムの表面にある液体、各地の元素工房では最もよくある原料である。",
             "type": "キャラと武器育成素材"
           }
@@ -4731,7 +4731,7 @@
             "name": "セシリアの花",
             "count": 10,
             "rank": 1,
-            "icon": "/assets/images/Venti_material_100023_1753003978084.png",
+            "icon": "/assets/images/Venti_material_100023_1753016051876.png",
             "description": "名も形も美しい花。清冷かつ風の強い場所にしか咲かず、どこかの詩人のように掴み所がない。",
             "type": "モンド地域の特産"
           },
@@ -4740,7 +4740,7 @@
             "name": "自由のターコイズ·欠片",
             "count": 3,
             "rank": 3,
-            "icon": "/assets/images/Jean_material_104152_1753003968839.png",
+            "icon": "/assets/images/Jean_material_104152_1753016039696.png",
             "description": "キャラクターの突破用アイテム。\\n「風向きは変わるもの。」",
             "type": "キャラクター突破素材"
           },
@@ -4749,7 +4749,7 @@
             "name": "スライムの液体",
             "count": 15,
             "rank": 1,
-            "icon": "/assets/images/Lisa_material_112002_1753003970097.png",
+            "icon": "/assets/images/Lisa_material_112002_1753016041434.png",
             "description": "スライムの表面にある液体、各地の元素工房では最もよくある原料である。",
             "type": "キャラと武器育成素材"
           },
@@ -4758,7 +4758,7 @@
             "name": "暴風の種",
             "count": 2,
             "rank": 4,
-            "icon": "/assets/images/Jean_material_113001_1753003968842.png",
+            "icon": "/assets/images/Jean_material_113001_1753016039772.png",
             "description": "無相の風が倒された後の形態、中には純粋な風の力が含まれている。\\n繊細な蝶々の中にも、暴風を引き起こす力がある。この純粋な風によって構成された蝶は、暴風を再び起こす日を待っているはずだ。",
             "type": "キャラクター育成素材"
           }
@@ -4793,7 +4793,7 @@
             "name": "セシリアの花",
             "count": 20,
             "rank": 1,
-            "icon": "/assets/images/Venti_material_100023_1753003978084.png",
+            "icon": "/assets/images/Venti_material_100023_1753016051876.png",
             "description": "名も形も美しい花。清冷かつ風の強い場所にしか咲かず、どこかの詩人のように掴み所がない。",
             "type": "モンド地域の特産"
           },
@@ -4802,7 +4802,7 @@
             "name": "自由のターコイズ·欠片",
             "count": 6,
             "rank": 3,
-            "icon": "/assets/images/Jean_material_104152_1753003968839.png",
+            "icon": "/assets/images/Jean_material_104152_1753016039696.png",
             "description": "キャラクターの突破用アイテム。\\n「風向きは変わるもの。」",
             "type": "キャラクター突破素材"
           },
@@ -4811,7 +4811,7 @@
             "name": "スライムの分泌物",
             "count": 12,
             "rank": 2,
-            "icon": "/assets/images/Lisa_material_112003_1753003970094.png",
+            "icon": "/assets/images/Lisa_material_112003_1753016041563.png",
             "description": "純化されたスライムの分泌物、皮膚を傷つけるため、直接接触はしないように。",
             "type": "キャラと武器育成素材"
           },
@@ -4820,7 +4820,7 @@
             "name": "暴風の種",
             "count": 4,
             "rank": 4,
-            "icon": "/assets/images/Jean_material_113001_1753003968842.png",
+            "icon": "/assets/images/Jean_material_113001_1753016039772.png",
             "description": "無相の風が倒された後の形態、中には純粋な風の力が含まれている。\\n繊細な蝶々の中にも、暴風を引き起こす力がある。この純粋な風によって構成された蝶は、暴風を再び起こす日を待っているはずだ。",
             "type": "キャラクター育成素材"
           }
@@ -4855,7 +4855,7 @@
             "name": "セシリアの花",
             "count": 30,
             "rank": 1,
-            "icon": "/assets/images/Venti_material_100023_1753003978084.png",
+            "icon": "/assets/images/Venti_material_100023_1753016051876.png",
             "description": "名も形も美しい花。清冷かつ風の強い場所にしか咲かず、どこかの詩人のように掴み所がない。",
             "type": "モンド地域の特産"
           },
@@ -4864,7 +4864,7 @@
             "name": "自由のターコイズ·塊",
             "count": 3,
             "rank": 4,
-            "icon": "/assets/images/Jean_material_104153_1753003968841.png",
+            "icon": "/assets/images/Jean_material_104153_1753016039798.png",
             "description": "キャラクターの突破用アイテム。\\n「風向きは変わるもの。」\\n「いつか、光射す方へと吹いてくる。」",
             "type": "キャラクター突破素材"
           },
@@ -4873,7 +4873,7 @@
             "name": "スライムの分泌物",
             "count": 18,
             "rank": 2,
-            "icon": "/assets/images/Lisa_material_112003_1753003970094.png",
+            "icon": "/assets/images/Lisa_material_112003_1753016041563.png",
             "description": "純化されたスライムの分泌物、皮膚を傷つけるため、直接接触はしないように。",
             "type": "キャラと武器育成素材"
           },
@@ -4882,7 +4882,7 @@
             "name": "暴風の種",
             "count": 8,
             "rank": 4,
-            "icon": "/assets/images/Jean_material_113001_1753003968842.png",
+            "icon": "/assets/images/Jean_material_113001_1753016039772.png",
             "description": "無相の風が倒された後の形態、中には純粋な風の力が含まれている。\\n繊細な蝶々の中にも、暴風を引き起こす力がある。この純粋な風によって構成された蝶は、暴風を再び起こす日を待っているはずだ。",
             "type": "キャラクター育成素材"
           }
@@ -4917,7 +4917,7 @@
             "name": "セシリアの花",
             "count": 45,
             "rank": 1,
-            "icon": "/assets/images/Venti_material_100023_1753003978084.png",
+            "icon": "/assets/images/Venti_material_100023_1753016051876.png",
             "description": "名も形も美しい花。清冷かつ風の強い場所にしか咲かず、どこかの詩人のように掴み所がない。",
             "type": "モンド地域の特産"
           },
@@ -4926,7 +4926,7 @@
             "name": "自由のターコイズ·塊",
             "count": 6,
             "rank": 4,
-            "icon": "/assets/images/Jean_material_104153_1753003968841.png",
+            "icon": "/assets/images/Jean_material_104153_1753016039798.png",
             "description": "キャラクターの突破用アイテム。\\n「風向きは変わるもの。」\\n「いつか、光射す方へと吹いてくる。」",
             "type": "キャラクター突破素材"
           },
@@ -4935,7 +4935,7 @@
             "name": "スライムのピュレ",
             "count": 12,
             "rank": 3,
-            "icon": "/assets/images/Lisa_material_112004_1753003970092.png",
+            "icon": "/assets/images/Lisa_material_112004_1753016041461.png",
             "description": "スライムの濃縮ピュレ、静止した状態では不規則な動きをする。",
             "type": "キャラと武器育成素材"
           },
@@ -4944,7 +4944,7 @@
             "name": "暴風の種",
             "count": 12,
             "rank": 4,
-            "icon": "/assets/images/Jean_material_113001_1753003968842.png",
+            "icon": "/assets/images/Jean_material_113001_1753016039772.png",
             "description": "無相の風が倒された後の形態、中には純粋な風の力が含まれている。\\n繊細な蝶々の中にも、暴風を引き起こす力がある。この純粋な風によって構成された蝶は、暴風を再び起こす日を待っているはずだ。",
             "type": "キャラクター育成素材"
           }
@@ -4979,7 +4979,7 @@
             "name": "セシリアの花",
             "count": 60,
             "rank": 1,
-            "icon": "/assets/images/Venti_material_100023_1753003978084.png",
+            "icon": "/assets/images/Venti_material_100023_1753016051876.png",
             "description": "名も形も美しい花。清冷かつ風の強い場所にしか咲かず、どこかの詩人のように掴み所がない。",
             "type": "モンド地域の特産"
           },
@@ -4988,7 +4988,7 @@
             "name": "自由のターコイズ",
             "count": 6,
             "rank": 5,
-            "icon": "/assets/images/Jean_material_104154_1753003968846.png",
+            "icon": "/assets/images/Jean_material_104154_1753016039745.png",
             "description": "キャラクターの突破用アイテム。\\n「風向きは変わるもの。」\\n「いつか、光射す方へと吹いてくる。」\\n「これからは、ボクの祝福と共に、もっと自由に生きていこう。」",
             "type": "キャラクター突破素材"
           },
@@ -4997,7 +4997,7 @@
             "name": "スライムのピュレ",
             "count": 24,
             "rank": 3,
-            "icon": "/assets/images/Lisa_material_112004_1753003970092.png",
+            "icon": "/assets/images/Lisa_material_112004_1753016041461.png",
             "description": "スライムの濃縮ピュレ、静止した状態では不規則な動きをする。",
             "type": "キャラと武器育成素材"
           },
@@ -5006,7 +5006,7 @@
             "name": "暴風の種",
             "count": 20,
             "rank": 4,
-            "icon": "/assets/images/Jean_material_113001_1753003968842.png",
+            "icon": "/assets/images/Jean_material_113001_1753016039772.png",
             "description": "無相の風が倒された後の形態、中には純粋な風の力が含まれている。\\n繊細な蝶々の中にも、暴風を引き起こす力がある。この純粋な風によって構成された蝶は、暴風を再び起こす日を待っているはずだ。",
             "type": "キャラクター育成素材"
           }

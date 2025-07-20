@@ -8,7 +8,7 @@
   "region": "Inazuma",
   "constellation": "糸切鋏座",
   "description": "「千織屋」店主。フォンテーヌの有名なファッションデザイナー。",
-  "icon": "/assets/images/Chiori_icon_1753004076619.png",
+  "icon": "/assets/images/Chiori_icon_1753016161047.png",
   "profile": {
     "baseHp": 890.401,
     "baseAtk": 25.137,
@@ -23,7 +23,7 @@
       "id": "心織刀流",
       "name": "心織刀流",
       "description": "",
-      "icon": "/assets/images/Kamisato Ayaka_normal_attack_1753003967511.png",
+      "icon": "/assets/images/Kamisato Ayaka_normal_attack_1753016037630.png",
       "skillType": "normal",
       "params": {
         "1": [],
@@ -47,7 +47,7 @@
       "id": "羽袖一触",
       "name": "羽袖一触",
       "description": "",
-      "icon": "/assets/images/Chiori_elemental_skill_1753004076619.png",
+      "icon": "/assets/images/Chiori_elemental_skill_1753016161047.png",
       "levelData": [
         {
           "tableIndex": 1,
@@ -587,7 +587,7 @@
           ],
           "description": [
             "「たもと」のダメージ|攻撃力{param1:P}+防御力{param2:P}",
-            "「たもと」の存在時間|{param3:F1}秒",
+            "���たもと」の存在時間|{param3:F1}秒",
             "「たもと」の攻撃間隔|{param4:F1}秒",
             "斬り上げ攻撃のダメージ|攻撃力{param5:P}+防御力{param6:P}",
             "クールタイム|{param7:F1}秒",
@@ -1136,21 +1136,21 @@
     "elementalBurst": {
       "name": "量体裁衣",
       "description": "",
-      "icon": "/assets/images/Chiori_elemental_burst_1753004076619.png",
+      "icon": "/assets/images/Chiori_elemental_burst_1753016161047.png",
       "levelData": []
     },
     "passiveTalents": [
       {
         "name": "量体裁衣",
-        "icon": "/assets/images/Chiori_passive_1_1753004076619.png"
+        "icon": "/assets/images/Chiori_passive_1_1753016161047.png"
       },
       {
         "name": "錦上添花",
-        "icon": "/assets/images/Chiori_passive_2_1753004076619.png"
+        "icon": "/assets/images/Chiori_passive_2_1753016161047.png"
       },
       {
         "name": "衣香襟影",
-        "icon": "/assets/images/Chiori_passive_3_1753004076619.png"
+        "icon": "/assets/images/Chiori_passive_3_1753016161047.png"
       }
     ],
     "completeTableData": [
@@ -1395,7 +1395,7 @@
               "1段ダメージ|{param1:F1P}",
               "2段ダメージ|{param2:F1P}",
               "3段ダメージ|{param3:F1P}+{param4:F1P}",
-              "4段ダメージ|{param5:F1P}",
+              "4段ダメ���ジ|{param5:F1P}",
               "重撃ダメージ|{param6:F1P}+{param7:F1P}",
               "重撃スタミナ消費|{param8:F1}",
               "落下期間のダメージ|{param9:F1P}",
@@ -1744,7 +1744,7 @@
               0
             ],
             "description": [
-              "1段ダメージ|{param1:F1P}",
+              "1段ダメ��ジ|{param1:F1P}",
               "2段ダメージ|{param2:F1P}",
               "3段ダメージ|{param3:F1P}+{param4:F1P}",
               "4段ダメージ|{param5:F1P}",
@@ -2719,7 +2719,7 @@
             ],
             "description": [
               "「たもと」のダメージ|攻撃力{param1:P}+防御力{param2:P}",
-              "「たもと」の存在時間|{param3:F1}秒",
+              "���たもと」の存在時間|{param3:F1}秒",
               "「たもと」の攻撃間隔|{param4:F1}秒",
               "斬り上げ攻撃のダメージ|攻撃力{param5:P}+防御力{param6:P}",
               "クールタイム|{param7:F1}秒",
@@ -4247,7 +4247,7 @@
             "description": [
               "スキルダメージ|攻撃力{param1:P}+防御力{param2:P}",
               "クールタイム|{param3:F1}秒",
-              "元素エネルギー|{param4:I}",
+              "��素エネルギー|{param4:I}",
               "",
               "",
               "",
@@ -4317,32 +4317,32 @@
       {
         "level": null,
         "name": "正絹六通",
-        "icon": "/assets/images/Chiori_constellation_cNaN_1753004076619.png"
+        "icon": "/assets/images/Chiori_constellation_cNaN_1753016161047.png"
       },
       {
         "level": null,
         "name": "落染五色",
-        "icon": "/assets/images/Chiori_constellation_cNaN_1753004076620.png"
+        "icon": "/assets/images/Chiori_constellation_cNaN_1753016161048.png"
       },
       {
         "level": null,
         "name": "綴錦四分",
-        "icon": "/assets/images/Chiori_constellation_cNaN_1753004076620.png"
+        "icon": "/assets/images/Chiori_constellation_cNaN_1753016161048.png"
       },
       {
         "level": null,
         "name": "衣裁三礼",
-        "icon": "/assets/images/Chiori_constellation_cNaN_1753004076620.png"
+        "icon": "/assets/images/Chiori_constellation_cNaN_1753016161048.png"
       },
       {
         "level": null,
         "name": "綾羽二重",
-        "icon": "/assets/images/Chiori_constellation_cNaN_1753004076620.png"
+        "icon": "/assets/images/Chiori_constellation_cNaN_1753016161048.png"
       },
       {
         "level": null,
         "name": "万理一空",
-        "icon": "/assets/images/Chiori_constellation_cNaN_1753004076620.png"
+        "icon": "/assets/images/Chiori_constellation_cNaN_1753016161048.png"
       }
     ]
   },
@@ -4359,14 +4359,14 @@
     "id": 210193,
     "name": "千織·展袂",
     "description": "千織·展袂",
-    "icon": "/assets/images/Chiori_icon_1753004076619.png"
+    "icon": "/assets/images/Chiori_icon_1753016161047.png"
   },
   "specialFood": {
     "id": 108668,
     "name": "「ファッションショー」",
     "rank": 3,
-    "icon": "/assets/images/Chiori_special_food_1753004076620.png",
-    "effectIcon": "/assets/images/Jean_food_effect_1753003968823.png"
+    "icon": "/assets/images/Chiori_special_food_1753016161048.png",
+    "effectIcon": "/assets/images/Jean_food_effect_1753016039441.png"
   },
   "levelProgression": [
     {
@@ -4682,7 +4682,7 @@
             "name": "血石華",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Kujou Sara_material_101204_1753004022894.png",
+            "icon": "/assets/images/Kujou Sara_material_101204_1753016102539.png",
             "description": "詩の中で「赤蕊」と呼ばれている鮮やかな植物。稲妻列島で一度は絶滅したが、戦場で再び姿を現した。血塗られた戦場ではひときわ輝きを放つと言われている。",
             "type": "稲妻地域の特産"
           },
@@ -4691,7 +4691,7 @@
             "name": "堅牢なトパーズ·砕屑",
             "count": 1,
             "rank": 2,
-            "icon": "/assets/images/Ningguang_material_104171_1753003984615.png",
+            "icon": "/assets/images/Ningguang_material_104171_1753016059697.png",
             "description": "キャラクターの突破用アイテム。",
             "type": "キャラクター突破素材"
           },
@@ -4700,7 +4700,7 @@
             "name": "フライムの乾核",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Sangonomiya Kokomi_material_112053_1753004020132.png",
+            "icon": "/assets/images/Sangonomiya Kokomi_material_112053_1753016099546.png",
             "description": "フライムを浮遊させるエネルギー核。中には微かな元素が含まれている。\\n多くのエネルギーは逸散していったようだ。",
             "type": "キャラと武器育成素材"
           }
@@ -4731,7 +4731,7 @@
             "name": "血石華",
             "count": 10,
             "rank": 1,
-            "icon": "/assets/images/Kujou Sara_material_101204_1753004022894.png",
+            "icon": "/assets/images/Kujou Sara_material_101204_1753016102539.png",
             "description": "詩の中で「赤蕊」と呼ばれている鮮やかな植物。稲妻列島で一度は絶滅したが、戦場で再び姿を現した。血塗られた戦場ではひときわ輝きを放つと言われている。",
             "type": "稲妻地域の特産"
           },
@@ -4740,7 +4740,7 @@
             "name": "堅牢なトパーズ·欠片",
             "count": 3,
             "rank": 3,
-            "icon": "/assets/images/Ningguang_material_104172_1753003984608.png",
+            "icon": "/assets/images/Ningguang_material_104172_1753016059875.png",
             "description": "キャラクターの突破用アイテム。\\n「この大陸の全ての金銭は俺の血肉。」",
             "type": "キャラクター突破素材"
           },
@@ -4749,7 +4749,7 @@
             "name": "フライムの乾核",
             "count": 15,
             "rank": 1,
-            "icon": "/assets/images/Sangonomiya Kokomi_material_112053_1753004020132.png",
+            "icon": "/assets/images/Sangonomiya Kokomi_material_112053_1753016099546.png",
             "description": "フライムを浮遊させるエネルギー核。中には微かな元素が含まれている。\\n多くのエネルギーは逸散していったようだ。",
             "type": "キャラと武器育成素材"
           },
@@ -4758,7 +4758,7 @@
             "name": "奇械部品·コッペリア",
             "count": 2,
             "rank": 4,
-            "icon": "/assets/images/Lynette_material_113049_1753004061148.png",
+            "icon": "/assets/images/Lynette_material_113049_1753016144352.png",
             "description": "コッペリアの奇械部品。奇械ダンサーにエネルギーを供給できる。\\n製作者の構想の中で、細くしなやかな関節を持つ奇械ダンサーの物語は、喜びに満ちた瞬間に留まったままだ。もしこの瞬間を邪魔しようとする者がいれば、コッペリアは並外れた戦闘能力でその招かれざる客に悲運の一節を贈るだろう。",
             "type": "キャラクター育成素材"
           }
@@ -4793,7 +4793,7 @@
             "name": "血石華",
             "count": 20,
             "rank": 1,
-            "icon": "/assets/images/Kujou Sara_material_101204_1753004022894.png",
+            "icon": "/assets/images/Kujou Sara_material_101204_1753016102539.png",
             "description": "詩の中で「赤蕊」と呼ばれている鮮やかな植物。稲妻列島で一度は絶滅したが、戦場で再び姿を現した。血塗られた戦場ではひときわ輝きを放つと言われている。",
             "type": "稲妻地域の特産"
           },
@@ -4802,7 +4802,7 @@
             "name": "堅牢なトパーズ·欠片",
             "count": 6,
             "rank": 3,
-            "icon": "/assets/images/Ningguang_material_104172_1753003984608.png",
+            "icon": "/assets/images/Ningguang_material_104172_1753016059875.png",
             "description": "キャラクターの突破用アイテム。\\n「この大陸の全ての金銭は俺の血肉。」",
             "type": "キャラクター突破素材"
           },
@@ -4811,7 +4811,7 @@
             "name": "フライムの幽核",
             "count": 12,
             "rank": 2,
-            "icon": "/assets/images/Sangonomiya Kokomi_material_112054_1753004020124.png",
+            "icon": "/assets/images/Sangonomiya Kokomi_material_112054_1753016099522.png",
             "description": "フライムを浮遊させるエネルギー核。\\nこの元素生物は特殊な習性を持っているようで、周期的に大量に現れたり、消えたりしている。",
             "type": "キャラと武器育成素材"
           },
@@ -4820,7 +4820,7 @@
             "name": "奇械部品·コッペリア",
             "count": 4,
             "rank": 4,
-            "icon": "/assets/images/Lynette_material_113049_1753004061148.png",
+            "icon": "/assets/images/Lynette_material_113049_1753016144352.png",
             "description": "コッペリアの奇械部品。奇械ダンサーにエネルギーを供給できる。\\n製作者の構想の中で、細くしなやかな関節を持つ奇械ダンサーの物語は、喜びに満ちた瞬間に留まったままだ。もしこの瞬間を邪魔しようとする者がいれば、コッペリアは並外れた戦闘能力でその招かれざる客に悲運の一節を贈るだろう。",
             "type": "キャラクター育成素材"
           }
@@ -4855,7 +4855,7 @@
             "name": "血石華",
             "count": 30,
             "rank": 1,
-            "icon": "/assets/images/Kujou Sara_material_101204_1753004022894.png",
+            "icon": "/assets/images/Kujou Sara_material_101204_1753016102539.png",
             "description": "詩の中で「赤蕊」と呼ばれている鮮やかな植物。稲妻列島で一度は絶滅したが、戦場で再び姿を現した。血塗られた戦場ではひときわ輝きを放つと言われている。",
             "type": "稲妻地域の特産"
           },
@@ -4864,7 +4864,7 @@
             "name": "堅牢なトパーズ·塊",
             "count": 3,
             "rank": 4,
-            "icon": "/assets/images/Ningguang_material_104173_1753003984612.png",
+            "icon": "/assets/images/Ningguang_material_104173_1753016059850.png",
             "description": "キャラクターの突破用アイテム。\\n「この大陸の全ての金銭は俺の血肉。」\\n「こんな形で俺は、人間の労働、知恵、未来を保証する。」",
             "type": "キャラクター突破素材"
           },
@@ -4873,7 +4873,7 @@
             "name": "フライムの幽核",
             "count": 18,
             "rank": 2,
-            "icon": "/assets/images/Sangonomiya Kokomi_material_112054_1753004020124.png",
+            "icon": "/assets/images/Sangonomiya Kokomi_material_112054_1753016099522.png",
             "description": "フライムを浮遊させるエネルギー核。\\nこの元素生物は特殊な習性を持っているようで、周期的に大量に現れたり、消えたりしている。",
             "type": "キャラと武器育成素材"
           },
@@ -4882,7 +4882,7 @@
             "name": "奇械部品·コッペリア",
             "count": 8,
             "rank": 4,
-            "icon": "/assets/images/Lynette_material_113049_1753004061148.png",
+            "icon": "/assets/images/Lynette_material_113049_1753016144352.png",
             "description": "コッペリアの奇械部品。奇械ダンサーにエネルギーを供給できる。\\n製作者の構想の中で、細くしなやかな関節を持つ奇械ダンサーの物語は、喜びに満ちた瞬間に留まったままだ。もしこの瞬間を邪魔しようとする者がいれば、コッペリアは並外れた戦闘能力でその招かれざる客に悲運の一節を贈るだろう。",
             "type": "キャラクター育成素材"
           }
@@ -4917,7 +4917,7 @@
             "name": "血石華",
             "count": 45,
             "rank": 1,
-            "icon": "/assets/images/Kujou Sara_material_101204_1753004022894.png",
+            "icon": "/assets/images/Kujou Sara_material_101204_1753016102539.png",
             "description": "詩の中で「赤蕊」と呼ばれている鮮やかな植物。稲妻列島で一度は絶滅したが、戦場で再び姿を現した。血塗られた戦場ではひときわ輝きを放つと言われている。",
             "type": "稲妻地域の特産"
           },
@@ -4926,7 +4926,7 @@
             "name": "堅牢なトパーズ·塊",
             "count": 6,
             "rank": 4,
-            "icon": "/assets/images/Ningguang_material_104173_1753003984612.png",
+            "icon": "/assets/images/Ningguang_material_104173_1753016059850.png",
             "description": "キャラクターの突破用アイテム。\\n「この大陸の全ての金銭は俺の血肉。」\\n「こんな形で俺は、人間の労働、知恵、未来を保証する。」",
             "type": "キャラクター突破素材"
           },
@@ -4935,7 +4935,7 @@
             "name": "フライムの晶化核",
             "count": 12,
             "rank": 3,
-            "icon": "/assets/images/Sangonomiya Kokomi_material_112055_1753004020128.png",
+            "icon": "/assets/images/Sangonomiya Kokomi_material_112055_1753016099472.png",
             "description": "フライムを倒すと、たまに見つけられる完全なエネルギー核。\\n物事の雌雄を決させたい人たちの間では、よくこんな議論がある。フライムと風スライムの浮かぶ力、一体どちらが上なのか。",
             "type": "キャラと武器育成素材"
           },
@@ -4944,7 +4944,7 @@
             "name": "奇械部品·コッペリア",
             "count": 12,
             "rank": 4,
-            "icon": "/assets/images/Lynette_material_113049_1753004061148.png",
+            "icon": "/assets/images/Lynette_material_113049_1753016144352.png",
             "description": "コッペリアの奇械部品。奇械ダンサーにエネルギーを供給できる。\\n製作者の構想の中で、細くしなやかな関節を持つ奇械ダンサーの物語は、喜びに満ちた瞬間に留まったままだ。もしこの瞬間を邪魔しようとする者がいれば、コッペリアは並外れた戦闘能力でその招かれざる客に悲運の一節を贈るだろう。",
             "type": "キャラクター育成素材"
           }
@@ -4979,7 +4979,7 @@
             "name": "血石華",
             "count": 60,
             "rank": 1,
-            "icon": "/assets/images/Kujou Sara_material_101204_1753004022894.png",
+            "icon": "/assets/images/Kujou Sara_material_101204_1753016102539.png",
             "description": "詩の中で「赤蕊」と呼ばれている鮮やかな植物。稲妻列島で一度は絶滅したが、戦場で再び姿を現した。血塗られた戦場ではひときわ輝きを放つと言われている。",
             "type": "稲妻地域の特産"
           },
@@ -4988,7 +4988,7 @@
             "name": "堅牢なトパーズ",
             "count": 6,
             "rank": 5,
-            "icon": "/assets/images/Ningguang_material_104174_1753003984611.png",
+            "icon": "/assets/images/Ningguang_material_104174_1753016059901.png",
             "description": "キャラクターの突破用アイテム。\\n「この大陸の全ての金銭は俺の血肉。」\\n「こんな形で俺は、人間の労働、知恵、未来を保証する。」\\n「これが俺の人間への信頼。金銭に背くことは、俺の血を汚すと同然だ。」",
             "type": "キャラクター突破素材"
           },
@@ -4997,7 +4997,7 @@
             "name": "フライムの晶化核",
             "count": 24,
             "rank": 3,
-            "icon": "/assets/images/Sangonomiya Kokomi_material_112055_1753004020128.png",
+            "icon": "/assets/images/Sangonomiya Kokomi_material_112055_1753016099472.png",
             "description": "フライムを倒すと、たまに見つけられる完全なエネルギー核。\\n物事の雌雄を決させたい人たちの間では、よくこんな議論がある。フライムと風スライムの浮かぶ力、一体どちらが上なのか。",
             "type": "キャラと武器育成素材"
           },
@@ -5006,7 +5006,7 @@
             "name": "奇械部品·コッペリア",
             "count": 20,
             "rank": 4,
-            "icon": "/assets/images/Lynette_material_113049_1753004061148.png",
+            "icon": "/assets/images/Lynette_material_113049_1753016144352.png",
             "description": "コッペリアの奇械部品。奇械ダンサーにエネルギーを供給できる。\\n製作者の構想の中で、細くしなやかな関節を持つ奇械ダンサーの物語は、喜びに満ちた瞬間に留まったままだ。もしこの瞬間を邪魔しようとする者がいれば、コッペリアは並外れた戦闘能力でその招かれざる客に悲運の一節を贈るだろう。",
             "type": "キャラクター育成素材"
           }

@@ -8,7 +8,7 @@
   "region": "Natlan",
   "constellation": "カルノタウルス座",
   "description": "「豊穣の邦」トレーニングジムのトレーナー。ナタの有名な栄養士。",
-  "icon": "/assets/images/Iansan_icon_1753004099676.png",
+  "icon": "/assets/images/Iansan_icon_1753016185568.png",
   "profile": {
     "baseHp": 893.555,
     "baseAtk": 21.548,
@@ -23,7 +23,7 @@
       "id": "ウェイトスピア",
       "name": "ウェイトスピア",
       "description": "",
-      "icon": "/assets/images/Xiangling_normal_attack_1753003979325.png",
+      "icon": "/assets/images/Xiangling_normal_attack_1753016053320.png",
       "skillType": "normal",
       "params": {
         "1": [],
@@ -47,7 +47,7 @@
       "id": "サンダーボルト・スプリント",
       "name": "サンダーボルト・スプリント",
       "description": "",
-      "icon": "/assets/images/Iansan_elemental_skill_1753004099676.png",
+      "icon": "/assets/images/Iansan_elemental_skill_1753016185568.png",
       "levelData": [
         {
           "tableIndex": 1,
@@ -1136,25 +1136,25 @@
     "elementalBurst": {
       "name": "高負荷トレーニング・強化版",
       "description": "",
-      "icon": "/assets/images/Iansan_elemental_burst_1753004099676.png",
+      "icon": "/assets/images/Iansan_elemental_burst_1753016185568.png",
       "levelData": []
     },
     "passiveTalents": [
       {
         "name": "高負荷トレーニング・強化版",
-        "icon": "/assets/images/Iansan_passive_1_1753004099676.png"
+        "icon": "/assets/images/Iansan_passive_1_1753016185568.png"
       },
       {
         "name": "運動量グラジエント分析",
-        "icon": "/assets/images/Iansan_passive_2_1753004099676.png"
+        "icon": "/assets/images/Iansan_passive_2_1753016185568.png"
       },
       {
         "name": "夜域の賜物・ハードワークアウト",
-        "icon": "/assets/images/Iansan_passive_3_1753004099676.png"
+        "icon": "/assets/images/Iansan_passive_3_1753016185568.png"
       },
       {
         "name": "カロリーバランス計画",
-        "icon": "/assets/images/Iansan_passive_4_1753004099676.png"
+        "icon": "/assets/images/Iansan_passive_4_1753016185568.png"
       }
     ],
     "completeTableData": [
@@ -4328,32 +4328,32 @@
       {
         "level": null,
         "name": "千里の道も一歩から",
-        "icon": "/assets/images/Iansan_constellation_cNaN_1753004099676.png"
+        "icon": "/assets/images/Iansan_constellation_cNaN_1753016185568.png"
       },
       {
         "level": null,
         "name": "おサボり厳禁！",
-        "icon": "/assets/images/Iansan_constellation_cNaN_1753004099676.png"
+        "icon": "/assets/images/Iansan_constellation_cNaN_1753016185569.png"
       },
       {
         "level": null,
         "name": "科学的食事プラン",
-        "icon": "/assets/images/Iansan_constellation_cNaN_1753004099676.png"
+        "icon": "/assets/images/Iansan_constellation_cNaN_1753016185569.png"
       },
       {
         "level": null,
         "name": "継続は力なり",
-        "icon": "/assets/images/Iansan_constellation_cNaN_1753004099676.png"
+        "icon": "/assets/images/Iansan_constellation_cNaN_1753016185569.png"
       },
       {
         "level": null,
         "name": "まだまだやれる！",
-        "icon": "/assets/images/Iansan_constellation_cNaN_1753004099676.png"
+        "icon": "/assets/images/Iansan_constellation_cNaN_1753016185569.png"
       },
       {
         "level": null,
         "name": "「豊穣の邦」の教え",
-        "icon": "/assets/images/Iansan_constellation_cNaN_1753004099676.png"
+        "icon": "/assets/images/Iansan_constellation_cNaN_1753016185569.png"
       }
     ]
   },
@@ -4370,14 +4370,14 @@
     "id": 210237,
     "name": "イアンサ・根気",
     "description": "イアンサ・根気",
-    "icon": "/assets/images/Iansan_icon_1753004099676.png"
+    "icon": "/assets/images/Iansan_icon_1753016185568.png"
   },
   "specialFood": {
     "id": 108809,
     "name": "ゴールドヘルシーメニュー",
     "rank": 2,
-    "icon": "/assets/images/Iansan_special_food_1753004099678.png",
-    "effectIcon": "/assets/images/Kamisato Ayaka_food_effect_1753003967528.png"
+    "icon": "/assets/images/Iansan_special_food_1753016185570.png",
+    "effectIcon": "/assets/images/Kamisato Ayaka_food_effect_1753016037647.png"
   },
   "levelProgression": [
     {
@@ -4693,7 +4693,7 @@
             "name": "琉鱗石",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Iansan_material_101255_1753004099721.png",
+            "icon": "/assets/images/Iansan_material_101255_1753016185713.png",
             "description": "燃素が豊富なエリアに沈積した物質が形成した、赤い鱗状の晶石。極めて高いエネルギーを秘めている。",
             "type": "ナタ地域の特産"
           },
@@ -4702,7 +4702,7 @@
             "name": "最勝のアメシスト·砕屑",
             "count": 1,
             "rank": 2,
-            "icon": "/assets/images/Lisa_material_104141_1753003970099.png",
+            "icon": "/assets/images/Lisa_material_104141_1753016041506.png",
             "description": "キャラクターの突破用アイテム。",
             "type": "キャラクター突破素材"
           },
@@ -4711,7 +4711,7 @@
             "name": "従戦士の木笛",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Kachina_material_112104_1753004085580.png",
+            "icon": "/assets/images/Kachina_material_112104_1753016170672.png",
             "description": "ナタの部族の従戦士のシンボル。\\n最初から戦士になれる者などおらず、真の戦士から戦い方を学ぶ必要がある。故に、部族には「従戦士」という位が設けられた。",
             "type": "キャラと武器育成素材"
           }
@@ -4742,7 +4742,7 @@
             "name": "琉鱗石",
             "count": 10,
             "rank": 1,
-            "icon": "/assets/images/Iansan_material_101255_1753004099721.png",
+            "icon": "/assets/images/Iansan_material_101255_1753016185713.png",
             "description": "燃素が豊富なエリアに沈積した物質が形成した、赤い鱗状の晶石。極めて高いエネルギーを秘めている。",
             "type": "ナタ地域の特産"
           },
@@ -4751,7 +4751,7 @@
             "name": "最勝のアメシスト·欠片",
             "count": 3,
             "rank": 3,
-            "icon": "/assets/images/Lisa_material_104142_1753003970098.png",
+            "icon": "/assets/images/Lisa_material_104142_1753016041531.png",
             "description": "キャラクターの突破用アイテム。\\n「此の身こそ、いと尊き存在。」",
             "type": "キャラクター突破素材"
           },
@@ -4760,7 +4760,7 @@
             "name": "従戦士の木笛",
             "count": 15,
             "rank": 1,
-            "icon": "/assets/images/Kachina_material_112104_1753004085580.png",
+            "icon": "/assets/images/Kachina_material_112104_1753016170672.png",
             "description": "ナタの部族の従戦士のシンボル。\\n最初から戦士になれる者などおらず、真の戦士から戦い方を学ぶ必要がある。故に、部族には「従戦士」という位が設けられた。",
             "type": "キャラと武器育成素材"
           },
@@ -4769,7 +4769,7 @@
             "name": "深遠と絡み合う眼差し",
             "count": 2,
             "rank": 4,
-            "icon": "/assets/images/Chasca_material_113067_1753004091316.png",
+            "icon": "/assets/images/Chasca_material_113067_1753016176650.png",
             "description": "深遠なるミミックパピラを倒した後、獲得した果実のようで果実ではないもの。\\n一ヶ所に集まったエネルギーによって形成された「目」——遥か暗闇の彼方からの視線を感じる。",
             "type": "キャラクター育成素材"
           }
@@ -4804,7 +4804,7 @@
             "name": "琉鱗石",
             "count": 20,
             "rank": 1,
-            "icon": "/assets/images/Iansan_material_101255_1753004099721.png",
+            "icon": "/assets/images/Iansan_material_101255_1753016185713.png",
             "description": "燃素が豊富なエリアに沈積した物質が形成した、赤い鱗状の晶石。極めて高いエネルギーを秘めている。",
             "type": "ナタ地域の特産"
           },
@@ -4813,7 +4813,7 @@
             "name": "最勝のアメシスト·欠片",
             "count": 6,
             "rank": 3,
-            "icon": "/assets/images/Lisa_material_104142_1753003970098.png",
+            "icon": "/assets/images/Lisa_material_104142_1753016041531.png",
             "description": "キャラクターの突破用アイテム。\\n「此の身こそ、いと尊き存在。」",
             "type": "キャラクター突破素材"
           },
@@ -4822,7 +4822,7 @@
             "name": "戦士の鉄笛",
             "count": 12,
             "rank": 2,
-            "icon": "/assets/images/Kachina_material_112105_1753004085593.png",
+            "icon": "/assets/images/Kachina_material_112105_1753016170577.png",
             "description": "ナタの部族の戦士のシンボル。\\n部族の正式な戦士になったらもらえる鉄笛。部族の周辺を巡回している際、危機を察知したら笛の音で知らせ合うことは「戦士」の責務である。",
             "type": "キャラと武器育成素材"
           },
@@ -4831,7 +4831,7 @@
             "name": "深遠と絡み合う眼差し",
             "count": 4,
             "rank": 4,
-            "icon": "/assets/images/Chasca_material_113067_1753004091316.png",
+            "icon": "/assets/images/Chasca_material_113067_1753016176650.png",
             "description": "深遠なるミミックパピラを倒した後、獲得した果実のようで果実ではないもの。\\n一ヶ所に集まったエネルギーによって形成された「目」——遥か暗闇の彼方からの視線を感じる。",
             "type": "キャラクター育成素材"
           }
@@ -4866,7 +4866,7 @@
             "name": "琉鱗石",
             "count": 30,
             "rank": 1,
-            "icon": "/assets/images/Iansan_material_101255_1753004099721.png",
+            "icon": "/assets/images/Iansan_material_101255_1753016185713.png",
             "description": "燃素が豊富なエリアに沈積した物質が形成した、赤い鱗状の晶石。極めて高いエネルギーを秘めている。",
             "type": "ナタ地域の特産"
           },
@@ -4875,7 +4875,7 @@
             "name": "最勝のアメシスト·塊",
             "count": 3,
             "rank": 4,
-            "icon": "/assets/images/Lisa_material_104143_1753003970096.png",
+            "icon": "/assets/images/Lisa_material_104143_1753016041591.png",
             "description": "キャラクターの突破用アイテム。\\n「此の身こそ、いと尊き存在。」\\n「天下を泰平せし者。」",
             "type": "キャラクター突破素材"
           },
@@ -4884,7 +4884,7 @@
             "name": "戦士の鉄笛",
             "count": 18,
             "rank": 2,
-            "icon": "/assets/images/Kachina_material_112105_1753004085593.png",
+            "icon": "/assets/images/Kachina_material_112105_1753016170577.png",
             "description": "ナタの部族の戦士のシンボル。\\n部族の正式な戦士になったらもらえる鉄笛。部族の周辺を巡回している際、危機を察知したら笛の音で知らせ合うことは「戦士」の責務である。",
             "type": "キャラと武器育成素材"
           },
@@ -4893,7 +4893,7 @@
             "name": "深遠と絡み合う眼差し",
             "count": 8,
             "rank": 4,
-            "icon": "/assets/images/Chasca_material_113067_1753004091316.png",
+            "icon": "/assets/images/Chasca_material_113067_1753016176650.png",
             "description": "深遠なるミミックパピラを倒した後、獲得した果実のようで果実ではないもの。\\n一ヶ所に集まったエネルギーによって形成された「目」——遥か暗闇の彼方からの視線を感じる。",
             "type": "キャラクター育成素材"
           }
@@ -4928,7 +4928,7 @@
             "name": "琉鱗石",
             "count": 45,
             "rank": 1,
-            "icon": "/assets/images/Iansan_material_101255_1753004099721.png",
+            "icon": "/assets/images/Iansan_material_101255_1753016185713.png",
             "description": "燃素が豊富なエリアに沈積した物質が形成した、赤い鱗状の晶石。極めて高いエネルギーを秘めている。",
             "type": "ナタ地域の特産"
           },
@@ -4937,7 +4937,7 @@
             "name": "最勝のアメシスト·塊",
             "count": 6,
             "rank": 4,
-            "icon": "/assets/images/Lisa_material_104143_1753003970096.png",
+            "icon": "/assets/images/Lisa_material_104143_1753016041591.png",
             "description": "キャラクターの突破用アイテム。\\n「此の身こそ、いと尊き存在。」\\n「天下を泰平せし者。」",
             "type": "キャラクター突破素材"
           },
@@ -4946,7 +4946,7 @@
             "name": "竜冠戦士の金笛",
             "count": 12,
             "rank": 3,
-            "icon": "/assets/images/Kachina_material_112106_1753004085590.png",
+            "icon": "/assets/images/Kachina_material_112106_1753016170724.png",
             "description": "ナタの部族で竜冠を授かった強き戦士のシンボル。\\n部族のために栄誉の功績を築き、その武勇を認められた者だけが、この金笛を手に入れることができる。しかしこれはもはや、笛よりも装飾としての意味合いのほうが強い——竜冠を授かるほどの戦士なら、ほとんどの危機を自力で解決できるからだ。",
             "type": "キャラと武器育成素材"
           },
@@ -4955,7 +4955,7 @@
             "name": "深遠と絡み合う眼差し",
             "count": 12,
             "rank": 4,
-            "icon": "/assets/images/Chasca_material_113067_1753004091316.png",
+            "icon": "/assets/images/Chasca_material_113067_1753016176650.png",
             "description": "深遠なるミミックパピラを倒した後、獲得した果実のようで果実ではないもの。\\n一ヶ所に集まったエネルギーによって形成された「目」——遥か暗闇の彼方からの視線を感じる。",
             "type": "キャラクター育成素材"
           }
@@ -4990,7 +4990,7 @@
             "name": "琉鱗石",
             "count": 60,
             "rank": 1,
-            "icon": "/assets/images/Iansan_material_101255_1753004099721.png",
+            "icon": "/assets/images/Iansan_material_101255_1753016185713.png",
             "description": "燃素が豊富なエリアに沈積した物質が形成した、赤い鱗状の晶石。極めて高いエネルギーを秘めている。",
             "type": "ナタ地域の特産"
           },
@@ -4999,7 +4999,7 @@
             "name": "最勝のアメシスト",
             "count": 6,
             "rank": 5,
-            "icon": "/assets/images/Lisa_material_104144_1753003970099.png",
+            "icon": "/assets/images/Lisa_material_104144_1753016041608.png",
             "description": "キャラクターの突破用アイテム。\\n「此の身こそ、いと尊き存在。」\\n「天下を泰平せし者。」\\n「臣民に夢を与えると誓いましょう。未来永劫、不変の『永遠』を。」",
             "type": "キャラクター突破素材"
           },
@@ -5008,7 +5008,7 @@
             "name": "竜冠戦士の金笛",
             "count": 24,
             "rank": 3,
-            "icon": "/assets/images/Kachina_material_112106_1753004085590.png",
+            "icon": "/assets/images/Kachina_material_112106_1753016170724.png",
             "description": "ナタの部族で竜冠を授かった強き戦士のシンボル。\\n部族のために栄誉の功績を築き、その武勇を認められた者だけが、この金笛を手に入れることができる。しかしこれはもはや、笛よりも装飾としての意味合いのほうが強い——竜冠を授かるほどの戦士なら、ほとんどの危機を自力で解決できるからだ。",
             "type": "キャラと武器育成素材"
           },
@@ -5017,7 +5017,7 @@
             "name": "深遠と絡み合う眼差し",
             "count": 20,
             "rank": 4,
-            "icon": "/assets/images/Chasca_material_113067_1753004091316.png",
+            "icon": "/assets/images/Chasca_material_113067_1753016176650.png",
             "description": "深遠なるミミックパピラを倒した後、獲得した果実のようで果実ではないもの。\\n一ヶ所に集まったエネルギーによって形成された「目」——遥か暗闇の彼方からの視線を感じる。",
             "type": "キャラクター育成素材"
           }

@@ -8,7 +8,7 @@
   "region": "Inazuma",
   "constellation": "柴犬座",
   "description": "海祇島軍隊の大将で、部下から厚く信頼されている。",
-  "icon": "/assets/images/Gorou_icon_1753004021537.png",
+  "icon": "/assets/images/Gorou_icon_1753016100876.png",
   "profile": {
     "baseHp": 802.376,
     "baseAtk": 15.315,
@@ -23,7 +23,7 @@
       "id": "獣牙裂扇矢",
       "name": "獣牙裂扇矢",
       "description": "",
-      "icon": "/assets/images/Amber_normal_attack_1753003976614.png",
+      "icon": "/assets/images/Amber_normal_attack_1753016049941.png",
       "skillType": "normal",
       "params": {
         "1": [],
@@ -47,7 +47,7 @@
       "id": "犬坂の遠吠え方円陣",
       "name": "犬坂の遠吠え方円陣",
       "description": "",
-      "icon": "/assets/images/Gorou_elemental_skill_1753004021537.png",
+      "icon": "/assets/images/Gorou_elemental_skill_1753016100877.png",
       "levelData": [
         {
           "tableIndex": 1,
@@ -589,7 +589,7 @@
             "スキルダメージ|{param1:F1P}",
             "防御力アップ|{param2:I}",
             "岩元素ダメージアップ|{param3:P}",
-            "継続時間|{param4:F1}秒",
+            "継���時間|{param4:F1}秒",
             "クールタイム|{param5:F1}秒",
             "",
             "",
@@ -1136,21 +1136,21 @@
     "elementalBurst": {
       "name": "風雨を恐れず",
       "description": "",
-      "icon": "/assets/images/Gorou_elemental_burst_1753004021537.png",
+      "icon": "/assets/images/Gorou_elemental_burst_1753016100877.png",
       "levelData": []
     },
     "passiveTalents": [
       {
         "name": "風雨を恐れず",
-        "icon": "/assets/images/Gorou_passive_1_1753004021537.png"
+        "icon": "/assets/images/Gorou_passive_1_1753016100877.png"
       },
       {
         "name": "報恩の守護",
-        "icon": "/assets/images/Gorou_passive_2_1753004021537.png"
+        "icon": "/assets/images/Gorou_passive_2_1753016100877.png"
       },
       {
         "name": "キラキラ発見術",
-        "icon": "/assets/images/Gorou_passive_3_1753004021537.png"
+        "icon": "/assets/images/Gorou_passive_3_1753016100877.png"
       }
     ],
     "completeTableData": [
@@ -2027,7 +2027,7 @@
               "4段ダメージ|{param4:F1P}",
               "狙い撃ち|{param5:F1P}",
               "フルチャージ狙い撃ち|{param6:P}",
-              "落下期間のダ���ージ|{param7:F1P}",
+              "落下期間のダメージ|{param7:F1P}",
               "低空/高空落下攻撃ダメージ|{param8:P}/{param9:P}",
               "",
               "",
@@ -2721,7 +2721,7 @@
               "スキルダメージ|{param1:F1P}",
               "防御力アップ|{param2:I}",
               "岩元素ダメージアップ|{param3:P}",
-              "継続時間|{param4:F1}秒",
+              "継���時間|{param4:F1}秒",
               "クールタイム|{param5:F1}秒",
               "",
               "",
@@ -3278,7 +3278,7 @@
               "スキルダメージ|防御力{param1:P}",
               "岩晶崩滅ダメージ|防御力{param2:P}",
               "継続時間|{param3:F1}秒",
-              "クールタイム|{param4:F1}���",
+              "クールタイム|{param4:F1}秒",
               "元素エネルギー|{param5:I}",
               "",
               "",
@@ -3413,7 +3413,7 @@
             ],
             "description": [
               "スキルダメージ|防御力{param1:P}",
-              "岩晶崩滅ダメージ|防御力{param2:P}",
+              "岩晶崩���ダメージ|防御力{param2:P}",
               "継続時間|{param3:F1}秒",
               "クールタイム|{param4:F1}秒",
               "元素エネルギー|{param5:I}",
@@ -3907,7 +3907,7 @@
             "description": [
               "スキルダメージ|防御力{param1:P}",
               "岩晶崩滅ダメージ|防御力{param2:P}",
-              "継続時間|{param3:F1}秒",
+              "継続時��|{param3:F1}秒",
               "クールタイム|{param4:F1}秒",
               "元素エネルギー|{param5:I}",
               "",
@@ -4317,32 +4317,32 @@
       {
         "level": null,
         "name": "犬瞬·疾きこと風の如く",
-        "icon": "/assets/images/Gorou_constellation_cNaN_1753004021537.png"
+        "icon": "/assets/images/Gorou_constellation_cNaN_1753016100877.png"
       },
       {
         "level": null,
         "name": "犬座·確固たること鐘の如く",
-        "icon": "/assets/images/Gorou_constellation_cNaN_1753004021538.png"
+        "icon": "/assets/images/Gorou_constellation_cNaN_1753016100877.png"
       },
       {
         "level": null,
         "name": "犬爪·圧すること火の如く",
-        "icon": "/assets/images/Gorou_constellation_cNaN_1753004021538.png"
+        "icon": "/assets/images/Gorou_constellation_cNaN_1753016100877.png"
       },
       {
         "level": null,
         "name": "犬舌·優しきこと水の如く",
-        "icon": "/assets/images/Gorou_constellation_cNaN_1753004021538.png"
+        "icon": "/assets/images/Gorou_constellation_cNaN_1753016100877.png"
       },
       {
         "level": null,
         "name": "犬突·動くこと雷の如く",
-        "icon": "/assets/images/Gorou_constellation_cNaN_1753004021538.png"
+        "icon": "/assets/images/Gorou_constellation_cNaN_1753016100877.png"
       },
       {
         "level": null,
         "name": "犬勇·忠に厚きこと山の如く",
-        "icon": "/assets/images/Gorou_constellation_cNaN_1753004021538.png"
+        "icon": "/assets/images/Gorou_constellation_cNaN_1753016100877.png"
       }
     ]
   },
@@ -4359,14 +4359,14 @@
     "id": 210104,
     "name": "ゴロー·悠犬",
     "description": "ゴロー·悠犬",
-    "icon": "/assets/images/Gorou_icon_1753004021537.png"
+    "icon": "/assets/images/Gorou_icon_1753016100876.png"
   },
   "specialFood": {
     "id": 108365,
     "name": "常勝伝説",
     "rank": 3,
-    "icon": "/assets/images/Gorou_special_food_1753004021538.png",
-    "effectIcon": "/assets/images/Kaeya_food_effect_1753003972834.png"
+    "icon": "/assets/images/Gorou_special_food_1753016100878.png",
+    "effectIcon": "/assets/images/Kaeya_food_effect_1753016044776.png"
   },
   "levelProgression": [
     {
@@ -4682,7 +4682,7 @@
             "name": "珊瑚真珠",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Sangonomiya Kokomi_material_101207_1753004020131.png",
+            "icon": "/assets/images/Sangonomiya Kokomi_material_101207_1753016099381.png",
             "description": "海祇の珊瑚と共に生み出された宝珠。触れると月明かりのような涼しさを感じる。",
             "type": "稲妻地域の特産"
           },
@@ -4691,7 +4691,7 @@
             "name": "堅牢なトパーズ·砕屑",
             "count": 1,
             "rank": 2,
-            "icon": "/assets/images/Ningguang_material_104171_1753003984615.png",
+            "icon": "/assets/images/Ningguang_material_104171_1753016059697.png",
             "description": "キャラクターの突破用アイテム。",
             "type": "キャラクター突破素材"
           },
@@ -4700,7 +4700,7 @@
             "name": "フライムの乾核",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Sangonomiya Kokomi_material_112053_1753004020132.png",
+            "icon": "/assets/images/Sangonomiya Kokomi_material_112053_1753016099546.png",
             "description": "フライムを浮遊させるエネルギー核。中には微かな元素が含まれている。\\n多くのエネルギーは逸散していったようだ。",
             "type": "キャラと武器育成素材"
           }
@@ -4731,7 +4731,7 @@
             "name": "珊瑚真珠",
             "count": 10,
             "rank": 1,
-            "icon": "/assets/images/Sangonomiya Kokomi_material_101207_1753004020131.png",
+            "icon": "/assets/images/Sangonomiya Kokomi_material_101207_1753016099381.png",
             "description": "海祇の珊瑚と共に生み出された宝珠。触れると月明かりのような涼しさを感じる。",
             "type": "稲妻地域の特産"
           },
@@ -4740,7 +4740,7 @@
             "name": "堅牢なトパーズ·欠片",
             "count": 3,
             "rank": 3,
-            "icon": "/assets/images/Ningguang_material_104172_1753003984608.png",
+            "icon": "/assets/images/Ningguang_material_104172_1753016059875.png",
             "description": "キャラクターの突破用アイテム。\\n「この大陸の全ての金銭は俺の血肉。」",
             "type": "キャラクター突破素材"
           },
@@ -4749,7 +4749,7 @@
             "name": "フライムの乾核",
             "count": 15,
             "rank": 1,
-            "icon": "/assets/images/Sangonomiya Kokomi_material_112053_1753004020132.png",
+            "icon": "/assets/images/Sangonomiya Kokomi_material_112053_1753016099546.png",
             "description": "フライムを浮遊させるエネルギー核。中には微かな元素が含まれている。\\n多くのエネルギーは逸散していったようだ。",
             "type": "キャラと武器育成素材"
           },
@@ -4758,7 +4758,7 @@
             "name": "恒常からくりの芯",
             "count": 2,
             "rank": 4,
-            "icon": "/assets/images/Kamisato Ayaka_material_113023_1753003967585.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_113023_1753016037983.png",
             "description": "恒常からくり陣形の自律行動を維持するコア。\\n一説によると、コアの模様の中には肉眼で読むことができない言語で、知能とロジックが書かれている。別の説によると、この大きなコアと複雑な模様を持つ遺跡機械は、自発的に生物の姿を捨て、強大な性能を求めたらしい。",
             "type": "キャラクター育成素材"
           }
@@ -4793,7 +4793,7 @@
             "name": "珊瑚真珠",
             "count": 20,
             "rank": 1,
-            "icon": "/assets/images/Sangonomiya Kokomi_material_101207_1753004020131.png",
+            "icon": "/assets/images/Sangonomiya Kokomi_material_101207_1753016099381.png",
             "description": "海祇の珊瑚と共に生み出された宝珠。触れると月明かりのような涼しさを感じる。",
             "type": "稲妻地域の特産"
           },
@@ -4802,7 +4802,7 @@
             "name": "堅牢なトパーズ·欠片",
             "count": 6,
             "rank": 3,
-            "icon": "/assets/images/Ningguang_material_104172_1753003984608.png",
+            "icon": "/assets/images/Ningguang_material_104172_1753016059875.png",
             "description": "キャラクターの突破用アイテム。\\n「この大陸の全ての金銭は俺の血肉。」",
             "type": "キャラクター突破素材"
           },
@@ -4811,7 +4811,7 @@
             "name": "フライムの幽核",
             "count": 12,
             "rank": 2,
-            "icon": "/assets/images/Sangonomiya Kokomi_material_112054_1753004020124.png",
+            "icon": "/assets/images/Sangonomiya Kokomi_material_112054_1753016099522.png",
             "description": "フライムを浮遊させるエネルギー核。\\nこの元素生物は特殊な習性を持っているようで、周期的に大量に現れたり、消えたりしている。",
             "type": "キャラと武器育成素材"
           },
@@ -4820,7 +4820,7 @@
             "name": "恒常からくりの芯",
             "count": 4,
             "rank": 4,
-            "icon": "/assets/images/Kamisato Ayaka_material_113023_1753003967585.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_113023_1753016037983.png",
             "description": "恒常からくり陣形の自律行動を維持するコア。\\n一説によると、コアの模様の中には肉眼で読むことができない言語で、知能とロジックが書かれている。別の説によると、この大きなコアと複雑な模様を持つ遺跡機械は、自発的に生物の姿を捨て、強大な性能を求めたらしい。",
             "type": "キャラクター育成素材"
           }
@@ -4855,7 +4855,7 @@
             "name": "珊瑚真珠",
             "count": 30,
             "rank": 1,
-            "icon": "/assets/images/Sangonomiya Kokomi_material_101207_1753004020131.png",
+            "icon": "/assets/images/Sangonomiya Kokomi_material_101207_1753016099381.png",
             "description": "海祇の珊瑚と共に生み出された宝珠。触れると月明かりのような涼しさを感じる。",
             "type": "稲妻地域の特産"
           },
@@ -4864,7 +4864,7 @@
             "name": "堅牢なトパーズ·塊",
             "count": 3,
             "rank": 4,
-            "icon": "/assets/images/Ningguang_material_104173_1753003984612.png",
+            "icon": "/assets/images/Ningguang_material_104173_1753016059850.png",
             "description": "キャラクターの突破用アイテム。\\n「この大陸の全ての金銭は俺の血肉。」\\n「こんな形で俺は、人間の労働、知恵、未来を保証する。」",
             "type": "キャラクター突破素材"
           },
@@ -4873,7 +4873,7 @@
             "name": "フライムの幽核",
             "count": 18,
             "rank": 2,
-            "icon": "/assets/images/Sangonomiya Kokomi_material_112054_1753004020124.png",
+            "icon": "/assets/images/Sangonomiya Kokomi_material_112054_1753016099522.png",
             "description": "フライムを浮遊させるエネルギー核。\\nこの元素生物は特殊な習性を持っているようで、周期的に大量に現れたり、消えたりしている。",
             "type": "キャラと武器育成素材"
           },
@@ -4882,7 +4882,7 @@
             "name": "恒常からくりの芯",
             "count": 8,
             "rank": 4,
-            "icon": "/assets/images/Kamisato Ayaka_material_113023_1753003967585.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_113023_1753016037983.png",
             "description": "恒常からくり陣形の自律行動を維持するコア。\\n一説によると、コアの模様の中には肉眼で読むことができない言語で、知能とロジックが書かれている。別の説によると、この大きなコアと複雑な模様を持つ遺跡機械は、自発的に生物の姿を捨て、強大な性能を求めたらしい。",
             "type": "キャラクター育成素材"
           }
@@ -4917,7 +4917,7 @@
             "name": "珊瑚真珠",
             "count": 45,
             "rank": 1,
-            "icon": "/assets/images/Sangonomiya Kokomi_material_101207_1753004020131.png",
+            "icon": "/assets/images/Sangonomiya Kokomi_material_101207_1753016099381.png",
             "description": "海祇の珊瑚と共に生み出された宝珠。触れると月明かりのような涼しさを感じる。",
             "type": "稲妻地域の特産"
           },
@@ -4926,7 +4926,7 @@
             "name": "堅牢なトパーズ·塊",
             "count": 6,
             "rank": 4,
-            "icon": "/assets/images/Ningguang_material_104173_1753003984612.png",
+            "icon": "/assets/images/Ningguang_material_104173_1753016059850.png",
             "description": "キャラクターの突破用アイテム。\\n「この大陸の全ての金銭は俺の血肉。」\\n「こんな形で俺は、人間の労働、知恵、未来を保証する。」",
             "type": "キャラクター突破素材"
           },
@@ -4935,7 +4935,7 @@
             "name": "フライムの晶化核",
             "count": 12,
             "rank": 3,
-            "icon": "/assets/images/Sangonomiya Kokomi_material_112055_1753004020128.png",
+            "icon": "/assets/images/Sangonomiya Kokomi_material_112055_1753016099472.png",
             "description": "フライムを倒すと、たまに見つけられる完全なエネルギー核。\\n物事の雌雄を決させたい人たちの間では、よくこんな議論がある。フライムと風スライムの浮かぶ力、一体どちらが上なのか。",
             "type": "キャラと武器育成素材"
           },
@@ -4944,7 +4944,7 @@
             "name": "恒常からくりの芯",
             "count": 12,
             "rank": 4,
-            "icon": "/assets/images/Kamisato Ayaka_material_113023_1753003967585.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_113023_1753016037983.png",
             "description": "恒常からくり陣形の自律行動を維持するコア。\\n一説によると、コアの模様の中には肉眼で読むことができない言語で、知能とロジックが書かれている。別の説によると、この大きなコアと複雑な模様を持つ遺跡機械は、自発的に生物の姿を捨て、強大な性能を求めたらしい。",
             "type": "キャラクター育成素材"
           }
@@ -4979,7 +4979,7 @@
             "name": "珊瑚真珠",
             "count": 60,
             "rank": 1,
-            "icon": "/assets/images/Sangonomiya Kokomi_material_101207_1753004020131.png",
+            "icon": "/assets/images/Sangonomiya Kokomi_material_101207_1753016099381.png",
             "description": "海祇の珊瑚と共に生み出された宝珠。触れると月明かりのような涼しさを感じる。",
             "type": "稲妻地域の特産"
           },
@@ -4988,7 +4988,7 @@
             "name": "堅牢なトパーズ",
             "count": 6,
             "rank": 5,
-            "icon": "/assets/images/Ningguang_material_104174_1753003984611.png",
+            "icon": "/assets/images/Ningguang_material_104174_1753016059901.png",
             "description": "キャラクターの突破用アイテム。\\n「この大陸の全ての金銭は俺の血肉。」\\n「こんな形で俺は、人間の労働、知恵、未来を保証する。」\\n「これが俺の人間への信頼。金銭に背くことは、俺の血を汚すと同然だ。」",
             "type": "キャラクター突破素材"
           },
@@ -4997,7 +4997,7 @@
             "name": "フライムの晶化核",
             "count": 24,
             "rank": 3,
-            "icon": "/assets/images/Sangonomiya Kokomi_material_112055_1753004020128.png",
+            "icon": "/assets/images/Sangonomiya Kokomi_material_112055_1753016099472.png",
             "description": "フライムを倒すと、たまに見つけられる完全なエネルギー核。\\n物事の雌雄を決させたい人たちの間では、よくこんな議論がある。フライムと風スライムの浮かぶ力、一体どちらが上なのか。",
             "type": "キャラと武器育成素材"
           },
@@ -5006,7 +5006,7 @@
             "name": "恒常からくりの芯",
             "count": 20,
             "rank": 4,
-            "icon": "/assets/images/Kamisato Ayaka_material_113023_1753003967585.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_113023_1753016037983.png",
             "description": "恒常からくり陣形の自律行動を維持するコア。\\n一説によると、コアの模様の中には肉眼で読むことができない言語で、知能とロジックが書かれている。別の説によると、この大きなコアと複雑な模様を持つ遺跡機械は、自発的に生物の姿を捨て、強大な性能を求めたらしい。",
             "type": "キャラクター育成素材"
           }

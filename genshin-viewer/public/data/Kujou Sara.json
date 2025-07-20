@@ -8,7 +8,7 @@
   "region": "Inazuma",
   "constellation": "羽団扇座",
   "description": "「天領奉行」の大将。果敢かつ勇猛である。",
-  "icon": "/assets/images/Kujou Sara_icon_1753004022879.png",
+  "icon": "/assets/images/Kujou Sara_icon_1753016102330.png",
   "profile": {
     "baseHp": 802.376,
     "baseAtk": 16.383,
@@ -23,7 +23,7 @@
       "id": "天狗伝弓術",
       "name": "天狗伝弓術",
       "description": "",
-      "icon": "/assets/images/Amber_normal_attack_1753003976614.png",
+      "icon": "/assets/images/Amber_normal_attack_1753016049941.png",
       "skillType": "normal",
       "params": {
         "1": [],
@@ -47,7 +47,7 @@
       "id": "烏天狗雷霆召呪",
       "name": "烏天狗雷霆召呪",
       "description": "",
-      "icon": "/assets/images/Kujou Sara_elemental_skill_1753004022879.png",
+      "icon": "/assets/images/Kujou Sara_elemental_skill_1753016102331.png",
       "levelData": [
         {
           "tableIndex": 1,
@@ -512,7 +512,7 @@
             0
           ],
           "description": [
-            "天狗呪雷·伏 ダメージ|{param1:F1P}",
+            "天狗呪雷·伏 ���メージ|{param1:F1P}",
             "攻撃力上昇率|{param2:P}",
             "攻撃力上昇継続時間|{param3:F1}秒",
             "クールタイム|{param4:F1}秒",
@@ -1136,21 +1136,21 @@
     "elementalBurst": {
       "name": "不動心",
       "description": "",
-      "icon": "/assets/images/Kujou Sara_elemental_burst_1753004022879.png",
+      "icon": "/assets/images/Kujou Sara_elemental_burst_1753016102331.png",
       "levelData": []
     },
     "passiveTalents": [
       {
         "name": "不動心",
-        "icon": "/assets/images/Kujou Sara_passive_1_1753004022879.png"
+        "icon": "/assets/images/Kujou Sara_passive_1_1753016102331.png"
       },
       {
         "name": "御公儀",
-        "icon": "/assets/images/Kujou Sara_passive_2_1753004022879.png"
+        "icon": "/assets/images/Kujou Sara_passive_2_1753016102331.png"
       },
       {
         "name": "検地",
-        "icon": "/assets/images/Kujou Sara_passive_3_1753004022879.png"
+        "icon": "/assets/images/Kujou Sara_passive_3_1753016102331.png"
       }
     ],
     "completeTableData": [
@@ -1750,7 +1750,7 @@
               "4段ダメージ|{param4:F1P}",
               "5段ダメージ|{param5:F1P}",
               "狙い撃ち|{param6:F1P}",
-              "フルチャージ狙い撃���|{param7:P}",
+              "フルチャージ狙い撃ち|{param7:P}",
               "落下期間のダメージ|{param8:F1P}",
               "低空/高空落下攻撃ダメージ|{param9:P}/{param10:P}",
               "",
@@ -2095,7 +2095,7 @@
               "5段ダメージ|{param5:F1P}",
               "狙い撃ち|{param6:F1P}",
               "フルチャージ狙い撃ち|{param7:P}",
-              "落下期間��ダメージ|{param8:F1P}",
+              "落下期間のダメー���|{param8:F1P}",
               "低空/高空落下攻撃ダメージ|{param9:P}/{param10:P}",
               "",
               "",
@@ -2647,7 +2647,7 @@
               0
             ],
             "description": [
-              "天狗呪雷·伏 ダメージ|{param1:F1P}",
+              "天狗呪雷·伏 ���メージ|{param1:F1P}",
               "攻撃力上昇率|{param2:P}",
               "攻撃力上昇継続時間|{param3:F1}秒",
               "クールタイム|{param4:F1}秒",
@@ -4046,7 +4046,7 @@
             "description": [
               "天狗呪雷·金剛破 ダメージ|{param1:F1P}",
               "天狗呪雷·雷礫 ダメージ|{param2:F1P}",
-              "クールタイム|{param3:F1}秒",
+              "クールタ���ム|{param3:F1}秒",
               "元素エネルギー|{param4:I}",
               "",
               "",
@@ -4317,32 +4317,32 @@
       {
         "level": null,
         "name": "烏目",
-        "icon": "/assets/images/Kujou Sara_constellation_cNaN_1753004022879.png"
+        "icon": "/assets/images/Kujou Sara_constellation_cNaN_1753016102331.png"
       },
       {
         "level": null,
         "name": "鴉の羽",
-        "icon": "/assets/images/Kujou Sara_constellation_cNaN_1753004022880.png"
+        "icon": "/assets/images/Kujou Sara_constellation_cNaN_1753016102331.png"
       },
       {
         "level": null,
         "name": "心魔",
-        "icon": "/assets/images/Kujou Sara_constellation_cNaN_1753004022880.png"
+        "icon": "/assets/images/Kujou Sara_constellation_cNaN_1753016102331.png"
       },
       {
         "level": null,
         "name": "徹証",
-        "icon": "/assets/images/Kujou Sara_constellation_cNaN_1753004022880.png"
+        "icon": "/assets/images/Kujou Sara_constellation_cNaN_1753016102331.png"
       },
       {
         "level": null,
         "name": "呪詠",
-        "icon": "/assets/images/Kujou Sara_constellation_cNaN_1753004022880.png"
+        "icon": "/assets/images/Kujou Sara_constellation_cNaN_1753016102331.png"
       },
       {
         "level": null,
         "name": "我界",
-        "icon": "/assets/images/Kujou Sara_constellation_cNaN_1753004022880.png"
+        "icon": "/assets/images/Kujou Sara_constellation_cNaN_1753016102331.png"
       }
     ]
   },
@@ -4359,14 +4359,14 @@
     "id": 210094,
     "name": "九条裟羅·天狗",
     "description": "九条裟羅·天狗",
-    "icon": "/assets/images/Kujou Sara_icon_1753004022879.png"
+    "icon": "/assets/images/Kujou Sara_icon_1753016102330.png"
   },
   "specialFood": {
     "id": 108341,
     "name": "永遠なる信仰",
     "rank": 1,
-    "icon": "/assets/images/Kujou Sara_special_food_1753004022880.png",
-    "effectIcon": "/assets/images/Kamisato Ayaka_food_effect_1753003967528.png"
+    "icon": "/assets/images/Kujou Sara_special_food_1753016102331.png",
+    "effectIcon": "/assets/images/Kamisato Ayaka_food_effect_1753016037647.png"
   },
   "levelProgression": [
     {
@@ -4682,7 +4682,7 @@
             "name": "血石華",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Kujou Sara_material_101204_1753004022894.png",
+            "icon": "/assets/images/Kujou Sara_material_101204_1753016102539.png",
             "description": "詩の中で「赤蕊」と呼ばれている鮮やかな植物。稲妻列島で一度は絶滅したが、戦場で再び姿を現した。血塗られた戦場ではひときわ輝きを放つと言われている。",
             "type": "稲妻地域の特産"
           },
@@ -4691,7 +4691,7 @@
             "name": "最勝のアメシスト·砕屑",
             "count": 1,
             "rank": 2,
-            "icon": "/assets/images/Lisa_material_104141_1753003970099.png",
+            "icon": "/assets/images/Lisa_material_104141_1753016041506.png",
             "description": "キャラクターの突破用アイテム。",
             "type": "キャラクター突破素材"
           },
@@ -4700,7 +4700,7 @@
             "name": "破損した仮面",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Jean_material_112005_1753003968842.png",
+            "icon": "/assets/images/Jean_material_112005_1753016039723.png",
             "description": "破損した骨の仮面、あるヒルチャールの所持品だった。\\n破損した部分のほうが多く、仮面としての機能は失われている。",
             "type": "キャラと武器育成素材"
           }
@@ -4731,7 +4731,7 @@
             "name": "血石華",
             "count": 10,
             "rank": 1,
-            "icon": "/assets/images/Kujou Sara_material_101204_1753004022894.png",
+            "icon": "/assets/images/Kujou Sara_material_101204_1753016102539.png",
             "description": "詩の中で「赤蕊」と呼ばれている鮮やかな植物。稲妻列島で一度は絶滅したが、戦場で再び姿を現した。血塗られた戦場ではひときわ輝きを放つと言われている。",
             "type": "稲妻地域の特産"
           },
@@ -4740,7 +4740,7 @@
             "name": "最勝のアメシスト·欠片",
             "count": 3,
             "rank": 3,
-            "icon": "/assets/images/Lisa_material_104142_1753003970098.png",
+            "icon": "/assets/images/Lisa_material_104142_1753016041531.png",
             "description": "キャラクターの突破用アイテム。\\n「此の身こそ、いと尊き存在。」",
             "type": "キャラクター突破素材"
           },
@@ -4749,7 +4749,7 @@
             "name": "破損した仮面",
             "count": 15,
             "rank": 1,
-            "icon": "/assets/images/Jean_material_112005_1753003968842.png",
+            "icon": "/assets/images/Jean_material_112005_1753016039723.png",
             "description": "破損した骨の仮面、あるヒルチャールの所持品だった。\\n破損した部分のほうが多く、仮面としての機能は失われている。",
             "type": "キャラと武器育成素材"
           },
@@ -4758,7 +4758,7 @@
             "name": "雷霆の念珠",
             "count": 2,
             "rank": 4,
-            "icon": "/assets/images/Raiden Shogun_material_113029_1753004017781.png",
+            "icon": "/assets/images/Raiden Shogun_material_113029_1753016096675.png",
             "description": "雷音権現が残した電気が秘められた雷の念珠。\\n伝説によると、雷音権現は雷霆につれて、強大な怨恨に満ちた場所でのみ降り立つそうだ。それを駆動し、砕かれた大地で永遠に徘徊させ、貫天の雷を放つようにした者は、歌人のストーリーでは命が耐えられない失望と苦痛である。",
             "type": "キャラクター育成素材"
           }
@@ -4793,7 +4793,7 @@
             "name": "血石華",
             "count": 20,
             "rank": 1,
-            "icon": "/assets/images/Kujou Sara_material_101204_1753004022894.png",
+            "icon": "/assets/images/Kujou Sara_material_101204_1753016102539.png",
             "description": "詩の中で「赤蕊」と呼ばれている鮮やかな植物。稲妻列島で一度は絶滅したが、戦場で再び姿を現した。血塗られた戦場ではひときわ輝きを放つと言われている。",
             "type": "稲妻地域の特産"
           },
@@ -4802,7 +4802,7 @@
             "name": "最勝のアメシスト·欠片",
             "count": 6,
             "rank": 3,
-            "icon": "/assets/images/Lisa_material_104142_1753003970098.png",
+            "icon": "/assets/images/Lisa_material_104142_1753016041531.png",
             "description": "キャラクターの突破用アイテム。\\n「此の身こそ、いと尊き存在。」",
             "type": "キャラクター突破素材"
           },
@@ -4811,7 +4811,7 @@
             "name": "汚れた仮面",
             "count": 12,
             "rank": 2,
-            "icon": "/assets/images/Jean_material_112006_1753003968844.png",
+            "icon": "/assets/images/Jean_material_112006_1753016039648.png",
             "description": "汚れまみれで、何とも言えないにおいがする骨の仮面。\\nそれでも被るのは、ヒルチャールのこだわりだろうか。",
             "type": "キャラと武器育成素材"
           },
@@ -4820,7 +4820,7 @@
             "name": "雷霆の念珠",
             "count": 4,
             "rank": 4,
-            "icon": "/assets/images/Raiden Shogun_material_113029_1753004017781.png",
+            "icon": "/assets/images/Raiden Shogun_material_113029_1753016096675.png",
             "description": "雷音権現が残した電気が秘められた雷の念珠。\\n伝説によると、雷音権現は雷霆につれて、強大な怨恨に満ちた場所でのみ降り立つそうだ。それを駆動し、砕かれた大地で永遠に徘徊させ、貫天の雷を放つようにした者は、歌人のストーリーでは命が耐えられない失望と苦痛である。",
             "type": "キャラクター育成素材"
           }
@@ -4855,7 +4855,7 @@
             "name": "血石華",
             "count": 30,
             "rank": 1,
-            "icon": "/assets/images/Kujou Sara_material_101204_1753004022894.png",
+            "icon": "/assets/images/Kujou Sara_material_101204_1753016102539.png",
             "description": "詩の中で「赤蕊」と呼ばれている鮮やかな植物。稲妻列島で一度は絶滅したが、戦場で再び姿を現した。血塗られた戦場ではひときわ輝きを放つと言われている。",
             "type": "稲妻地域の特産"
           },
@@ -4864,7 +4864,7 @@
             "name": "最勝のアメシスト·塊",
             "count": 3,
             "rank": 4,
-            "icon": "/assets/images/Lisa_material_104143_1753003970096.png",
+            "icon": "/assets/images/Lisa_material_104143_1753016041591.png",
             "description": "キャラクターの突破用アイテム。\\n「此の身こそ、いと尊き存在。」\\n「天下を泰平せし者。」",
             "type": "キャラクター突破素材"
           },
@@ -4873,7 +4873,7 @@
             "name": "汚れた仮面",
             "count": 18,
             "rank": 2,
-            "icon": "/assets/images/Jean_material_112006_1753003968844.png",
+            "icon": "/assets/images/Jean_material_112006_1753016039648.png",
             "description": "汚れまみれで、何とも言えないにおいがする骨の仮面。\\nそれでも被るのは、ヒルチャールのこだわりだろうか。",
             "type": "キャラと武器育成素材"
           },
@@ -4882,7 +4882,7 @@
             "name": "雷霆の念珠",
             "count": 8,
             "rank": 4,
-            "icon": "/assets/images/Raiden Shogun_material_113029_1753004017781.png",
+            "icon": "/assets/images/Raiden Shogun_material_113029_1753016096675.png",
             "description": "雷音権現が残した電気が秘められた雷の念珠。\\n伝説によると、雷音権現は雷霆につれて、強大な怨恨に満ちた場所でのみ降り立つそうだ。それを駆動し、砕かれた大地で永遠に徘徊させ、貫天の雷を放つようにした者は、歌人のストーリーでは命が耐えられない失望と苦痛である。",
             "type": "キャラクター育成素材"
           }
@@ -4917,7 +4917,7 @@
             "name": "血石華",
             "count": 45,
             "rank": 1,
-            "icon": "/assets/images/Kujou Sara_material_101204_1753004022894.png",
+            "icon": "/assets/images/Kujou Sara_material_101204_1753016102539.png",
             "description": "詩の中で「赤蕊」と呼ばれている鮮やかな植物。稲妻列島で一度は絶滅したが、戦場で再び姿を現した。血塗られた戦場ではひときわ輝きを放つと言われている。",
             "type": "稲妻地域の特産"
           },
@@ -4926,7 +4926,7 @@
             "name": "最勝のアメシスト·塊",
             "count": 6,
             "rank": 4,
-            "icon": "/assets/images/Lisa_material_104143_1753003970096.png",
+            "icon": "/assets/images/Lisa_material_104143_1753016041591.png",
             "description": "キャラクターの突破用アイテム。\\n「此の身こそ、いと尊き存在。」\\n「天下を泰平せし者。」",
             "type": "キャラクター突破素材"
           },
@@ -4935,7 +4935,7 @@
             "name": "不吉な仮面",
             "count": 12,
             "rank": 3,
-            "icon": "/assets/images/Jean_material_112007_1753003968845.png",
+            "icon": "/assets/images/Jean_material_112007_1753016039677.png",
             "description": "つるりとした骨の仮面の上には、敵を威嚇する絵が描かれている。\\nヒルチャールが仮面に対するこだわりは今でも解明されていない。一説では、水に反射する自分の倒影を見たくないかららしい。",
             "type": "キャラと武器育成素材"
           },
@@ -4944,7 +4944,7 @@
             "name": "雷霆の念珠",
             "count": 12,
             "rank": 4,
-            "icon": "/assets/images/Raiden Shogun_material_113029_1753004017781.png",
+            "icon": "/assets/images/Raiden Shogun_material_113029_1753016096675.png",
             "description": "雷音権現が残した電気が秘められた雷の念珠。\\n伝説によると、雷音権現は雷霆につれて、強大な怨恨に満ちた場所でのみ降り立つそうだ。それを駆動し、砕かれた大地で永遠に徘徊させ、貫天の雷を放つようにした者は、歌人のストーリーでは命が耐えられない失望と苦痛である。",
             "type": "キャラクター育成素材"
           }
@@ -4979,7 +4979,7 @@
             "name": "血石華",
             "count": 60,
             "rank": 1,
-            "icon": "/assets/images/Kujou Sara_material_101204_1753004022894.png",
+            "icon": "/assets/images/Kujou Sara_material_101204_1753016102539.png",
             "description": "詩の中で「赤蕊」と呼ばれている鮮やかな植物。稲妻列島で一度は絶滅したが、戦場で再び姿を現した。血塗られた戦場ではひときわ輝きを放つと言われている。",
             "type": "稲妻地域の特産"
           },
@@ -4988,7 +4988,7 @@
             "name": "最勝のアメシスト",
             "count": 6,
             "rank": 5,
-            "icon": "/assets/images/Lisa_material_104144_1753003970099.png",
+            "icon": "/assets/images/Lisa_material_104144_1753016041608.png",
             "description": "キャラクターの突破用アイテム。\\n「此の身こそ、いと尊き存在。」\\n「天下を泰平せし者。」\\n「臣民に夢を与えると誓いましょう。未来永劫、不変の『永遠』を。」",
             "type": "キャラクター突破素材"
           },
@@ -4997,7 +4997,7 @@
             "name": "不吉な仮面",
             "count": 24,
             "rank": 3,
-            "icon": "/assets/images/Jean_material_112007_1753003968845.png",
+            "icon": "/assets/images/Jean_material_112007_1753016039677.png",
             "description": "つるりとした骨の仮面の上には、敵を威嚇する絵が描かれている。\\nヒルチャールが仮面に対するこだわりは今でも解明されていない。一説では、水に反射する自分の倒影を見たくないかららしい。",
             "type": "キャラと武器育成素材"
           },
@@ -5006,7 +5006,7 @@
             "name": "雷霆の念珠",
             "count": 20,
             "rank": 4,
-            "icon": "/assets/images/Raiden Shogun_material_113029_1753004017781.png",
+            "icon": "/assets/images/Raiden Shogun_material_113029_1753016096675.png",
             "description": "雷音権現が残した電気が秘められた雷の念珠。\\n伝説によると、雷音権現は雷霆につれて、強大な怨恨に満ちた場所でのみ降り立つそうだ。それを駆動し、砕かれた大地で永遠に徘徊させ、貫天の雷を放つようにした者は、歌人のストーリーでは命が耐えられない失望と苦痛である。",
             "type": "キャラクター育成素材"
           }

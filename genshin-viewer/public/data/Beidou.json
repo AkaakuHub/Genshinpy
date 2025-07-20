@@ -8,7 +8,7 @@
   "region": "Liyue",
   "constellation": "南天海山座",
   "description": "武装船隊「南十字」の頭領。豪快な姉貴。",
-  "icon": "/assets/images/Beidou_icon_1753003980579.png",
+  "icon": "/assets/images/Beidou_icon_1753016054976.png",
   "profile": {
     "baseHp": 1094.149,
     "baseAtk": 18.876,
@@ -23,7 +23,7 @@
       "id": "征浪",
       "name": "征浪",
       "description": "",
-      "icon": "/assets/images/Diluc_normal_attack_1753003974094.png",
+      "icon": "/assets/images/Diluc_normal_attack_1753016046495.png",
       "skillType": "normal",
       "params": {
         "1": [],
@@ -47,7 +47,7 @@
       "id": "浪追い",
       "name": "浪追い",
       "description": "",
-      "icon": "/assets/images/Beidou_elemental_skill_1753003980579.png",
+      "icon": "/assets/images/Beidou_elemental_skill_1753016054977.png",
       "levelData": [
         {
           "tableIndex": 1,
@@ -1136,21 +1136,21 @@
     "elementalBurst": {
       "name": "完全なる霊光",
       "description": "",
-      "icon": "/assets/images/Beidou_elemental_burst_1753003980579.png",
+      "icon": "/assets/images/Beidou_elemental_burst_1753016054977.png",
       "levelData": []
     },
     "passiveTalents": [
       {
         "name": "完全なる霊光",
-        "icon": "/assets/images/Beidou_passive_1_1753003980580.png"
+        "icon": "/assets/images/Beidou_passive_1_1753016054977.png"
       },
       {
         "name": "満天の霹靂",
-        "icon": "/assets/images/Beidou_passive_2_1753003980580.png"
+        "icon": "/assets/images/Beidou_passive_2_1753016054977.png"
       },
       {
         "name": "怒濤踏み",
-        "icon": "/assets/images/Beidou_passive_3_1753003980580.png"
+        "icon": "/assets/images/Beidou_passive_3_1753016054977.png"
       }
     ],
     "completeTableData": [
@@ -1398,7 +1398,7 @@
               "4段ダメージ|{param4:P}",
               "5段ダメージ|{param5:P}",
               "連続重撃ダメージ|{param6:F1P}",
-              "重撃終了ダメージ|{param7:P}",
+              "重撃終了ダメ��ジ|{param7:P}",
               "重撃スタミナ消費|毎秒{param8:F1}",
               "最大継続時間|{param9:F1}秒",
               "落下期間のダメージ|{param10:F1P}",
@@ -1541,7 +1541,7 @@
               "重撃終了ダメージ|{param7:P}",
               "重撃スタミナ消費|毎秒{param8:F1}",
               "最大継続時間|{param9:F1}秒",
-              "落下期間のダメージ|{param10:F1P}",
+              "落下期���のダメージ|{param10:F1P}",
               "低空/高空落下攻撃ダメージ|{param11:P}/{param12:P}",
               "",
               "",
@@ -1894,7 +1894,7 @@
               "5段ダメージ|{param5:P}",
               "連続重撃ダメージ|{param6:P}",
               "重撃終了ダメージ|{param7:P}",
-              "重撃���タミナ消費|毎秒{param8:F1}",
+              "重撃スタミナ消費|毎秒{param8:F1}",
               "最大継続時間|{param9:F1}秒",
               "落下期間のダメージ|{param10:F1P}",
               "低空/高空落下攻撃ダメージ|{param11:P}/{param12:P}",
@@ -2021,7 +2021,7 @@
               0
             ],
             "description": [
-              "1段ダメージ|{param1:P}",
+              "1段ダメ���ジ|{param1:P}",
               "2段ダメージ|{param2:P}",
               "3段ダメージ|{param3:P}",
               "4段ダメージ|{param4:P}",
@@ -4317,32 +4317,32 @@
       {
         "level": null,
         "name": "四方に沈む魚龍",
-        "icon": "/assets/images/Beidou_constellation_cNaN_1753003980580.png"
+        "icon": "/assets/images/Beidou_constellation_cNaN_1753016054977.png"
       },
       {
         "level": null,
         "name": "沸き上がる雷",
-        "icon": "/assets/images/Beidou_constellation_cNaN_1753003980580.png"
+        "icon": "/assets/images/Beidou_constellation_cNaN_1753016054977.png"
       },
       {
         "level": null,
         "name": "雷引きの潮",
-        "icon": "/assets/images/Beidou_constellation_cNaN_1753003980580.png"
+        "icon": "/assets/images/Beidou_constellation_cNaN_1753016054977.png"
       },
       {
         "level": null,
         "name": "星に導かれた岸線",
-        "icon": "/assets/images/Beidou_constellation_cNaN_1753003980580.png"
+        "icon": "/assets/images/Beidou_constellation_cNaN_1753016054977.png"
       },
       {
         "level": null,
         "name": "白波に映る霞光",
-        "icon": "/assets/images/Beidou_constellation_cNaN_1753003980580.png"
+        "icon": "/assets/images/Beidou_constellation_cNaN_1753016054978.png"
       },
       {
         "level": null,
         "name": "北斗の祓い",
-        "icon": "/assets/images/Beidou_constellation_cNaN_1753003980580.png"
+        "icon": "/assets/images/Beidou_constellation_cNaN_1753016054978.png"
       }
     ]
   },
@@ -4359,14 +4359,14 @@
     "id": 210039,
     "name": "北斗·拔錨",
     "description": "北斗·拔錨",
-    "icon": "/assets/images/Beidou_icon_1753003980579.png"
+    "icon": "/assets/images/Beidou_namecard_1753016055094.png"
   },
   "specialFood": {
     "id": 108138,
     "name": "豚肉の唐辛子炒め",
     "rank": 1,
-    "icon": "/assets/images/Beidou_special_food_1753003980581.png",
-    "effectIcon": "/assets/images/Kamisato Ayaka_food_effect_1753003967528.png"
+    "icon": "/assets/images/Beidou_special_food_1753016054978.png",
+    "effectIcon": "/assets/images/Kamisato Ayaka_food_effect_1753016037647.png"
   },
   "levelProgression": [
     {
@@ -4682,7 +4682,7 @@
             "name": "夜泊石",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Beidou_material_100028_1753003980594.png",
+            "icon": "/assets/images/Beidou_material_100028_1753016055183.png",
             "description": "希少な鉱石。暗くて静かな夜に微かに光る。言い伝えによると世の中の元素が変異していく中で形成された貴重な石。",
             "type": "璃月地域の特産"
           },
@@ -4691,7 +4691,7 @@
             "name": "最勝のアメシスト·砕屑",
             "count": 1,
             "rank": 2,
-            "icon": "/assets/images/Lisa_material_104141_1753003970099.png",
+            "icon": "/assets/images/Lisa_material_104141_1753016041506.png",
             "description": "キャラクターの突破用アイテム。",
             "type": "キャラクター突破素材"
           },
@@ -4700,7 +4700,7 @@
             "name": "宝探しの鴉マーク",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Kaeya_material_112035_1753003972854.png",
+            "icon": "/assets/images/Kaeya_material_112035_1753016045037.png",
             "description": "宝盗団の誇りであるマーク、彼らの宝物に対する永遠不滅の情熱を示すものである。とはいえ、自分が盗賊ということを誇らしげに示す必要はあるかな…？",
             "type": "キャラと武器育成素材"
           }
@@ -4731,7 +4731,7 @@
             "name": "夜泊石",
             "count": 10,
             "rank": 1,
-            "icon": "/assets/images/Beidou_material_100028_1753003980594.png",
+            "icon": "/assets/images/Beidou_material_100028_1753016055183.png",
             "description": "希少な鉱石。暗くて静かな夜に微かに光る。言い伝えによると世の中の元素が変異していく中で形成された貴重な石。",
             "type": "璃月地域の特産"
           },
@@ -4740,7 +4740,7 @@
             "name": "最勝のアメシスト·欠片",
             "count": 3,
             "rank": 3,
-            "icon": "/assets/images/Lisa_material_104142_1753003970098.png",
+            "icon": "/assets/images/Lisa_material_104142_1753016041531.png",
             "description": "キャラクターの突破用アイテム。\\n「此の身こそ、いと尊き存在。」",
             "type": "キャラクター突破素材"
           },
@@ -4749,7 +4749,7 @@
             "name": "宝探しの鴉マーク",
             "count": 15,
             "rank": 1,
-            "icon": "/assets/images/Kaeya_material_112035_1753003972854.png",
+            "icon": "/assets/images/Kaeya_material_112035_1753016045037.png",
             "description": "宝盗団の誇りであるマーク、彼らの宝物に対する永遠不滅の情熱を示すものである。とはいえ、自分が盗賊ということを誇らしげに示す必要はあるかな…？",
             "type": "キャラと武器育成素材"
           },
@@ -4758,7 +4758,7 @@
             "name": "雷光のプリズム",
             "count": 2,
             "rank": 4,
-            "icon": "/assets/images/Lisa_material_113002_1753003970098.png",
+            "icon": "/assets/images/Lisa_material_113002_1753016041636.png",
             "description": "無相の雷が元素を集め、損傷を直すための物質。中には純粋な雷の力がある。\\nプリズムは光を構成する色彩の区別ができ、雷光のプリズムは流れるエネルギーを純粋な雷光に織り成すことができる。たとえ無相の雷が倒されたとしても、雷元素はこのプリズムの中で集まり続ける。",
             "type": "キャラクター育成素材"
           }
@@ -4793,7 +4793,7 @@
             "name": "夜泊石",
             "count": 20,
             "rank": 1,
-            "icon": "/assets/images/Beidou_material_100028_1753003980594.png",
+            "icon": "/assets/images/Beidou_material_100028_1753016055183.png",
             "description": "希少な鉱石。暗くて静かな夜に微かに光る。言い伝えによると世の中の元素が変異していく中で形成された貴重な石。",
             "type": "璃月地域の特産"
           },
@@ -4802,7 +4802,7 @@
             "name": "最勝のアメシスト·欠片",
             "count": 6,
             "rank": 3,
-            "icon": "/assets/images/Lisa_material_104142_1753003970098.png",
+            "icon": "/assets/images/Lisa_material_104142_1753016041531.png",
             "description": "キャラクターの突破用アイテム。\\n「此の身こそ、いと尊き存在。」",
             "type": "キャラクター突破素材"
           },
@@ -4811,7 +4811,7 @@
             "name": "シルバーの鴉マーク",
             "count": 12,
             "rank": 2,
-            "icon": "/assets/images/Kaeya_material_112036_1753003972854.png",
+            "icon": "/assets/images/Kaeya_material_112036_1753016045088.png",
             "description": "宝盗団のメンバーが互いの存在を証明する鴉マーク。宝盗団のメンバーは出身を問わず、宝物への貪欲さえあれば、「優秀」なメンバーになれる。",
             "type": "キャラと武器育成素材"
           },
@@ -4820,7 +4820,7 @@
             "name": "雷光のプリズム",
             "count": 4,
             "rank": 4,
-            "icon": "/assets/images/Lisa_material_113002_1753003970098.png",
+            "icon": "/assets/images/Lisa_material_113002_1753016041636.png",
             "description": "無相の雷が元素を集め、損傷を直すための物質。中には純粋な雷の力がある。\\nプリズムは光を構成する色彩の区別ができ、雷光のプリズムは流れるエネルギーを純粋な雷光に織り成すことができる。たとえ無相の雷が倒されたとしても、雷元素はこのプリズムの中で集まり続ける。",
             "type": "キャラクター育成素材"
           }
@@ -4855,7 +4855,7 @@
             "name": "夜泊石",
             "count": 30,
             "rank": 1,
-            "icon": "/assets/images/Beidou_material_100028_1753003980594.png",
+            "icon": "/assets/images/Beidou_material_100028_1753016055183.png",
             "description": "希少な鉱石。暗くて静かな夜に微かに光る。言い伝えによると世の中の元素が変異していく中で形成された貴重な石。",
             "type": "璃月地域の特産"
           },
@@ -4864,7 +4864,7 @@
             "name": "最勝のアメシスト·塊",
             "count": 3,
             "rank": 4,
-            "icon": "/assets/images/Lisa_material_104143_1753003970096.png",
+            "icon": "/assets/images/Lisa_material_104143_1753016041591.png",
             "description": "キャラクターの突破用アイテム。\\n「此の身こそ、いと尊き存在。」\\n「天下を泰平せし者。」",
             "type": "キャラクター突破素材"
           },
@@ -4873,7 +4873,7 @@
             "name": "シルバーの鴉マーク",
             "count": 18,
             "rank": 2,
-            "icon": "/assets/images/Kaeya_material_112036_1753003972854.png",
+            "icon": "/assets/images/Kaeya_material_112036_1753016045088.png",
             "description": "宝盗団のメンバーが互いの存在を証明する鴉マーク。宝盗団のメンバーは出身を問わず、宝物への貪欲さえあれば、「優秀」なメンバーになれる。",
             "type": "キャラと武器育成素材"
           },
@@ -4882,7 +4882,7 @@
             "name": "雷光のプリズム",
             "count": 8,
             "rank": 4,
-            "icon": "/assets/images/Lisa_material_113002_1753003970098.png",
+            "icon": "/assets/images/Lisa_material_113002_1753016041636.png",
             "description": "無相の雷が元素を集め、損傷を直すための物質。中には純粋な雷の力がある。\\nプリズムは光を構成する色彩の区別ができ、雷光のプリズムは流れるエネルギーを純粋な雷光に織り成すことができる。たとえ無相の雷が倒されたとしても、雷元素はこのプリズムの中で集まり続ける。",
             "type": "キャラクター育成素材"
           }
@@ -4917,7 +4917,7 @@
             "name": "夜泊石",
             "count": 45,
             "rank": 1,
-            "icon": "/assets/images/Beidou_material_100028_1753003980594.png",
+            "icon": "/assets/images/Beidou_material_100028_1753016055183.png",
             "description": "希少な鉱石。暗くて静かな夜に微かに光る。言い伝えによると世の中の元素が変異していく中で形成された貴重な石。",
             "type": "璃月地域の特産"
           },
@@ -4926,7 +4926,7 @@
             "name": "最勝のアメシスト·塊",
             "count": 6,
             "rank": 4,
-            "icon": "/assets/images/Lisa_material_104143_1753003970096.png",
+            "icon": "/assets/images/Lisa_material_104143_1753016041591.png",
             "description": "キャラクターの突破用アイテム。\\n「此の身こそ、いと尊き存在。」\\n「天下を泰平せし者。」",
             "type": "キャラクター突破素材"
           },
@@ -4935,7 +4935,7 @@
             "name": "ゴールドの鴉マーク",
             "count": 12,
             "rank": 3,
-            "icon": "/assets/images/Kaeya_material_112037_1753003972851.png",
+            "icon": "/assets/images/Kaeya_material_112037_1753016044988.png",
             "description": "宝盗団の信仰と誇りを示す鴉マーク。この広い大地、幽邃の深淵、未知な海に秘宝が存在していれば、宝盗団の信念は永遠に続く。",
             "type": "キャラと武器育成素材"
           },
@@ -4944,7 +4944,7 @@
             "name": "雷光のプリズム",
             "count": 12,
             "rank": 4,
-            "icon": "/assets/images/Lisa_material_113002_1753003970098.png",
+            "icon": "/assets/images/Lisa_material_113002_1753016041636.png",
             "description": "無相の雷が元素を集め、損傷を直すための物質。中には純粋な雷の力がある。\\nプリズムは光を構成する色彩の区別ができ、雷光のプリズムは流れるエネルギーを純粋な雷光に織り成すことができる。たとえ無相の雷が倒されたとしても、雷元素はこのプリズムの中で集まり続ける。",
             "type": "キャラクター育成素材"
           }
@@ -4979,7 +4979,7 @@
             "name": "夜泊石",
             "count": 60,
             "rank": 1,
-            "icon": "/assets/images/Beidou_material_100028_1753003980594.png",
+            "icon": "/assets/images/Beidou_material_100028_1753016055183.png",
             "description": "希少な鉱石。暗くて静かな夜に微かに光る。言い伝えによると世の中の元素が変異していく中で形成された貴重な石。",
             "type": "璃月地域の特産"
           },
@@ -4988,7 +4988,7 @@
             "name": "最勝のアメシスト",
             "count": 6,
             "rank": 5,
-            "icon": "/assets/images/Lisa_material_104144_1753003970099.png",
+            "icon": "/assets/images/Lisa_material_104144_1753016041608.png",
             "description": "キャラクターの突破用アイテム。\\n「此の身こそ、いと尊き存在。」\\n「天下を泰平せし者。」\\n「臣民に夢を与えると誓いましょう。未来永劫、不変の『永遠』を。」",
             "type": "キャラクター突破素材"
           },
@@ -4997,7 +4997,7 @@
             "name": "ゴールドの鴉マーク",
             "count": 24,
             "rank": 3,
-            "icon": "/assets/images/Kaeya_material_112037_1753003972851.png",
+            "icon": "/assets/images/Kaeya_material_112037_1753016044988.png",
             "description": "宝盗団の信仰と誇りを示す鴉マーク。この広い大地、幽邃の深淵、未知な海に秘宝が存在していれば、宝盗団の信念は永遠に続く。",
             "type": "キャラと武器育成素材"
           },
@@ -5006,7 +5006,7 @@
             "name": "雷光のプリズム",
             "count": 20,
             "rank": 4,
-            "icon": "/assets/images/Lisa_material_113002_1753003970098.png",
+            "icon": "/assets/images/Lisa_material_113002_1753016041636.png",
             "description": "無相の雷が元素を集め、損傷を直すための物質。中には純粋な雷の力がある。\\nプリズムは光を構成する色彩の区別ができ、雷光のプリズムは流れるエネルギーを純粋な雷光に織り成すことができる。たとえ無相の雷が倒されたとしても、雷元素はこのプリズムの中で集まり続ける。",
             "type": "キャラクター育成素材"
           }

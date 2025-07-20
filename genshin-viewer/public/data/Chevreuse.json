@@ -8,7 +8,7 @@
   "region": "Fontaine",
   "constellation": "刀銃座",
   "description": "心の中にある「正義」を常に遵守する特巡隊隊長。その手にある銃は罪人だけに向けられる。",
-  "icon": "/assets/images/Chevreuse_icon_1753004071044.png",
+  "icon": "/assets/images/Chevreuse_icon_1753016155137.png",
   "profile": {
     "baseHp": 1002.97,
     "baseAtk": 16.205,
@@ -23,7 +23,7 @@
       "id": "戦列槍術・改",
       "name": "戦列槍術・改",
       "description": "",
-      "icon": "/assets/images/Xiangling_normal_attack_1753003979325.png",
+      "icon": "/assets/images/Xiangling_normal_attack_1753016053320.png",
       "skillType": "normal",
       "params": {
         "1": [],
@@ -47,7 +47,7 @@
       "id": "近迫阻止射撃·速",
       "name": "近迫阻止射撃·速",
       "description": "",
-      "icon": "/assets/images/Chevreuse_elemental_skill_1753004071044.png",
+      "icon": "/assets/images/Chevreuse_elemental_skill_1753016155137.png",
       "levelData": [
         {
           "tableIndex": 1,
@@ -295,7 +295,7 @@
           "description": [
             "一回押しダメージ|{param1:F1P}",
             "長押しダメージ|{param2:F1P}",
-            "「マグナムブレット」のダメージ|{param3:F1P}",
+            "「マグ���ムブレット」のダメージ|{param3:F1P}",
             "継続回復量|HP上限{param5:F2P}+{param6:I}",
             "治療継続時間|{param4:F1}秒",
             "迸発の刃のダメージ|{param7:F1P}",
@@ -369,7 +369,7 @@
             "一回押しダメージ|{param1:F1P}",
             "長押しダメージ|{param2:F1P}",
             "「マグナムブレット」のダメージ|{param3:F1P}",
-            "継続回復量|HP��限{param5:F2P}+{param6:I}",
+            "継続回復量|HP上限{param5:F2P}+{param6:I}",
             "治療継続時間|{param4:F1}秒",
             "迸発の刃のダメージ|{param7:F1P}",
             "迸発の刃の間隔|{param8:F1}秒",
@@ -662,7 +662,7 @@
           "description": [
             "一回押しダメージ|{param1:F1P}",
             "長押しダメージ|{param2:F1P}",
-            "「マグナムブレット」のダメージ|{param3:F1P}",
+            "「マグナムブレット���のダメージ|{param3:F1P}",
             "継続回復量|HP上限{param5:F2P}+{param6:I}",
             "治療継続時間|{param4:F1}秒",
             "迸発の刃のダメージ|{param7:F1P}",
@@ -1023,7 +1023,7 @@
             "長押しダメージ|{param2:F1P}",
             "「マグナムブレット」のダメージ|{param3:F1P}",
             "継続回復量|HP上限{param5:F2P}+{param6:I}",
-            "治療継続時間|{param4:F1}秒",
+            "治療継続時��|{param4:F1}秒",
             "迸発の刃のダメージ|{param7:F1P}",
             "迸発の刃の間隔|{param8:F1}秒",
             "クールタイム|{param9:F1}秒",
@@ -1136,21 +1136,21 @@
     "elementalBurst": {
       "name": "尖兵協同戦術",
       "description": "",
-      "icon": "/assets/images/Chevreuse_elemental_burst_1753004071044.png",
+      "icon": "/assets/images/Chevreuse_elemental_burst_1753016155137.png",
       "levelData": []
     },
     "passiveTalents": [
       {
         "name": "尖兵協同戦術",
-        "icon": "/assets/images/Chevreuse_passive_1_1753004071045.png"
+        "icon": "/assets/images/Chevreuse_passive_1_1753016155137.png"
       },
       {
         "name": "縦陣戦力統括",
-        "icon": "/assets/images/Chevreuse_passive_2_1753004071045.png"
+        "icon": "/assets/images/Chevreuse_passive_2_1753016155137.png"
       },
       {
         "name": "迅速行軍戦略",
-        "icon": "/assets/images/Kaeya_passive_3_1753003972832.png"
+        "icon": "/assets/images/Kaeya_passive_3_1753016044775.png"
       }
     ],
     "completeTableData": [
@@ -1538,7 +1538,7 @@
               "4段ダメージ|{param5:F1P}",
               "重撃ダメージ|{param6:F1P}",
               "重撃スタミナ消費|{param7:F1}",
-              "落下期間のダメージ|{param8:F1P}",
+              "落下期��のダメージ|{param8:F1P}",
               "低空/高空落下攻撃ダメージ|{param9:P}/{param10:P}",
               "",
               "",
@@ -2439,7 +2439,7 @@
             "description": [
               "一回押しダメージ|{param1:F1P}",
               "長押しダメージ|{param2:F1P}",
-              "「マグナムブレット」のダメージ|{param3:F1P}",
+              "「マグ���ムブレット」のダメージ|{param3:F1P}",
               "継続回復量|HP上限{param5:F2P}+{param6:I}",
               "治療継続時間|{param4:F1}秒",
               "迸発の刃のダメージ|{param7:F1P}",
@@ -2510,7 +2510,7 @@
               "一回押しダメージ|{param1:F1P}",
               "長押しダメージ|{param2:F1P}",
               "「マグナムブレット」のダメージ|{param3:F1P}",
-              "継続回復量|HP��限{param5:F2P}+{param6:I}",
+              "継続回復量|HP上限{param5:F2P}+{param6:I}",
               "治療継続時間|{param4:F1}秒",
               "迸発の刃のダメージ|{param7:F1P}",
               "迸発の刃の間隔|{param8:F1}秒",
@@ -2791,7 +2791,7 @@
             "description": [
               "一回押しダメージ|{param1:F1P}",
               "長押しダメージ|{param2:F1P}",
-              "「マグナムブレット」のダメージ|{param3:F1P}",
+              "「マグナムブレット���のダメージ|{param3:F1P}",
               "継続回復量|HP上限{param5:F2P}+{param6:I}",
               "治療継続時間|{param4:F1}秒",
               "迸発の刃のダメージ|{param7:F1P}",
@@ -3137,7 +3137,7 @@
               "長押しダメージ|{param2:F1P}",
               "「マグナムブレット」のダメージ|{param3:F1P}",
               "継続回復量|HP上限{param5:F2P}+{param6:I}",
-              "治療継続時間|{param4:F1}秒",
+              "治療継続時��|{param4:F1}秒",
               "迸発の刃のダメージ|{param7:F1P}",
               "迸発の刃の間隔|{param8:F1}秒",
               "クールタイム|{param9:F1}秒",
@@ -4317,32 +4317,32 @@
       {
         "level": null,
         "name": "戦線維持の胆力",
-        "icon": "/assets/images/Chevreuse_constellation_cNaN_1753004071045.png"
+        "icon": "/assets/images/Chevreuse_constellation_cNaN_1753016155137.png"
       },
       {
         "level": null,
         "name": "誘導殉爆の狙撃",
-        "icon": "/assets/images/Chevreuse_constellation_cNaN_1753004071045.png"
+        "icon": "/assets/images/Chevreuse_constellation_cNaN_1753016155137.png"
       },
       {
         "level": null,
         "name": "熟練装弾の技術",
-        "icon": "/assets/images/Chevreuse_constellation_cNaN_1753004071045.png"
+        "icon": "/assets/images/Chevreuse_constellation_cNaN_1753016155138.png"
       },
       {
         "level": null,
         "name": "多重速射の秘訣",
-        "icon": "/assets/images/Chevreuse_constellation_cNaN_1753004071045.png"
+        "icon": "/assets/images/Chevreuse_constellation_cNaN_1753016155138.png"
       },
       {
         "level": null,
         "name": "火力増幅の毀傷",
-        "icon": "/assets/images/Chevreuse_constellation_cNaN_1753004071045.png"
+        "icon": "/assets/images/Chevreuse_constellation_cNaN_1753016155138.png"
       },
       {
         "level": null,
         "name": "罪過終止の追捕",
-        "icon": "/assets/images/Chevreuse_constellation_cNaN_1753004071045.png"
+        "icon": "/assets/images/Chevreuse_constellation_cNaN_1753016155138.png"
       }
     ]
   },
@@ -4359,14 +4359,14 @@
     "id": 210185,
     "name": "シュヴルーズ·弐型",
     "description": "シュヴルーズ·弐型",
-    "icon": "/assets/images/Chevreuse_icon_1753004071044.png"
+    "icon": "/assets/images/Chevreuse_namecard_1753016155258.png"
   },
   "specialFood": {
     "id": 108619,
     "name": "罪·対処不必要型",
     "rank": 3,
-    "icon": "/assets/images/Chevreuse_special_food_1753004071045.png",
-    "effectIcon": "/assets/images/Klee_food_effect_1753003986019.png"
+    "icon": "/assets/images/Chevreuse_special_food_1753016155138.png",
+    "effectIcon": "/assets/images/Klee_food_effect_1753016061314.png"
   },
   "levelProgression": [
     {
@@ -4682,7 +4682,7 @@
             "name": "ルミドゥースベル",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Lynette_material_101235_1753004061155.png",
+            "icon": "/assets/images/Lynette_material_101235_1753016144251.png",
             "description": "優雅に佇む、紫色の清楚な花。淡く清らかな香りは繊細にして優しく、貴重な香水の製造に使われることが多い。",
             "type": "フォンテーヌ地域の特産"
           },
@@ -4691,7 +4691,7 @@
             "name": "炎願のアゲート·砕屑",
             "count": 1,
             "rank": 2,
-            "icon": "/assets/images/Diluc_material_104111_1753003974114.png",
+            "icon": "/assets/images/Diluc_material_104111_1753016046752.png",
             "description": "キャラクターの突破用アイテム。",
             "type": "キャラクター突破素材"
           },
@@ -4700,7 +4700,7 @@
             "name": "整合の歯車",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Lynette_material_112083_1753004061144.png",
+            "icon": "/assets/images/Lynette_material_112083_1753016144376.png",
             "description": "クロックワーク·マシナリーの歯車。\\n動力伝達のための重要な部品。この部品がないと、対応のモジュールは機能しなくなる。",
             "type": "キャラと武器育成素材"
           }
@@ -4731,7 +4731,7 @@
             "name": "ルミドゥースベル",
             "count": 10,
             "rank": 1,
-            "icon": "/assets/images/Lynette_material_101235_1753004061155.png",
+            "icon": "/assets/images/Lynette_material_101235_1753016144251.png",
             "description": "優雅に佇む、紫色の清楚な花。淡く清らかな香りは繊細にして優しく、貴重な香水の製造に使われることが多い。",
             "type": "フォンテーヌ地域の特産"
           },
@@ -4740,7 +4740,7 @@
             "name": "炎願のアゲート·欠片",
             "count": 3,
             "rank": 3,
-            "icon": "/assets/images/Diluc_material_104112_1753003974114.png",
+            "icon": "/assets/images/Diluc_material_104112_1753016046727.png",
             "description": "キャラクターの突破用アイテム。\\n「人々の願いのため、巡礼の道を歩もう。最強を目指して集い、戦うのだ…」",
             "type": "キャラクター突破素材"
           },
@@ -4749,7 +4749,7 @@
             "name": "整合の歯車",
             "count": 15,
             "rank": 1,
-            "icon": "/assets/images/Lynette_material_112083_1753004061144.png",
+            "icon": "/assets/images/Lynette_material_112083_1753016144376.png",
             "description": "クロックワーク·マシナリーの歯車。\\n動力伝達のための重要な部品。この部品がないと、対応のモジュールは機能しなくなる。",
             "type": "キャラと武器育成素材"
           },
@@ -4758,7 +4758,7 @@
             "name": "原海駿の角",
             "count": 2,
             "rank": 4,
-            "icon": "/assets/images/Neuvillette_material_113053_1753004066825.png",
+            "icon": "/assets/images/Neuvillette_material_113053_1753016150780.png",
             "description": "千年真珠の海駿の放電器官。その偉大なる「超越」を象徴するレガリアでもあるが、挑戦者との戦いで折れてしまった。\\nアワアワタツノコから進化した最上位の捕食者。千年真珠の海駿は他の原海アベラントとはまるで異なる進化の過程を経てきた。種の原型を基礎として、より大きく強靭に進化したというわけではなく、アワアワタツノコにはない肢体や角が生え、骨格や筋肉までもが変化を遂げてきたのだ。その姿は、種の原型よりも、古い伝説の幻獣を彷彿とさせる。詩人や劇作家の想像上では、タツノコでさえ、大地を駆け巡り、躍動する駿馬の姿をしている。",
             "type": "キャラクター育成素材"
           }
@@ -4793,7 +4793,7 @@
             "name": "ルミドゥースベル",
             "count": 20,
             "rank": 1,
-            "icon": "/assets/images/Lynette_material_101235_1753004061155.png",
+            "icon": "/assets/images/Lynette_material_101235_1753016144251.png",
             "description": "優雅に佇む、紫色の清楚な花。淡く清らかな香りは繊細にして優しく、貴重な香水の製造に使われることが多い。",
             "type": "フォンテーヌ地域の特産"
           },
@@ -4802,7 +4802,7 @@
             "name": "炎願のアゲート·欠片",
             "count": 6,
             "rank": 3,
-            "icon": "/assets/images/Diluc_material_104112_1753003974114.png",
+            "icon": "/assets/images/Diluc_material_104112_1753016046727.png",
             "description": "キャラクターの突破用アイテム。\\n「人々の願いのため、巡礼の道を歩もう。最強を目指して集い、戦うのだ…」",
             "type": "キャラクター突破素材"
           },
@@ -4811,7 +4811,7 @@
             "name": "機構の平歯車",
             "count": 12,
             "rank": 2,
-            "icon": "/assets/images/Lynette_material_112084_1753004061148.png",
+            "icon": "/assets/images/Lynette_material_112084_1753016144222.png",
             "description": "クロックワーク·マシナリーの歯車。\\nクロックワーク·マシナリーは運動学において数々の画期的な進歩を遂げてきたが、動力学においては、400年以上も前に、アラン·ギヨタンが築き上げた基礎と枠を未だに突破できていない。",
             "type": "キャラと武器育成素材"
           },
@@ -4820,7 +4820,7 @@
             "name": "原海駿の角",
             "count": 4,
             "rank": 4,
-            "icon": "/assets/images/Neuvillette_material_113053_1753004066825.png",
+            "icon": "/assets/images/Neuvillette_material_113053_1753016150780.png",
             "description": "千年真珠の海駿の放電器官。その偉大なる「超越」を象徴するレガリアでもあるが、挑戦者との戦いで折れてしまった。\\nアワアワタツノコから進化した最上位の捕食者。千年真珠の海駿は他の原海アベラントとはまるで異なる進化の過程を経てきた。種の原型を基礎として、より大きく強靭に進化したというわけではなく、アワアワタツノコにはない肢体や角が生え、骨格や筋肉までもが変化を遂げてきたのだ。その姿は、種の原型よりも、古い伝説の幻獣を彷彿とさせる。詩人や劇作家の想像上では、タツノコでさえ、大地を駆け巡り、躍動する駿馬の姿をしている。",
             "type": "キャラクター育成素材"
           }
@@ -4855,7 +4855,7 @@
             "name": "ルミドゥースベル",
             "count": 30,
             "rank": 1,
-            "icon": "/assets/images/Lynette_material_101235_1753004061155.png",
+            "icon": "/assets/images/Lynette_material_101235_1753016144251.png",
             "description": "優雅に佇む、紫色の清楚な花。淡く清らかな香りは繊細にして優しく、貴重な香水の製造に使われることが多い。",
             "type": "フォンテーヌ地域の特産"
           },
@@ -4864,7 +4864,7 @@
             "name": "炎願のアゲート·塊",
             "count": 3,
             "rank": 4,
-            "icon": "/assets/images/Diluc_material_104113_1753003974140.png",
+            "icon": "/assets/images/Diluc_material_104113_1753016046900.png",
             "description": "キャラクターの突破用アイテム。\\n「人々の願いのため、巡礼の道を歩もう。最強を目指して集い、戦うのだ…」\\n「最後は夢のために、劫火の中で燃え尽きる。」",
             "type": "キャラクター突破素材"
           },
@@ -4873,7 +4873,7 @@
             "name": "機構の平歯車",
             "count": 18,
             "rank": 2,
-            "icon": "/assets/images/Lynette_material_112084_1753004061148.png",
+            "icon": "/assets/images/Lynette_material_112084_1753016144222.png",
             "description": "クロックワーク·マシナリーの歯車。\\nクロックワーク·マシナリーは運動学において数々の画期的な進歩を遂げてきたが、動力学においては、400年以上も前に、アラン·ギヨタンが築き上げた基礎と枠を未だに突破できていない。",
             "type": "キャラと武器育成素材"
           },
@@ -4882,7 +4882,7 @@
             "name": "原海駿の角",
             "count": 8,
             "rank": 4,
-            "icon": "/assets/images/Neuvillette_material_113053_1753004066825.png",
+            "icon": "/assets/images/Neuvillette_material_113053_1753016150780.png",
             "description": "千年真珠の海駿の放電器官。その偉大なる「超越」を象徴するレガリアでもあるが、挑戦者との戦いで折れてしまった。\\nアワアワタツノコから進化した最上位の捕食者。千年真珠の海駿は他の原海アベラントとはまるで異なる進化の過程を経てきた。種の原型を基礎として、より大きく強靭に進化したというわけではなく、アワアワタツノコにはない肢体や角が生え、骨格や筋肉までもが変化を遂げてきたのだ。その姿は、種の原型よりも、古い伝説の幻獣を彷彿とさせる。詩人や劇作家の想像上では、タツノコでさえ、大地を駆け巡り、躍動する駿馬の姿をしている。",
             "type": "キャラクター育成素材"
           }
@@ -4917,7 +4917,7 @@
             "name": "ルミドゥースベル",
             "count": 45,
             "rank": 1,
-            "icon": "/assets/images/Lynette_material_101235_1753004061155.png",
+            "icon": "/assets/images/Lynette_material_101235_1753016144251.png",
             "description": "優雅に佇む、紫色の清楚な花。淡く清らかな香りは繊細にして優しく、貴重な香水の製造に使われることが多い。",
             "type": "フォンテーヌ地域の特産"
           },
@@ -4926,7 +4926,7 @@
             "name": "炎願のアゲート·塊",
             "count": 6,
             "rank": 4,
-            "icon": "/assets/images/Diluc_material_104113_1753003974140.png",
+            "icon": "/assets/images/Diluc_material_104113_1753016046900.png",
             "description": "キャラクターの突破用アイテム。\\n「人々の願いのため、巡礼の道を歩もう。最強を目指して集い、戦うのだ…」\\n「最後は夢のために、劫火の中で燃え尽きる。」",
             "type": "キャラクター突破素材"
           },
@@ -4935,7 +4935,7 @@
             "name": "奇械のコア歯車",
             "count": 12,
             "rank": 3,
-            "icon": "/assets/images/Lynette_material_112085_1753004061145.png",
+            "icon": "/assets/images/Lynette_material_112085_1753016144324.png",
             "description": "クロックワーク·マシナリーの歯車。\\n加工の精度および材料学の進歩はフォンテーヌのクロックワーク·マシナリーの発展のカギとなる。先進的設備の力を借りれば、どのエンジニアだって「奇械公」ギヨタンの時代を凌駕する機械を作り出せる可能性がある。",
             "type": "キャラと武器育成素材"
           },
@@ -4944,7 +4944,7 @@
             "name": "原海駿の角",
             "count": 12,
             "rank": 4,
-            "icon": "/assets/images/Neuvillette_material_113053_1753004066825.png",
+            "icon": "/assets/images/Neuvillette_material_113053_1753016150780.png",
             "description": "千年真珠の海駿の放電器官。その偉大なる「超越」を象徴するレガリアでもあるが、挑戦者との戦いで折れてしまった。\\nアワアワタツノコから進化した最上位の捕食者。千年真珠の海駿は他の原海アベラントとはまるで異なる進化の過程を経てきた。種の原型を基礎として、より大きく強靭に進化したというわけではなく、アワアワタツノコにはない肢体や角が生え、骨格や筋肉までもが変化を遂げてきたのだ。その姿は、種の原型よりも、古い伝説の幻獣を彷彿とさせる。詩人や劇作家の想像上では、タツノコでさえ、大地を駆け巡り、躍動する駿馬の姿をしている。",
             "type": "キャラクター育成素材"
           }
@@ -4979,7 +4979,7 @@
             "name": "ルミドゥースベル",
             "count": 60,
             "rank": 1,
-            "icon": "/assets/images/Lynette_material_101235_1753004061155.png",
+            "icon": "/assets/images/Lynette_material_101235_1753016144251.png",
             "description": "優雅に佇む、紫色の清楚な花。淡く清らかな香りは繊細にして優しく、貴重な香水の製造に使われることが多い。",
             "type": "フォンテーヌ地域の特産"
           },
@@ -4988,7 +4988,7 @@
             "name": "炎願のアゲート",
             "count": 6,
             "rank": 5,
-            "icon": "/assets/images/Diluc_material_104114_1753003974136.png",
+            "icon": "/assets/images/Diluc_material_104114_1753016046880.png",
             "description": "キャラクターの突破用アイテム。\\n「人々の願いのため、巡礼の道を歩もう。最強を目指して集い、戦うのだ…」\\n「最後は夢のために、劫火の中で燃え尽きる。」\\n「その灰燼にまだ初心が残っていれば、██の真実に辿り着いたという。」",
             "type": "キャラクター突破素材"
           },
@@ -4997,7 +4997,7 @@
             "name": "奇械のコア歯車",
             "count": 24,
             "rank": 3,
-            "icon": "/assets/images/Lynette_material_112085_1753004061145.png",
+            "icon": "/assets/images/Lynette_material_112085_1753016144324.png",
             "description": "クロックワーク·マシナリーの歯車。\\n加工の精度および材料学の進歩はフォンテーヌのクロックワーク·マシナリーの発展のカギとなる。先進的設備の力を借りれば、どのエンジニアだって「奇械公」ギヨタンの時代を凌駕する機械を作り出せる可能性がある。",
             "type": "キャラと武器育成素材"
           },
@@ -5006,7 +5006,7 @@
             "name": "原海駿の角",
             "count": 20,
             "rank": 4,
-            "icon": "/assets/images/Neuvillette_material_113053_1753004066825.png",
+            "icon": "/assets/images/Neuvillette_material_113053_1753016150780.png",
             "description": "千年真珠の海駿の放電器官。その偉大なる「超越」を象徴するレガリアでもあるが、挑戦者との戦いで折れてしまった。\\nアワアワタツノコから進化した最上位の捕食者。千年真珠の海駿は他の原海アベラントとはまるで異なる進化の過程を経てきた。種の原型を基礎として、より大きく強靭に進化したというわけではなく、アワアワタツノコにはない肢体や角が生え、骨格や筋肉までもが変化を遂げてきたのだ。その姿は、種の原型よりも、古い伝説の幻獣を彷彿とさせる。詩人や劇作家の想像上では、タツノコでさえ、大地を駆け巡り、躍動する駿馬の姿をしている。",
             "type": "キャラクター育成素材"
           }
