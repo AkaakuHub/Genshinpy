@@ -67,9 +67,9 @@ data/*
 api/*
 !api/.gitkeep
 
-# Generated data files (スクレイピング結果)
-genshin-viewer/public/data/*.json
-genshin-viewer/public/assets/images/*.png
+# Generated data files (スクレイピング結果) - Commented out to allow bot commits
+# genshin-viewer/public/data/*.json
+# genshin-viewer/public/assets/images/*.png
 
 # Keep output directory structure
 output/
