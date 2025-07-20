@@ -28,32 +28,34 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v4
 
+    - name: Setup pnpm
+      uses: pnpm/action-setup@v4
+      with:
+        version: 9
+
     - name: Setup Node.js
       uses: actions/setup-node@v4
       with:
         node-version: '20'
-        cache: 'npm'
+        cache: 'pnpm'
 
     - name: Install dependencies
-      run: npm ci
+      run: pnpm install --frozen-lockfile
 
     - name: Create assets directory
       run: mkdir -p genshin-viewer/public/assets/images
-
-    - name: Install TypeScript execution tools
-      run: npm install -g tsx
 
     - name: Scrape all character data
       run: |
         echo "🚀 Starting comprehensive character data scraping..."
         echo "📡 Fetching character list dynamically from API..."
-        npx tsx scrape-all-characters.ts
+        pnpm tsx scrape-all-characters.ts
 
     - name: Build React application
       working-directory: ./genshin-viewer
       run: |
-        npm ci
-        npm run build
+        pnpm install --frozen-lockfile
+        pnpm run build
         
     - name: Upload artifact
       uses: actions/upload-pages-artifact@v3
