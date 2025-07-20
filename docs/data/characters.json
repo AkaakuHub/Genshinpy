@@ -1,0 +1,992 @@
+[
+  {
+    "id": "Kamisato Ayaka",
+    "name": "神里綾華",
+    "nameJa": "白鷺氷華",
+    "element": "Cryo",
+    "weaponType": "Sword",
+    "rarity": 5,
+    "region": "Inazuma",
+    "icon": "/assets/images/Kamisato Ayaka_icon_1753019914804.png"
+  },
+  {
+    "id": "Jean",
+    "name": "ジン",
+    "nameJa": "蒲公英騎士",
+    "element": "Anemo",
+    "weaponType": "Sword",
+    "rarity": 5,
+    "region": "Mondstadt",
+    "icon": "/assets/images/Jean_icon_1753019916104.png"
+  },
+  {
+    "id": "Lisa",
+    "name": "リサ",
+    "nameJa": "薔薇の魔女",
+    "element": "Electro",
+    "weaponType": "Catalyst",
+    "rarity": 4,
+    "region": "Mondstadt",
+    "icon": "/assets/images/Lisa_icon_1753019917353.png"
+  },
+  {
+    "id": "Barbara",
+    "name": "バーバラ",
+    "nameJa": "キラキラアイドル",
+    "element": "Hydro",
+    "weaponType": "Catalyst",
+    "rarity": 4,
+    "region": "Mondstadt",
+    "icon": "/assets/images/Barbara_icon_1753019918600.png"
+  },
+  {
+    "id": "Kaeya",
+    "name": "ガイア",
+    "nameJa": "寒風の剣士",
+    "element": "Cryo",
+    "weaponType": "Sword",
+    "rarity": 4,
+    "region": "Mondstadt",
+    "icon": "/assets/images/Kaeya_icon_1753019919853.png"
+  },
+  {
+    "id": "Diluc",
+    "name": "ディルック",
+    "nameJa": "アカツキの裏面",
+    "element": "Pyro",
+    "weaponType": "Claymore",
+    "rarity": 5,
+    "region": "Mondstadt",
+    "icon": "/assets/images/Diluc_icon_1753019921107.png"
+  },
+  {
+    "id": "Razor",
+    "name": "レザー",
+    "nameJa": "狼少年",
+    "element": "Electro",
+    "weaponType": "Claymore",
+    "rarity": 4,
+    "region": "Mondstadt",
+    "icon": "/assets/images/Razor_icon_1753019922362.png"
+  },
+  {
+    "id": "Amber",
+    "name": "アンバー",
+    "nameJa": "飛行チャンピオン",
+    "element": "Pyro",
+    "weaponType": "Bow",
+    "rarity": 4,
+    "region": "Mondstadt",
+    "icon": "/assets/images/Amber_icon_1753019923613.png"
+  },
+  {
+    "id": "Venti",
+    "name": "ウェンティ",
+    "nameJa": "風色の詩人",
+    "element": "Anemo",
+    "weaponType": "Bow",
+    "rarity": 5,
+    "region": "Mondstadt",
+    "icon": "/assets/images/Venti_icon_1753019924861.png"
+  },
+  {
+    "id": "Xiangling",
+    "name": "香菱",
+    "nameJa": "万民百味",
+    "element": "Pyro",
+    "weaponType": "Polearm",
+    "rarity": 4,
+    "region": "Liyue",
+    "icon": "/assets/images/Xiangling_icon_1753019926094.png"
+  },
+  {
+    "id": "Beidou",
+    "name": "北斗",
+    "nameJa": "無冠の龍王",
+    "element": "Electro",
+    "weaponType": "Claymore",
+    "rarity": 4,
+    "region": "Liyue",
+    "icon": "/assets/images/Beidou_icon_1753019927342.png"
+  },
+  {
+    "id": "Xingqiu",
+    "name": "行秋",
+    "nameJa": "少壮気鋭",
+    "element": "Hydro",
+    "weaponType": "Sword",
+    "rarity": 4,
+    "region": "Liyue",
+    "icon": "/assets/images/Xingqiu_icon_1753019928574.png"
+  },
+  {
+    "id": "Xiao",
+    "name": "魈",
+    "nameJa": "護法夜叉",
+    "element": "Anemo",
+    "weaponType": "Polearm",
+    "rarity": 5,
+    "region": "Liyue",
+    "icon": "/assets/images/Xiao_icon_1753019929896.png"
+  },
+  {
+    "id": "Ningguang",
+    "name": "凝光",
+    "nameJa": "月を覆う天権",
+    "element": "Geo",
+    "weaponType": "Catalyst",
+    "rarity": 4,
+    "region": "Liyue",
+    "icon": "/assets/images/Ningguang_icon_1753019931153.png"
+  },
+  {
+    "id": "Klee",
+    "name": "クレー",
+    "nameJa": "逃げ回る太陽",
+    "element": "Pyro",
+    "weaponType": "Catalyst",
+    "rarity": 5,
+    "region": "Mondstadt",
+    "icon": "/assets/images/Klee_icon_1753019932432.png"
+  },
+  {
+    "id": "Zhongli",
+    "name": "鍾離",
+    "nameJa": "浮世閑歩",
+    "element": "Geo",
+    "weaponType": "Polearm",
+    "rarity": 5,
+    "region": "Liyue",
+    "icon": "/assets/images/Zhongli_icon_1753019933691.png"
+  },
+  {
+    "id": "Fischl",
+    "name": "フィッシュル",
+    "nameJa": "断罪の皇女！！",
+    "element": "Electro",
+    "weaponType": "Bow",
+    "rarity": 4,
+    "region": "Mondstadt",
+    "icon": "/assets/images/Fischl_icon_1753019934932.png"
+  },
+  {
+    "id": "Bennett",
+    "name": "ベネット",
+    "nameJa": "運命の試金石",
+    "element": "Pyro",
+    "weaponType": "Sword",
+    "rarity": 4,
+    "region": "Mondstadt",
+    "icon": "/assets/images/Bennett_icon_1753019936179.png"
+  },
+  {
+    "id": "Tartaglia",
+    "name": "タルタリヤ",
+    "nameJa": "「公子」",
+    "element": "Hydro",
+    "weaponType": "Bow",
+    "rarity": 5,
+    "region": "Mondstadt",
+    "icon": "/assets/images/Tartaglia_icon_1753019937438.png"
+  },
+  {
+    "id": "Noelle",
+    "name": "ノエル",
+    "nameJa": "騎士道の花咲",
+    "element": "Geo",
+    "weaponType": "Claymore",
+    "rarity": 4,
+    "region": "Mondstadt",
+    "icon": "/assets/images/Noelle_icon_1753019938679.png"
+  },
+  {
+    "id": "Qiqi",
+    "name": "七七",
+    "nameJa": "冷たき黄泉帰り",
+    "element": "Cryo",
+    "weaponType": "Sword",
+    "rarity": 5,
+    "region": "Liyue",
+    "icon": "/assets/images/Qiqi_icon_1753019939925.png"
+  },
+  {
+    "id": "Chongyun",
+    "name": "重雲",
+    "nameJa": "雪消の跡",
+    "element": "Cryo",
+    "weaponType": "Claymore",
+    "rarity": 4,
+    "region": "Liyue",
+    "icon": "/assets/images/Chongyun_icon_1753019941170.png"
+  },
+  {
+    "id": "Ganyu",
+    "name": "甘雨",
+    "nameJa": "循々守月",
+    "element": "Cryo",
+    "weaponType": "Bow",
+    "rarity": 5,
+    "region": "Liyue",
+    "icon": "/assets/images/Ganyu_icon_1753019942410.png"
+  },
+  {
+    "id": "Albedo",
+    "name": "アルベド",
+    "nameJa": "白亜の申し子",
+    "element": "Geo",
+    "weaponType": "Sword",
+    "rarity": 5,
+    "region": "Mondstadt",
+    "icon": "/assets/images/Albedo_icon_1753019943668.png"
+  },
+  {
+    "id": "Diona",
+    "name": "ディオナ",
+    "nameJa": "キャッツテールスペシャル",
+    "element": "Cryo",
+    "weaponType": "Bow",
+    "rarity": 4,
+    "region": "Mondstadt",
+    "icon": "/assets/images/Diona_icon_1753019944898.png"
+  },
+  {
+    "id": "Mona",
+    "name": "モナ",
+    "nameJa": "星天水鏡",
+    "element": "Hydro",
+    "weaponType": "Catalyst",
+    "rarity": 5,
+    "region": "Mondstadt",
+    "icon": "/assets/images/Mona_icon_1753019946127.png"
+  },
+  {
+    "id": "Keqing",
+    "name": "刻晴",
+    "nameJa": "疾雷快雨",
+    "element": "Electro",
+    "weaponType": "Sword",
+    "rarity": 5,
+    "region": "Liyue",
+    "icon": "/assets/images/Keqing_icon_1753019947383.png"
+  },
+  {
+    "id": "Sucrose",
+    "name": "スクロース",
+    "nameJa": "無害の甘味",
+    "element": "Anemo",
+    "weaponType": "Catalyst",
+    "rarity": 4,
+    "region": "Mondstadt",
+    "icon": "/assets/images/Sucrose_icon_1753019948640.png"
+  },
+  {
+    "id": "Xinyan",
+    "name": "辛炎",
+    "nameJa": "爆熱リズム",
+    "element": "Pyro",
+    "weaponType": "Claymore",
+    "rarity": 4,
+    "region": "Liyue",
+    "icon": "/assets/images/Xinyan_icon_1753019949875.png"
+  },
+  {
+    "id": "Rosaria",
+    "name": "ロサリア",
+    "nameJa": "荊冠の恩典",
+    "element": "Cryo",
+    "weaponType": "Polearm",
+    "rarity": 4,
+    "region": "Mondstadt",
+    "icon": "/assets/images/Rosaria_icon_1753019951444.png"
+  },
+  {
+    "id": "Hu Tao",
+    "name": "胡桃",
+    "nameJa": "雪晴梅香",
+    "element": "Pyro",
+    "weaponType": "Polearm",
+    "rarity": 5,
+    "region": "Liyue",
+    "icon": "/assets/images/Hu Tao_icon_1753019952696.png"
+  },
+  {
+    "id": "Kaedehara Kazuha",
+    "name": "楓原万葉",
+    "nameJa": "風波流浪の紅葉",
+    "element": "Anemo",
+    "weaponType": "Sword",
+    "rarity": 5,
+    "region": "Inazuma",
+    "icon": "/assets/images/Kaedehara Kazuha_icon_1753019953929.png"
+  },
+  {
+    "id": "Yanfei",
+    "name": "煙緋",
+    "nameJa": "無邪気な知恵",
+    "element": "Pyro",
+    "weaponType": "Catalyst",
+    "rarity": 4,
+    "region": "Liyue",
+    "icon": "/assets/images/Yanfei_icon_1753019955185.png"
+  },
+  {
+    "id": "Yoimiya",
+    "name": "宵宮",
+    "nameJa": "琉焔に舞う大輪",
+    "element": "Pyro",
+    "weaponType": "Bow",
+    "rarity": 5,
+    "region": "Inazuma",
+    "icon": "/assets/images/Yoimiya_icon_1753019956442.png"
+  },
+  {
+    "id": "Thoma",
+    "name": "トーマ",
+    "nameJa": "渡来介者",
+    "element": "Pyro",
+    "weaponType": "Polearm",
+    "rarity": 4,
+    "region": "Inazuma",
+    "icon": "/assets/images/Thoma_icon_1753019957673.png"
+  },
+  {
+    "id": "Eula",
+    "name": "エウルア",
+    "nameJa": "波沫のワルツ",
+    "element": "Cryo",
+    "weaponType": "Claymore",
+    "rarity": 5,
+    "region": "Mondstadt",
+    "icon": "/assets/images/Eula_icon_1753019958905.png"
+  },
+  {
+    "id": "Sayu",
+    "name": "早柚",
+    "nameJa": "忍びの里の貉",
+    "element": "Anemo",
+    "weaponType": "Claymore",
+    "rarity": 4,
+    "region": "Inazuma",
+    "icon": "/assets/images/Sayu_icon_1753019961165.png"
+  },
+  {
+    "id": "Sangonomiya Kokomi",
+    "name": "珊瑚宮心海",
+    "nameJa": "真珠の智",
+    "element": "Hydro",
+    "weaponType": "Catalyst",
+    "rarity": 5,
+    "region": "Inazuma",
+    "icon": "/assets/images/Sangonomiya Kokomi_icon_1753019962408.png"
+  },
+  {
+    "id": "Gorou",
+    "name": "ゴロー",
+    "nameJa": "雄々しき戎犬",
+    "element": "Geo",
+    "weaponType": "Bow",
+    "rarity": 4,
+    "region": "Inazuma",
+    "icon": "/assets/images/Gorou_icon_1753019963649.png"
+  },
+  {
+    "id": "Kujou Sara",
+    "name": "九条裟羅",
+    "nameJa": "黒羽鳴鏑",
+    "element": "Electro",
+    "weaponType": "Bow",
+    "rarity": 4,
+    "region": "Inazuma",
+    "icon": "/assets/images/Kujou Sara_icon_1753019964897.png"
+  },
+  {
+    "id": "Arataki Itto",
+    "name": "荒瀧一斗",
+    "nameJa": "花坂豪快",
+    "element": "Geo",
+    "weaponType": "Claymore",
+    "rarity": 5,
+    "region": "Inazuma",
+    "icon": "/assets/images/Arataki Itto_icon_1753019966034.png"
+  },
+  {
+    "id": "Yae Miko",
+    "name": "八重神子",
+    "nameJa": "浮世笑百姿",
+    "element": "Electro",
+    "weaponType": "Catalyst",
+    "rarity": 5,
+    "region": "Inazuma",
+    "icon": "/assets/images/Yae Miko_icon_1753019967299.png"
+  },
+  {
+    "id": "Shikanoin Heizou",
+    "name": "鹿野院平蔵",
+    "nameJa": "乂安を願う者",
+    "element": "Anemo",
+    "weaponType": "Catalyst",
+    "rarity": 4,
+    "region": "Inazuma",
+    "icon": "/assets/images/Shikanoin Heizou_icon_1753019968542.png"
+  },
+  {
+    "id": "Yelan",
+    "name": "夜蘭",
+    "nameJa": "幽谷に咲く蘭",
+    "element": "Hydro",
+    "weaponType": "Bow",
+    "rarity": 5,
+    "region": "Liyue",
+    "icon": "/assets/images/Yelan_icon_1753019969784.png"
+  },
+  {
+    "id": "Kirara",
+    "name": "綺良々",
+    "nameJa": "檐宇遊猫",
+    "element": "Dendro",
+    "weaponType": "Sword",
+    "rarity": 4,
+    "region": "Inazuma",
+    "icon": "/assets/images/Kirara_icon_1753019971034.png"
+  },
+  {
+    "id": "Aloy",
+    "name": "アーロイ",
+    "nameJa": "「異世界の救世主」",
+    "element": "Cryo",
+    "weaponType": "Bow",
+    "rarity": 5,
+    "region": "Mondstadt",
+    "icon": "/assets/images/Aloy_icon_1753019972152.png"
+  },
+  {
+    "id": "Shenhe",
+    "name": "申鶴",
+    "nameJa": "孤辰悲哀",
+    "element": "Cryo",
+    "weaponType": "Polearm",
+    "rarity": 5,
+    "region": "Liyue",
+    "icon": "/assets/images/Shenhe_icon_1753019973408.png"
+  },
+  {
+    "id": "Yun Jin",
+    "name": "雲菫",
+    "nameJa": "紅絨毯に舞う麗姿",
+    "element": "Geo",
+    "weaponType": "Polearm",
+    "rarity": 4,
+    "region": "Liyue",
+    "icon": "/assets/images/Yun Jin_icon_1753019974659.png"
+  },
+  {
+    "id": "Kuki Shinobu",
+    "name": "久岐忍",
+    "nameJa": "煩悩刈除",
+    "element": "Electro",
+    "weaponType": "Sword",
+    "rarity": 4,
+    "region": "Inazuma",
+    "icon": "/assets/images/Kuki Shinobu_icon_1753019975782.png"
+  },
+  {
+    "id": "Kamisato Ayato",
+    "name": "神里綾人",
+    "nameJa": "磐祭葉守",
+    "element": "Hydro",
+    "weaponType": "Sword",
+    "rarity": 5,
+    "region": "Inazuma",
+    "icon": "/assets/images/Kamisato Ayato_icon_1753019977029.png"
+  },
+  {
+    "id": "Collei",
+    "name": "コレイ",
+    "nameJa": "純真を抱く萌蘖",
+    "element": "Dendro",
+    "weaponType": "Bow",
+    "rarity": 4,
+    "region": "Sumeru",
+    "icon": "/assets/images/Collei_icon_1753019978287.png"
+  },
+  {
+    "id": "Dori",
+    "name": "ドリー",
+    "nameJa": "夢の庭に隠せし財宝",
+    "element": "Electro",
+    "weaponType": "Claymore",
+    "rarity": 4,
+    "region": "Sumeru",
+    "icon": "/assets/images/Dori_icon_1753019979558.png"
+  },
+  {
+    "id": "Tighnari",
+    "name": "ティナリ",
+    "nameJa": "緑土逍遥",
+    "element": "Dendro",
+    "weaponType": "Bow",
+    "rarity": 5,
+    "region": "Sumeru",
+    "icon": "/assets/images/Tighnari_icon_1753019980822.png"
+  },
+  {
+    "id": "Nilou",
+    "name": "ニィロウ",
+    "nameJa": "絨毯に舞い落ちる蓮光",
+    "element": "Hydro",
+    "weaponType": "Sword",
+    "rarity": 5,
+    "region": "Sumeru",
+    "icon": "/assets/images/Nilou_icon_1753019982066.png"
+  },
+  {
+    "id": "Cyno",
+    "name": "セノ",
+    "nameJa": "緘秘の裁き",
+    "element": "Electro",
+    "weaponType": "Polearm",
+    "rarity": 5,
+    "region": "Sumeru",
+    "icon": "/assets/images/Cyno_icon_1753019983306.png"
+  },
+  {
+    "id": "Candace",
+    "name": "キャンディス",
+    "nameJa": "浮金の誓願",
+    "element": "Hydro",
+    "weaponType": "Polearm",
+    "rarity": 4,
+    "region": "Sumeru",
+    "icon": "/assets/images/Candace_icon_1753019984557.png"
+  },
+  {
+    "id": "Nahida",
+    "name": "ナヒーダ",
+    "nameJa": "白草浄華",
+    "element": "Dendro",
+    "weaponType": "Catalyst",
+    "rarity": 5,
+    "region": "Sumeru",
+    "icon": "/assets/images/Nahida_icon_1753019985789.png"
+  },
+  {
+    "id": "Layla",
+    "name": "レイラ",
+    "nameJa": "綺思と夜星",
+    "element": "Cryo",
+    "weaponType": "Sword",
+    "rarity": 4,
+    "region": "Sumeru",
+    "icon": "/assets/images/Layla_icon_1753019987032.png"
+  },
+  {
+    "id": "Wanderer",
+    "name": "放浪者",
+    "nameJa": "久世浮傾",
+    "element": "Anemo",
+    "weaponType": "Catalyst",
+    "rarity": 5,
+    "region": "Sumeru",
+    "icon": "/assets/images/Wanderer_icon_1753019988265.png"
+  },
+  {
+    "id": "Faruzan",
+    "name": "ファルザン",
+    "nameJa": "機求封秘",
+    "element": "Anemo",
+    "weaponType": "Bow",
+    "rarity": 4,
+    "region": "Sumeru",
+    "icon": "/assets/images/Faruzan_icon_1753019989513.png"
+  },
+  {
+    "id": "Yaoyao",
+    "name": "ヨォーヨ",
+    "nameJa": "仙蕊玲瓏",
+    "element": "Dendro",
+    "weaponType": "Polearm",
+    "rarity": 4,
+    "region": "Liyue",
+    "icon": "/assets/images/Yaoyao_icon_1753019990746.png"
+  },
+  {
+    "id": "Alhaitham",
+    "name": "アルハイゼン",
+    "nameJa": "権謀教戒",
+    "element": "Dendro",
+    "weaponType": "Sword",
+    "rarity": 5,
+    "region": "Sumeru",
+    "icon": "/assets/images/Alhaitham_icon_1753019991988.png"
+  },
+  {
+    "id": "Dehya",
+    "name": "ディシア",
+    "nameJa": "熾鬣の獅子",
+    "element": "Pyro",
+    "weaponType": "Claymore",
+    "rarity": 5,
+    "region": "Sumeru",
+    "icon": "/assets/images/Dehya_icon_1753019993232.png"
+  },
+  {
+    "id": "Mika",
+    "name": "ミカ",
+    "nameJa": "霜晴の測量",
+    "element": "Cryo",
+    "weaponType": "Polearm",
+    "rarity": 4,
+    "region": "Mondstadt",
+    "icon": "/assets/images/Mika_icon_1753019994370.png"
+  },
+  {
+    "id": "Kaveh",
+    "name": "カーヴェ",
+    "nameJa": "天穹の鏡",
+    "element": "Dendro",
+    "weaponType": "Claymore",
+    "rarity": 4,
+    "region": "Sumeru",
+    "icon": "/assets/images/Kaveh_icon_1753019995604.png"
+  },
+  {
+    "id": "Baizhu",
+    "name": "白朮",
+    "nameJa": "遵生合和",
+    "element": "Dendro",
+    "weaponType": "Catalyst",
+    "rarity": 5,
+    "region": "Liyue",
+    "icon": "/assets/images/Baizhu_icon_1753019996847.png"
+  },
+  {
+    "id": "Lynette",
+    "name": "リネット",
+    "nameJa": "綺影で魅せるエレガンス",
+    "element": "Anemo",
+    "weaponType": "Sword",
+    "rarity": 4,
+    "region": "Fontaine",
+    "icon": "/assets/images/Lynette_icon_1753019998094.png"
+  },
+  {
+    "id": "Lyney",
+    "name": "リネ",
+    "nameJa": "幻光で惑わすトリック",
+    "element": "Pyro",
+    "weaponType": "Bow",
+    "rarity": 5,
+    "region": "Fontaine",
+    "icon": "/assets/images/Lyney_icon_1753019999328.png"
+  },
+  {
+    "id": "Freminet",
+    "name": "フレミネ",
+    "nameJa": "夢想の海を沈んで",
+    "element": "Cryo",
+    "weaponType": "Claymore",
+    "rarity": 4,
+    "region": "Fontaine",
+    "icon": "/assets/images/Freminet_icon_1753020000572.png"
+  },
+  {
+    "id": "Wriothesley",
+    "name": "リオセスリ",
+    "nameJa": "寂罪の密使",
+    "element": "Cryo",
+    "weaponType": "Catalyst",
+    "rarity": 5,
+    "region": "Fontaine",
+    "icon": "/assets/images/Wriothesley_icon_1753020001820.png"
+  },
+  {
+    "id": "Neuvillette",
+    "name": "ヌヴィレット",
+    "nameJa": "告諭の潮騒",
+    "element": "Hydro",
+    "weaponType": "Catalyst",
+    "rarity": 5,
+    "region": "Fontaine",
+    "icon": "/assets/images/Neuvillette_icon_1753020003066.png"
+  },
+  {
+    "id": "Charlotte",
+    "name": "シャルロット",
+    "nameJa": "真実を求める曇りなきモノクル",
+    "element": "Cryo",
+    "weaponType": "Catalyst",
+    "rarity": 4,
+    "region": "Fontaine",
+    "icon": "/assets/images/Charlotte_icon_1753020004312.png"
+  },
+  {
+    "id": "Furina",
+    "name": "フリーナ",
+    "nameJa": "不休のソリスト",
+    "element": "Hydro",
+    "weaponType": "Sword",
+    "rarity": 5,
+    "region": "Fontaine",
+    "icon": "/assets/images/Furina_icon_1753020005548.png"
+  },
+  {
+    "id": "Chevreuse",
+    "name": "シュヴルーズ",
+    "nameJa": "厳罰を与える法の通暁者",
+    "element": "Pyro",
+    "weaponType": "Polearm",
+    "rarity": 4,
+    "region": "Fontaine",
+    "icon": "/assets/images/Chevreuse_icon_1753020006795.png"
+  },
+  {
+    "id": "Navia",
+    "name": "ナヴィア",
+    "nameJa": "舵を這うラディアントローズ",
+    "element": "Geo",
+    "weaponType": "Claymore",
+    "rarity": 5,
+    "region": "Fontaine",
+    "icon": "/assets/images/Navia_icon_1753020008031.png"
+  },
+  {
+    "id": "Gaming",
+    "name": "嘉明",
+    "nameJa": "頭角を現す駿猊",
+    "element": "Pyro",
+    "weaponType": "Claymore",
+    "rarity": 4,
+    "region": "Liyue",
+    "icon": "/assets/images/Gaming_icon_1753020009271.png"
+  },
+  {
+    "id": "Xianyun",
+    "name": "閑雲",
+    "nameJa": "仙鶴の告げる佳音",
+    "element": "Anemo",
+    "weaponType": "Catalyst",
+    "rarity": 5,
+    "region": "Liyue",
+    "icon": "/assets/images/Xianyun_icon_1753020010522.png"
+  },
+  {
+    "id": "Chiori",
+    "name": "千織",
+    "nameJa": "雷鳴の裁錦師",
+    "element": "Geo",
+    "weaponType": "Sword",
+    "rarity": 5,
+    "region": "Inazuma",
+    "icon": "/assets/images/Chiori_icon_1753020011784.png"
+  },
+  {
+    "id": "Sigewinne",
+    "name": "シグウィン",
+    "nameJa": "龍の愛娘",
+    "element": "Hydro",
+    "weaponType": "Bow",
+    "rarity": 5,
+    "region": "Fontaine",
+    "icon": "/assets/images/Sigewinne_icon_1753020013017.png"
+  },
+  {
+    "id": "Arlecchino",
+    "name": "アルレッキーノ",
+    "nameJa": "暝天の凶月",
+    "element": "Pyro",
+    "weaponType": "Polearm",
+    "rarity": 5,
+    "region": "Mondstadt",
+    "icon": "/assets/images/Arlecchino_icon_1753020014259.png"
+  },
+  {
+    "id": "Sethos",
+    "name": "セトス",
+    "nameJa": "知恵のはかり手",
+    "element": "Electro",
+    "weaponType": "Bow",
+    "rarity": 4,
+    "region": "Sumeru",
+    "icon": "/assets/images/Sethos_icon_1753020015509.png"
+  },
+  {
+    "id": "Clorinde",
+    "name": "クロリンデ",
+    "nameJa": "燭火を携えた影の狩人",
+    "element": "Electro",
+    "weaponType": "Sword",
+    "rarity": 5,
+    "region": "Fontaine",
+    "icon": "/assets/images/Clorinde_icon_1753020016738.png"
+  },
+  {
+    "id": "Emilie",
+    "name": "エミリエ",
+    "nameJa": "千の跡を辿って",
+    "element": "Dendro",
+    "weaponType": "Polearm",
+    "rarity": 5,
+    "region": "Fontaine",
+    "icon": "/assets/images/Emilie_icon_1753020017991.png"
+  },
+  {
+    "id": "Kachina",
+    "name": "カチーナ",
+    "nameJa": "金の混じる原鉱",
+    "element": "Geo",
+    "weaponType": "Polearm",
+    "rarity": 4,
+    "region": "Natlan",
+    "icon": "/assets/images/Kachina_icon_1753020019233.png"
+  },
+  {
+    "id": "Kinich",
+    "name": "キィニチ",
+    "nameJa": "廻焔を継ぐ狩人",
+    "element": "Dendro",
+    "weaponType": "Claymore",
+    "rarity": 5,
+    "region": "Natlan",
+    "icon": "/assets/images/Kinich_icon_1753020020489.png"
+  },
+  {
+    "id": "Mualani",
+    "name": "ムアラニ",
+    "nameJa": "ざぶざぶウェーブチェイサー",
+    "element": "Hydro",
+    "weaponType": "Catalyst",
+    "rarity": 5,
+    "region": "Natlan",
+    "icon": "/assets/images/Mualani_icon_1753020021733.png"
+  },
+  {
+    "id": "Xilonen",
+    "name": "シロネン",
+    "nameJa": "魂を鋳る烈火",
+    "element": "Geo",
+    "weaponType": "Sword",
+    "rarity": 5,
+    "region": "Natlan",
+    "icon": "/assets/images/Xilonen_icon_1753020022987.png"
+  },
+  {
+    "id": "Chasca",
+    "name": "チャスカ",
+    "nameJa": "巡空の裁翼",
+    "element": "Anemo",
+    "weaponType": "Bow",
+    "rarity": 5,
+    "region": "Natlan",
+    "icon": "/assets/images/Chasca_icon_1753020024126.png"
+  },
+  {
+    "id": "Ororon",
+    "name": "オロルン",
+    "nameJa": "暗黒の謎煙",
+    "element": "Electro",
+    "weaponType": "Bow",
+    "rarity": 4,
+    "region": "Natlan",
+    "icon": "/assets/images/Ororon_icon_1753020025368.png"
+  },
+  {
+    "id": "Mavuika",
+    "name": "マーヴィカ",
+    "nameJa": "夜を焼き尽くす炎",
+    "element": "Pyro",
+    "weaponType": "Claymore",
+    "rarity": 5,
+    "region": "Natlan",
+    "icon": "/assets/images/Mavuika_icon_1753020026614.png"
+  },
+  {
+    "id": "Citlali",
+    "name": "シトラリ",
+    "nameJa": "白星黒曜",
+    "element": "Cryo",
+    "weaponType": "Catalyst",
+    "rarity": 5,
+    "region": "Natlan",
+    "icon": "/assets/images/Citlali_icon_1753020027849.png"
+  },
+  {
+    "id": "Lan Yan",
+    "name": "藍硯",
+    "nameJa": "春を編む翦玉",
+    "element": "Anemo",
+    "weaponType": "Catalyst",
+    "rarity": 4,
+    "region": "Liyue",
+    "icon": "/assets/images/Lan Yan_icon_1753020029081.png"
+  },
+  {
+    "id": "Yumemizuki Mizuki",
+    "name": "夢見月瑞希",
+    "nameJa": "睦み合う綺羅の夢",
+    "element": "Anemo",
+    "weaponType": "Catalyst",
+    "rarity": 5,
+    "region": "Inazuma",
+    "icon": "/assets/images/Yumemizuki Mizuki_icon_1753020030332.png"
+  },
+  {
+    "id": "Iansan",
+    "name": "イアンサ",
+    "nameJa": "百折不撓の熔岩",
+    "element": "Electro",
+    "weaponType": "Polearm",
+    "rarity": 4,
+    "region": "Natlan",
+    "icon": "/assets/images/Iansan_icon_1753020031565.png"
+  },
+  {
+    "id": "Varesa",
+    "name": "ヴァレサ",
+    "nameJa": "おっとりパワフル！",
+    "element": "Electro",
+    "weaponType": "Catalyst",
+    "rarity": 5,
+    "region": "Natlan",
+    "icon": "/assets/images/Varesa_icon_1753020032833.png"
+  },
+  {
+    "id": "Escoffier",
+    "name": "エスコフィエ",
+    "nameJa": "絢爛のフレーバー",
+    "element": "Cryo",
+    "weaponType": "Polearm",
+    "rarity": 5,
+    "region": "Fontaine",
+    "icon": "/assets/images/Escoffier_icon_1753020034092.png"
+  },
+  {
+    "id": "Ifa",
+    "name": "イファ",
+    "nameJa": "魂を導く疾風",
+    "element": "Anemo",
+    "weaponType": "Catalyst",
+    "rarity": 4,
+    "region": "Natlan",
+    "icon": "/assets/images/Ifa_icon_1753020035328.png"
+  },
+  {
+    "id": "Skirk",
+    "name": "スカーク",
+    "nameJa": "虚淵の暗星",
+    "element": "Cryo",
+    "weaponType": "Sword",
+    "rarity": 5,
+    "region": "Mondstadt",
+    "icon": "/assets/images/Skirk_icon_1753020036560.png"
+  },
+  {
+    "id": "Dahlia",
+    "name": "ダリア",
+    "nameJa": "礼賛の祝祭",
+    "element": "Hydro",
+    "weaponType": "Sword",
+    "rarity": 4,
+    "region": "Mondstadt",
+    "icon": "/assets/images/Dahlia_icon_1753020037800.png"
+  }
+]
