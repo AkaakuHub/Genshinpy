@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import type { Character, Talent, TalentLevel } from '../types/character';
+import type { Character } from '../types/character';
 
 interface TalentViewerProps {
   character: Character;

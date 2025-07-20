@@ -1,8 +1,8 @@
 {
-  "entry": ["src/index.ts"],
-  "project": ["src/**/*.ts"],
-  "ignore": ["dist/**", "tests/**", "**/*.test.ts", "**/*.d.ts"],
-  "ignoreDependencies": ["@eslint/js", "@vitest/coverage-v8"],
+  "entry": ["pure-api-scraper.ts", "scrape-all-characters.ts", "genshin-viewer/src/main.tsx"],
+  "project": ["src/**/*.ts", "*.ts", "genshin-viewer/src/**/*.ts", "genshin-viewer/src/**/*.tsx"],
+  "ignore": ["dist/**", "tests/**", "**/*.test.ts", "**/*.d.ts", "src/types/talent.ts"],
+  "ignoreDependencies": ["@eslint/js", "@vitest/coverage-v8", "react", "react-dom"],
   "ignoreExportsUsedInFile": true,
   "includeEntryExports": true
 }

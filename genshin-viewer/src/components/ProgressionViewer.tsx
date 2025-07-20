@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import type { Character, LevelProgression } from '../types/character';
+import type { Character } from '../types/character';
 
 interface ProgressionViewerProps {
   character: Character;

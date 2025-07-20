@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useCallback } from 'react';
 import type { Character } from '../types/character';
 import CharacterProfile from './CharacterProfile';
 import TalentViewer from './TalentViewer';
@@ -27,7 +27,7 @@ const CharacterViewer: React.FC = () => {
 
   useEffect(() => {
     fetchCharacterList();
-  }, []);
+  }, [fetchCharacterList]);
 
   useEffect(() => {
     if (selectedCharacterId) {
@@ -35,7 +35,7 @@ const CharacterViewer: React.FC = () => {
     }
   }, [selectedCharacterId]);
 
-  const fetchCharacterList = async () => {
+  const fetchCharacterList = useCallback(async () => {
     try {
       const response = await fetch('/data/characters.json');
       if (response.ok) {
@@ -48,7 +48,7 @@ const CharacterViewer: React.FC = () => {
     } catch (err) {
       console.error('Failed to load character list:', err);
     }
-  };
+  }, [selectedCharacterId]);
 
   const fetchCharacterData = async (characterId: string) => {
     try {

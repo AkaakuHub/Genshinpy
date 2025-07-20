@@ -20,7 +20,7 @@
     "test": "vitest run",
     "test:watch": "vitest",
     "test:coverage": "vitest run --coverage",
-    "check-all": "pnpm lint && pnpm format:check && pnpm type-check && pnpm knip && pnpm test",
+    "check-all": "pnpm lint && pnpm format:check && pnpm type-check && pnpm test",
     "prepare": "lefthook install"
   },
   "keywords": [

@@ -1,11 +1,27 @@
 import React, { useState } from 'react';
-import type { Character, AscensionMaterials, AscensionPhase } from '../types/character';
+import type { Character } from '../types/character';
+
+interface AscensionPhase {
+  level: number;
+  maxLevel: number;
+  materials: Array<{
+    itemId: string;
+    name?: string;
+    count: number;
+    icon?: string;
+    description?: string;
+  }>;
+  statBonus: Array<{
+    statType: string;
+    value: number;
+  }>;
+}
 
 interface AscensionViewerProps {
   character: Character;
 }
 
-const AscensionViewer: React.FC<AscensionViewerProps> = ({ character }) => {
+const AscensionViewer: React.FC<AscensionViewerProps> = () => {
   const [selectedPhase, setSelectedPhase] = useState<number>(1);
   const [viewMode, setViewMode] = useState<'individual' | 'cumulative'>('individual');
 
@@ -121,21 +137,6 @@ const AscensionViewer: React.FC<AscensionViewerProps> = ({ character }) => {
     'hoarfrost_core': 'Hoarfrost Core'
   };
 
-  const getMaterialIcon = (itemId: string) => {
-    const iconMap: { [key: string]: string } = {
-      'mora': '💰',
-      'vayuda_turquoise_sliver': '💎',
-      'vayuda_turquoise_fragment': '💎',
-      'vayuda_turquoise_chunk': '💎',
-      'vayuda_turquoise_gemstone': '💎',
-      'cecilia': '🌸',
-      'treasure_hoarder_insignia': '🪙',
-      'silver_raven_insignia': '🪙',
-      'golden_raven_insignia': '🪙',
-      'hoarfrost_core': '❄️'
-    };
-    return iconMap[itemId] || '📦';
-  };
 
   const getMaterialRarity = (itemId: string) => {
     if (itemId === 'mora') return 'text-yellow-400';

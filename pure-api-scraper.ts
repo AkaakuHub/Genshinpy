@@ -1,10 +1,3 @@
-/* eslint-disable @typescript-eslint/no-unsafe-assignment */
-/* eslint-disable @typescript-eslint/no-unsafe-call */
-/* eslint-disable @typescript-eslint/no-unsafe-argument */
-/* eslint-disable @typescript-eslint/no-unsafe-return */
-/* eslint-disable @typescript-eslint/no-explicit-any */
-/* eslint-disable @typescript-eslint/prefer-promise-reject-errors */
-
 import fs from 'fs';
 import https from 'https';
 import path from 'path';
@@ -130,6 +123,23 @@ interface NameCardItem {
   icon: string;
 }
 
+interface TalentData {
+  id?: number;
+  name: string;
+  desc: string;
+  icon: string;
+  type: number;
+  promote?: Record<
+    string,
+    {
+      params: number[];
+      description: string[];
+      coinCost?: number;
+      costItems?: Record<string, number>;
+    }
+  >;
+}
+
 /**
  * 真の完全APIスクレイパー - Puppeteer不要！
  * HTTPリクエストのみでPythonレベルの完全性を実現
@@ -218,8 +228,53 @@ class PureApiScraper {
             value: this.getBonusStatValue(avatarData.upgrade, avatarData.specialProp),
           },
         },
-        talents,
-        constellations,
+        talents: {
+          normalAttack: {
+            name: talents.normalAttack.name,
+            description: talents.normalAttack.description,
+            icon: talents.normalAttack.icon,
+            levelData: talents.normalAttack.levelData.map(level => ({
+              tableIndex: level.level,
+              skillType: 'normal_attack',
+              rowIndex: level.level,
+              ...level,
+            })),
+          },
+          elementalSkill: {
+            name: talents.elementalSkill.name,
+            description: talents.elementalSkill.description,
+            icon: talents.elementalSkill.icon,
+            levelData: talents.elementalSkill.levelData.map(level => ({
+              tableIndex: level.level,
+              skillType: 'elemental_skill',
+              rowIndex: level.level,
+              ...level,
+            })),
+          },
+          elementalBurst: {
+            name: talents.elementalBurst.name,
+            description: talents.elementalBurst.description,
+            icon: talents.elementalBurst.icon,
+            levelData: talents.elementalBurst.levelData.map(level => ({
+              tableIndex: level.level,
+              skillType: 'elemental_burst',
+              rowIndex: level.level,
+              ...level,
+            })),
+          },
+          passiveTalents: talents.passiveTalents,
+          completeTableData:
+            talents.completeTableData?.map(item => ({
+              ...item,
+              type: String(item.type || ''),
+            })) || [],
+        },
+        constellations: {
+          constellations: constellations.constellations.map(c => ({
+            ...c,
+            icon: c.icon || '',
+          })),
+        },
         // 新しく追加された完全な情報
         costumes,
         nameCard,
@@ -228,9 +283,9 @@ class PureApiScraper {
         ascensionMaterials,
         // 追加メタデータ
         voiceActors: avatarData.fetter.cv,
-        birthday: avatarData.birthday
-          ? `${avatarData.birthday[0]}/${avatarData.birthday[1]}`
-          : undefined,
+        ...(avatarData.birthday
+          ? { birthday: `${avatarData.birthday[0]}/${avatarData.birthday[1]}` }
+          : {}),
         nativeTitle: avatarData.fetter.native,
         furnitureId: avatarData.other.furnitureId,
       };
@@ -277,7 +332,7 @@ class PureApiScraper {
                 resolve(null);
               }
             } catch (error) {
-              reject(new Error(`Parse error: ${error}`));
+              reject(error instanceof Error ? error : new Error(String(error)));
             }
           });
         })
@@ -493,7 +548,7 @@ class PureApiScraper {
     const talent1 = data.talent['1']; // Elemental skill
     const talent2 = data.talent['2']; // Sprint/alternate ability
     const talent4 = data.talent['4']; // Elemental burst
-    const passiveTalents = Object.values(data.talent).filter((t: {type: number}) => t.type === 2);
+    const passiveTalents = Object.values(data.talent).filter((t: TalentData) => t.type === 2);
 
     // 全ての才能アイコンを並行ダウンロード
     const [normalAttackIcon, elementalSkillIcon, elementalBurstIcon, sprintIcon, ...passiveIcons] =
@@ -520,7 +575,7 @@ class PureApiScraper {
               'sprint'
             )
           : Promise.resolve(''),
-        ...passiveTalents.map((talent: {icon: string}, index: number) =>
+        ...passiveTalents.map((talent: TalentData, index: number) =>
           this.downloadImageSafely(
             `https://gi.yatta.moe/assets/UI/${talent.icon}.png`,
             characterSlug,
@@ -529,11 +584,13 @@ class PureApiScraper {
         ),
       ]);
 
-    const passiveTalentsWithIcons = passiveTalents.map((talent: {name: string; desc: string}, index: number) => ({
-      name: talent.name,
-      description: talent.desc,
-      icon: passiveIcons[index] || '',
-    }));
+    const passiveTalentsWithIcons = passiveTalents.map(
+      (talent: { name: string; desc: string }, index: number) => ({
+        name: talent.name,
+        description: talent.desc,
+        icon: passiveIcons[index] || '',
+      })
+    );
 
     return {
       normalAttack: {
@@ -570,7 +627,7 @@ class PureApiScraper {
     Logger.info(`🌟 Processing COMPLETE constellations for ${characterSlug} (PURE API)`);
 
     const constellationIcons = await Promise.all(
-      Object.values(data.constellation).map((constellation: {icon: string; pos: number}) =>
+      Object.values(data.constellation).map((constellation: { icon: string; pos: number }) =>
         this.downloadImageSafely(
           `https://gi.yatta.moe/assets/UI/${constellation.icon}.png`,
           characterSlug,
@@ -580,7 +637,7 @@ class PureApiScraper {
     );
 
     const constellationsWithIcons = Object.values(data.constellation).map(
-      (constellation: {pos: number; name: string; desc: string}, index: number) => ({
+      (constellation: { pos: number; name: string; desc: string }, index: number) => ({
         level: (constellation.pos + 1) as 1 | 2 | 3 | 4 | 5 | 6,
         name: constellation.name,
         description: constellation.desc,
@@ -622,7 +679,9 @@ class PureApiScraper {
     Logger.info(`🎴 Processing namecard for ${characterSlug} (PURE API)`);
 
     // 名片データは別のAPIエンドポイントから取得
-    const nameCardData = await this.fetchFromApi<{items: Record<string, NameCardItem>}>('/namecard');
+    const nameCardData = await this.fetchFromApi<{ items: Record<string, NameCardItem> }>(
+      '/namecard'
+    );
     if (!nameCardData || !nameCardData.items) {
       Logger.error('❌ Failed to fetch namecard data from API');
       return null;
@@ -660,7 +719,7 @@ class PureApiScraper {
       const [surname, givenName] = data.name.split(/[·\s]/);
       for (const namePart of [surname, givenName].filter(Boolean)) {
         nameCard = Object.values(nameCardData.items).find(
-          (card: NameCardItem) => card.name && card.name.includes(namePart)
+          (card: NameCardItem) => card.name && namePart && card.name.includes(namePart)
         );
         if (nameCard) {
           Logger.info(`✅ Found namecard using name part "${namePart}"`);
@@ -727,8 +786,32 @@ class PureApiScraper {
   }
 
   // ユーティリティメソッド（以前と同じ）
-  private buildTalentLevelDataFromAPI(promoteData: any): any[] {
-    const levelData = [];
+  private buildTalentLevelDataFromAPI(
+    promoteData: Record<
+      string,
+      {
+        params?: number[];
+        description?: string[];
+        costItems?: Record<string, number>;
+        coinCost?: number;
+      }
+    >
+  ): Array<{
+    level: number;
+    parameters: number[];
+    description: string[];
+    costItems: Record<string, number> | null;
+    coinCost: number | null;
+    formattedValues: string[];
+  }> {
+    const levelData: Array<{
+      level: number;
+      parameters: number[];
+      description: string[];
+      costItems: Record<string, number> | null;
+      coinCost: number | null;
+      formattedValues: string[];
+    }> = [];
     for (let level = 1; level <= 15; level++) {
       const levelKey = level.toString();
       const levelInfo = promoteData[levelKey];
@@ -739,7 +822,7 @@ class PureApiScraper {
           description: levelInfo.description || [],
           costItems: levelInfo.costItems || null,
           coinCost: levelInfo.coinCost || null,
-          formattedValues: (levelInfo.params || []).map((param: number) => {
+          formattedValues: (levelInfo.params || []).map(param => {
             if (param < 1) return `${(param * 100).toFixed(1)}%`;
             return param.toString();
           }),
@@ -749,35 +832,69 @@ class PureApiScraper {
     return levelData;
   }
 
-  // eslint-disable-next-line @typescript-eslint/no-explicit-any
-  private buildCompleteTableDataFromAPI(talentData: any): any[] {
-    // eslint-disable-next-line @typescript-eslint/no-explicit-any
-    const tableData: any[] = [];
+  private buildCompleteTableDataFromAPI(talentData: Record<string, TalentData>): Array<{
+    talentIndex: number;
+    talentId: string;
+    name: string;
+    description: string;
+    type: string;
+    levelData: Array<{
+      level: number;
+      parameters: number[];
+      description: string[];
+      costItems: Record<string, number> | null;
+      coinCost: number | null;
+      formattedValues: string[];
+    }>;
+  }> {
+    const tableData: Array<{
+      talentIndex: number;
+      talentId: string;
+      name: string;
+      description: string;
+      type: string;
+      levelData: Array<{
+        level: number;
+        parameters: number[];
+        description: string[];
+        costItems: Record<string, number> | null;
+        coinCost: number | null;
+        formattedValues: string[];
+      }>;
+    }> = [];
     Object.keys(talentData).forEach(key => {
-      // eslint-disable-next-line @typescript-eslint/no-unsafe-assignment
       const talent = talentData[key];
+      if (!talent) return;
       tableData.push({
         talentIndex: parseInt(key),
         talentId: talent.id?.toString() || key,
         name: talent.name,
         description: talent.desc,
-        type: talent.type,
+        type: String(talent.type),
         levelData: this.buildTalentLevelDataFromAPI(talent.promote || {}),
       });
     });
     return tableData;
   }
 
-  private getBaseStat(props: any[], statType: string): number {
+  private getBaseStat(
+    props: Array<{ propType: string; initValue: number }>,
+    statType: string
+  ): number {
     const stat = props.find(p => p.propType === statType);
     return stat?.initValue || 0;
   }
 
-  private getBonusStatValue(upgrade: any, specialProp: string): string {
+  private getBonusStatValue(
+    upgrade: {
+      promote?: Array<{ addProps?: Record<string, number> }>;
+    },
+    specialProp: string
+  ): string {
     let finalValue = 0;
     if (upgrade.promote && upgrade.promote.length > 0) {
       const finalPhase = upgrade.promote[upgrade.promote.length - 1];
-      if (finalPhase.addProps && finalPhase.addProps[specialProp]) {
+      if (finalPhase?.addProps && finalPhase.addProps[specialProp]) {
         finalValue = finalPhase.addProps[specialProp];
       }
     }
@@ -872,8 +989,20 @@ class PureApiScraper {
     return nameMap[name] || name.toLowerCase().replace(/[^a-z0-9]/g, '-');
   }
 
-  private buildLevelProgression(upgrade: any): any {
-    const progression = [];
+  private buildLevelProgression(upgrade: {
+    prop: Array<{ propType: string; initValue: number; type: string }>;
+  }): Array<{
+    statType: string;
+    values: number[];
+    initValue: number;
+    growthType: string;
+  }> {
+    const progression: Array<{
+      statType: string;
+      values: number[];
+      initValue: number;
+      growthType: string;
+    }> = [];
     for (const prop of upgrade.prop) {
       const growthCurveValues = this.generateGrowthCurveValues(prop.type, prop.initValue);
       progression.push({

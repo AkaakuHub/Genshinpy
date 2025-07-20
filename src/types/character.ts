@@ -22,6 +22,14 @@ export interface Character {
   readonly constellations?: CharacterConstellations;
   readonly ascension?: CharacterAscension;
   readonly materials?: CharacterMaterials;
+  readonly costumes?: readonly any[];
+  readonly nameCard?: any;
+  readonly specialFood?: any;
+  readonly levelProgression?: any;
+  readonly ascensionMaterials?: any;
+  readonly voiceActors?: any;
+  readonly nativeTitle?: string;
+  readonly furnitureId?: number;
 }
 
 export interface CharacterProfile {
@@ -43,7 +51,7 @@ export interface CharacterTalents {
   readonly completeTableData?: readonly CompleteTableData[];
 }
 
-export interface Talent {
+interface Talent {
   readonly name: string;
   readonly description: string;
   readonly icon?: string;
@@ -51,13 +59,13 @@ export interface Talent {
   readonly levelData?: readonly TalentTableRow[];
 }
 
-export interface TalentLevel {
+interface TalentLevel {
   readonly level: number;
   readonly description: string;
   readonly parameters?: readonly string[];
 }
 
-export interface PassiveTalent {
+interface PassiveTalent {
   readonly name: string;
   readonly description: string;
   readonly icon?: string;
@@ -68,7 +76,7 @@ export interface CharacterConstellations {
   readonly constellations: readonly Constellation[];
 }
 
-export interface Constellation {
+interface Constellation {
   readonly level: 1 | 2 | 3 | 4 | 5 | 6;
   readonly name: string;
   readonly description: string;
@@ -79,7 +87,7 @@ export interface CharacterAscension {
   readonly phases: readonly AscensionPhase[];
 }
 
-export interface AscensionPhase {
+interface AscensionPhase {
   readonly phase: 0 | 1 | 2 | 3 | 4 | 5 | 6;
   readonly level: string;
   readonly cost: number;
@@ -91,7 +99,7 @@ export interface CharacterMaterials {
   readonly ascensionMaterials: readonly MaterialRequirement[];
 }
 
-export interface MaterialRequirement {
+interface MaterialRequirement {
   readonly id: string;
   readonly name: string;
   readonly count: number;
@@ -130,8 +138,12 @@ export interface TalentTableRow {
   readonly tableIndex: number;
   readonly skillType: string;
   readonly rowIndex: number;
-  readonly level?: number;
-  readonly [key: string]: string | number | undefined;
+  readonly level: number;
+  readonly parameters: readonly number[];
+  readonly description: readonly string[];
+  readonly costItems: Record<string, number> | null;
+  readonly coinCost: number | null;
+  readonly formattedValues: readonly string[];
 }
 
 export interface CompleteTableData {

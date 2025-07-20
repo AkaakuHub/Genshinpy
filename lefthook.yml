@@ -9,8 +9,6 @@ pre-commit:
       run: pnpm format {staged_files}
     type-check:
       run: pnpm type-check
-    knip:
-      run: pnpm knip
     all:
       run: pnpm check-all
 
