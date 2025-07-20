@@ -8,7 +8,7 @@
   "region": "Mondstadt",
   "constellation": "荊冠座",
   "description": "身にまとう服装以外、何ひとつとして聖職者とは思えないシスター。冷たい言動の中には、相手を見透かす鋭さが隠されている。また、いつも一人で行動をしている。",
-  "icon": "/assets/images/Rosaria_icon_1753019951444.png",
+  "icon": "/assets/images/Rosaria_icon_1753021521276.png",
   "profile": {
     "baseHp": 1030.324,
     "baseAtk": 20.123,
@@ -23,7 +23,7 @@
       "id": "教会槍術",
       "name": "教会槍術",
       "description": "",
-      "icon": "/assets/images/Xiangling_normal_attack_1753019926094.png",
+      "icon": "/assets/images/Xiangling_normal_attack_1753021485505.png",
       "skillType": "normal",
       "params": {
         "1": [],
@@ -47,7 +47,7 @@
       "id": "罪喰いの懺悔",
       "name": "罪喰いの懺悔",
       "description": "",
-      "icon": "/assets/images/Rosaria_elemental_skill_1753019951444.png",
+      "icon": "/assets/images/Rosaria_elemental_skill_1753021521277.png",
       "levelData": [
         {
           "tableIndex": 1,
@@ -1136,21 +1136,21 @@
     "elementalBurst": {
       "name": "懺悔に耳を傾ける幻影",
       "description": "",
-      "icon": "/assets/images/Rosaria_elemental_burst_1753019951444.png",
+      "icon": "/assets/images/Rosaria_elemental_burst_1753021521277.png",
       "levelData": []
     },
     "passiveTalents": [
       {
         "name": "懺悔に耳を傾ける幻影",
-        "icon": "/assets/images/Rosaria_passive_1_1753019951444.png"
+        "icon": "/assets/images/Rosaria_passive_1_1753021521277.png"
       },
       {
         "name": "陰から支える暗色",
-        "icon": "/assets/images/Rosaria_passive_2_1753019951444.png"
+        "icon": "/assets/images/Rosaria_passive_2_1753021521277.png"
       },
       {
         "name": "夜行",
-        "icon": "/assets/images/Rosaria_passive_3_1753019951445.png"
+        "icon": "/assets/images/Rosaria_passive_3_1753021521277.png"
       }
     ],
     "completeTableData": [
@@ -4317,32 +4317,32 @@
       {
         "level": null,
         "name": "罪の導き",
-        "icon": "/assets/images/Rosaria_constellation_cNaN_1753019951445.png"
+        "icon": "/assets/images/Rosaria_constellation_cNaN_1753021521277.png"
       },
       {
         "level": null,
         "name": "無福の地",
-        "icon": "/assets/images/Rosaria_constellation_cNaN_1753019951445.png"
+        "icon": "/assets/images/Rosaria_constellation_cNaN_1753021521277.png"
       },
       {
         "level": null,
         "name": "懺悔の儀",
-        "icon": "/assets/images/Rosaria_constellation_cNaN_1753019951445.png"
+        "icon": "/assets/images/Rosaria_constellation_cNaN_1753021521277.png"
       },
       {
         "level": null,
         "name": "苦痛の恩典",
-        "icon": "/assets/images/Rosaria_constellation_cNaN_1753019951445.png"
+        "icon": "/assets/images/Rosaria_constellation_cNaN_1753021521277.png"
       },
       {
         "level": null,
         "name": "臨終の祈り",
-        "icon": "/assets/images/Rosaria_constellation_cNaN_1753019951445.png"
+        "icon": "/assets/images/Rosaria_constellation_cNaN_1753021521277.png"
       },
       {
         "level": null,
         "name": "代行裁判",
-        "icon": "/assets/images/Rosaria_constellation_cNaN_1753019951445.png"
+        "icon": "/assets/images/Rosaria_constellation_cNaN_1753021521277.png"
       }
     ]
   },
@@ -4360,21 +4360,21 @@
       "isDefault": false,
       "rank": 4,
       "storyId": 340009,
-      "icon": "/assets/images/Rosaria_costume_2_1753019951445.png"
+      "icon": "/assets/images/Rosaria_costume_2_1753021521278.png"
     }
   ],
   "nameCard": {
     "id": 210063,
     "name": "ロサリア·苦役",
     "description": "ロサリア·苦役",
-    "icon": "/assets/images/Rosaria_icon_1753019951444.png"
+    "icon": "/assets/images/Rosaria_icon_1753021521276.png"
   },
   "specialFood": {
     "id": 108234,
     "name": "ヴァーディクトディナー",
     "rank": 2,
-    "icon": "/assets/images/Rosaria_special_food_1753019951447.png",
-    "effectIcon": "/assets/images/Kaeya_food_effect_1753019919855.png"
+    "icon": "/assets/images/Rosaria_special_food_1753021521279.png",
+    "effectIcon": "/assets/images/Kaeya_food_effect_1753021477808.png"
   },
   "levelProgression": [
     {
@@ -4690,7 +4690,7 @@
             "name": "ヴァルベリー",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Lisa_material_100022_1753019917373.png",
+            "icon": "/assets/images/Lisa_material_100022_1753021474545.png",
             "description": "透き通るベリー類。食べると口の中は微かな花の香りに満たされる。かつて嵐を見張る人にとって唯一の労わりはヴァルベリーの甘さと城の安全に対する希望だけである。",
             "type": "モンド地域の特産"
           },
@@ -4699,7 +4699,7 @@
             "name": "哀切なアイスクリスタル·砕屑",
             "count": 1,
             "rank": 2,
-            "icon": "/assets/images/Kamisato Ayaka_material_104161_1753019914880.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104161_1753021471474.png",
             "description": "キャラクターの突破用アイテム。",
             "type": "キャラクター突破素材"
           },
@@ -4708,7 +4708,7 @@
             "name": "新兵の記章",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Diluc_material_112032_1753019921125.png",
+            "icon": "/assets/images/Diluc_material_112032_1753021479204.png",
             "description": "新兵の身分を記した記章。かつてこれをつけた人は、どんな気持ちでファデュイの戦争兵器になったのだろうか。",
             "type": "キャラと武器育成素材"
           }
@@ -4739,7 +4739,7 @@
             "name": "ヴァルベリー",
             "count": 10,
             "rank": 1,
-            "icon": "/assets/images/Lisa_material_100022_1753019917373.png",
+            "icon": "/assets/images/Lisa_material_100022_1753021474545.png",
             "description": "透き通るベリー類。食べると口の中は微かな花の香りに満たされる。かつて嵐を見張る人にとって唯一の労わりはヴァルベリーの甘さと城の安全に対する希望だけである。",
             "type": "モンド地域の特産"
           },
@@ -4748,7 +4748,7 @@
             "name": "哀切なアイスクリスタル·欠片",
             "count": 3,
             "rank": 3,
-            "icon": "/assets/images/Kamisato Ayaka_material_104162_1753019914868.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104162_1753021471480.png",
             "description": "キャラクターの突破用アイテム。\\n「…すみません…」",
             "type": "キャラクター突破素材"
           },
@@ -4757,7 +4757,7 @@
             "name": "新兵の記章",
             "count": 15,
             "rank": 1,
-            "icon": "/assets/images/Diluc_material_112032_1753019921125.png",
+            "icon": "/assets/images/Diluc_material_112032_1753021479204.png",
             "description": "新兵の身分を記した記章。かつてこれをつけた人は、どんな気持ちでファデュイの戦争兵器になったのだろうか。",
             "type": "キャラと武器育成素材"
           },
@@ -4766,7 +4766,7 @@
             "name": "極寒のコア",
             "count": 2,
             "rank": 4,
-            "icon": "/assets/images/Kaeya_material_113010_1753019919872.png",
+            "icon": "/assets/images/Kaeya_material_113010_1753021477823.png",
             "description": "急凍樹を倒した後に現れるコア。\\n今にも大地の深淵のエネルギーと思念が噴出しようとしている。哀悼のように静寂な氷霜もいずれ地上の生物に宿る。たとえ生き物を狩らないはずのツル植物でも、強く凶暴になるであろう。",
             "type": "キャラクター育成素材"
           }
@@ -4801,7 +4801,7 @@
             "name": "ヴァルベリー",
             "count": 20,
             "rank": 1,
-            "icon": "/assets/images/Lisa_material_100022_1753019917373.png",
+            "icon": "/assets/images/Lisa_material_100022_1753021474545.png",
             "description": "透き通るベリー類。食べると口の中は微かな花の香りに満たされる。かつて嵐を見張る人にとって唯一の労わりはヴァルベリーの甘さと城の安全に対する希望だけである。",
             "type": "モンド地域の特産"
           },
@@ -4810,7 +4810,7 @@
             "name": "哀切なアイスクリスタル·欠片",
             "count": 6,
             "rank": 3,
-            "icon": "/assets/images/Kamisato Ayaka_material_104162_1753019914868.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104162_1753021471480.png",
             "description": "キャラクターの突破用アイテム。\\n「…すみません…」",
             "type": "キャラクター突破素材"
           },
@@ -4819,7 +4819,7 @@
             "name": "士官の記章",
             "count": 12,
             "rank": 2,
-            "icon": "/assets/images/Diluc_material_112033_1753019921152.png",
+            "icon": "/assets/images/Diluc_material_112033_1753021479224.png",
             "description": "士官の身分を記した記章、一般兵士とは異なる独特なデザインがあるのは、その複雑な気持ちが含まれたからだろうか。",
             "type": "キャラと武器育成素材"
           },
@@ -4828,7 +4828,7 @@
             "name": "極寒のコア",
             "count": 4,
             "rank": 4,
-            "icon": "/assets/images/Kaeya_material_113010_1753019919872.png",
+            "icon": "/assets/images/Kaeya_material_113010_1753021477823.png",
             "description": "急凍樹を倒した後に現れるコア。\\n今にも大地の深淵のエネルギーと思念が噴出しようとしている。哀悼のように静寂な氷霜もいずれ地上の生物に宿る。たとえ生き物を狩らないはずのツル植物でも、強く凶暴になるであろう。",
             "type": "キャラクター育成素材"
           }
@@ -4863,7 +4863,7 @@
             "name": "ヴァルベリー",
             "count": 30,
             "rank": 1,
-            "icon": "/assets/images/Lisa_material_100022_1753019917373.png",
+            "icon": "/assets/images/Lisa_material_100022_1753021474545.png",
             "description": "透き通るベリー類。食べると口の中は微かな花の香りに満たされる。かつて嵐を見張る人にとって唯一の労わりはヴァルベリーの甘さと城の安全に対する希望だけである。",
             "type": "モンド地域の特産"
           },
@@ -4872,7 +4872,7 @@
             "name": "哀切なアイスクリスタル·塊",
             "count": 3,
             "rank": 4,
-            "icon": "/assets/images/Kamisato Ayaka_material_104163_1753019914868.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104163_1753021471472.png",
             "description": "キャラクターの突破用アイテム。\\n「…すみません…」\\n「あなた達まで、わたしと一緒にこの世界の悲しみを背負わせるなんて…」",
             "type": "キャラクター突破素材"
           },
@@ -4881,7 +4881,7 @@
             "name": "士官の記章",
             "count": 18,
             "rank": 2,
-            "icon": "/assets/images/Diluc_material_112033_1753019921152.png",
+            "icon": "/assets/images/Diluc_material_112033_1753021479224.png",
             "description": "士官の身分を記した記章、一般兵士とは異なる独特なデザインがあるのは、その複雑な気持ちが含まれたからだろうか。",
             "type": "キャラと武器育成素材"
           },
@@ -4890,7 +4890,7 @@
             "name": "極寒のコア",
             "count": 8,
             "rank": 4,
-            "icon": "/assets/images/Kaeya_material_113010_1753019919872.png",
+            "icon": "/assets/images/Kaeya_material_113010_1753021477823.png",
             "description": "急凍樹を倒した後に現れるコア。\\n今にも大地の深淵のエネルギーと思念が噴出しようとしている。哀悼のように静寂な氷霜もいずれ地上の生物に宿る。たとえ生き物を狩らないはずのツル植物でも、強く凶暴になるであろう。",
             "type": "キャラクター育成素材"
           }
@@ -4925,7 +4925,7 @@
             "name": "ヴァルベリー",
             "count": 45,
             "rank": 1,
-            "icon": "/assets/images/Lisa_material_100022_1753019917373.png",
+            "icon": "/assets/images/Lisa_material_100022_1753021474545.png",
             "description": "透き通るベリー類。食べると口の中は微かな花の香りに満たされる。かつて嵐を見張る人にとって唯一の労わりはヴァルベリーの甘さと城の安全に対する希望だけである。",
             "type": "モンド地域の特産"
           },
@@ -4934,7 +4934,7 @@
             "name": "哀切なアイスクリスタル·塊",
             "count": 6,
             "rank": 4,
-            "icon": "/assets/images/Kamisato Ayaka_material_104163_1753019914868.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104163_1753021471472.png",
             "description": "キャラクターの突破用アイテム。\\n「…すみません…」\\n「あなた達まで、わたしと一緒にこの世界の悲しみを背負わせるなんて…」",
             "type": "キャラクター突破素材"
           },
@@ -4943,7 +4943,7 @@
             "name": "尉官の記章",
             "count": 12,
             "rank": 3,
-            "icon": "/assets/images/Diluc_material_112034_1753019921132.png",
+            "icon": "/assets/images/Diluc_material_112034_1753021479218.png",
             "description": "尉官の身分を記した記章。ファデュイには膨大な軍隊があり、その中で尉官になれる人はきっと優れた能力があるだろう。",
             "type": "キャラと武器育成素材"
           },
@@ -4952,7 +4952,7 @@
             "name": "極寒のコア",
             "count": 12,
             "rank": 4,
-            "icon": "/assets/images/Kaeya_material_113010_1753019919872.png",
+            "icon": "/assets/images/Kaeya_material_113010_1753021477823.png",
             "description": "急凍樹を倒した後に現れるコア。\\n今にも大地の深淵のエネルギーと思念が噴出しようとしている。哀悼のように静寂な氷霜もいずれ地上の生物に宿る。たとえ生き物を狩らないはずのツル植物でも、強く凶暴になるであろう。",
             "type": "キャラクター育成素材"
           }
@@ -4987,7 +4987,7 @@
             "name": "ヴァルベリー",
             "count": 60,
             "rank": 1,
-            "icon": "/assets/images/Lisa_material_100022_1753019917373.png",
+            "icon": "/assets/images/Lisa_material_100022_1753021474545.png",
             "description": "透き通るベリー類。食べると口の中は微かな花の香りに満たされる。かつて嵐を見張る人にとって唯一の労わりはヴァルベリーの甘さと城の安全に対する希望だけである。",
             "type": "モンド地域の特産"
           },
@@ -4996,7 +4996,7 @@
             "name": "哀切なアイスクリスタル",
             "count": 6,
             "rank": 5,
-            "icon": "/assets/images/Kamisato Ayaka_material_104164_1753019914875.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104164_1753021471465.png",
             "description": "キャラクターの突破用アイテム。\\n「…すみません、あなた達まで、わたしと一緒にこの世界の悲しみを背負わせるなんて…」\\n「わたしの寒さを耐えられる者は、きっと心の中に熱い欲望を持っているだろう？」\\n「なら、わたしの代わりに、旧世界を焼き尽くそう。」",
             "type": "キャラクター突破素材"
           },
@@ -5005,7 +5005,7 @@
             "name": "尉官の記章",
             "count": 24,
             "rank": 3,
-            "icon": "/assets/images/Diluc_material_112034_1753019921132.png",
+            "icon": "/assets/images/Diluc_material_112034_1753021479218.png",
             "description": "尉官の身分を記した記章。ファデュイには膨大な軍隊があり、その中で尉官になれる人はきっと優れた能力があるだろう。",
             "type": "キャラと武器育成素材"
           },
@@ -5014,7 +5014,7 @@
             "name": "極寒のコア",
             "count": 20,
             "rank": 4,
-            "icon": "/assets/images/Kaeya_material_113010_1753019919872.png",
+            "icon": "/assets/images/Kaeya_material_113010_1753021477823.png",
             "description": "急凍樹を倒した後に現れるコア。\\n今にも大地の深淵のエネルギーと思念が噴出しようとしている。哀悼のように静寂な氷霜もいずれ地上の生物に宿る。たとえ生き物を狩らないはずのツル植物でも、強く凶暴になるであろう。",
             "type": "キャラクター育成素材"
           }

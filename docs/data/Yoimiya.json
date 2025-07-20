@@ -8,7 +8,7 @@
   "region": "Inazuma",
   "constellation": "琉金座",
   "description": "「長野原花火屋」の店主。才ある花火職人で、人々の願いを花火へと託す。「夏祭りの女王」と呼ばれている。",
-  "icon": "/assets/images/Yoimiya_icon_1753019956442.png",
+  "icon": "/assets/images/Yoimiya_icon_1753021528411.png",
   "profile": {
     "baseHp": 791.256,
     "baseAtk": 25.137,
@@ -23,7 +23,7 @@
       "id": "打ち上げ花火",
       "name": "打ち上げ花火",
       "description": "",
-      "icon": "/assets/images/Amber_normal_attack_1753019923613.png",
+      "icon": "/assets/images/Amber_normal_attack_1753021482404.png",
       "skillType": "normal",
       "params": {
         "1": [],
@@ -47,7 +47,7 @@
       "id": "焔硝の庭火舞い",
       "name": "焔硝の庭火舞い",
       "description": "",
-      "icon": "/assets/images/Yoimiya_elemental_skill_1753019956442.png",
+      "icon": "/assets/images/Yoimiya_elemental_skill_1753021528411.png",
       "levelData": [
         {
           "tableIndex": 1,
@@ -809,7 +809,7 @@
             0
           ],
           "description": [
-            "熾焔の矢ダメージ|��常攻撃ダメージ{param4:F1P}",
+            "熾焔の矢ダメージ|通常攻撃ダメージ{param4:F1P}",
             "継続時間|{param2:F1}秒",
             "クールタイム|{param3:F1}秒",
             "",
@@ -1136,21 +1136,21 @@
     "elementalBurst": {
       "name": "袖火百景図",
       "description": "",
-      "icon": "/assets/images/Yoimiya_elemental_burst_1753019956442.png",
+      "icon": "/assets/images/Yoimiya_elemental_burst_1753021528411.png",
       "levelData": []
     },
     "passiveTalents": [
       {
         "name": "袖火百景図",
-        "icon": "/assets/images/Yoimiya_passive_1_1753019956442.png"
+        "icon": "/assets/images/Yoimiya_passive_1_1753021528411.png"
       },
       {
         "name": "炎昼の風物詩",
-        "icon": "/assets/images/Yoimiya_passive_2_1753019956442.png"
+        "icon": "/assets/images/Yoimiya_passive_2_1753021528411.png"
       },
       {
         "name": "炎色の配合法",
-        "icon": "/assets/images/Yoimiya_passive_3_1753019956442.png"
+        "icon": "/assets/images/Yoimiya_passive_3_1753021528411.png"
       }
     ],
     "completeTableData": [
@@ -1191,7 +1191,7 @@
               "4段ダメージ|{param4:F1P}×2",
               "5段ダメージ|{param5:F1P}",
               "狙い撃ち|{param6:F1P}",
-              "フルチ��ージ狙い撃ち|{param7:P}",
+              "フルチャージ狙い撃ち|{param7:P}",
               "焔硝の矢ダメージ|{param8:P}",
               "落下期間のダメージ|{param9:F1P}",
               "低空/高空落下攻撃ダメージ|{param10:P}/{param11:P}",
@@ -1676,7 +1676,7 @@
               "1段ダメージ|{param1:F1P}×2",
               "2段ダメージ|{param2:F1P}",
               "3段ダメージ|{param3:F1P}",
-              "4段ダ��ージ|{param4:F1P}×2",
+              "4段ダメージ|{param4:F1P}×2",
               "5段ダメージ|{param5:F1P}",
               "狙い撃ち|{param6:F1P}",
               "フルチャージ狙い撃ち|{param7:P}",
@@ -2932,7 +2932,7 @@
               0
             ],
             "description": [
-              "熾焔の矢ダメージ|��常攻撃ダメージ{param4:F1P}",
+              "熾焔の矢ダメージ|通常攻撃ダメージ{param4:F1P}",
               "継続時間|{param2:F1}秒",
               "クールタイム|{param3:F1}秒",
               "",
@@ -4317,32 +4317,32 @@
       {
         "level": null,
         "name": "紅玉の琉金",
-        "icon": "/assets/images/Yoimiya_constellation_cNaN_1753019956442.png"
+        "icon": "/assets/images/Yoimiya_constellation_cNaN_1753021528411.png"
       },
       {
         "level": null,
         "name": "万燈の火",
-        "icon": "/assets/images/Yoimiya_constellation_cNaN_1753019956442.png"
+        "icon": "/assets/images/Yoimiya_constellation_cNaN_1753021528412.png"
       },
       {
         "level": null,
         "name": "鼠花火の手品",
-        "icon": "/assets/images/Yoimiya_constellation_cNaN_1753019956442.png"
+        "icon": "/assets/images/Yoimiya_constellation_cNaN_1753021528412.png"
       },
       {
         "level": null,
         "name": "花火職人の心得",
-        "icon": "/assets/images/Yoimiya_constellation_cNaN_1753019956443.png"
+        "icon": "/assets/images/Yoimiya_constellation_cNaN_1753021528412.png"
       },
       {
         "level": null,
         "name": "真夏の宵祭り錦絵",
-        "icon": "/assets/images/Yoimiya_constellation_cNaN_1753019956443.png"
+        "icon": "/assets/images/Yoimiya_constellation_cNaN_1753021528412.png"
       },
       {
         "level": null,
         "name": "長野原龍勢流星群",
-        "icon": "/assets/images/Yoimiya_constellation_cNaN_1753019956443.png"
+        "icon": "/assets/images/Yoimiya_constellation_cNaN_1753021528412.png"
       }
     ]
   },
@@ -4359,14 +4359,14 @@
     "id": 210082,
     "name": "宵宮·琉金の花火",
     "description": "宵宮·琉金の花火",
-    "icon": "/assets/images/Yoimiya_icon_1753019956442.png"
+    "icon": "/assets/images/Yoimiya_icon_1753021528411.png"
   },
   "specialFood": {
     "id": 108302,
     "name": "夏祭りの游魚",
     "rank": 3,
-    "icon": "/assets/images/Yoimiya_special_food_1753019956443.png",
-    "effectIcon": "/assets/images/Kaeya_food_effect_1753019919855.png"
+    "icon": "/assets/images/Yoimiya_special_food_1753021528412.png",
+    "effectIcon": "/assets/images/Kaeya_food_effect_1753021477808.png"
   },
   "levelProgression": [
     {
@@ -4682,7 +4682,7 @@
             "name": "鳴草",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Yoimiya_material_101205_1753019956474.png",
+            "icon": "/assets/images/Yoimiya_material_101205_1753021528598.png",
             "description": "風のない日でも、雷鳴に反応し微かに揺れ動く植物。花びらのように見える構造は、実は葉っぱであり、脆弱な花を守っている。",
             "type": "稲妻地域の特産"
           },
@@ -4691,7 +4691,7 @@
             "name": "炎願のアゲート·砕屑",
             "count": 1,
             "rank": 2,
-            "icon": "/assets/images/Diluc_material_104111_1753019921126.png",
+            "icon": "/assets/images/Diluc_material_104111_1753021479198.png",
             "description": "キャラクターの突破用アイテム。",
             "type": "キャラクター突破素材"
           },
@@ -4700,7 +4700,7 @@
             "name": "占いの絵巻",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Barbara_material_112008_1753019918620.png",
+            "icon": "/assets/images/Barbara_material_112008_1753021476195.png",
             "description": "ある、魔法に関する絵巻の断片だと考えられる。異様で不吉な暖かさがある。",
             "type": "キャラと武器育成素材"
           }
@@ -4731,7 +4731,7 @@
             "name": "鳴草",
             "count": 10,
             "rank": 1,
-            "icon": "/assets/images/Yoimiya_material_101205_1753019956474.png",
+            "icon": "/assets/images/Yoimiya_material_101205_1753021528598.png",
             "description": "風のない日でも、雷鳴に反応し微かに揺れ動く植物。花びらのように見える構造は、実は葉っぱであり、脆弱な花を守っている。",
             "type": "稲妻地域の特産"
           },
@@ -4740,7 +4740,7 @@
             "name": "炎願のアゲート·欠片",
             "count": 3,
             "rank": 3,
-            "icon": "/assets/images/Diluc_material_104112_1753019921124.png",
+            "icon": "/assets/images/Diluc_material_104112_1753021479201.png",
             "description": "キャラクターの突破用アイテム。\\n「人々の願いのため、巡礼の道を歩もう。最強を目指して集い、戦うのだ…」",
             "type": "キャラクター突破素材"
           },
@@ -4749,7 +4749,7 @@
             "name": "占いの絵巻",
             "count": 15,
             "rank": 1,
-            "icon": "/assets/images/Barbara_material_112008_1753019918620.png",
+            "icon": "/assets/images/Barbara_material_112008_1753021476195.png",
             "description": "ある、魔法に関する絵巻の断片だと考えられる。異様で不吉な暖かさがある。",
             "type": "キャラと武器育成素材"
           },
@@ -4758,7 +4758,7 @@
             "name": "陰燃の珠",
             "count": 2,
             "rank": 4,
-            "icon": "/assets/images/Yoimiya_material_113024_1753019956479.png",
+            "icon": "/assets/images/Yoimiya_material_113024_1753021528622.png",
             "description": "無相の炎が凝縮した結晶で、熱を放ち続けている。\\n灼熱の炎はいつか消え、焚火は自分の意志で再び燃え上がる。無相の炎の絶え間ない消滅と再燃、拡散と凝縮もまた、万物の生気と同様に、世界の意志の一部なのだろう。暗黒の運命が訪れ、森羅万象を無と化す日が来るまで。",
             "type": "キャラクター育成素材"
           }
@@ -4793,7 +4793,7 @@
             "name": "鳴草",
             "count": 20,
             "rank": 1,
-            "icon": "/assets/images/Yoimiya_material_101205_1753019956474.png",
+            "icon": "/assets/images/Yoimiya_material_101205_1753021528598.png",
             "description": "風のない日でも、雷鳴に反応し微かに揺れ動く植物。花びらのように見える構造は、実は葉っぱであり、脆弱な花を守っている。",
             "type": "稲妻地域の特産"
           },
@@ -4802,7 +4802,7 @@
             "name": "炎願のアゲート·欠片",
             "count": 6,
             "rank": 3,
-            "icon": "/assets/images/Diluc_material_104112_1753019921124.png",
+            "icon": "/assets/images/Diluc_material_104112_1753021479201.png",
             "description": "キャラクターの突破用アイテム。\\n「人々の願いのため、巡礼の道を歩もう。最強を目指して集い、戦うのだ…」",
             "type": "キャラクター突破素材"
           },
@@ -4811,7 +4811,7 @@
             "name": "封魔の絵巻",
             "count": 12,
             "rank": 2,
-            "icon": "/assets/images/Barbara_material_112009_1753019918613.png",
+            "icon": "/assets/images/Barbara_material_112009_1753021476198.png",
             "description": "解読が難しい絵がある古書の断章。中の人物を真似することで、魔物も魔法を再現できるようになる。",
             "type": "キャラと武器育成素材"
           },
@@ -4820,7 +4820,7 @@
             "name": "陰燃の珠",
             "count": 4,
             "rank": 4,
-            "icon": "/assets/images/Yoimiya_material_113024_1753019956479.png",
+            "icon": "/assets/images/Yoimiya_material_113024_1753021528622.png",
             "description": "無相の炎が凝縮した結晶で、熱を放ち続けている。\\n灼熱の炎はいつか消え、焚火は自分の意志で再び燃え上がる。無相の炎の絶え間ない消滅と再燃、拡散と凝縮もまた、万物の生気と同様に、世界の意志の一部なのだろう。暗黒の運命が訪れ、森羅万象を無と化す日が来るまで。",
             "type": "キャラクター育成素材"
           }
@@ -4855,7 +4855,7 @@
             "name": "鳴草",
             "count": 30,
             "rank": 1,
-            "icon": "/assets/images/Yoimiya_material_101205_1753019956474.png",
+            "icon": "/assets/images/Yoimiya_material_101205_1753021528598.png",
             "description": "風のない日でも、雷鳴に反応し微かに揺れ動く植物。花びらのように見える構造は、実は葉っぱであり、脆弱な花を守っている。",
             "type": "稲妻地域の特産"
           },
@@ -4864,7 +4864,7 @@
             "name": "炎願のアゲート·塊",
             "count": 3,
             "rank": 4,
-            "icon": "/assets/images/Diluc_material_104113_1753019921145.png",
+            "icon": "/assets/images/Diluc_material_104113_1753021479223.png",
             "description": "キャラクターの突破用アイテム。\\n「人々の願いのため、巡礼の道を歩もう。最強を目指して集い、戦うのだ…」\\n「最後は夢のために、劫火の中で燃え尽きる。」",
             "type": "キャラクター突破素材"
           },
@@ -4873,7 +4873,7 @@
             "name": "封魔の絵巻",
             "count": 18,
             "rank": 2,
-            "icon": "/assets/images/Barbara_material_112009_1753019918613.png",
+            "icon": "/assets/images/Barbara_material_112009_1753021476198.png",
             "description": "解読が難しい絵がある古書の断章。中の人物を真似することで、魔物も魔法を再現できるようになる。",
             "type": "キャラと武器育成素材"
           },
@@ -4882,7 +4882,7 @@
             "name": "陰燃の珠",
             "count": 8,
             "rank": 4,
-            "icon": "/assets/images/Yoimiya_material_113024_1753019956479.png",
+            "icon": "/assets/images/Yoimiya_material_113024_1753021528622.png",
             "description": "無相の炎が凝縮した結晶で、熱を放ち続けている。\\n灼熱の炎はいつか消え、焚火は自分の意志で再び燃え上がる。無相の炎の絶え間ない消滅と再燃、拡散と凝縮もまた、万物の生気と同様に、世界の意志の一部なのだろう。暗黒の運命が訪れ、森羅万象を無と化す日が来るまで。",
             "type": "キャラクター育成素材"
           }
@@ -4917,7 +4917,7 @@
             "name": "鳴草",
             "count": 45,
             "rank": 1,
-            "icon": "/assets/images/Yoimiya_material_101205_1753019956474.png",
+            "icon": "/assets/images/Yoimiya_material_101205_1753021528598.png",
             "description": "風のない日でも、雷鳴に反応し微かに揺れ動く植物。花びらのように見える構造は、実は葉っぱであり、脆弱な花を守っている。",
             "type": "稲妻地域の特産"
           },
@@ -4926,7 +4926,7 @@
             "name": "炎願のアゲート·塊",
             "count": 6,
             "rank": 4,
-            "icon": "/assets/images/Diluc_material_104113_1753019921145.png",
+            "icon": "/assets/images/Diluc_material_104113_1753021479223.png",
             "description": "キャラクターの突破用アイテム。\\n「人々の願いのため、巡礼の道を歩もう。最強を目指して集い、戦うのだ…」\\n「最後は夢のために、劫火の中で燃え尽きる。」",
             "type": "キャラクター突破素材"
           },
@@ -4935,7 +4935,7 @@
             "name": "禁呪の絵巻",
             "count": 12,
             "rank": 3,
-            "icon": "/assets/images/Barbara_material_112010_1753019918617.png",
+            "icon": "/assets/images/Barbara_material_112010_1753021476198.png",
             "description": "古代の絵が描かれている古い写本。その意味を解読できる人は少ないが、本当の意味を理解した学者はみんな狂ってしまったという噂がある。",
             "type": "キャラと武器育成素材"
           },
@@ -4944,7 +4944,7 @@
             "name": "陰燃の珠",
             "count": 12,
             "rank": 4,
-            "icon": "/assets/images/Yoimiya_material_113024_1753019956479.png",
+            "icon": "/assets/images/Yoimiya_material_113024_1753021528622.png",
             "description": "無相の炎が凝縮した結晶で、熱を放ち続けている。\\n灼熱の炎はいつか消え、焚火は自分の意志で再び燃え上がる。無相の炎の絶え間ない消滅と再燃、拡散と凝縮もまた、万物の生気と同様に、世界の意志の一部なのだろう。暗黒の運命が訪れ、森羅万象を無と化す日が来るまで。",
             "type": "キャラクター育成素材"
           }
@@ -4979,7 +4979,7 @@
             "name": "鳴草",
             "count": 60,
             "rank": 1,
-            "icon": "/assets/images/Yoimiya_material_101205_1753019956474.png",
+            "icon": "/assets/images/Yoimiya_material_101205_1753021528598.png",
             "description": "風のない日でも、雷鳴に反応し微かに揺れ動く植物。花びらのように見える構造は、実は葉っぱであり、脆弱な花を守っている。",
             "type": "稲妻地域の特産"
           },
@@ -4988,7 +4988,7 @@
             "name": "炎願のアゲート",
             "count": 6,
             "rank": 5,
-            "icon": "/assets/images/Diluc_material_104114_1753019921150.png",
+            "icon": "/assets/images/Diluc_material_104114_1753021479226.png",
             "description": "キャラクターの突破用アイテム。\\n「人々の願いのため、巡礼の道を歩もう。最強を目指して集い、戦うのだ…」\\n「最後は夢のために、劫火の中で燃え尽きる。」\\n「その灰燼にまだ初心が残っていれば、██の真実に辿り着いたという。」",
             "type": "キャラクター突破素材"
           },
@@ -4997,7 +4997,7 @@
             "name": "禁呪の絵巻",
             "count": 24,
             "rank": 3,
-            "icon": "/assets/images/Barbara_material_112010_1753019918617.png",
+            "icon": "/assets/images/Barbara_material_112010_1753021476198.png",
             "description": "古代の絵が描かれている古い写本。その意味を解読できる人は少ないが、本当の意味を理解した学者はみんな狂ってしまったという噂がある。",
             "type": "キャラと武器育成素材"
           },
@@ -5006,7 +5006,7 @@
             "name": "陰燃の珠",
             "count": 20,
             "rank": 4,
-            "icon": "/assets/images/Yoimiya_material_113024_1753019956479.png",
+            "icon": "/assets/images/Yoimiya_material_113024_1753021528622.png",
             "description": "無相の炎が凝縮した結晶で、熱を放ち続けている。\\n灼熱の炎はいつか消え、焚火は自分の意志で再び燃え上がる。無相の炎の絶え間ない消滅と再燃、拡散と凝縮もまた、万物の生気と同様に、世界の意志の一部なのだろう。暗黒の運命が訪れ、森羅万象を無と化す日が来るまで。",
             "type": "キャラクター育成素材"
           }

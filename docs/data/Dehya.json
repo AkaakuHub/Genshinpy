@@ -8,7 +8,7 @@
   "region": "Sumeru",
   "constellation": "マンティコア座",
   "description": "スメールの砂漠を気の赴くままに渡り歩く傭兵集団「エルマイト旅団」のメンバー。屈強で勇敢な戦士。「エルマイト旅団」ではかなり名が通っている。",
-  "icon": "/assets/images/Dehya_icon_1753019993232.png",
+  "icon": "/assets/images/Dehya_icon_1753021581454.png",
   "profile": {
     "baseHp": 1220.25,
     "baseAtk": 20.668,
@@ -23,7 +23,7 @@
       "id": "剣闘術・金砂塵",
       "name": "剣闘術・金砂塵",
       "description": "",
-      "icon": "/assets/images/Diluc_normal_attack_1753019921107.png",
+      "icon": "/assets/images/Diluc_normal_attack_1753021479183.png",
       "skillType": "normal",
       "params": {
         "1": [],
@@ -47,7 +47,7 @@
       "id": "熔鉄流獄",
       "name": "熔鉄流獄",
       "description": "",
-      "icon": "/assets/images/Dehya_elemental_skill_1753019993232.png",
+      "icon": "/assets/images/Dehya_elemental_skill_1753021581455.png",
       "levelData": [
         {
           "tableIndex": 1,
@@ -369,7 +369,7 @@
             "浄焔怒涛のダメージ|{param1:F1P}",
             "剣域熾焔のダメージ|{param2:F1P}",
             "領域のダメージ|攻撃力{param3:F1P}+HP上限{param4:F2P}",
-            "ダメージカット|{param5:P}",
+            "ダメージカッ��|{param5:P}",
             "赤鬣の血の上限|HP上限{param6:P}",
             "領域の継続時間|{param7:F1}秒",
             "クールタイム|{param8:F1}秒",
@@ -586,7 +586,7 @@
             0
           ],
           "description": [
-            "浄焔怒涛の��メージ|{param1:F1P}",
+            "浄焔怒涛のダメージ|{param1:F1P}",
             "剣域熾焔のダメージ|{param2:F1P}",
             "領域のダメージ|攻撃力{param3:F1P}+HP上限{param4:F2P}",
             "ダメージカット|{param5:P}",
@@ -1136,21 +1136,21 @@
     "elementalBurst": {
       "name": "惜しみなき扶翼",
       "description": "",
-      "icon": "/assets/images/Dehya_elemental_burst_1753019993232.png",
+      "icon": "/assets/images/Dehya_elemental_burst_1753021581455.png",
       "levelData": []
     },
     "passiveTalents": [
       {
         "name": "惜しみなき扶翼",
-        "icon": "/assets/images/Dehya_passive_1_1753019993232.png"
+        "icon": "/assets/images/Dehya_passive_1_1753021581455.png"
       },
       {
         "name": "至誠の尊崇",
-        "icon": "/assets/images/Dehya_passive_2_1753019993232.png"
+        "icon": "/assets/images/Dehya_passive_2_1753021581455.png"
       },
       {
         "name": "陽の射す正道",
-        "icon": "/assets/images/Dehya_passive_3_1753019993233.png"
+        "icon": "/assets/images/Dehya_passive_3_1753021581455.png"
       }
     ],
     "completeTableData": [
@@ -1535,7 +1535,7 @@
               "1段ダメージ|{param1:F1P}",
               "2段ダメージ|{param2:F1P}",
               "3段ダメージ|{param3:F1P}",
-              "4段��メージ|{param4:F1P}",
+              "4段ダメージ|{param4:F1P}",
               "連続重撃ダメージ|{param5:F1P}",
               "重撃終了ダメージ|{param6:P}",
               "重撃スタミナ消費|毎秒{param7:F1}",
@@ -1679,7 +1679,7 @@
               "4段ダメージ|{param4:F1P}",
               "連続重撃ダメージ|{param5:F1P}",
               "重撃終了ダメージ|{param6:P}",
-              "重撃スタミナ消費|��秒{param7:F1}",
+              "重撃スタミナ消費|毎秒{param7:F1}",
               "最大継続時間|{param8:F1}秒",
               "落下期間のダメージ|{param9:F1P}",
               "低空/高空落下攻撃ダメージ|{param10:P}/{param11:P}",
@@ -1824,7 +1824,7 @@
               "重撃スタミナ消費|毎秒{param7:F1}",
               "最大継続時間|{param8:F1}秒",
               "落下期間のダメージ|{param9:F1P}",
-              "低空/高空落下攻撃ダメージ|{param10:P}/{param11:P}",
+              "低空/高空落下攻撃��メージ|{param10:P}/{param11:P}",
               "",
               "",
               "",
@@ -2159,7 +2159,7 @@
               "2段ダメージ|{param2:F1P}",
               "3段ダメージ|{param3:F1P}",
               "4段ダメージ|{param4:F1P}",
-              "���続重撃ダメージ|{param5:F1P}",
+              "連続重撃ダメージ|{param5:F1P}",
               "重撃終了ダメージ|{param6:P}",
               "重撃スタミナ消費|毎秒{param7:F1}",
               "最大継続時間|{param8:F1}秒",
@@ -2510,7 +2510,7 @@
               "浄焔怒涛のダメージ|{param1:F1P}",
               "剣域熾焔のダメージ|{param2:F1P}",
               "領域のダメージ|攻撃力{param3:F1P}+HP上限{param4:F2P}",
-              "ダメージカット|{param5:P}",
+              "ダメージカッ��|{param5:P}",
               "赤鬣の血の上限|HP上限{param6:P}",
               "領域の継続時間|{param7:F1}秒",
               "クールタイム|{param8:F1}秒",
@@ -2718,7 +2718,7 @@
               0
             ],
             "description": [
-              "浄焔怒涛の��メージ|{param1:F1P}",
+              "浄焔怒涛のダメージ|{param1:F1P}",
               "剣域熾焔のダメージ|{param2:F1P}",
               "領域のダメージ|攻撃力{param3:F1P}+HP上限{param4:F2P}",
               "ダメージカット|{param5:P}",
@@ -4178,7 +4178,7 @@
               0
             ],
             "description": [
-              "熾鬣拳のダメージ|攻撃力{param1:F1P}+HP���限{param2:F2P}",
+              "熾鬣拳のダメージ|攻撃力{param1:F1P}+HP上限{param2:F2P}",
               "残火蹴のダメージ|攻撃力{param3:F1P}+HP上限{param4:F2P}",
               "継続時間|{param5:F1}秒",
               "クールタイム|{param6:F1}秒",
@@ -4317,32 +4317,32 @@
       {
         "level": null,
         "name": "煌めく皎潔の炎",
-        "icon": "/assets/images/Dehya_constellation_cNaN_1753019993233.png"
+        "icon": "/assets/images/Dehya_constellation_cNaN_1753021581455.png"
       },
       {
         "level": null,
         "name": "燿く清砂の利刃",
-        "icon": "/assets/images/Dehya_constellation_cNaN_1753019993233.png"
+        "icon": "/assets/images/Dehya_constellation_cNaN_1753021581455.png"
       },
       {
         "level": null,
         "name": "掠める熾炎の怒り",
-        "icon": "/assets/images/Dehya_constellation_cNaN_1753019993233.png"
+        "icon": "/assets/images/Dehya_constellation_cNaN_1753021581455.png"
       },
       {
         "level": null,
         "name": "誓いし永遠の銘心",
-        "icon": "/assets/images/Dehya_constellation_cNaN_1753019993233.png"
+        "icon": "/assets/images/Dehya_constellation_cNaN_1753021581455.png"
       },
       {
         "level": null,
         "name": "不縛なる至高の獅子",
-        "icon": "/assets/images/Dehya_constellation_cNaN_1753019993233.png"
+        "icon": "/assets/images/Dehya_constellation_cNaN_1753021581455.png"
       },
       {
         "level": null,
         "name": "黄金を裂く焔爪",
-        "icon": "/assets/images/Dehya_constellation_cNaN_1753019993233.png"
+        "icon": "/assets/images/Dehya_constellation_cNaN_1753021581455.png"
       }
     ]
   },
@@ -4359,14 +4359,14 @@
     "id": 210152,
     "name": "ディシア·浄焔",
     "description": "ディシア·浄焔",
-    "icon": "/assets/images/Dehya_icon_1753019993232.png"
+    "icon": "/assets/images/Dehya_namecard_1753021581623.png"
   },
   "specialFood": {
     "id": 108501,
     "name": "熾金の鍋",
     "rank": 3,
-    "icon": "/assets/images/Dehya_special_food_1753019993233.png",
-    "effectIcon": "/assets/images/Klee_food_effect_1753019932434.png"
+    "icon": "/assets/images/Dehya_special_food_1753021581456.png",
+    "effectIcon": "/assets/images/Klee_food_effect_1753021493828.png"
   },
   "levelProgression": [
     {
@@ -4682,7 +4682,7 @@
             "name": "砂脂蛹",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Alhaitham_material_101222_1753019992032.png",
+            "icon": "/assets/images/Alhaitham_material_101222_1753021579927.png",
             "description": "砂漠の奥地にある流砂ウナギの繁殖地でのみ見られる殻。その硬い外側は、流砂ウナギの幼体が高温で乾燥した砂漠の環境に適応できるようになるまで、保護するためにある。",
             "type": "スメール地域の特産"
           },
@@ -4691,7 +4691,7 @@
             "name": "炎願のアゲート·砕屑",
             "count": 1,
             "rank": 2,
-            "icon": "/assets/images/Diluc_material_104111_1753019921126.png",
+            "icon": "/assets/images/Diluc_material_104111_1753021479198.png",
             "description": "キャラクターの突破用アイテム。",
             "type": "キャラクター突破素材"
           },
@@ -4700,7 +4700,7 @@
             "name": "色褪せた赤い絹",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Dori_material_112065_1753019979601.png",
+            "icon": "/assets/images/Dori_material_112065_1753021561740.png",
             "description": "目を覆うために使われていた赤絹。少し破れている。\\nエルマイト旅団には、織物で目を覆う者が時々いる。しかしその行動の起源はとっくに、時の砂漠の中で失われている。",
             "type": "キャラと武器育成素材"
           }
@@ -4731,7 +4731,7 @@
             "name": "砂脂蛹",
             "count": 10,
             "rank": 1,
-            "icon": "/assets/images/Alhaitham_material_101222_1753019992032.png",
+            "icon": "/assets/images/Alhaitham_material_101222_1753021579927.png",
             "description": "砂漠の奥地にある流砂ウナギの繁殖地でのみ見られる殻。その硬い外側は、流砂ウナギの幼体が高温で乾燥した砂漠の環境に適応できるようになるまで、保護するためにある。",
             "type": "スメール地域の特産"
           },
@@ -4740,7 +4740,7 @@
             "name": "炎願のアゲート·欠片",
             "count": 3,
             "rank": 3,
-            "icon": "/assets/images/Diluc_material_104112_1753019921124.png",
+            "icon": "/assets/images/Diluc_material_104112_1753021479201.png",
             "description": "キャラクターの突破用アイテム。\\n「人々の願いのため、巡礼の道を歩もう。最強を目指して集い、戦うのだ…」",
             "type": "キャラクター突破素材"
           },
@@ -4749,7 +4749,7 @@
             "name": "色褪せた赤い絹",
             "count": 15,
             "rank": 1,
-            "icon": "/assets/images/Dori_material_112065_1753019979601.png",
+            "icon": "/assets/images/Dori_material_112065_1753021561740.png",
             "description": "目を覆うために使われていた赤絹。少し破れている。\\nエルマイト旅団には、織物で目を覆う者が時々いる。しかしその行動の起源はとっくに、時の砂漠の中で失われている。",
             "type": "キャラと武器育成素材"
           },
@@ -4758,8 +4758,8 @@
             "name": "導光四面体",
             "count": 2,
             "rank": 4,
-            "icon": "/assets/images/Candace_material_113039_1753019984568.png",
-            "description": "謎めいた機械を倒して獲得したコアの部品。\\n今になっても、古の機械は主の夢と己の責務を忘れたことがない——千の宮殿を築き、三千の機械を統制し、万の今では咲けぬ花を植え、地上にある全ての意識あるもののために、砂海に埋もれた「楽園」を再現したい——\\n砂漠の王が消え、夢までが深き罪の囁きによって腐敗したとしても。すべての魔柱が完全に打ち壊され、王に愛された巨獣が熱砂の嵐に姿を隠した��しても。",
+            "icon": "/assets/images/Candace_material_113039_1753021569480.png",
+            "description": "謎めいた機械を倒して獲得したコアの部品。\\n今になっても、古の機械は主の夢と己の責務を忘れたことがない——千の宮殿を築き、三千の機械を統制し、万の今では咲けぬ花を植え、地上にある全ての意識あるもののために、砂海に埋もれた「楽園」を再現したい——\\n砂漠の王が消え、夢までが深き罪の囁きによって腐敗したとしても。すべての魔柱が完全に打ち壊され、王に愛された巨獣が熱砂の嵐に姿を隠したとして���。",
             "type": "キャラクター育成素材"
           }
         ],
@@ -4793,7 +4793,7 @@
             "name": "砂脂蛹",
             "count": 20,
             "rank": 1,
-            "icon": "/assets/images/Alhaitham_material_101222_1753019992032.png",
+            "icon": "/assets/images/Alhaitham_material_101222_1753021579927.png",
             "description": "砂漠の奥地にある流砂ウナギの繁殖地でのみ見られる殻。その硬い外側は、流砂ウナギの幼体が高温で乾燥した砂漠の環境に適応できるようになるまで、保護するためにある。",
             "type": "スメール地域の特産"
           },
@@ -4802,7 +4802,7 @@
             "name": "炎願のアゲート·欠片",
             "count": 6,
             "rank": 3,
-            "icon": "/assets/images/Diluc_material_104112_1753019921124.png",
+            "icon": "/assets/images/Diluc_material_104112_1753021479201.png",
             "description": "キャラクターの突破用アイテム。\\n「人々の願いのため、巡礼の道を歩もう。最強を目指して集い、戦うのだ…」",
             "type": "キャラクター突破素材"
           },
@@ -4811,7 +4811,7 @@
             "name": "縁飾の赤い絹",
             "count": 12,
             "rank": 2,
-            "icon": "/assets/images/Dori_material_112066_1753019979589.png",
+            "icon": "/assets/images/Dori_material_112066_1753021561789.png",
             "description": "シンプルな装飾の赤い絹。\\nベテランの戦士は相手の隙をついて先制攻撃をし、戦況を有利にできる。忠誠を誓う主をとっくに失ったエルマイト旅団にとって、信じられるのは自分だけ。噂によれば、彼らはあらゆるもの——自分自身の目でさえも、自分を裏切ると確信しているらしい。",
             "type": "キャラと武器育成素材"
           },
@@ -4820,8 +4820,8 @@
             "name": "導光四面体",
             "count": 4,
             "rank": 4,
-            "icon": "/assets/images/Candace_material_113039_1753019984568.png",
-            "description": "謎めいた機械を倒して獲得したコアの部品。\\n今になっても、古の機械は主の夢と己の責務を忘れたことがない——千の宮殿を築き、三千の機械を統制し、万の今では咲けぬ花を植え、地上にある全ての意識あるもののために、砂海に埋もれた「楽園」を再現したい——\\n砂漠の王が消え、夢までが深き罪の囁きによって腐敗したとしても。すべての魔柱が完全に打ち壊され、王に愛された巨獣が熱砂の嵐に姿を隠した��しても。",
+            "icon": "/assets/images/Candace_material_113039_1753021569480.png",
+            "description": "謎めいた機械を倒して獲得したコアの部品。\\n今になっても、古の機械は主の夢と己の責務を忘れたことがない——千の宮殿を築き、三千の機械を統制し、万の今では咲けぬ花を植え、地上にある全ての意識あるもののために、砂海に埋もれた「楽園」を再現したい——\\n砂漠の王が消え、夢までが深き罪の囁きによって腐敗したとしても。すべての魔柱が完全に打ち壊され、王に愛された巨獣が熱砂の嵐に姿を隠したとして���。",
             "type": "キャラクター育成素材"
           }
         ],
@@ -4855,7 +4855,7 @@
             "name": "砂脂蛹",
             "count": 30,
             "rank": 1,
-            "icon": "/assets/images/Alhaitham_material_101222_1753019992032.png",
+            "icon": "/assets/images/Alhaitham_material_101222_1753021579927.png",
             "description": "砂漠の奥地にある流砂ウナギの繁殖地でのみ見られる殻。その硬い外側は、流砂ウナギの幼体が高温で乾燥した砂漠の環境に適応できるようになるまで、保護するためにある。",
             "type": "スメール地域の特産"
           },
@@ -4864,7 +4864,7 @@
             "name": "炎願のアゲート·塊",
             "count": 3,
             "rank": 4,
-            "icon": "/assets/images/Diluc_material_104113_1753019921145.png",
+            "icon": "/assets/images/Diluc_material_104113_1753021479223.png",
             "description": "キャラクターの突破用アイテム。\\n「人々の願いのため、巡礼の道を歩もう。最強を目指して集い、戦うのだ…」\\n「最後は夢のために、劫火の中で燃え尽きる。」",
             "type": "キャラクター突破素材"
           },
@@ -4873,7 +4873,7 @@
             "name": "縁飾の赤い絹",
             "count": 18,
             "rank": 2,
-            "icon": "/assets/images/Dori_material_112066_1753019979589.png",
+            "icon": "/assets/images/Dori_material_112066_1753021561789.png",
             "description": "シンプルな装飾の赤い絹。\\nベテランの戦士は相手の隙をついて先制攻撃をし、戦況を有利にできる。忠誠を誓う主をとっくに失ったエルマイト旅団にとって、信じられるのは自分だけ。噂によれば、彼らはあらゆるもの——自分自身の目でさえも、自分を裏切ると確信しているらしい。",
             "type": "キャラと武器育成素材"
           },
@@ -4882,8 +4882,8 @@
             "name": "導光四面体",
             "count": 8,
             "rank": 4,
-            "icon": "/assets/images/Candace_material_113039_1753019984568.png",
-            "description": "謎めいた機械を倒して獲得したコアの部品。\\n今になっても、古の機械は主の夢と己の責務を忘れたことがない——千の宮殿を築き、三千の機械を統制し、万の今では咲けぬ花を植え、地上にある全ての意識あるもののために、砂海に埋もれた「楽園」を再現したい——\\n砂漠の王が消え、夢までが深き罪の囁きによって腐敗したとしても。すべての魔柱が完全に打ち壊され、王に愛された巨獣が熱砂の嵐に姿を隠した��しても。",
+            "icon": "/assets/images/Candace_material_113039_1753021569480.png",
+            "description": "謎めいた機械を倒して獲得したコアの部品。\\n今になっても、古の機械は主の夢と己の責務を忘れたことがない——千の宮殿を築き、三千の機械を統制し、万の今では咲けぬ花を植え、地上にある全ての意識あるもののために、砂海に埋もれた「楽園」を再現したい——\\n砂漠の王が消え、夢までが深き罪の囁きによって腐敗したとしても。すべての魔柱が完全に打ち壊され、王に愛された巨獣が熱砂の嵐に姿を隠したとして���。",
             "type": "キャラクター育成素材"
           }
         ],
@@ -4917,7 +4917,7 @@
             "name": "砂脂蛹",
             "count": 45,
             "rank": 1,
-            "icon": "/assets/images/Alhaitham_material_101222_1753019992032.png",
+            "icon": "/assets/images/Alhaitham_material_101222_1753021579927.png",
             "description": "砂漠の奥地にある流砂ウナギの繁殖地でのみ見られる殻。その硬い外側は、流砂ウナギの幼体が高温で乾燥した砂漠の環境に適応できるようになるまで、保護するためにある。",
             "type": "スメール地域の特産"
           },
@@ -4926,7 +4926,7 @@
             "name": "炎願のアゲート·塊",
             "count": 6,
             "rank": 4,
-            "icon": "/assets/images/Diluc_material_104113_1753019921145.png",
+            "icon": "/assets/images/Diluc_material_104113_1753021479223.png",
             "description": "キャラクターの突破用アイテム。\\n「人々の願いのため、巡礼の道を歩もう。最強を目指して集い、戦うのだ…」\\n「最後は夢のために、劫火の中で燃え尽きる。」",
             "type": "キャラクター突破素材"
           },
@@ -4935,17 +4935,17 @@
             "name": "金織の赤い絹",
             "count": 12,
             "rank": 3,
-            "icon": "/assets/images/Dori_material_112067_1753019979592.png",
+            "icon": "/assets/images/Dori_material_112067_1753021561763.png",
             "description": "金糸で紋様を織り込んだ赤い絹。\\n日光の下で金色に輝く砂漠の中で生まれた遺民は、たまに意味さえ忘れられた歌を歌ったり、大地を平等に照らす太陽を讃えたり、夕暮れの終わりの残照を惜しんだりする。歌の最後に繰り返し出てくる聞き慣れない言葉は、古い神様の名前だと言われている。噂によれば、砂漠の王がまだ生きていた頃、民は太陽の光を直視する勇気がなく、自分の目を覆ったようだ。",
-            "type": "キャラと武器育成素材"
+            "type": "キャラと武器育��素材"
           },
           {
             "itemId": "113039",
             "name": "導光四面体",
             "count": 12,
             "rank": 4,
-            "icon": "/assets/images/Candace_material_113039_1753019984568.png",
-            "description": "謎めいた機械を倒して獲得したコアの部品。\\n今になっても、古の機械は主の夢と己の責務を忘れたことがない——千の宮殿を築き、三千の機械を統制し、万の今では咲けぬ花を植え、地上にある全ての意識あるもののために、砂海に埋もれた「楽園」を再現したい——\\n砂漠の王が消え、夢までが深き罪の囁きによって腐敗したとしても。すべての魔柱が完全に打ち壊され、王に愛された巨獣が熱砂の嵐に姿を隠した��しても。",
+            "icon": "/assets/images/Candace_material_113039_1753021569480.png",
+            "description": "謎めいた機械を倒して獲得したコアの部品。\\n今になっても、古の機械は主の夢と己の責務を忘れたことがない——千の宮殿を築き、三千の機械を統制し、万の今では咲けぬ花を植え、地上にある全ての意識あるもののために、砂海に埋もれた「楽園」を再現したい——\\n砂漠の王が消え、夢までが深き罪の囁きによって腐敗したとしても。すべての魔柱が完全に打ち壊され、王に愛された巨獣が熱砂の嵐に姿を隠したとして���。",
             "type": "キャラクター育成素材"
           }
         ],
@@ -4979,7 +4979,7 @@
             "name": "砂脂蛹",
             "count": 60,
             "rank": 1,
-            "icon": "/assets/images/Alhaitham_material_101222_1753019992032.png",
+            "icon": "/assets/images/Alhaitham_material_101222_1753021579927.png",
             "description": "砂漠の奥地にある流砂ウナギの繁殖地でのみ見られる殻。その硬い外側は、流砂ウナギの幼体が高温で乾燥した砂漠の環境に適応できるようになるまで、保護するためにある。",
             "type": "スメール地域の特産"
           },
@@ -4988,7 +4988,7 @@
             "name": "炎願のアゲート",
             "count": 6,
             "rank": 5,
-            "icon": "/assets/images/Diluc_material_104114_1753019921150.png",
+            "icon": "/assets/images/Diluc_material_104114_1753021479226.png",
             "description": "キャラクターの突破用アイテム。\\n「人々の願いのため、巡礼の道を歩もう。最強を目指して集い、戦うのだ…」\\n「最後は夢のために、劫火の中で燃え尽きる。」\\n「その灰燼にまだ初心が残っていれば、██の真実に辿り着いたという。」",
             "type": "キャラクター突破素材"
           },
@@ -4997,17 +4997,17 @@
             "name": "金織の赤い絹",
             "count": 24,
             "rank": 3,
-            "icon": "/assets/images/Dori_material_112067_1753019979592.png",
+            "icon": "/assets/images/Dori_material_112067_1753021561763.png",
             "description": "金糸で紋様を織り込んだ赤い絹。\\n日光の下で金色に輝く砂漠の中で生まれた遺民は、たまに意味さえ忘れられた歌を歌ったり、大地を平等に照らす太陽を讃えたり、夕暮れの終わりの残照を惜しんだりする。歌の最後に繰り返し出てくる聞き慣れない言葉は、古い神様の名前だと言われている。噂によれば、砂漠の王がまだ生きていた頃、民は太陽の光を直視する勇気がなく、自分の目を覆ったようだ。",
-            "type": "キャラと武器育成素材"
+            "type": "キャラと武器育��素材"
           },
           {
             "itemId": "113039",
             "name": "導光四面体",
             "count": 20,
             "rank": 4,
-            "icon": "/assets/images/Candace_material_113039_1753019984568.png",
-            "description": "謎めいた機械を倒して獲得したコアの部品。\\n今になっても、古の機械は主の夢と己の責務を忘れたことがない——千の宮殿を築き、三千の機械を統制し、万の今では咲けぬ花を植え、地上にある全ての意識あるもののために、砂海に埋もれた「楽園」を再現したい——\\n砂漠の王が消え、夢までが深き罪の囁きによって腐敗したとしても。すべての魔柱が完全に打ち壊され、王に愛された巨獣が熱砂の嵐に姿を隠した��しても。",
+            "icon": "/assets/images/Candace_material_113039_1753021569480.png",
+            "description": "謎めいた機械を倒して獲得したコアの部品。\\n今になっても、古の機械は主の夢と己の責務を忘れたことがない——千の宮殿を築き、三千の機械を統制し、万の今では咲けぬ花を植え、地上にある全ての意識あるもののために、砂海に埋もれた「楽園」を再現したい——\\n砂漠の王が消え、夢までが深き罪の囁きによって腐敗したとしても。すべての魔柱が完全に打ち壊され、王に愛された巨獣が熱砂の嵐に姿を隠したとして���。",
             "type": "キャラクター育成素材"
           }
         ],

@@ -8,7 +8,7 @@
   "region": "Mondstadt",
   "constellation": "心護座",
   "description": "「西風騎士団」の頼もしいメイド。いつか本当の騎士になることを夢見ている。",
-  "icon": "/assets/images/Noelle_icon_1753019938679.png",
+  "icon": "/assets/images/Noelle_icon_1753021503534.png",
   "profile": {
     "baseHp": 1012.088,
     "baseAtk": 16.027,
@@ -23,7 +23,7 @@
       "id": "西風剣術・メイド",
       "name": "西風剣術・メイド",
       "description": "",
-      "icon": "/assets/images/Diluc_normal_attack_1753019921107.png",
+      "icon": "/assets/images/Diluc_normal_attack_1753021479183.png",
       "skillType": "normal",
       "params": {
         "1": [],
@@ -47,7 +47,7 @@
       "id": "護心鎧",
       "name": "護心鎧",
       "description": "",
-      "icon": "/assets/images/Noelle_elemental_skill_1753019938679.png",
+      "icon": "/assets/images/Noelle_elemental_skill_1753021503535.png",
       "levelData": [
         {
           "tableIndex": 1,
@@ -1136,21 +1136,21 @@
     "elementalBurst": {
       "name": "誠心誠意",
       "description": "",
-      "icon": "/assets/images/Noelle_elemental_burst_1753019938679.png",
+      "icon": "/assets/images/Noelle_elemental_burst_1753021503535.png",
       "levelData": []
     },
     "passiveTalents": [
       {
         "name": "誠心誠意",
-        "icon": "/assets/images/Noelle_passive_1_1753019938679.png"
+        "icon": "/assets/images/Noelle_passive_1_1753021503535.png"
       },
       {
         "name": "きれいさっぱり",
-        "icon": "/assets/images/Noelle_passive_2_1753019938680.png"
+        "icon": "/assets/images/Noelle_passive_2_1753021503535.png"
       },
       {
         "name": "メイドの仕草",
-        "icon": "/assets/images/Noelle_passive_3_1753019938680.png"
+        "icon": "/assets/images/Noelle_passive_3_1753021503535.png"
       }
     ],
     "completeTableData": [
@@ -1400,7 +1400,7 @@
               "重撃終了ダメージ|{param6:P}",
               "重撃スタミナ消費|毎秒{param7:F1}",
               "最大継続時間|{param8:F1}秒",
-              "落下期間の���メージ|{param9:F1P}",
+              "落下期間のダメージ|{param9:F1P}",
               "低空/高空落下攻撃ダメージ|{param10:P}/{param11:P}",
               "",
               "",
@@ -4317,32 +4317,32 @@
       {
         "level": null,
         "name": "支援はお任せください",
-        "icon": "/assets/images/Noelle_constellation_cNaN_1753019938680.png"
+        "icon": "/assets/images/Noelle_constellation_cNaN_1753021503535.png"
       },
       {
         "level": null,
         "name": "旋風のメイド",
-        "icon": "/assets/images/Noelle_constellation_cNaN_1753019938680.png"
+        "icon": "/assets/images/Noelle_constellation_cNaN_1753021503535.png"
       },
       {
         "level": null,
         "name": "怪我はしません",
-        "icon": "/assets/images/Noelle_constellation_cNaN_1753019938680.png"
+        "icon": "/assets/images/Noelle_constellation_cNaN_1753021503535.png"
       },
       {
         "level": null,
         "name": "綺麗にしますから",
-        "icon": "/assets/images/Noelle_constellation_cNaN_1753019938680.png"
+        "icon": "/assets/images/Noelle_constellation_cNaN_1753021503535.png"
       },
       {
         "level": null,
         "name": "騎士団の掃除達人",
-        "icon": "/assets/images/Noelle_constellation_cNaN_1753019938680.png"
+        "icon": "/assets/images/Noelle_constellation_cNaN_1753021503535.png"
       },
       {
         "level": null,
         "name": "埃は許しません",
-        "icon": "/assets/images/Noelle_constellation_cNaN_1753019938680.png"
+        "icon": "/assets/images/Noelle_constellation_cNaN_1753021503535.png"
       }
     ]
   },
@@ -4359,14 +4359,14 @@
     "id": 210014,
     "name": "ノエル·守護",
     "description": "ノエル·守護",
-    "icon": "/assets/images/Noelle_icon_1753019938679.png"
+    "icon": "/assets/images/Noelle_icon_1753021503534.png"
   },
   "specialFood": {
     "id": 108118,
     "name": "ふわふわパンケーキ",
     "rank": 2,
-    "icon": "/assets/images/Noelle_special_food_1753019938680.png",
-    "effectIcon": "/assets/images/Kamisato Ayaka_food_effect_1753019914822.png"
+    "icon": "/assets/images/Noelle_special_food_1753021503536.png",
+    "effectIcon": "/assets/images/Kamisato Ayaka_food_effect_1753021471418.png"
   },
   "levelProgression": [
     {
@@ -4682,7 +4682,7 @@
             "name": "ヴァルベリー",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Lisa_material_100022_1753019917373.png",
+            "icon": "/assets/images/Lisa_material_100022_1753021474545.png",
             "description": "透き通るベリー類。食べると口の中は微かな花の香りに満たされる。かつて嵐を見張る人にとって唯一の労わりはヴァルベリーの甘さと城の安全に対する希望だけである。",
             "type": "モンド地域の特産"
           },
@@ -4691,7 +4691,7 @@
             "name": "堅牢なトパーズ·砕屑",
             "count": 1,
             "rank": 2,
-            "icon": "/assets/images/Ningguang_material_104171_1753019931186.png",
+            "icon": "/assets/images/Ningguang_material_104171_1753021492072.png",
             "description": "キャラクターの突破用アイテム。",
             "type": "キャラクター突破素材"
           },
@@ -4700,7 +4700,7 @@
             "name": "破損した仮面",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Jean_material_112005_1753019916117.png",
+            "icon": "/assets/images/Jean_material_112005_1753021472883.png",
             "description": "破損した骨の仮面、あるヒルチャールの所持品だった。\\n破損した部分のほうが多く、仮面としての機能は失われている。",
             "type": "キャラと武器育成素材"
           }
@@ -4731,7 +4731,7 @@
             "name": "ヴァルベリー",
             "count": 10,
             "rank": 1,
-            "icon": "/assets/images/Lisa_material_100022_1753019917373.png",
+            "icon": "/assets/images/Lisa_material_100022_1753021474545.png",
             "description": "透き通るベリー類。食べると口の中は微かな花の香りに満たされる。かつて嵐を見張る人にとって唯一の労わりはヴァルベリーの甘さと城の安全に対する希望だけである。",
             "type": "モンド地域の特産"
           },
@@ -4740,7 +4740,7 @@
             "name": "堅牢なトパーズ·欠片",
             "count": 3,
             "rank": 3,
-            "icon": "/assets/images/Ningguang_material_104172_1753019931192.png",
+            "icon": "/assets/images/Ningguang_material_104172_1753021492061.png",
             "description": "キャラクターの突破用アイテム。\\n「この大陸の全ての金銭は俺の血肉。」",
             "type": "キャラクター突破素材"
           },
@@ -4749,7 +4749,7 @@
             "name": "破損した仮面",
             "count": 15,
             "rank": 1,
-            "icon": "/assets/images/Jean_material_112005_1753019916117.png",
+            "icon": "/assets/images/Jean_material_112005_1753021472883.png",
             "description": "破損した骨の仮面、あるヒルチャールの所持品だった。\\n破損した部分のほうが多く、仮面としての機能は失われている。",
             "type": "キャラと武器育成素材"
           },
@@ -4758,7 +4758,7 @@
             "name": "玄岩の塔",
             "count": 2,
             "rank": 4,
-            "icon": "/assets/images/Ningguang_material_113009_1753019931192.png",
+            "icon": "/assets/images/Ningguang_material_113009_1753021492061.png",
             "description": "無相の岩の外殻によって構成された石柱、純粋な岩元素が高度に濃縮されたものである。\\n岩元素は最も重い元素だ。無相の岩が、外殻を高くそびえ立つ岩の柱にし、自身を高いところに上げたのは、敵から身を守るためではなく、無縁だった天空により近づくためなのかもしれない。",
             "type": "キャラクター育成素材"
           }
@@ -4793,7 +4793,7 @@
             "name": "ヴァルベリー",
             "count": 20,
             "rank": 1,
-            "icon": "/assets/images/Lisa_material_100022_1753019917373.png",
+            "icon": "/assets/images/Lisa_material_100022_1753021474545.png",
             "description": "透き通るベリー類。食べると口の中は微かな花の香りに満たされる。かつて嵐を見張る人にとって唯一の労わりはヴァルベリーの甘さと城の安全に対する希望だけである。",
             "type": "モンド地域の特産"
           },
@@ -4802,7 +4802,7 @@
             "name": "堅牢なトパーズ·欠片",
             "count": 6,
             "rank": 3,
-            "icon": "/assets/images/Ningguang_material_104172_1753019931192.png",
+            "icon": "/assets/images/Ningguang_material_104172_1753021492061.png",
             "description": "キャラクターの突破用アイテム。\\n「この大陸の全ての金銭は俺の血肉。」",
             "type": "キャラクター突破素材"
           },
@@ -4811,7 +4811,7 @@
             "name": "汚れた仮面",
             "count": 12,
             "rank": 2,
-            "icon": "/assets/images/Jean_material_112006_1753019916120.png",
+            "icon": "/assets/images/Jean_material_112006_1753021472884.png",
             "description": "汚れまみれで、何とも言えないにおいがする骨の仮面。\\nそれでも被るのは、ヒルチャールのこだわりだろうか。",
             "type": "キャラと武器育成素材"
           },
@@ -4820,7 +4820,7 @@
             "name": "玄岩の塔",
             "count": 4,
             "rank": 4,
-            "icon": "/assets/images/Ningguang_material_113009_1753019931192.png",
+            "icon": "/assets/images/Ningguang_material_113009_1753021492061.png",
             "description": "無相の岩の外殻によって構成された石柱、純粋な岩元素が高度に濃縮されたものである。\\n岩元素は最も重い元素だ。無相の岩が、外殻を高くそびえ立つ岩の柱にし、自身を高いところに上げたのは、敵から身を守るためではなく、無縁だった天空により近づくためなのかもしれない。",
             "type": "キャラクター育成素材"
           }
@@ -4855,7 +4855,7 @@
             "name": "ヴァルベリー",
             "count": 30,
             "rank": 1,
-            "icon": "/assets/images/Lisa_material_100022_1753019917373.png",
+            "icon": "/assets/images/Lisa_material_100022_1753021474545.png",
             "description": "透き通るベリー類。食べると口の中は微かな花の香りに満たされる。かつて嵐を見張る人にとって唯一の労わりはヴァルベリーの甘さと城の安全に対する希望だけである。",
             "type": "モンド地域の特産"
           },
@@ -4864,7 +4864,7 @@
             "name": "堅牢なトパーズ·塊",
             "count": 3,
             "rank": 4,
-            "icon": "/assets/images/Ningguang_material_104173_1753019931193.png",
+            "icon": "/assets/images/Ningguang_material_104173_1753021492077.png",
             "description": "キャラクターの突破用アイテム。\\n「この大陸の全ての金銭は俺の血肉。」\\n「こんな形で俺は、人間の労働、知恵、未来を保証する。」",
             "type": "キャラクター突破素材"
           },
@@ -4873,7 +4873,7 @@
             "name": "汚れた仮面",
             "count": 18,
             "rank": 2,
-            "icon": "/assets/images/Jean_material_112006_1753019916120.png",
+            "icon": "/assets/images/Jean_material_112006_1753021472884.png",
             "description": "汚れまみれで、何とも言えないにおいがする骨の仮面。\\nそれでも被るのは、ヒルチャールのこだわりだろうか。",
             "type": "キャラと武器育成素材"
           },
@@ -4882,7 +4882,7 @@
             "name": "玄岩の塔",
             "count": 8,
             "rank": 4,
-            "icon": "/assets/images/Ningguang_material_113009_1753019931192.png",
+            "icon": "/assets/images/Ningguang_material_113009_1753021492061.png",
             "description": "無相の岩の外殻によって構成された石柱、純粋な岩元素が高度に濃縮されたものである。\\n岩元素は最も重い元素だ。無相の岩が、外殻を高くそびえ立つ岩の柱にし、自身を高いところに上げたのは、敵から身を守るためではなく、無縁だった天空により近づくためなのかもしれない。",
             "type": "キャラクター育成素材"
           }
@@ -4917,7 +4917,7 @@
             "name": "ヴァルベリー",
             "count": 45,
             "rank": 1,
-            "icon": "/assets/images/Lisa_material_100022_1753019917373.png",
+            "icon": "/assets/images/Lisa_material_100022_1753021474545.png",
             "description": "透き通るベリー類。食べると口の中は微かな花の香りに満たされる。かつて嵐を見張る人にとって唯一の労わりはヴァルベリーの甘さと城の安全に対する希望だけである。",
             "type": "モンド地域の特産"
           },
@@ -4926,7 +4926,7 @@
             "name": "堅牢なトパーズ·塊",
             "count": 6,
             "rank": 4,
-            "icon": "/assets/images/Ningguang_material_104173_1753019931193.png",
+            "icon": "/assets/images/Ningguang_material_104173_1753021492077.png",
             "description": "キャラクターの突破用アイテム。\\n「この大陸の全ての金銭は俺の血肉。」\\n「こんな形で俺は、人間の労働、知恵、未来を保証する。」",
             "type": "キャラクター突破素材"
           },
@@ -4935,7 +4935,7 @@
             "name": "不吉な仮面",
             "count": 12,
             "rank": 3,
-            "icon": "/assets/images/Jean_material_112007_1753019916128.png",
+            "icon": "/assets/images/Jean_material_112007_1753021472883.png",
             "description": "つるりとした骨の仮面の上には、敵を威嚇する絵が描かれている。\\nヒルチャールが仮面に対するこだわりは今でも解明されていない。一説では、水に反射する自分の倒影を見たくないかららしい。",
             "type": "キャラと武器育成素材"
           },
@@ -4944,7 +4944,7 @@
             "name": "玄岩の塔",
             "count": 12,
             "rank": 4,
-            "icon": "/assets/images/Ningguang_material_113009_1753019931192.png",
+            "icon": "/assets/images/Ningguang_material_113009_1753021492061.png",
             "description": "無相の岩の外殻によって構成された石柱、純粋な岩元素が高度に濃縮されたものである。\\n岩元素は最も重い元素だ。無相の岩が、外殻を高くそびえ立つ岩の柱にし、自身を高いところに上げたのは、敵から身を守るためではなく、無縁だった天空により近づくためなのかもしれない。",
             "type": "キャラクター育成素材"
           }
@@ -4979,7 +4979,7 @@
             "name": "ヴァルベリー",
             "count": 60,
             "rank": 1,
-            "icon": "/assets/images/Lisa_material_100022_1753019917373.png",
+            "icon": "/assets/images/Lisa_material_100022_1753021474545.png",
             "description": "透き通るベリー類。食べると口の中は微かな花の香りに満たされる。かつて嵐を見張る人にとって唯一の労わりはヴァルベリーの甘さと城の安全に対する希望だけである。",
             "type": "モンド地域の特産"
           },
@@ -4988,7 +4988,7 @@
             "name": "堅牢なトパーズ",
             "count": 6,
             "rank": 5,
-            "icon": "/assets/images/Ningguang_material_104174_1753019931191.png",
+            "icon": "/assets/images/Ningguang_material_104174_1753021492077.png",
             "description": "キャラクターの突破用アイテム。\\n「この大陸の全ての金銭は俺の血肉。」\\n「こんな形で俺は、人間の労働、知恵、未来を保証する。」\\n「これが俺の人間への信頼。金銭に背くことは、俺の血を汚すと同然だ。」",
             "type": "キャラクター突破素材"
           },
@@ -4997,7 +4997,7 @@
             "name": "不吉な仮面",
             "count": 24,
             "rank": 3,
-            "icon": "/assets/images/Jean_material_112007_1753019916128.png",
+            "icon": "/assets/images/Jean_material_112007_1753021472883.png",
             "description": "つるりとした骨の仮面の上には、敵を威嚇する絵が描かれている。\\nヒルチャールが仮面に対するこだわりは今でも解明されていない。一説では、水に反射する自分の倒影を見たくないかららしい。",
             "type": "キャラと武器育成素材"
           },
@@ -5006,7 +5006,7 @@
             "name": "玄岩の塔",
             "count": 20,
             "rank": 4,
-            "icon": "/assets/images/Ningguang_material_113009_1753019931192.png",
+            "icon": "/assets/images/Ningguang_material_113009_1753021492061.png",
             "description": "無相の岩の外殻によって構成された石柱、純粋な岩元素が高度に濃縮されたものである。\\n岩元素は最も重い元素だ。無相の岩が、外殻を高くそびえ立つ岩の柱にし、自身を高いところに上げたのは、敵から身を守るためではなく、無縁だった天空により近づくためなのかもしれない。",
             "type": "キャラクター育成素材"
           }

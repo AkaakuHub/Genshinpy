@@ -8,7 +8,7 @@
   "region": "Mondstadt",
   "constellation": "四つ葉座",
   "description": "西風騎士団反省室の常連で、モンドの爆破スペシャリスト。人呼んで「逃げ回る太陽」。",
-  "icon": "/assets/images/Klee_icon_1753019932432.png",
+  "icon": "/assets/images/Klee_icon_1753021493826.png",
   "profile": {
     "baseHp": 800.789,
     "baseAtk": 24.206,
@@ -23,7 +23,7 @@
       "id": "バンバン",
       "name": "バンバン",
       "description": "",
-      "icon": "/assets/images/Lisa_normal_attack_1753019917353.png",
+      "icon": "/assets/images/Lisa_normal_attack_1753021474528.png",
       "skillType": "normal",
       "params": {
         "1": [],
@@ -47,7 +47,7 @@
       "id": "ボンボン爆弾",
       "name": "ボンボン爆弾",
       "description": "",
-      "icon": "/assets/images/Klee_elemental_skill_1753019932433.png",
+      "icon": "/assets/images/Klee_elemental_skill_1753021493827.png",
       "levelData": [
         {
           "tableIndex": 1,
@@ -949,7 +949,7 @@
             0
           ],
           "description": [
-            "ボンボン爆弾ダメージ|{param1:P}",
+            "ボンボ���爆弾ダメージ|{param1:P}",
             "ブービートラップダメージ|{param4:F1P}",
             "ブービートラップ継続時間|{param5:F1}秒",
             "クールタイム|{param6:F1}秒",
@@ -1136,21 +1136,21 @@
     "elementalBurst": {
       "name": "こんこんプレゼント",
       "description": "",
-      "icon": "/assets/images/Klee_elemental_burst_1753019932433.png",
+      "icon": "/assets/images/Klee_elemental_burst_1753021493827.png",
       "levelData": []
     },
     "passiveTalents": [
       {
         "name": "こんこんプレゼント",
-        "icon": "/assets/images/Klee_passive_1_1753019932433.png"
+        "icon": "/assets/images/Klee_passive_1_1753021493827.png"
       },
       {
         "name": "無限花火",
-        "icon": "/assets/images/Klee_passive_2_1753019932433.png"
+        "icon": "/assets/images/Klee_passive_2_1753021493827.png"
       },
       {
         "name": "宝物揃い",
-        "icon": "/assets/images/Klee_passive_3_1753019932433.png"
+        "icon": "/assets/images/Klee_passive_3_1753021493827.png"
       }
     ],
     "completeTableData": [
@@ -3066,7 +3066,7 @@
               0
             ],
             "description": [
-              "ボンボン爆弾ダメージ|{param1:P}",
+              "ボンボ���爆弾ダメージ|{param1:P}",
               "ブービートラップダメージ|{param4:F1P}",
               "ブービートラップ継続時間|{param5:F1}秒",
               "クールタイム|{param6:F1}秒",
@@ -3692,7 +3692,7 @@
               0
             ],
             "description": [
-              "ドッカン花火ダメージ|{param1:F1P}",
+              "ドッ���ン花火ダメージ|{param1:F1P}",
               "継続時間|{param5:F1}秒",
               "クールタイム|{param2:F1}秒",
               "元素エネルギー|{param3:I}",
@@ -4317,32 +4317,32 @@
       {
         "level": null,
         "name": "ゴロゴロコンボ",
-        "icon": "/assets/images/Klee_constellation_cNaN_1753019932433.png"
+        "icon": "/assets/images/Klee_constellation_cNaN_1753021493827.png"
       },
       {
         "level": null,
         "name": "弾丸の破片",
-        "icon": "/assets/images/Klee_constellation_cNaN_1753019932433.png"
+        "icon": "/assets/images/Klee_constellation_cNaN_1753021493827.png"
       },
       {
         "level": null,
         "name": "クレー特製",
-        "icon": "/assets/images/Klee_constellation_cNaN_1753019932433.png"
+        "icon": "/assets/images/Klee_constellation_cNaN_1753021493827.png"
       },
       {
         "level": null,
         "name": "一触即発",
-        "icon": "/assets/images/Klee_constellation_cNaN_1753019932433.png"
+        "icon": "/assets/images/Klee_constellation_cNaN_1753021493827.png"
       },
       {
         "level": null,
         "name": "轟撃の星",
-        "icon": "/assets/images/Klee_constellation_cNaN_1753019932433.png"
+        "icon": "/assets/images/Klee_constellation_cNaN_1753021493827.png"
       },
       {
         "level": null,
         "name": "火力全開",
-        "icon": "/assets/images/Klee_constellation_cNaN_1753019932434.png"
+        "icon": "/assets/images/Klee_constellation_cNaN_1753021493827.png"
       }
     ]
   },
@@ -4360,21 +4360,21 @@
       "isDefault": false,
       "rank": 4,
       "storyId": 340012,
-      "icon": "/assets/images/Klee_costume_2_1753019932434.png"
+      "icon": "/assets/images/Klee_costume_2_1753021493828.png"
     }
   ],
   "nameCard": {
     "id": 210004,
     "name": "クレー·爆弾",
     "description": "クレー·爆弾",
-    "icon": "/assets/images/Klee_icon_1753019932432.png"
+    "icon": "/assets/images/Klee_icon_1753021493826.png"
   },
   "specialFood": {
     "id": 108115,
     "name": "魚香トースト",
     "rank": 2,
-    "icon": "/assets/images/Klee_special_food_1753019932434.png",
-    "effectIcon": "/assets/images/Klee_food_effect_1753019932434.png"
+    "icon": "/assets/images/Klee_special_food_1753021493828.png",
+    "effectIcon": "/assets/images/Klee_food_effect_1753021493828.png"
   },
   "levelProgression": [
     {
@@ -4690,7 +4690,7 @@
             "name": "慕風のマッシュルーム",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Barbara_material_100025_1753019918618.png",
+            "icon": "/assets/images/Barbara_material_100025_1753021476195.png",
             "description": "爽やかな風を浴びて育ったマッシュルーム、風のように果てしなく命を育む。",
             "type": "モンド地域の特産"
           },
@@ -4699,7 +4699,7 @@
             "name": "炎願のアゲート·砕屑",
             "count": 1,
             "rank": 2,
-            "icon": "/assets/images/Diluc_material_104111_1753019921126.png",
+            "icon": "/assets/images/Diluc_material_104111_1753021479198.png",
             "description": "キャラクターの突破用アイテム。",
             "type": "キャラクター突破素材"
           },
@@ -4708,7 +4708,7 @@
             "name": "占いの絵巻",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Barbara_material_112008_1753019918620.png",
+            "icon": "/assets/images/Barbara_material_112008_1753021476195.png",
             "description": "ある、魔法に関する絵巻の断片だと考えられる。異様で不吉な暖かさがある。",
             "type": "キャラと武器育成素材"
           }
@@ -4739,7 +4739,7 @@
             "name": "慕風のマッシュルーム",
             "count": 10,
             "rank": 1,
-            "icon": "/assets/images/Barbara_material_100025_1753019918618.png",
+            "icon": "/assets/images/Barbara_material_100025_1753021476195.png",
             "description": "爽やかな風を浴びて育ったマッシュルーム、風のように果てしなく命を育む。",
             "type": "モンド地域の特産"
           },
@@ -4748,7 +4748,7 @@
             "name": "炎願のアゲート·欠片",
             "count": 3,
             "rank": 3,
-            "icon": "/assets/images/Diluc_material_104112_1753019921124.png",
+            "icon": "/assets/images/Diluc_material_104112_1753021479201.png",
             "description": "キャラクターの突破用アイテム。\\n「人々の願いのため、巡礼の道を歩もう。最強を目指して集い、戦うのだ…」",
             "type": "キャラクター突破素材"
           },
@@ -4757,7 +4757,7 @@
             "name": "占いの絵巻",
             "count": 15,
             "rank": 1,
-            "icon": "/assets/images/Barbara_material_112008_1753019918620.png",
+            "icon": "/assets/images/Barbara_material_112008_1753021476195.png",
             "description": "ある、魔法に関する絵巻の断片だと考えられる。異様で不吉な暖かさがある。",
             "type": "キャラと武器育成素材"
           },
@@ -4766,7 +4766,7 @@
             "name": "常燃の火種",
             "count": 2,
             "rank": 4,
-            "icon": "/assets/images/Diluc_material_113011_1753019921122.png",
+            "icon": "/assets/images/Diluc_material_113011_1753021479199.png",
             "description": "永遠に燃え続ける爆炎樹のエネルギー源である種。世の中にある全ての草木を焼き尽くすような炎元素の熱量を放っている。\\n大地の深所で湧いているエネルギーは無数の願いを背負っている。烈火と共に植物に纏って永遠に燃えさせて、そして爆裂の炎で全てを浄化させようとしている。いったいどんな願いかな？",
             "type": "キャラクター育成素材"
           }
@@ -4801,7 +4801,7 @@
             "name": "慕風のマッシュルーム",
             "count": 20,
             "rank": 1,
-            "icon": "/assets/images/Barbara_material_100025_1753019918618.png",
+            "icon": "/assets/images/Barbara_material_100025_1753021476195.png",
             "description": "爽やかな風を浴びて育ったマッシュルーム、風のように果てしなく命を育む。",
             "type": "モンド地域の特産"
           },
@@ -4810,7 +4810,7 @@
             "name": "炎願のアゲート·欠片",
             "count": 6,
             "rank": 3,
-            "icon": "/assets/images/Diluc_material_104112_1753019921124.png",
+            "icon": "/assets/images/Diluc_material_104112_1753021479201.png",
             "description": "キャラクターの突破用アイテム。\\n「人々の願いのため、巡礼の道を歩もう。最強を目指して集い、戦うのだ…」",
             "type": "キャラクター突破素材"
           },
@@ -4819,7 +4819,7 @@
             "name": "封魔の絵巻",
             "count": 12,
             "rank": 2,
-            "icon": "/assets/images/Barbara_material_112009_1753019918613.png",
+            "icon": "/assets/images/Barbara_material_112009_1753021476198.png",
             "description": "解読が難しい絵がある古書の断章。中の人物を真似することで、魔物も魔法を再現できるようになる。",
             "type": "キャラと武器育成素材"
           },
@@ -4828,7 +4828,7 @@
             "name": "常燃の火種",
             "count": 4,
             "rank": 4,
-            "icon": "/assets/images/Diluc_material_113011_1753019921122.png",
+            "icon": "/assets/images/Diluc_material_113011_1753021479199.png",
             "description": "永遠に燃え続ける爆炎樹のエネルギー源である種。世の中にある全ての草木を焼き尽くすような炎元素の熱量を放っている。\\n大地の深所で湧いているエネルギーは無数の願いを背負っている。烈火と共に植物に纏って永遠に燃えさせて、そして爆裂の炎で全てを浄化させようとしている。いったいどんな願いかな？",
             "type": "キャラクター育成素材"
           }
@@ -4863,7 +4863,7 @@
             "name": "慕風のマッシュルーム",
             "count": 30,
             "rank": 1,
-            "icon": "/assets/images/Barbara_material_100025_1753019918618.png",
+            "icon": "/assets/images/Barbara_material_100025_1753021476195.png",
             "description": "爽やかな風を浴びて育ったマッシュルーム、風のように果てしなく命を育む。",
             "type": "モンド地域の特産"
           },
@@ -4872,7 +4872,7 @@
             "name": "炎願のアゲート·塊",
             "count": 3,
             "rank": 4,
-            "icon": "/assets/images/Diluc_material_104113_1753019921145.png",
+            "icon": "/assets/images/Diluc_material_104113_1753021479223.png",
             "description": "キャラクターの突破用アイテム。\\n「人々の願いのため、巡礼の道を歩もう。最強を目指して集い、戦うのだ…」\\n「最後は夢のために、劫火の中で燃え尽きる。」",
             "type": "キャラクター突破素材"
           },
@@ -4881,7 +4881,7 @@
             "name": "封魔の絵巻",
             "count": 18,
             "rank": 2,
-            "icon": "/assets/images/Barbara_material_112009_1753019918613.png",
+            "icon": "/assets/images/Barbara_material_112009_1753021476198.png",
             "description": "解読が難しい絵がある古書の断章。中の人物を真似することで、魔物も魔法を再現できるようになる。",
             "type": "キャラと武器育成素材"
           },
@@ -4890,7 +4890,7 @@
             "name": "常燃の火種",
             "count": 8,
             "rank": 4,
-            "icon": "/assets/images/Diluc_material_113011_1753019921122.png",
+            "icon": "/assets/images/Diluc_material_113011_1753021479199.png",
             "description": "永遠に燃え続ける爆炎樹のエネルギー源である種。世の中にある全ての草木を焼き尽くすような炎元素の熱量を放っている。\\n大地の深所で湧いているエネルギーは無数の願いを背負っている。烈火と共に植物に纏って永遠に燃えさせて、そして爆裂の炎で全てを浄化させようとしている。いったいどんな願いかな？",
             "type": "キャラクター育成素材"
           }
@@ -4925,7 +4925,7 @@
             "name": "慕風のマッシュルーム",
             "count": 45,
             "rank": 1,
-            "icon": "/assets/images/Barbara_material_100025_1753019918618.png",
+            "icon": "/assets/images/Barbara_material_100025_1753021476195.png",
             "description": "爽やかな風を浴びて育ったマッシュルーム、風のように果てしなく命を育む。",
             "type": "モンド地域の特産"
           },
@@ -4934,7 +4934,7 @@
             "name": "炎願のアゲート·塊",
             "count": 6,
             "rank": 4,
-            "icon": "/assets/images/Diluc_material_104113_1753019921145.png",
+            "icon": "/assets/images/Diluc_material_104113_1753021479223.png",
             "description": "キャラクターの突破用アイテム。\\n「人々の願いのため、巡礼の道を歩もう。最強を目指して集い、戦うのだ…」\\n「最後は夢のために、劫火の中で燃え尽きる。」",
             "type": "キャラクター突破素材"
           },
@@ -4943,7 +4943,7 @@
             "name": "禁呪の絵巻",
             "count": 12,
             "rank": 3,
-            "icon": "/assets/images/Barbara_material_112010_1753019918617.png",
+            "icon": "/assets/images/Barbara_material_112010_1753021476198.png",
             "description": "古代の絵が描かれている古い写本。その意味を解読できる人は少ないが、本当の意味を理解した学者はみんな狂ってしまったという噂がある。",
             "type": "キャラと武器育成素材"
           },
@@ -4952,7 +4952,7 @@
             "name": "常燃の火種",
             "count": 12,
             "rank": 4,
-            "icon": "/assets/images/Diluc_material_113011_1753019921122.png",
+            "icon": "/assets/images/Diluc_material_113011_1753021479199.png",
             "description": "永遠に燃え続ける爆炎樹のエネルギー源である種。世の中にある全ての草木を焼き尽くすような炎元素の熱量を放っている。\\n大地の深所で湧いているエネルギーは無数の願いを背負っている。烈火と共に植物に纏って永遠に燃えさせて、そして爆裂の炎で全てを浄化させようとしている。いったいどんな願いかな？",
             "type": "キャラクター育成素材"
           }
@@ -4987,7 +4987,7 @@
             "name": "慕風のマッシュルーム",
             "count": 60,
             "rank": 1,
-            "icon": "/assets/images/Barbara_material_100025_1753019918618.png",
+            "icon": "/assets/images/Barbara_material_100025_1753021476195.png",
             "description": "爽やかな風を浴びて育ったマッシュルーム、風のように果てしなく命を育む。",
             "type": "モンド地域の特産"
           },
@@ -4996,7 +4996,7 @@
             "name": "炎願のアゲート",
             "count": 6,
             "rank": 5,
-            "icon": "/assets/images/Diluc_material_104114_1753019921150.png",
+            "icon": "/assets/images/Diluc_material_104114_1753021479226.png",
             "description": "キャラクターの突破用アイテム。\\n「人々の願いのため、巡礼の道を歩もう。最強を目指して集い、戦うのだ…」\\n「最後は夢のために、劫火の中で燃え尽きる。」\\n「その灰燼にまだ初心が残っていれば、██の真実に辿り着いたという。」",
             "type": "キャラクター突破素材"
           },
@@ -5005,7 +5005,7 @@
             "name": "禁呪の絵巻",
             "count": 24,
             "rank": 3,
-            "icon": "/assets/images/Barbara_material_112010_1753019918617.png",
+            "icon": "/assets/images/Barbara_material_112010_1753021476198.png",
             "description": "古代の絵が描かれている古い写本。その意味を解読できる人は少ないが、本当の意味を理解した学者はみんな狂ってしまったという噂がある。",
             "type": "キャラと武器育成素材"
           },
@@ -5014,7 +5014,7 @@
             "name": "常燃の火種",
             "count": 20,
             "rank": 4,
-            "icon": "/assets/images/Diluc_material_113011_1753019921122.png",
+            "icon": "/assets/images/Diluc_material_113011_1753021479199.png",
             "description": "永遠に燃え続ける爆炎樹のエネルギー源である種。世の中にある全ての草木を焼き尽くすような炎元素の熱量を放っている。\\n大地の深所で湧いているエネルギーは無数の願いを背負っている。烈火と共に植物に纏って永遠に燃えさせて、そして爆裂の炎で全てを浄化させようとしている。いったいどんな願いかな？",
             "type": "キャラクター育成素材"
           }
