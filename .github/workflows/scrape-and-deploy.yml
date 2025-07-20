@@ -58,6 +58,19 @@ jobs:
         echo "📡 Fetching character list dynamically from API..."
         pnpm tsx scrape-all-characters.ts
 
+    - name: Commit scraped data
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action Bot"
+        git add genshin-viewer/public/data/
+        git add genshin-viewer/public/assets/images/
+        if ! git diff --cached --quiet; then
+          git commit -m "bot: Update character data $(date '+%Y-%m-%d %H:%M')"
+          git push
+        else
+          echo "No changes to commit"
+        fi
+
     - name: Build React application
       run: |
         cd genshin-viewer
