@@ -8,7 +8,7 @@
   "region": "Mondstadt",
   "constellation": "砂時計座",
   "description": "無気力だが博学な図書館司書。スメール教令院「200年に1人」の天才卒業生。",
-  "icon": "/assets/images/Lisa_icon_1753019917353.png",
+  "icon": "/assets/images/Lisa_icon_1753021474528.png",
   "profile": {
     "baseHp": 802.376,
     "baseAtk": 19.411,
@@ -23,7 +23,7 @@
       "id": "指先の雷",
       "name": "指先の雷",
       "description": "",
-      "icon": "/assets/images/Lisa_normal_attack_1753019917353.png",
+      "icon": "/assets/images/Lisa_normal_attack_1753021474528.png",
       "skillType": "normal",
       "params": {
         "1": [],
@@ -47,7 +47,7 @@
       "id": "蒼雷",
       "name": "蒼雷",
       "description": "",
-      "icon": "/assets/images/Lisa_elemental_skill_1753019917353.png",
+      "icon": "/assets/images/Lisa_elemental_skill_1753021474528.png",
       "levelData": [
         {
           "tableIndex": 1,
@@ -152,7 +152,7 @@
             "誘雷なしの長押しダメージ|{param1:P}",
             "誘雷1重の長押しダメージ|{param2:P}",
             "誘雷2重の長押しダメージ|{param3:P}",
-            "誘雷3重の長押しダメー���|{param4:P}",
+            "誘雷3重の長���しダメージ|{param4:P}",
             "長押しクールタイム|{param5:F1}秒",
             "",
             "",
@@ -739,7 +739,7 @@
             "誘雷なしの長押しダメージ|{param1:P}",
             "誘雷1重の長押しダメージ|{param2:P}",
             "誘雷2重の長押しダメージ|{param3:P}",
-            "誘雷3重の長押しダ���ージ|{param4:P}",
+            "誘雷3重���長押しダメージ|{param4:P}",
             "長押しクールタイム|{param5:F1}秒",
             "",
             "",
@@ -952,7 +952,7 @@
             "一回押しダメージ|{param6:P}",
             "一回押しクールタイム|{param7:F1}秒",
             "誘雷なしの長押しダメージ|{param1:P}",
-            "誘雷1重の長押しダ���ージ|{param2:P}",
+            "誘雷1重���長押しダメージ|{param2:P}",
             "誘雷2重の長押しダメージ|{param3:P}",
             "誘雷3重の長押しダメージ|{param4:P}",
             "長押しクールタイム|{param5:F1}秒",
@@ -1136,21 +1136,21 @@
     "elementalBurst": {
       "name": "感電余震",
       "description": "",
-      "icon": "/assets/images/Lisa_elemental_burst_1753019917353.png",
+      "icon": "/assets/images/Lisa_elemental_burst_1753021474528.png",
       "levelData": []
     },
     "passiveTalents": [
       {
         "name": "感電余震",
-        "icon": "/assets/images/Lisa_passive_1_1753019917353.png"
+        "icon": "/assets/images/Lisa_passive_1_1753021474528.png"
       },
       {
         "name": "静電気フィールド",
-        "icon": "/assets/images/Lisa_passive_2_1753019917353.png"
+        "icon": "/assets/images/Lisa_passive_2_1753021474528.png"
       },
       {
         "name": "薬剤の知識",
-        "icon": "/assets/images/Lisa_passive_3_1753019917353.png"
+        "icon": "/assets/images/Lisa_passive_3_1753021474528.png"
       }
     ],
     "completeTableData": [
@@ -1191,7 +1191,7 @@
               "4段ダメージ|{param4:F1P}",
               "重撃ダメージ|{param5:P}",
               "重撃スタミナ消費|{param6:F1}",
-              "落下期間のダメージ|{param7:F1P}",
+              "落下期間のダメ��ジ|{param7:F1P}",
               "低空/高空落下攻撃ダメージ|{param8:P}/{param9:P}",
               "",
               "",
@@ -1750,7 +1750,7 @@
               "4段ダメージ|{param4:F1P}",
               "重撃ダメージ|{param5:P}",
               "重撃スタミナ消費|{param6:F1}",
-              "落下期間のダメージ|{param7:F1P}",
+              "落下期間��ダメージ|{param7:F1P}",
               "低空/高空落下攻撃ダメージ|{param8:P}/{param9:P}",
               "",
               "",
@@ -1955,7 +1955,7 @@
             ],
             "description": [
               "1段ダメージ|{param1:F1P}",
-              "2段ダメージ|{param2:F1P}",
+              "2段ダメー���|{param2:F1P}",
               "3段ダメージ|{param3:F1P}",
               "4段ダメージ|{param4:P}",
               "重撃ダメージ|{param5:P}",
@@ -2302,7 +2302,7 @@
               "誘雷なしの長押しダメージ|{param1:P}",
               "誘雷1重の長押しダメージ|{param2:P}",
               "誘雷2重の長押しダメージ|{param3:P}",
-              "誘雷3重の長押しダメー���|{param4:P}",
+              "誘雷3重の長���しダメージ|{param4:P}",
               "長押しクールタイム|{param5:F1}秒",
               "",
               "",
@@ -2865,7 +2865,7 @@
               "誘雷なしの長押しダメージ|{param1:P}",
               "誘雷1重の長押しダメージ|{param2:P}",
               "誘雷2重の長押しダメージ|{param3:P}",
-              "誘雷3重の長押しダ���ージ|{param4:P}",
+              "誘雷3重���長押しダメージ|{param4:P}",
               "長押しクールタイム|{param5:F1}秒",
               "",
               "",
@@ -3069,7 +3069,7 @@
               "一回押しダメージ|{param6:P}",
               "一回押しクールタイム|{param7:F1}秒",
               "誘雷なしの長押しダメージ|{param1:P}",
-              "誘雷1重の長押しダ���ージ|{param2:P}",
+              "誘雷1重���長押しダメージ|{param2:P}",
               "誘雷2重の長押しダメージ|{param3:P}",
               "誘雷3重の長押しダメージ|{param4:P}",
               "長押しクールタイム|{param5:F1}秒",
@@ -3765,7 +3765,7 @@
             "description": [
               "放電ダメージ|{param1:F1P}",
               "継続時間|{param2:F1}秒",
-              "���ールタイム|{param3:F1}秒",
+              "クールタイム|{param3:F1}秒",
               "元素エネルギー|{param4:I}",
               "",
               "",
@@ -4317,32 +4317,32 @@
       {
         "level": null,
         "name": "無限の電気回路",
-        "icon": "/assets/images/Lisa_constellation_cNaN_1753019917354.png"
+        "icon": "/assets/images/Lisa_constellation_cNaN_1753021474528.png"
       },
       {
         "level": null,
         "name": "空間電位の結界",
-        "icon": "/assets/images/Lisa_constellation_cNaN_1753019917354.png"
+        "icon": "/assets/images/Lisa_constellation_cNaN_1753021474528.png"
       },
       {
         "level": null,
         "name": "共振の雷光",
-        "icon": "/assets/images/Lisa_constellation_cNaN_1753019917354.png"
+        "icon": "/assets/images/Lisa_constellation_cNaN_1753021474528.png"
       },
       {
         "level": null,
         "name": "雨の如くプラズマ",
-        "icon": "/assets/images/Lisa_constellation_cNaN_1753019917354.png"
+        "icon": "/assets/images/Lisa_constellation_cNaN_1753021474529.png"
       },
       {
         "level": null,
         "name": "プラズマ落雷",
-        "icon": "/assets/images/Lisa_constellation_cNaN_1753019917354.png"
+        "icon": "/assets/images/Lisa_constellation_cNaN_1753021474529.png"
       },
       {
         "level": null,
         "name": "パルスの魔女",
-        "icon": "/assets/images/Lisa_constellation_cNaN_1753019917354.png"
+        "icon": "/assets/images/Lisa_constellation_cNaN_1753021474529.png"
       }
     ]
   },
@@ -4360,21 +4360,21 @@
       "isDefault": false,
       "rank": 4,
       "storyId": 340011,
-      "icon": "/assets/images/Lisa_costume_2_1753019917354.png"
+      "icon": "/assets/images/Lisa_costume_2_1753021474529.png"
     }
   ],
   "nameCard": {
     "id": 210011,
     "name": "リサ·砂時計",
     "description": "リサ·砂時計",
-    "icon": "/assets/images/Lisa_icon_1753019917353.png"
+    "icon": "/assets/images/Lisa_namecard_1753021474848.png"
   },
   "specialFood": {
     "id": 108018,
     "name": "魔法のミートソース",
     "rank": 2,
-    "icon": "/assets/images/Lisa_special_food_1753019917354.png",
-    "effectIcon": "/assets/images/Jean_food_effect_1753019916106.png"
+    "icon": "/assets/images/Lisa_special_food_1753021474529.png",
+    "effectIcon": "/assets/images/Jean_food_effect_1753021472869.png"
   },
   "levelProgression": [
     {
@@ -4690,7 +4690,7 @@
             "name": "ヴァルベリー",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Lisa_material_100022_1753019917373.png",
+            "icon": "/assets/images/Lisa_material_100022_1753021474545.png",
             "description": "透き通るベリー類。食べると口の中は微かな花の香りに満たされる。かつて嵐を見張る人にとって唯一の労わりはヴァルベリーの甘さと城の安全に対する希望だけである。",
             "type": "モンド地域の特産"
           },
@@ -4699,7 +4699,7 @@
             "name": "最勝のアメシスト·砕屑",
             "count": 1,
             "rank": 2,
-            "icon": "/assets/images/Lisa_material_104141_1753019917374.png",
+            "icon": "/assets/images/Lisa_material_104141_1753021474544.png",
             "description": "キャラクターの突破用アイテム。",
             "type": "キャラクター突破素材"
           },
@@ -4708,7 +4708,7 @@
             "name": "スライムの液体",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Lisa_material_112002_1753019917369.png",
+            "icon": "/assets/images/Lisa_material_112002_1753021474540.png",
             "description": "スライムの表面にある液体、各地の元素工房では最もよくある原料である。",
             "type": "キャラと武器育成素材"
           }
@@ -4739,7 +4739,7 @@
             "name": "ヴァルベリー",
             "count": 10,
             "rank": 1,
-            "icon": "/assets/images/Lisa_material_100022_1753019917373.png",
+            "icon": "/assets/images/Lisa_material_100022_1753021474545.png",
             "description": "透き通るベリー類。食べると口の中は微かな花の香りに満たされる。かつて嵐を見張る人にとって唯一の労わりはヴァルベリーの甘さと城の安全に対する希望だけである。",
             "type": "モンド地域の特産"
           },
@@ -4748,7 +4748,7 @@
             "name": "最勝のアメシスト·欠片",
             "count": 3,
             "rank": 3,
-            "icon": "/assets/images/Lisa_material_104142_1753019917372.png",
+            "icon": "/assets/images/Lisa_material_104142_1753021474539.png",
             "description": "キャラクターの突破用アイテム。\\n「此の身こそ、いと尊き存在。」",
             "type": "キャラクター突破素材"
           },
@@ -4757,7 +4757,7 @@
             "name": "スライムの液体",
             "count": 15,
             "rank": 1,
-            "icon": "/assets/images/Lisa_material_112002_1753019917369.png",
+            "icon": "/assets/images/Lisa_material_112002_1753021474540.png",
             "description": "スライムの表面にある液体、各地の元素工房では最もよくある原料である。",
             "type": "キャラと武器育成素材"
           },
@@ -4766,7 +4766,7 @@
             "name": "雷光のプリズム",
             "count": 2,
             "rank": 4,
-            "icon": "/assets/images/Lisa_material_113002_1753019917368.png",
+            "icon": "/assets/images/Lisa_material_113002_1753021474545.png",
             "description": "無相の雷が元素を集め、損傷を直すための物質。中には純粋な雷の力がある。\\nプリズムは光を構成する色彩の区別ができ、雷光のプリズムは流れるエネルギーを純粋な雷光に織り成すことができる。たとえ無相の雷が倒されたとしても、雷元素はこのプリズムの中で集まり続ける。",
             "type": "キャラクター育成素材"
           }
@@ -4801,7 +4801,7 @@
             "name": "ヴァルベリー",
             "count": 20,
             "rank": 1,
-            "icon": "/assets/images/Lisa_material_100022_1753019917373.png",
+            "icon": "/assets/images/Lisa_material_100022_1753021474545.png",
             "description": "透き通るベリー類。食べると口の中は微かな花の香りに満たされる。かつて嵐を見張る人にとって唯一の労わりはヴァルベリーの甘さと城の安全に対する希望だけである。",
             "type": "モンド地域の特産"
           },
@@ -4810,7 +4810,7 @@
             "name": "最勝のアメシスト·欠片",
             "count": 6,
             "rank": 3,
-            "icon": "/assets/images/Lisa_material_104142_1753019917372.png",
+            "icon": "/assets/images/Lisa_material_104142_1753021474539.png",
             "description": "キャラクターの突破用アイテム。\\n「此の身こそ、いと尊き存在。」",
             "type": "キャラクター突破素材"
           },
@@ -4819,7 +4819,7 @@
             "name": "スライムの分泌物",
             "count": 12,
             "rank": 2,
-            "icon": "/assets/images/Lisa_material_112003_1753019917372.png",
+            "icon": "/assets/images/Lisa_material_112003_1753021474542.png",
             "description": "純化されたスライムの分泌物、皮膚を傷つけるため、直接接触はしないように。",
             "type": "キャラと武器育成素材"
           },
@@ -4828,7 +4828,7 @@
             "name": "雷光のプリズム",
             "count": 4,
             "rank": 4,
-            "icon": "/assets/images/Lisa_material_113002_1753019917368.png",
+            "icon": "/assets/images/Lisa_material_113002_1753021474545.png",
             "description": "無相の雷が元素を集め、損傷を直すための物質。中には純粋な雷の力がある。\\nプリズムは光を構成する色彩の区別ができ、雷光のプリズムは流れるエネルギーを純粋な雷光に織り成すことができる。たとえ無相の雷が倒されたとしても、雷元素はこのプリズムの中で集まり続ける。",
             "type": "キャラクター育成素材"
           }
@@ -4863,7 +4863,7 @@
             "name": "ヴァルベリー",
             "count": 30,
             "rank": 1,
-            "icon": "/assets/images/Lisa_material_100022_1753019917373.png",
+            "icon": "/assets/images/Lisa_material_100022_1753021474545.png",
             "description": "透き通るベリー類。食べると口の中は微かな花の香りに満たされる。かつて嵐を見張る人にとって唯一の労わりはヴァルベリーの甘さと城の安全に対する希望だけである。",
             "type": "モンド地域の特産"
           },
@@ -4872,7 +4872,7 @@
             "name": "最勝のアメシスト·塊",
             "count": 3,
             "rank": 4,
-            "icon": "/assets/images/Lisa_material_104143_1753019917369.png",
+            "icon": "/assets/images/Lisa_material_104143_1753021474541.png",
             "description": "キャラクターの突破用アイテム。\\n「此の身こそ、いと尊き存在。」\\n「天下を泰平せし者。」",
             "type": "キャラクター突破素材"
           },
@@ -4881,7 +4881,7 @@
             "name": "スライムの分泌物",
             "count": 18,
             "rank": 2,
-            "icon": "/assets/images/Lisa_material_112003_1753019917372.png",
+            "icon": "/assets/images/Lisa_material_112003_1753021474542.png",
             "description": "純化されたスライムの分泌物、皮膚を傷つけるため、直接接触はしないように。",
             "type": "キャラと武器育成素材"
           },
@@ -4890,7 +4890,7 @@
             "name": "雷光のプリズム",
             "count": 8,
             "rank": 4,
-            "icon": "/assets/images/Lisa_material_113002_1753019917368.png",
+            "icon": "/assets/images/Lisa_material_113002_1753021474545.png",
             "description": "無相の雷が元素を集め、損傷を直すための物質。中には純粋な雷の力がある。\\nプリズムは光を構成する色彩の区別ができ、雷光のプリズムは流れるエネルギーを純粋な雷光に織り成すことができる。たとえ無相の雷が倒されたとしても、雷元素はこのプリズムの中で集まり続ける。",
             "type": "キャラクター育成素材"
           }
@@ -4925,7 +4925,7 @@
             "name": "ヴァルベリー",
             "count": 45,
             "rank": 1,
-            "icon": "/assets/images/Lisa_material_100022_1753019917373.png",
+            "icon": "/assets/images/Lisa_material_100022_1753021474545.png",
             "description": "透き通るベリー類。食べると口の中は微かな花の香りに満たされる。かつて嵐を見張る人にとって唯一の労わりはヴァルベリーの甘さと城の安全に対する希望だけである。",
             "type": "モンド地域の特産"
           },
@@ -4934,7 +4934,7 @@
             "name": "最勝のアメシスト·塊",
             "count": 6,
             "rank": 4,
-            "icon": "/assets/images/Lisa_material_104143_1753019917369.png",
+            "icon": "/assets/images/Lisa_material_104143_1753021474541.png",
             "description": "キャラクターの突破用アイテム。\\n「此の身こそ、いと尊き存在。」\\n「天下を泰平せし者。」",
             "type": "キャラクター突破素材"
           },
@@ -4943,7 +4943,7 @@
             "name": "スライムのピュレ",
             "count": 12,
             "rank": 3,
-            "icon": "/assets/images/Lisa_material_112004_1753019917366.png",
+            "icon": "/assets/images/Lisa_material_112004_1753021474545.png",
             "description": "スライムの濃縮ピュレ、静止した状態では不規則な動きをする。",
             "type": "キャラと武器育成素材"
           },
@@ -4952,7 +4952,7 @@
             "name": "雷光のプリズム",
             "count": 12,
             "rank": 4,
-            "icon": "/assets/images/Lisa_material_113002_1753019917368.png",
+            "icon": "/assets/images/Lisa_material_113002_1753021474545.png",
             "description": "無相の雷が元素を集め、損傷を直すための物質。中には純粋な雷の力がある。\\nプリズムは光を構成する色彩の区別ができ、雷光のプリズムは流れるエネルギーを純粋な雷光に織り成すことができる。たとえ無相の雷が倒されたとしても、雷元素はこのプリズムの中で集まり続ける。",
             "type": "キャラクター育成素材"
           }
@@ -4987,7 +4987,7 @@
             "name": "ヴァルベリー",
             "count": 60,
             "rank": 1,
-            "icon": "/assets/images/Lisa_material_100022_1753019917373.png",
+            "icon": "/assets/images/Lisa_material_100022_1753021474545.png",
             "description": "透き通るベリー類。食べると口の中は微かな花の香りに満たされる。かつて嵐を見張る人にとって唯一の労わりはヴァルベリーの甘さと城の安全に対する希望だけである。",
             "type": "モンド地域の特産"
           },
@@ -4996,7 +4996,7 @@
             "name": "最勝のアメシスト",
             "count": 6,
             "rank": 5,
-            "icon": "/assets/images/Lisa_material_104144_1753019917373.png",
+            "icon": "/assets/images/Lisa_material_104144_1753021474552.png",
             "description": "キャラクターの突破用アイテム。\\n「此の身こそ、いと尊き存在。」\\n「天下を泰平せし者。」\\n「臣民に夢を与えると誓いましょう。未来永劫、不変の『永遠』を。」",
             "type": "キャラクター突破素材"
           },
@@ -5005,7 +5005,7 @@
             "name": "スライムのピュレ",
             "count": 24,
             "rank": 3,
-            "icon": "/assets/images/Lisa_material_112004_1753019917366.png",
+            "icon": "/assets/images/Lisa_material_112004_1753021474545.png",
             "description": "スライムの濃縮ピュレ、静止した状態では不規則な動きをする。",
             "type": "キャラと武器育成素材"
           },
@@ -5014,7 +5014,7 @@
             "name": "雷光のプリズム",
             "count": 20,
             "rank": 4,
-            "icon": "/assets/images/Lisa_material_113002_1753019917368.png",
+            "icon": "/assets/images/Lisa_material_113002_1753021474545.png",
             "description": "無相の雷が元素を集め、損傷を直すための物質。中には純粋な雷の力がある。\\nプリズムは光を構成する色彩の区別ができ、雷光のプリズムは流れるエネルギーを純粋な雷光に織り成すことができる。たとえ無相の雷が倒されたとしても、雷元素はこのプリズムの中で集まり続ける。",
             "type": "キャラクター育成素材"
           }

@@ -8,7 +8,7 @@
   "region": "Inazuma",
   "constellation": "睡竜座",
   "description": "海祇島の「現人神の巫女」、海祇島すべての事務を担当している少女。",
-  "icon": "/assets/images/Sangonomiya Kokomi_icon_1753019962408.png",
+  "icon": "/assets/images/Sangonomiya Kokomi_icon_1753021536552.png",
   "profile": {
     "baseHp": 1048.652,
     "baseAtk": 18.248,
@@ -23,7 +23,7 @@
       "id": "水の常形",
       "name": "水の常形",
       "description": "",
-      "icon": "/assets/images/Lisa_normal_attack_1753019917353.png",
+      "icon": "/assets/images/Lisa_normal_attack_1753021474528.png",
       "skillType": "normal",
       "params": {
         "1": [],
@@ -47,7 +47,7 @@
       "id": "海月の誓い",
       "name": "海月の誓い",
       "description": "",
-      "icon": "/assets/images/Sangonomiya Kokomi_elemental_skill_1753019962408.png",
+      "icon": "/assets/images/Sangonomiya Kokomi_elemental_skill_1753021536552.png",
       "levelData": [
         {
           "tableIndex": 1,
@@ -1136,25 +1136,25 @@
     "elementalBurst": {
       "name": "葛籠の中の玉櫛",
       "description": "",
-      "icon": "/assets/images/Sangonomiya Kokomi_elemental_burst_1753019962409.png",
+      "icon": "/assets/images/Sangonomiya Kokomi_elemental_burst_1753021536552.png",
       "levelData": []
     },
     "passiveTalents": [
       {
         "name": "葛籠の中の玉櫛",
-        "icon": "/assets/images/Sangonomiya Kokomi_passive_1_1753019962409.png"
+        "icon": "/assets/images/Sangonomiya Kokomi_passive_1_1753021536553.png"
       },
       {
         "name": "真珠の御唄",
-        "icon": "/assets/images/Sangonomiya Kokomi_passive_2_1753019962409.png"
+        "icon": "/assets/images/Sangonomiya Kokomi_passive_2_1753021536553.png"
       },
       {
         "name": "海祇の姫君",
-        "icon": "/assets/images/Beidou_passive_3_1753019927343.png"
+        "icon": "/assets/images/Beidou_passive_3_1753021487146.png"
       },
       {
         "name": "余すことなき策略",
-        "icon": "/assets/images/Sangonomiya Kokomi_passive_4_1753019962409.png"
+        "icon": "/assets/images/Sangonomiya Kokomi_passive_4_1753021536553.png"
       }
     ],
     "completeTableData": [
@@ -1825,7 +1825,7 @@
               "重撃ダメージ|{param4:P}",
               "重撃スタミナ消費|{param5:F1}",
               "落下期間のダメージ|{param6:F1P}",
-              "低空/高空落下攻撃ダメー��|{param7:P}/{param8:P}",
+              "低空/高空落下攻撃ダメージ|{param7:P}/{param8:P}",
               "",
               "",
               "",
@@ -2031,7 +2031,7 @@
               "重撃ダメージ|{param4:P}",
               "重撃スタミナ消費|{param5:F1}",
               "落下期間のダメージ|{param6:F1P}",
-              "低空/高��落下攻撃ダメージ|{param7:P}/{param8:P}",
+              "低空/高空落下攻撃ダメージ|{param7:P}/{param8:P}",
               "",
               "",
               "",
@@ -3557,7 +3557,7 @@
             ],
             "description": [
               "スキルダメージ|HP上限{param1:F1P}",
-              "通常攻���ダメージアップ|HP上限{param4:F1P}",
+              "通常攻撃ダメージアップ|HP上限{param4:F1P}",
               "重撃ダメージアップ|HP上限{param5:F1P}",
               "化海月ダメージアップ|HP上限{param9:F1P}",
               "命中回復量|HP上限{param2:F2P}+{param3:I}",
@@ -4328,32 +4328,32 @@
       {
         "level": null,
         "name": "水を渓に決する",
-        "icon": "/assets/images/Sangonomiya Kokomi_constellation_cNaN_1753019962409.png"
+        "icon": "/assets/images/Sangonomiya Kokomi_constellation_cNaN_1753021536553.png"
       },
       {
         "level": null,
         "name": "雲海の波立ち",
-        "icon": "/assets/images/Sangonomiya Kokomi_constellation_cNaN_1753019962409.png"
+        "icon": "/assets/images/Sangonomiya Kokomi_constellation_cNaN_1753021536553.png"
       },
       {
         "level": null,
         "name": "月舟霧渚",
-        "icon": "/assets/images/Sangonomiya Kokomi_constellation_cNaN_1753019962409.png"
+        "icon": "/assets/images/Sangonomiya Kokomi_constellation_cNaN_1753021536553.png"
       },
       {
         "level": null,
         "name": "月に摂す千の川",
-        "icon": "/assets/images/Sangonomiya Kokomi_constellation_cNaN_1753019962409.png"
+        "icon": "/assets/images/Sangonomiya Kokomi_constellation_cNaN_1753021536553.png"
       },
       {
         "level": null,
         "name": "百川集海",
-        "icon": "/assets/images/Sangonomiya Kokomi_constellation_cNaN_1753019962409.png"
+        "icon": "/assets/images/Sangonomiya Kokomi_constellation_cNaN_1753021536553.png"
       },
       {
         "level": null,
         "name": "珊瑚一心",
-        "icon": "/assets/images/Sangonomiya Kokomi_constellation_cNaN_1753019962409.png"
+        "icon": "/assets/images/Sangonomiya Kokomi_constellation_cNaN_1753021536553.png"
       }
     ]
   },
@@ -4370,14 +4370,14 @@
     "id": 210093,
     "name": "珊瑚宮心海·淵",
     "description": "珊瑚宮心海·淵",
-    "icon": "/assets/images/Sangonomiya Kokomi_icon_1753019962408.png"
+    "icon": "/assets/images/Sangonomiya Kokomi_icon_1753021536552.png"
   },
   "specialFood": {
     "id": 108340,
     "name": "「奇策」",
     "rank": 1,
-    "icon": "/assets/images/Sangonomiya Kokomi_special_food_1753019962409.png",
-    "effectIcon": "/assets/images/Kaeya_food_effect_1753019919855.png"
+    "icon": "/assets/images/Sangonomiya Kokomi_special_food_1753021536553.png",
+    "effectIcon": "/assets/images/Kaeya_food_effect_1753021477808.png"
   },
   "levelProgression": [
     {
@@ -4693,7 +4693,7 @@
             "name": "珊瑚真珠",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Sangonomiya Kokomi_material_101207_1753019962459.png",
+            "icon": "/assets/images/Sangonomiya Kokomi_material_101207_1753021536742.png",
             "description": "海祇の珊瑚と共に生み出された宝珠。触れると月明かりのような涼しさを感じる。",
             "type": "稲妻地域の特産"
           },
@@ -4702,7 +4702,7 @@
             "name": "澄明なラピスラズリ·砕屑",
             "count": 1,
             "rank": 2,
-            "icon": "/assets/images/Barbara_material_104121_1753019918615.png",
+            "icon": "/assets/images/Barbara_material_104121_1753021476197.png",
             "description": "キャラクターの突破用アイテム。",
             "type": "キャラクター突破素材"
           },
@@ -4711,7 +4711,7 @@
             "name": "フライムの乾核",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Sangonomiya Kokomi_material_112053_1753019962448.png",
+            "icon": "/assets/images/Sangonomiya Kokomi_material_112053_1753021536895.png",
             "description": "フライムを浮遊させるエネルギー核。中には微かな元素が含まれている。\\n多くのエネルギーは逸散していったようだ。",
             "type": "キャラと武器育成素材"
           }
@@ -4742,7 +4742,7 @@
             "name": "珊瑚真珠",
             "count": 10,
             "rank": 1,
-            "icon": "/assets/images/Sangonomiya Kokomi_material_101207_1753019962459.png",
+            "icon": "/assets/images/Sangonomiya Kokomi_material_101207_1753021536742.png",
             "description": "海祇の珊瑚と共に生み出された宝珠。触れると月明かりのような涼しさを感じる。",
             "type": "稲妻地域の特産"
           },
@@ -4751,7 +4751,7 @@
             "name": "澄明なラピスラズリ·欠片",
             "count": 3,
             "rank": 3,
-            "icon": "/assets/images/Barbara_material_104122_1753019918619.png",
+            "icon": "/assets/images/Barbara_material_104122_1753021476194.png",
             "description": "キャラクターの突破用アイテム。\\n「僕の理想には一片の穢れも無い。」",
             "type": "キャラクター突破素材"
           },
@@ -4760,7 +4760,7 @@
             "name": "フライムの乾核",
             "count": 15,
             "rank": 1,
-            "icon": "/assets/images/Sangonomiya Kokomi_material_112053_1753019962448.png",
+            "icon": "/assets/images/Sangonomiya Kokomi_material_112053_1753021536895.png",
             "description": "フライムを浮遊させるエネルギー核。中には微かな元素が含まれている。\\n多くのエネルギーは逸散していったようだ。",
             "type": "キャラと武器育成素材"
           },
@@ -4769,7 +4769,7 @@
             "name": "排他の露",
             "count": 2,
             "rank": 4,
-            "icon": "/assets/images/Sangonomiya Kokomi_material_113028_1753019962452.png",
+            "icon": "/assets/images/Sangonomiya Kokomi_material_113028_1753021536951.png",
             "description": "無相の水が凝縮した後、残された奇妙な水玉。\\n強烈な排他本能を持つことも、無相の水の攻撃手段の一つである。水の中に記憶と意志が含まれ、水との融合と共に成長していくそうだ。だが、無相の水が召喚した波は、あらゆる湧いている物と相容れない。たとえペトリコールの純粋な水の中に落ちても、この水玉は水銀のように、周りとの融合を拒絶するだろう。",
             "type": "キャラクター育成素材"
           }
@@ -4804,7 +4804,7 @@
             "name": "珊瑚真珠",
             "count": 20,
             "rank": 1,
-            "icon": "/assets/images/Sangonomiya Kokomi_material_101207_1753019962459.png",
+            "icon": "/assets/images/Sangonomiya Kokomi_material_101207_1753021536742.png",
             "description": "海祇の珊瑚と共に生み出された宝珠。触れると月明かりのような涼しさを感じる。",
             "type": "稲妻地域の特産"
           },
@@ -4813,7 +4813,7 @@
             "name": "澄明なラピスラズリ·欠片",
             "count": 6,
             "rank": 3,
-            "icon": "/assets/images/Barbara_material_104122_1753019918619.png",
+            "icon": "/assets/images/Barbara_material_104122_1753021476194.png",
             "description": "キャラクターの突破用アイテム。\\n「僕の理想には一片の穢れも無い。」",
             "type": "キャラクター突破素材"
           },
@@ -4822,7 +4822,7 @@
             "name": "フライムの幽核",
             "count": 12,
             "rank": 2,
-            "icon": "/assets/images/Sangonomiya Kokomi_material_112054_1753019962451.png",
+            "icon": "/assets/images/Sangonomiya Kokomi_material_112054_1753021536927.png",
             "description": "フライムを浮遊させるエネルギー核。\\nこの元素生物は特殊な習性を持っているようで、周期的に大量に現れたり、消えたりしている。",
             "type": "キャラと武器育成素材"
           },
@@ -4831,7 +4831,7 @@
             "name": "排他の露",
             "count": 4,
             "rank": 4,
-            "icon": "/assets/images/Sangonomiya Kokomi_material_113028_1753019962452.png",
+            "icon": "/assets/images/Sangonomiya Kokomi_material_113028_1753021536951.png",
             "description": "無相の水が凝縮した後、残された奇妙な水玉。\\n強烈な排他本能を持つことも、無相の水の攻撃手段の一つである。水の中に記憶と意志が含まれ、水との融合と共に成長していくそうだ。だが、無相の水が召喚した波は、あらゆる湧いている物と相容れない。たとえペトリコールの純粋な水の中に落ちても、この水玉は水銀のように、周りとの融合を拒絶するだろう。",
             "type": "キャラクター育成素材"
           }
@@ -4866,7 +4866,7 @@
             "name": "珊瑚真珠",
             "count": 30,
             "rank": 1,
-            "icon": "/assets/images/Sangonomiya Kokomi_material_101207_1753019962459.png",
+            "icon": "/assets/images/Sangonomiya Kokomi_material_101207_1753021536742.png",
             "description": "海祇の珊瑚と共に生み出された宝珠。触れると月明かりのような涼しさを感じる。",
             "type": "稲妻地域の特産"
           },
@@ -4875,7 +4875,7 @@
             "name": "澄明なラピスラズリ·塊",
             "count": 3,
             "rank": 4,
-            "icon": "/assets/images/Barbara_material_104123_1753019918616.png",
+            "icon": "/assets/images/Barbara_material_104123_1753021476197.png",
             "description": "キャラクターの突破用アイテム。\\n「僕の理想には一片の穢れも無い。」\\n「訂正させてもらおう。ここでは、人が神の裁きを受けることはない…」",
             "type": "キャラクター突破素材"
           },
@@ -4884,7 +4884,7 @@
             "name": "フライムの幽核",
             "count": 18,
             "rank": 2,
-            "icon": "/assets/images/Sangonomiya Kokomi_material_112054_1753019962451.png",
+            "icon": "/assets/images/Sangonomiya Kokomi_material_112054_1753021536927.png",
             "description": "フライムを浮遊させるエネルギー核。\\nこの元素生物は特殊な習性を持っているようで、周期的に大量に現れたり、消えたりしている。",
             "type": "キャラと武器育成素材"
           },
@@ -4893,7 +4893,7 @@
             "name": "排他の露",
             "count": 8,
             "rank": 4,
-            "icon": "/assets/images/Sangonomiya Kokomi_material_113028_1753019962452.png",
+            "icon": "/assets/images/Sangonomiya Kokomi_material_113028_1753021536951.png",
             "description": "無相の水が凝縮した後、残された奇妙な水玉。\\n強烈な排他本能を持つことも、無相の水の攻撃手段の一つである。水の中に記憶と意志が含まれ、水との融合と共に成長していくそうだ。だが、無相の水が召喚した波は、あらゆる湧いている物と相容れない。たとえペトリコールの純粋な水の中に落ちても、この水玉は水銀のように、周りとの融合を拒絶するだろう。",
             "type": "キャラクター育成素材"
           }
@@ -4928,7 +4928,7 @@
             "name": "珊瑚真珠",
             "count": 45,
             "rank": 1,
-            "icon": "/assets/images/Sangonomiya Kokomi_material_101207_1753019962459.png",
+            "icon": "/assets/images/Sangonomiya Kokomi_material_101207_1753021536742.png",
             "description": "海祇の珊瑚と共に生み出された宝珠。触れると月明かりのような涼しさを感じる。",
             "type": "稲妻地域の特産"
           },
@@ -4937,7 +4937,7 @@
             "name": "澄明なラピスラズリ·塊",
             "count": 6,
             "rank": 4,
-            "icon": "/assets/images/Barbara_material_104123_1753019918616.png",
+            "icon": "/assets/images/Barbara_material_104123_1753021476197.png",
             "description": "キャラクターの突破用アイテム。\\n「僕の理想には一片の穢れも無い。」\\n「訂正させてもらおう。ここでは、人が神の裁きを受けることはない…」",
             "type": "キャラクター突破素材"
           },
@@ -4946,7 +4946,7 @@
             "name": "フライムの晶化核",
             "count": 12,
             "rank": 3,
-            "icon": "/assets/images/Sangonomiya Kokomi_material_112055_1753019962455.png",
+            "icon": "/assets/images/Sangonomiya Kokomi_material_112055_1753021536769.png",
             "description": "フライムを倒すと、たまに見つけられる完全なエネルギー核。\\n物事の雌雄を決させたい人たちの間では、よくこんな議論がある。フライムと風スライムの浮かぶ力、一体どちらが上なのか。",
             "type": "キャラと武器育成素材"
           },
@@ -4955,7 +4955,7 @@
             "name": "排他の露",
             "count": 12,
             "rank": 4,
-            "icon": "/assets/images/Sangonomiya Kokomi_material_113028_1753019962452.png",
+            "icon": "/assets/images/Sangonomiya Kokomi_material_113028_1753021536951.png",
             "description": "無相の水が凝縮した後、残された奇妙な水玉。\\n強烈な排他本能を持つことも、無相の水の攻撃手段の一つである。水の中に記憶と意志が含まれ、水との融合と共に成長していくそうだ。だが、無相の水が召喚した波は、あらゆる湧いている物と相容れない。たとえペトリコールの純粋な水の中に落ちても、この水玉は水銀のように、周りとの融合を拒絶するだろう。",
             "type": "キャラクター育成素材"
           }
@@ -4990,7 +4990,7 @@
             "name": "珊瑚真珠",
             "count": 60,
             "rank": 1,
-            "icon": "/assets/images/Sangonomiya Kokomi_material_101207_1753019962459.png",
+            "icon": "/assets/images/Sangonomiya Kokomi_material_101207_1753021536742.png",
             "description": "海祇の珊瑚と共に生み出された宝珠。触れると月明かりのような涼しさを感じる。",
             "type": "稲妻地域の特産"
           },
@@ -4999,7 +4999,7 @@
             "name": "澄明なラピスラズリ",
             "count": 6,
             "rank": 5,
-            "icon": "/assets/images/Barbara_material_104124_1753019918612.png",
+            "icon": "/assets/images/Barbara_material_104124_1753021476193.png",
             "description": "キャラクターの突破用アイテム。\\n「僕の理想には一片の穢れも無い。」\\n「訂正させてもらおう。ここでは、人が神の裁きを受けることはない。裁きを下せるのは、ただ法と法廷のみ。」\\n「この僕でさえ、断罪され得るのだからね。さあ、僕の崇高と純潔を讃えてくれたまえ。」",
             "type": "キャラクター突破素材"
           },
@@ -5008,7 +5008,7 @@
             "name": "フライムの晶化核",
             "count": 24,
             "rank": 3,
-            "icon": "/assets/images/Sangonomiya Kokomi_material_112055_1753019962455.png",
+            "icon": "/assets/images/Sangonomiya Kokomi_material_112055_1753021536769.png",
             "description": "フライムを倒すと、たまに見つけられる完全なエネルギー核。\\n物事の雌雄を決させたい人たちの間では、よくこんな議論がある。フライムと風スライムの浮かぶ力、一体どちらが上なのか。",
             "type": "キャラと武器育成素材"
           },
@@ -5017,7 +5017,7 @@
             "name": "排他の露",
             "count": 20,
             "rank": 4,
-            "icon": "/assets/images/Sangonomiya Kokomi_material_113028_1753019962452.png",
+            "icon": "/assets/images/Sangonomiya Kokomi_material_113028_1753021536951.png",
             "description": "無相の水が凝縮した後、残された奇妙な水玉。\\n強烈な排他本能を持つことも、無相の水の攻撃手段の一つである。水の中に記憶と意志が含まれ、水との融合と共に成長していくそうだ。だが、無相の水が召喚した波は、あらゆる湧いている物と相容れない。たとえペトリコールの純粋な水の中に落ちても、この水玉は水銀のように、周りとの融合を拒絶するだろう。",
             "type": "キャラクター育成素材"
           }

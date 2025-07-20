@@ -8,7 +8,7 @@
   "region": "Natlan",
   "constellation": "マスクド・ウォーリアー座",
   "description": "のんびりまったりした「豊穣の邦」の戦士で、果樹園のお世話係。強い英雄に憧れており、食べることが大好き。",
-  "icon": "/assets/images/Varesa_icon_1753020032833.png",
+  "icon": "/assets/images/Varesa_icon_1753021639313.png",
   "profile": {
     "baseHp": 988.593,
     "baseAtk": 27.744,
@@ -23,7 +23,7 @@
       "id": "バイ・ザ・ホーンズ",
       "name": "バイ・ザ・ホーンズ",
       "description": "",
-      "icon": "/assets/images/Lisa_normal_attack_1753019917353.png",
+      "icon": "/assets/images/Lisa_normal_attack_1753021474528.png",
       "skillType": "normal",
       "params": {
         "1": [],
@@ -47,7 +47,7 @@
       "id": "ホッピング・ナイトレインボー",
       "name": "ホッピング・ナイトレインボー",
       "description": "",
-      "icon": "/assets/images/Varesa_elemental_skill_1753020032834.png",
+      "icon": "/assets/images/Varesa_elemental_skill_1753021639313.png",
       "levelData": [
         {
           "tableIndex": 1,
@@ -81,7 +81,7 @@
             "猛烈パッション状態の突進ダメージ|{param2:F1P}",
             "追撃継続時間|{param3:F1}秒",
             "夜魂値上限|{param4:F1}",
-            "クールタイム|{param5:F1}秒",
+            "クール���イム|{param5:F1}秒",
             "",
             "",
             "",
@@ -366,7 +366,7 @@
             0
           ],
           "description": [
-            "突��ダメージ|{param1:F1P}",
+            "突進ダメージ|{param1:F1P}",
             "猛烈パッション状態の突進ダメージ|{param2:F1P}",
             "追撃継続時間|{param3:F1}秒",
             "夜魂値上限|{param4:F1}",
@@ -880,7 +880,7 @@
           ],
           "description": [
             "突進ダメージ|{param1:F1P}",
-            "猛烈パッシ���ン状態の突進ダメージ|{param2:F1P}",
+            "猛烈パッション状態の突進ダメージ|{param2:F1P}",
             "追撃継続時間|{param3:F1}秒",
             "夜魂値上限|{param4:F1}",
             "クールタイム|{param5:F1}秒",
@@ -1136,25 +1136,25 @@
     "elementalBurst": {
       "name": "連翔、三段跳び！",
       "description": "",
-      "icon": "/assets/images/Varesa_elemental_burst_1753020032834.png",
+      "icon": "/assets/images/Varesa_elemental_burst_1753021639313.png",
       "levelData": []
     },
     "passiveTalents": [
       {
         "name": "連翔、三段跳び！",
-        "icon": "/assets/images/Varesa_passive_1_1753020032834.png"
+        "icon": "/assets/images/Varesa_passive_1_1753021639313.png"
       },
       {
         "name": "ヒーロー、二度目の見参！",
-        "icon": "/assets/images/Varesa_passive_2_1753020032834.png"
+        "icon": "/assets/images/Varesa_passive_2_1753021639313.png"
       },
       {
         "name": "夜域の賜物・悪を焼き尽くす灯り",
-        "icon": "/assets/images/Iansan_passive_3_1753020031566.png"
+        "icon": "/assets/images/Iansan_passive_3_1753021637503.png"
       },
       {
         "name": "熱き心、一心不乱！",
-        "icon": "/assets/images/Varesa_passive_4_1753020032834.png"
+        "icon": "/assets/images/Varesa_passive_4_1753021639314.png"
       }
     ],
     "completeTableData": [
@@ -1196,7 +1196,7 @@
               "重撃スタミナ消費|{param5:F1}",
               "落下期間のダメージ|{param6:F1P}",
               "低空/高空落下攻撃ダメージ|{param7:P}/{param8:P}",
-              "猛烈パッション状態の1段ダメージ|{param9:F1P}",
+              "猛烈パ���ション状態の1段ダメージ|{param9:F1P}",
               "猛烈パッション状態の2段ダメージ|{param10:F1P}",
               "猛烈パッション状態の3段ダメージ|{param11:F1P}",
               "猛烈パッション状態の重撃ダメージ|{param12:F1P}",
@@ -1268,7 +1268,7 @@
               "猛烈パッション状態の3段ダメージ|{param11:F1P}",
               "猛烈パッション状態の重撃ダメージ|{param12:F1P}",
               "猛烈パッション状態の重撃スタミナ消費|{param13:F1}",
-              "猛烈パッション状態の落下期間のダメージ|{param14:F1P}",
+              "猛烈パッション状態の落下期間のダメー��|{param14:F1P}",
               "猛烈パッション状態の低空/高空落下攻撃ダメージ|{param15:P}/{param16:P}",
               "",
               ""
@@ -1474,7 +1474,7 @@
               "落下期間のダメージ|{param6:F1P}",
               "低空/高空落下攻撃ダメージ|{param7:P}/{param8:P}",
               "猛烈パッション状態の1段ダメージ|{param9:F1P}",
-              "猛烈パッション状態の2段ダ��ージ|{param10:F1P}",
+              "猛烈パッション状態の2段ダメージ|{param10:F1P}",
               "猛烈パッション状態の3段ダメージ|{param11:F1P}",
               "猛烈パッション状態の重撃ダメージ|{param12:F1P}",
               "猛烈パッション状態の重撃スタミナ消費|{param13:F1}",
@@ -1679,7 +1679,7 @@
             "description": [
               "1段ダメージ|{param1:F1P}",
               "2段ダメージ|{param2:F1P}",
-              "3段ダメー��|{param3:F1P}",
+              "3段ダメージ|{param3:F1P}",
               "重撃ダメージ|{param4:F1P}",
               "重撃スタミナ消費|{param5:F1}",
               "落下期間のダメージ|{param6:F1P}",
@@ -1963,7 +1963,7 @@
               "3段ダメージ|{param3:F1P}",
               "重撃ダメージ|{param4:F1P}",
               "重撃スタミナ消費|{param5:F1}",
-              "落下期間のダメージ|{param6:F1P}",
+              "落下期間のダ��ージ|{param6:F1P}",
               "低空/高空落下攻撃ダメージ|{param7:P}/{param8:P}",
               "猛烈パッション状態の1段ダメージ|{param9:F1P}",
               "猛烈パッション状態の2段ダメージ|{param10:F1P}",
@@ -2036,7 +2036,7 @@
               "猛烈パッション状態の2段ダメージ|{param10:F1P}",
               "猛烈パッション状態の3段ダメージ|{param11:F1P}",
               "猛烈パッション状態の重撃ダメージ|{param12:F1P}",
-              "猛烈パッション状態の重撃スタミナ消費|{param13:F1}",
+              "猛烈パッション状態の重撃スタミ��消費|{param13:F1}",
               "猛烈パッション状態の落下期間のダメージ|{param14:F1P}",
               "猛烈パッション状態の低空/高空落下攻撃ダメージ|{param15:P}/{param16:P}",
               "",
@@ -2238,7 +2238,7 @@
               "猛烈パッション状態の突進ダメージ|{param2:F1P}",
               "追撃継続時間|{param3:F1}秒",
               "夜魂値上限|{param4:F1}",
-              "クールタイム|{param5:F1}秒",
+              "クール���イム|{param5:F1}秒",
               "",
               "",
               "",
@@ -2511,7 +2511,7 @@
               0
             ],
             "description": [
-              "突��ダメージ|{param1:F1P}",
+              "突進ダメージ|{param1:F1P}",
               "猛烈パッション状態の突進ダメージ|{param2:F1P}",
               "追撃継続時間|{param3:F1}秒",
               "夜魂値上限|{param4:F1}",
@@ -3004,7 +3004,7 @@
             ],
             "description": [
               "突進ダメージ|{param1:F1P}",
-              "猛烈パッシ���ン状態の突進ダメージ|{param2:F1P}",
+              "猛烈パッション状態の突進ダメージ|{param2:F1P}",
               "追撃継続時間|{param3:F1}秒",
               "夜魂値上限|{param4:F1}",
               "クールタイム|{param5:F1}秒",
@@ -4328,32 +4328,32 @@
       {
         "level": null,
         "name": "燃え続ける情熱",
-        "icon": "/assets/images/Varesa_constellation_cNaN_1753020032834.png"
+        "icon": "/assets/images/Varesa_constellation_cNaN_1753021639314.png"
       },
       {
         "level": null,
         "name": "天光の極限を超えて",
-        "icon": "/assets/images/Varesa_constellation_cNaN_1753020032834.png"
+        "icon": "/assets/images/Varesa_constellation_cNaN_1753021639314.png"
       },
       {
         "level": null,
         "name": "不撓不屈の決意",
-        "icon": "/assets/images/Varesa_constellation_cNaN_1753020032834.png"
+        "icon": "/assets/images/Varesa_constellation_cNaN_1753021639314.png"
       },
       {
         "level": null,
         "name": "突き進む勇気",
-        "icon": "/assets/images/Varesa_constellation_cNaN_1753020032834.png"
+        "icon": "/assets/images/Varesa_constellation_cNaN_1753021639314.png"
       },
       {
         "level": null,
         "name": "温かな風に揺れる想い",
-        "icon": "/assets/images/Varesa_constellation_cNaN_1753020032834.png"
+        "icon": "/assets/images/Varesa_constellation_cNaN_1753021639314.png"
       },
       {
         "level": null,
         "name": "正義のヒーローの凱旋",
-        "icon": "/assets/images/Varesa_constellation_cNaN_1753020032834.png"
+        "icon": "/assets/images/Varesa_constellation_cNaN_1753021639314.png"
       }
     ]
   },
@@ -4370,14 +4370,14 @@
     "id": 210236,
     "name": "ヴァレサ・力の源",
     "description": "ヴァレサ・力の源",
-    "icon": "/assets/images/Varesa_icon_1753020032833.png"
+    "icon": "/assets/images/Varesa_namecard_1753021639477.png"
   },
   "specialFood": {
     "id": 108810,
     "name": "マウント・マッシュルーム（一人前）",
     "rank": 2,
-    "icon": "/assets/images/Varesa_special_food_1753020032834.png",
-    "effectIcon": "/assets/images/Diluc_food_effect_1753019921109.png"
+    "icon": "/assets/images/Varesa_special_food_1753021639314.png",
+    "effectIcon": "/assets/images/Diluc_food_effect_1753021479185.png"
   },
   "levelProgression": [
     {
@@ -4693,7 +4693,7 @@
             "name": "岩裂の花",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Varesa_material_101254_1753020032847.png",
+            "icon": "/assets/images/Varesa_material_101254_1753021639468.png",
             "description": "花びらの外側が石のように硬い、奇妙な植物。開花すると、晶石に似た芯が露わになる。",
             "type": "ナタ地域の特産"
           },
@@ -4702,7 +4702,7 @@
             "name": "最勝のアメシスト·砕屑",
             "count": 1,
             "rank": 2,
-            "icon": "/assets/images/Lisa_material_104141_1753019917374.png",
+            "icon": "/assets/images/Lisa_material_104141_1753021474544.png",
             "description": "キャラクターの突破用アイテム。",
             "type": "キャラクター突破素材"
           },
@@ -4711,7 +4711,7 @@
             "name": "未熟な牙",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Kinich_material_112101_1753020020506.png",
+            "icon": "/assets/images/Kinich_material_112101_1753021621781.png",
             "description": "ナタの竜が落とした牙。\\nまだ育ち切っていないようだ。もし牙から年齢を推定する方法があるなら、この牙の主はあまり長い年月を過ごしていないと結論づけられるかもしれない。",
             "type": "キャラと武器育成素材"
           }
@@ -4742,7 +4742,7 @@
             "name": "岩裂の花",
             "count": 10,
             "rank": 1,
-            "icon": "/assets/images/Varesa_material_101254_1753020032847.png",
+            "icon": "/assets/images/Varesa_material_101254_1753021639468.png",
             "description": "花びらの外側が石のように硬い、奇妙な植物。開花すると、晶石に似た芯が露わになる。",
             "type": "ナタ地域の特産"
           },
@@ -4751,7 +4751,7 @@
             "name": "最勝のアメシスト·欠片",
             "count": 3,
             "rank": 3,
-            "icon": "/assets/images/Lisa_material_104142_1753019917372.png",
+            "icon": "/assets/images/Lisa_material_104142_1753021474539.png",
             "description": "キャラクターの突破用アイテム。\\n「此の身こそ、いと尊き存在。」",
             "type": "キャラクター突破素材"
           },
@@ -4760,7 +4760,7 @@
             "name": "未熟な牙",
             "count": 15,
             "rank": 1,
-            "icon": "/assets/images/Kinich_material_112101_1753020020506.png",
+            "icon": "/assets/images/Kinich_material_112101_1753021621781.png",
             "description": "ナタの竜が落とした牙。\\nまだ育ち切っていないようだ。もし牙から年齢を推定する方法があるなら、この牙の主はあまり長い年月を過ごしていないと結論づけられるかもしれない。",
             "type": "キャラと武器育成素材"
           },
@@ -4769,8 +4769,8 @@
             "name": "龍像の無智なるコア",
             "count": 2,
             "rank": 4,
-            "icon": "/assets/images/Varesa_material_113072_1753020032868.png",
-            "description": "輝ける溶岩の龍像を倒した後、燃え続ける体から取り出したコア。\\n輝ける溶岩の龍像は、燃素が無限に積み上げられて出来た特殊な存在だと言われている。本来の構想では、純粋なエネルギーから人類のような知能を持つ生命が誕生するはずだったが、この試みは失敗に終わった。純粋なエネルギーは太古の時代と同じく、自発的に成長し、制御可能な複雑な知恵を形成することはできないという事実が証明された。",
+            "icon": "/assets/images/Varesa_material_113072_1753021639664.png",
+            "description": "輝ける溶岩の龍像を倒した後、燃え続ける体から取り出したコア。\\n輝ける溶岩の龍像は、燃素が無限に積み上げられて出来た特殊な存在だと言われている。本来の構想では、純粋なエネルギーから人類のような知能を持つ生命が誕生するはずだったが、この試みは失敗に終わった。純粋なエネルギーは太古の時代と同じく、自発的に成長し、制御可能な複雑な知恵を形成することはできないという事実が証明された���",
             "type": "キャラクター育成素材"
           }
         ],
@@ -4804,7 +4804,7 @@
             "name": "岩裂の花",
             "count": 20,
             "rank": 1,
-            "icon": "/assets/images/Varesa_material_101254_1753020032847.png",
+            "icon": "/assets/images/Varesa_material_101254_1753021639468.png",
             "description": "花びらの外側が石のように硬い、奇妙な植物。開花すると、晶石に似た芯が露わになる。",
             "type": "ナタ地域の特産"
           },
@@ -4813,7 +4813,7 @@
             "name": "最勝のアメシスト·欠片",
             "count": 6,
             "rank": 3,
-            "icon": "/assets/images/Lisa_material_104142_1753019917372.png",
+            "icon": "/assets/images/Lisa_material_104142_1753021474539.png",
             "description": "キャラクターの突破用アイテム。\\n「此の身こそ、いと尊き存在。」",
             "type": "キャラクター突破素材"
           },
@@ -4822,7 +4822,7 @@
             "name": "熟練の牙",
             "count": 12,
             "rank": 2,
-            "icon": "/assets/images/Kinich_material_112102_1753020020501.png",
+            "icon": "/assets/images/Kinich_material_112102_1753021621668.png",
             "description": "ナタの竜が落とした堅い牙。\\n牙の摩耗具合から、持ち主が経験したであろう暮らしや戦いが想像できる。竜の中でも、優秀な戦士と呼ばれるにふさわしいだろう。",
             "type": "キャラと武器育成素材"
           },
@@ -4831,8 +4831,8 @@
             "name": "龍像の無智なるコア",
             "count": 4,
             "rank": 4,
-            "icon": "/assets/images/Varesa_material_113072_1753020032868.png",
-            "description": "輝ける溶岩の龍像を倒した後、燃え続ける体から取り出したコア。\\n輝ける溶岩の龍像は、燃素が無限に積み上げられて出来た特殊な存在だと言われている。本来の構想では、純粋なエネルギーから人類のような知能を持つ生命が誕生するはずだったが、この試みは失敗に終わった。純粋なエネルギーは太古の時代と同じく、自発的に成長し、制御可能な複雑な知恵を形成することはできないという事実が証明された。",
+            "icon": "/assets/images/Varesa_material_113072_1753021639664.png",
+            "description": "輝ける溶岩の龍像を倒した後、燃え続ける体から取り出したコア。\\n輝ける溶岩の龍像は、燃素が無限に積み上げられて出来た特殊な存在だと言われている。本来の構想では、純粋なエネルギーから人類のような知能を持つ生命が誕生するはずだったが、この試みは失敗に終わった。純粋なエネルギーは太古の時代と同じく、自発的に成長し、制御可能な複雑な知恵を形成することはできないという事実が証明された���",
             "type": "キャラクター育成素材"
           }
         ],
@@ -4866,7 +4866,7 @@
             "name": "岩裂の花",
             "count": 30,
             "rank": 1,
-            "icon": "/assets/images/Varesa_material_101254_1753020032847.png",
+            "icon": "/assets/images/Varesa_material_101254_1753021639468.png",
             "description": "花びらの外側が石のように硬い、奇妙な植物。開花すると、晶石に似た芯が露わになる。",
             "type": "ナタ地域の特産"
           },
@@ -4875,7 +4875,7 @@
             "name": "最勝のアメシスト·塊",
             "count": 3,
             "rank": 4,
-            "icon": "/assets/images/Lisa_material_104143_1753019917369.png",
+            "icon": "/assets/images/Lisa_material_104143_1753021474541.png",
             "description": "キャラクターの突破用アイテム。\\n「此の身こそ、いと尊き存在。」\\n「天下を泰平せし者。」",
             "type": "キャラクター突破素材"
           },
@@ -4884,7 +4884,7 @@
             "name": "熟練の牙",
             "count": 18,
             "rank": 2,
-            "icon": "/assets/images/Kinich_material_112102_1753020020501.png",
+            "icon": "/assets/images/Kinich_material_112102_1753021621668.png",
             "description": "ナタの竜が落とした堅い牙。\\n牙の摩耗具合から、持ち主が経験したであろう暮らしや戦いが想像できる。竜の中でも、優秀な戦士と呼ばれるにふさわしいだろう。",
             "type": "キャラと武器育成素材"
           },
@@ -4893,8 +4893,8 @@
             "name": "龍像の無智なるコア",
             "count": 8,
             "rank": 4,
-            "icon": "/assets/images/Varesa_material_113072_1753020032868.png",
-            "description": "輝ける溶岩の龍像を倒した後、燃え続ける体から取り出したコア。\\n輝ける溶岩の龍像は、燃素が無限に積み上げられて出来た特殊な存在だと言われている。本来の構想では、純粋なエネルギーから人類のような知能を持つ生命が誕生するはずだったが、この試みは失敗に終わった。純粋なエネルギーは太古の時代と同じく、自発的に成長し、制御可能な複雑な知恵を形成することはできないという事実が証明された。",
+            "icon": "/assets/images/Varesa_material_113072_1753021639664.png",
+            "description": "輝ける溶岩の龍像を倒した後、燃え続ける体から取り出したコア。\\n輝ける溶岩の龍像は、燃素が無限に積み上げられて出来た特殊な存在だと言われている。本来の構想では、純粋なエネルギーから人類のような知能を持つ生命が誕生するはずだったが、この試みは失敗に終わった。純粋なエネルギーは太古の時代と同じく、自発的に成長し、制御可能な複雑な知恵を形成することはできないという事実が証明された���",
             "type": "キャラクター育成素材"
           }
         ],
@@ -4928,7 +4928,7 @@
             "name": "岩裂の花",
             "count": 45,
             "rank": 1,
-            "icon": "/assets/images/Varesa_material_101254_1753020032847.png",
+            "icon": "/assets/images/Varesa_material_101254_1753021639468.png",
             "description": "花びらの外側が石のように硬い、奇妙な植物。開花すると、晶石に似た芯が露わになる。",
             "type": "ナタ地域の特産"
           },
@@ -4937,7 +4937,7 @@
             "name": "最勝のアメシスト·塊",
             "count": 6,
             "rank": 4,
-            "icon": "/assets/images/Lisa_material_104143_1753019917369.png",
+            "icon": "/assets/images/Lisa_material_104143_1753021474541.png",
             "description": "キャラクターの突破用アイテム。\\n「此の身こそ、いと尊き存在。」\\n「天下を泰平せし者。」",
             "type": "キャラクター突破素材"
           },
@@ -4946,7 +4946,7 @@
             "name": "覇道の牙",
             "count": 12,
             "rank": 3,
-            "icon": "/assets/images/Kinich_material_112103_1753020020501.png",
+            "icon": "/assets/images/Kinich_material_112103_1753021621619.png",
             "description": "ナタの強い竜が落とした鋭い牙。\\n側面のギザギザや獰猛な形から、持ち主が戦場でいかに勇猛であったかが窺える。「覇者」と言える竜だったのだろう。",
             "type": "キャラと武器育成素材"
           },
@@ -4955,8 +4955,8 @@
             "name": "龍像の無智なるコア",
             "count": 12,
             "rank": 4,
-            "icon": "/assets/images/Varesa_material_113072_1753020032868.png",
-            "description": "輝ける溶岩の龍像を倒した後、燃え続ける体から取り出したコア。\\n輝ける溶岩の龍像は、燃素が無限に積み上げられて出来た特殊な存在だと言われている。本来の構想では、純粋なエネルギーから人類のような知能を持つ生命が誕生するはずだったが、この試みは失敗に終わった。純粋なエネルギーは太古の時代と同じく、自発的に成長し、制御可能な複雑な知恵を形成することはできないという事実が証明された。",
+            "icon": "/assets/images/Varesa_material_113072_1753021639664.png",
+            "description": "輝ける溶岩の龍像を倒した後、燃え続ける体から取り出したコア。\\n輝ける溶岩の龍像は、燃素が無限に積み上げられて出来た特殊な存在だと言われている。本来の構想では、純粋なエネルギーから人類のような知能を持つ生命が誕生するはずだったが、この試みは失敗に終わった。純粋なエネルギーは太古の時代と同じく、自発的に成長し、制御可能な複雑な知恵を形成することはできないという事実が証明された���",
             "type": "キャラクター育成素材"
           }
         ],
@@ -4990,7 +4990,7 @@
             "name": "岩裂の花",
             "count": 60,
             "rank": 1,
-            "icon": "/assets/images/Varesa_material_101254_1753020032847.png",
+            "icon": "/assets/images/Varesa_material_101254_1753021639468.png",
             "description": "花びらの外側が石のように硬い、奇妙な植物。開花すると、晶石に似た芯が露わになる。",
             "type": "ナタ地域の特産"
           },
@@ -4999,7 +4999,7 @@
             "name": "最勝のアメシスト",
             "count": 6,
             "rank": 5,
-            "icon": "/assets/images/Lisa_material_104144_1753019917373.png",
+            "icon": "/assets/images/Lisa_material_104144_1753021474552.png",
             "description": "キャラクターの突破用アイテム。\\n「此の身こそ、いと尊き存在。」\\n「天下を泰平せし者。」\\n「臣民に夢を与えると誓いましょう。未来永劫、不変の『永遠』を。」",
             "type": "キャラクター突破素材"
           },
@@ -5008,7 +5008,7 @@
             "name": "覇道の牙",
             "count": 24,
             "rank": 3,
-            "icon": "/assets/images/Kinich_material_112103_1753020020501.png",
+            "icon": "/assets/images/Kinich_material_112103_1753021621619.png",
             "description": "ナタの強い竜が落とした鋭い牙。\\n側面のギザギザや獰猛な形から、持ち主が戦場でいかに勇猛であったかが窺える。「覇者」と言える竜だったのだろう。",
             "type": "キャラと武器育成素材"
           },
@@ -5017,8 +5017,8 @@
             "name": "龍像の無智なるコア",
             "count": 20,
             "rank": 4,
-            "icon": "/assets/images/Varesa_material_113072_1753020032868.png",
-            "description": "輝ける溶岩の龍像を倒した後、燃え続ける体から取り出したコア。\\n輝ける溶岩の龍像は、燃素が無限に積み上げられて出来た特殊な存在だと言われている。本来の構想では、純粋なエネルギーから人類のような知能を持つ生命が誕生するはずだったが、この試みは失敗に終わった。純粋なエネルギーは太古の時代と同じく、自発的に成長し、制御可能な複雑な知恵を形成することはできないという事実が証明された。",
+            "icon": "/assets/images/Varesa_material_113072_1753021639664.png",
+            "description": "輝ける溶岩の龍像を倒した後、燃え続ける体から取り出したコア。\\n輝ける溶岩の龍像は、燃素が無限に積み上げられて出来た特殊な存在だと言われている。本来の構想では、純粋なエネルギーから人類のような知能を持つ生命が誕生するはずだったが、この試みは失敗に終わった。純粋なエネルギーは太古の時代と同じく、自発的に成長し、制御可能な複雑な知恵を形成することはできないという事実が証明された���",
             "type": "キャラクター育成素材"
           }
         ],

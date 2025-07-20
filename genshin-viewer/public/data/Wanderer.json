@@ -8,7 +8,7 @@
   "region": "Sumeru",
   "constellation": "浪客座",
   "description": "正体が謎に包まれた放浪者。修験者のような身なりをしているが、それらしき言動は見られない。",
-  "icon": "/assets/images/Wanderer_icon_1753019988265.png",
+  "icon": "/assets/images/Wanderer_icon_1753021574579.png",
   "profile": {
     "baseHp": 791.256,
     "baseAtk": 25.509,
@@ -23,7 +23,7 @@
       "id": "幡舞鳴弦",
       "name": "幡舞鳴弦",
       "description": "",
-      "icon": "/assets/images/Lisa_normal_attack_1753019917353.png",
+      "icon": "/assets/images/Lisa_normal_attack_1753021474528.png",
       "skillType": "normal",
       "params": {
         "1": [],
@@ -47,7 +47,7 @@
       "id": "羽画·風姿華歌",
       "name": "羽画·風姿華歌",
       "description": "",
-      "icon": "/assets/images/Wanderer_elemental_skill_1753019988265.png",
+      "icon": "/assets/images/Wanderer_elemental_skill_1753021574579.png",
       "levelData": [
         {
           "tableIndex": 1,
@@ -1136,21 +1136,21 @@
     "elementalBurst": {
       "name": "拾玉得花",
       "description": "",
-      "icon": "/assets/images/Wanderer_elemental_burst_1753019988265.png",
+      "icon": "/assets/images/Wanderer_elemental_burst_1753021574579.png",
       "levelData": []
     },
     "passiveTalents": [
       {
         "name": "拾玉得花",
-        "icon": "/assets/images/Wanderer_passive_1_1753019988265.png"
+        "icon": "/assets/images/Wanderer_passive_1_1753021574579.png"
       },
       {
         "name": "夢跡一風",
-        "icon": "/assets/images/Wanderer_passive_2_1753019988265.png"
+        "icon": "/assets/images/Wanderer_passive_2_1753021574579.png"
       },
       {
         "name": "廻色雲弦",
-        "icon": "/assets/images/Wanderer_passive_3_1753019988265.png"
+        "icon": "/assets/images/Wanderer_passive_3_1753021574579.png"
       }
     ],
     "completeTableData": [
@@ -4317,32 +4317,32 @@
       {
         "level": null,
         "name": "初番·茂風流羽行",
-        "icon": "/assets/images/Wanderer_constellation_cNaN_1753019988265.png"
+        "icon": "/assets/images/Wanderer_constellation_cNaN_1753021574580.png"
       },
       {
         "level": null,
         "name": "弐番·箙島廓白浪",
-        "icon": "/assets/images/Wanderer_constellation_cNaN_1753019988266.png"
+        "icon": "/assets/images/Wanderer_constellation_cNaN_1753021574580.png"
       },
       {
         "level": null,
         "name": "参番·久世舞夕顔",
-        "icon": "/assets/images/Wanderer_constellation_cNaN_1753019988266.png"
+        "icon": "/assets/images/Wanderer_constellation_cNaN_1753021574580.png"
       },
       {
         "level": null,
         "name": "肆番·花月歌浮舟",
-        "icon": "/assets/images/Wanderer_constellation_cNaN_1753019988266.png"
+        "icon": "/assets/images/Wanderer_constellation_cNaN_1753021574580.png"
       },
       {
         "level": null,
         "name": "末番·今昔渡来殿",
-        "icon": "/assets/images/Wanderer_constellation_cNaN_1753019988266.png"
+        "icon": "/assets/images/Wanderer_constellation_cNaN_1753021574580.png"
       },
       {
         "level": null,
         "name": "言祝·霞幕傾松風",
-        "icon": "/assets/images/Wanderer_constellation_cNaN_1753019988266.png"
+        "icon": "/assets/images/Wanderer_constellation_cNaN_1753021574580.png"
       }
     ]
   },
@@ -4359,14 +4359,14 @@
     "id": 210143,
     "name": "放浪者·憂き世の歌",
     "description": "放浪者·憂き世の歌",
-    "icon": "/assets/images/Wanderer_icon_1753019988265.png"
+    "icon": "/assets/images/Wanderer_icon_1753021574579.png"
   },
   "specialFood": {
     "id": 108479,
     "name": "真味茶漬け",
     "rank": 3,
-    "icon": "/assets/images/Wanderer_special_food_1753019988266.png",
-    "effectIcon": "/assets/images/Klee_food_effect_1753019932434.png"
+    "icon": "/assets/images/Wanderer_special_food_1753021574580.png",
+    "effectIcon": "/assets/images/Klee_food_effect_1753021493828.png"
   },
   "levelProgression": [
     {
@@ -4682,7 +4682,7 @@
             "name": "ルッカデヴァータダケ",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Collei_material_101213_1753019978317.png",
+            "icon": "/assets/images/Collei_material_101213_1753021559935.png",
             "description": "雲海のように重なり合って成長するキノコ類。ほとんどは雨林の奥深くの高木に生えている。",
             "type": "スメール地域の特産"
           },
@@ -4691,7 +4691,7 @@
             "name": "自由のターコイズ·砕屑",
             "count": 1,
             "rank": 2,
-            "icon": "/assets/images/Jean_material_104151_1753019916128.png",
+            "icon": "/assets/images/Jean_material_104151_1753021472886.png",
             "description": "キャラクターの突破用アイテム。",
             "type": "キャラクター突破素材"
           },
@@ -4700,7 +4700,7 @@
             "name": "古びた鍔",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Kamisato Ayaka_material_112044_1753019914869.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_112044_1753021471468.png",
             "description": "稲妻の刀についている防具。多くの戦いを経験している。\\n剣術の達人にとって、鍔は相手の刃から手を守ってくれる物。新人にとっては、誤って手が柄から刀身へと滑らないよう守ってくれる物だ。",
             "type": "キャラと武器育成素材"
           }
@@ -4731,7 +4731,7 @@
             "name": "ルッカデヴァータダケ",
             "count": 10,
             "rank": 1,
-            "icon": "/assets/images/Collei_material_101213_1753019978317.png",
+            "icon": "/assets/images/Collei_material_101213_1753021559935.png",
             "description": "雲海のように重なり合って成長するキノコ類。ほとんどは雨林の奥深くの高木に生えている。",
             "type": "スメール地域の特産"
           },
@@ -4740,7 +4740,7 @@
             "name": "自由のターコイズ·欠片",
             "count": 3,
             "rank": 3,
-            "icon": "/assets/images/Jean_material_104152_1753019916123.png",
+            "icon": "/assets/images/Jean_material_104152_1753021472885.png",
             "description": "キャラクターの突破用アイテム。\\n「風向きは変わるもの。」",
             "type": "キャラクター突破素材"
           },
@@ -4749,7 +4749,7 @@
             "name": "古びた鍔",
             "count": 15,
             "rank": 1,
-            "icon": "/assets/images/Kamisato Ayaka_material_112044_1753019914869.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_112044_1753021471468.png",
             "description": "稲妻の刀についている防具。多くの戦いを経験している。\\n剣術の達人にとって、鍔は相手の刃から手を守ってくれる物。新人にとっては、誤って手が柄から刀身へと滑らないよう守ってくれる物だ。",
             "type": "キャラと武器育成素材"
           },
@@ -4758,7 +4758,7 @@
             "name": "永続コア",
             "count": 2,
             "rank": 4,
-            "icon": "/assets/images/Nilou_material_113038_1753019982080.png",
+            "icon": "/assets/images/Nilou_material_113038_1753021565550.png",
             "description": "謎めいた遺跡機械からとれた駆動装置。\\n動かすべき機体が壊れたにもかかわらず、回り続けている。\\n地上に際限なく出力できるエネルギー源など存在しないはずであり、「永久運動」に関する研究成果も大多数が反証されてしまった。それを踏まえてこのコアを見てみると、既に滅亡したこの文明はかつて、人が触れてはならない領域にまで達していたことがわかる。",
             "type": "キャラクター育成素材"
           }
@@ -4793,7 +4793,7 @@
             "name": "ルッカデヴァータダケ",
             "count": 20,
             "rank": 1,
-            "icon": "/assets/images/Collei_material_101213_1753019978317.png",
+            "icon": "/assets/images/Collei_material_101213_1753021559935.png",
             "description": "雲海のように重なり合って成長するキノコ類。ほとんどは雨林の奥深くの高木に生えている。",
             "type": "スメール地域の特産"
           },
@@ -4802,7 +4802,7 @@
             "name": "自由のターコイズ·欠片",
             "count": 6,
             "rank": 3,
-            "icon": "/assets/images/Jean_material_104152_1753019916123.png",
+            "icon": "/assets/images/Jean_material_104152_1753021472885.png",
             "description": "キャラクターの突破用アイテム。\\n「風向きは変わるもの。」",
             "type": "キャラクター突破素材"
           },
@@ -4811,7 +4811,7 @@
             "name": "影打の鍔",
             "count": 12,
             "rank": 2,
-            "icon": "/assets/images/Kamisato Ayaka_material_112045_1753019914873.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_112045_1753021471479.png",
             "description": "優れた刀に使われる防具。\\n稲妻には、刀鍛冶の長き伝統がある。刀工が刀を鍛える時、必ず何本か刀を打ち、その中で一番出来の良い物を「真打」として選び、残りは「影打」と呼ぶ。",
             "type": "キャラと武器育成素材"
           },
@@ -4820,7 +4820,7 @@
             "name": "永続コア",
             "count": 4,
             "rank": 4,
-            "icon": "/assets/images/Nilou_material_113038_1753019982080.png",
+            "icon": "/assets/images/Nilou_material_113038_1753021565550.png",
             "description": "謎めいた遺跡機械からとれた駆動装置。\\n動かすべき機体が壊れたにもかかわらず、回り続けている。\\n地上に際限なく出力できるエネルギー源など存在しないはずであり、「永久運動」に関する研究成果も大多数が反証されてしまった。それを踏まえてこのコアを見てみると、既に滅亡したこの文明はかつて、人が触れてはならない領域にまで達していたことがわかる。",
             "type": "キャラクター育成素材"
           }
@@ -4855,7 +4855,7 @@
             "name": "ルッカデヴァータダケ",
             "count": 30,
             "rank": 1,
-            "icon": "/assets/images/Collei_material_101213_1753019978317.png",
+            "icon": "/assets/images/Collei_material_101213_1753021559935.png",
             "description": "雲海のように重なり合って成長するキノコ類。ほとんどは雨林の奥深くの高木に生えている。",
             "type": "スメール地域の特産"
           },
@@ -4864,7 +4864,7 @@
             "name": "自由のターコイズ·塊",
             "count": 3,
             "rank": 4,
-            "icon": "/assets/images/Jean_material_104153_1753019916118.png",
+            "icon": "/assets/images/Jean_material_104153_1753021472882.png",
             "description": "キャラクターの突破用アイテム。\\n「風向きは変わるもの。」\\n「いつか、光射す方へと吹いてくる。」",
             "type": "キャラクター突破素材"
           },
@@ -4873,7 +4873,7 @@
             "name": "影打の鍔",
             "count": 18,
             "rank": 2,
-            "icon": "/assets/images/Kamisato Ayaka_material_112045_1753019914873.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_112045_1753021471479.png",
             "description": "優れた刀に使われる防具。\\n稲妻には、刀鍛冶の長き伝統がある。刀工が刀を鍛える時、必ず何本か刀を打ち、その中で一番出来の良い物を「真打」として選び、残りは「影打」と呼ぶ。",
             "type": "キャラと武器育成素材"
           },
@@ -4882,7 +4882,7 @@
             "name": "永続コア",
             "count": 8,
             "rank": 4,
-            "icon": "/assets/images/Nilou_material_113038_1753019982080.png",
+            "icon": "/assets/images/Nilou_material_113038_1753021565550.png",
             "description": "謎めいた遺跡機械からとれた駆動装置。\\n動かすべき機体が壊れたにもかかわらず、回り続けている。\\n地上に際限なく出力できるエネルギー源など存在しないはずであり、「永久運動」に関する研究成果も大多数が反証されてしまった。それを踏まえてこのコアを見てみると、既に滅亡したこの文明はかつて、人が触れてはならない領域にまで達していたことがわかる。",
             "type": "キャラクター育成素材"
           }
@@ -4917,7 +4917,7 @@
             "name": "ルッカデヴァータダケ",
             "count": 45,
             "rank": 1,
-            "icon": "/assets/images/Collei_material_101213_1753019978317.png",
+            "icon": "/assets/images/Collei_material_101213_1753021559935.png",
             "description": "雲海のように重なり合って成長するキノコ類。ほとんどは雨林の奥深くの高木に生えている。",
             "type": "スメール地域の特産"
           },
@@ -4926,7 +4926,7 @@
             "name": "自由のターコイズ·塊",
             "count": 6,
             "rank": 4,
-            "icon": "/assets/images/Jean_material_104153_1753019916118.png",
+            "icon": "/assets/images/Jean_material_104153_1753021472882.png",
             "description": "キャラクターの突破用アイテム。\\n「風向きは変わるもの。」\\n「いつか、光射す方へと吹いてくる。」",
             "type": "キャラクター突破素材"
           },
@@ -4935,7 +4935,7 @@
             "name": "名刀の鍔",
             "count": 12,
             "rank": 3,
-            "icon": "/assets/images/Kamisato Ayaka_material_112046_1753019914870.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_112046_1753021471464.png",
             "description": "名刀に取り付けられた美しい防具。\\n刀には魂が宿り、命が存在すると人々は信じている。刀に名前を付けるのも、そのためである。刀を大切にする者は、刀にも報われる。しかし、刀と親友に、ひいては恋人にまでなった者は、その感情は殺伐を伴うことを肝に銘じておかなければならない。血を浴び、常に刀と踊ってきた者の熱血は、いずれ無情の鋼鉄によって冷めてしまう。",
             "type": "キャラと武器育成素材"
           },
@@ -4944,7 +4944,7 @@
             "name": "永続コア",
             "count": 12,
             "rank": 4,
-            "icon": "/assets/images/Nilou_material_113038_1753019982080.png",
+            "icon": "/assets/images/Nilou_material_113038_1753021565550.png",
             "description": "謎めいた遺跡機械からとれた駆動装置。\\n動かすべき機体が壊れたにもかかわらず、回り続けている。\\n地上に際限なく出力できるエネルギー源など存在しないはずであり、「永久運動」に関する研究成果も大多数が反証されてしまった。それを踏まえてこのコアを見てみると、既に滅亡したこの文明はかつて、人が触れてはならない領域にまで達していたことがわかる。",
             "type": "キャラクター育成素材"
           }
@@ -4979,7 +4979,7 @@
             "name": "ルッカデヴァータダケ",
             "count": 60,
             "rank": 1,
-            "icon": "/assets/images/Collei_material_101213_1753019978317.png",
+            "icon": "/assets/images/Collei_material_101213_1753021559935.png",
             "description": "雲海のように重なり合って成長するキノコ類。ほとんどは雨林の奥深くの高木に生えている。",
             "type": "スメール地域の特産"
           },
@@ -4988,7 +4988,7 @@
             "name": "自由のターコイズ",
             "count": 6,
             "rank": 5,
-            "icon": "/assets/images/Jean_material_104154_1753019916123.png",
+            "icon": "/assets/images/Jean_material_104154_1753021472885.png",
             "description": "キャラクターの突破用アイテム。\\n「風向きは変わるもの。」\\n「いつか、光射す方へと吹いてくる。」\\n「これからは、ボクの祝福と共に、もっと自由に生きていこう。」",
             "type": "キャラクター突破素材"
           },
@@ -4997,7 +4997,7 @@
             "name": "名刀の鍔",
             "count": 24,
             "rank": 3,
-            "icon": "/assets/images/Kamisato Ayaka_material_112046_1753019914870.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_112046_1753021471464.png",
             "description": "名刀に取り付けられた美しい防具。\\n刀には魂が宿り、命が存在すると人々は信じている。刀に名前を付けるのも、そのためである。刀を大切にする者は、刀にも報われる。しかし、刀と親友に、ひいては恋人にまでなった者は、その感情は殺伐を伴うことを肝に銘じておかなければならない。血を浴び、常に刀と踊ってきた者の熱血は、いずれ無情の鋼鉄によって冷めてしまう。",
             "type": "キャラと武器育成素材"
           },
@@ -5006,7 +5006,7 @@
             "name": "永続コア",
             "count": 20,
             "rank": 4,
-            "icon": "/assets/images/Nilou_material_113038_1753019982080.png",
+            "icon": "/assets/images/Nilou_material_113038_1753021565550.png",
             "description": "謎めいた遺跡機械からとれた駆動装置。\\n動かすべき機体が壊れたにもかかわらず、回り続けている。\\n地上に際限なく出力できるエネルギー源など存在しないはずであり、「永久運動」に関する研究成果も大多数が反証されてしまった。それを踏まえてこのコアを見てみると、既に滅亡したこの文明はかつて、人が触れてはならない領域にまで達していたことがわかる。",
             "type": "キャラクター育成素材"
           }

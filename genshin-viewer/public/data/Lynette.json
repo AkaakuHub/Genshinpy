@@ -8,7 +8,7 @@
   "region": "Fontaine",
   "constellation": "白尾猫座",
   "description": "口数が少なく、表情に乏しいマジックアシスタント。その性格は猫のようにつかみどころがない。",
-  "icon": "/assets/images/Lynette_icon_1753019998094.png",
+  "icon": "/assets/images/Lynette_icon_1753021588381.png",
   "profile": {
     "baseHp": 1039.442,
     "baseAtk": 19.411,
@@ -23,7 +23,7 @@
       "id": "ラピッド・レイピア",
       "name": "ラピッド・レイピア",
       "description": "",
-      "icon": "/assets/images/Kamisato Ayaka_normal_attack_1753019914804.png",
+      "icon": "/assets/images/Kamisato Ayaka_normal_attack_1753021471401.png",
       "skillType": "normal",
       "params": {
         "1": [],
@@ -47,7 +47,7 @@
       "id": "エニグマティック·フェイント",
       "name": "エニグマティック·フェイント",
       "description": "",
-      "icon": "/assets/images/Lynette_elemental_skill_1753019998094.png",
+      "icon": "/assets/images/Lynette_elemental_skill_1753021588381.png",
       "levelData": [
         {
           "tableIndex": 1,
@@ -77,7 +77,7 @@
             0
           ],
           "description": [
-            "エニグマ·スラ���トのダメージ|{param1:F1P}",
+            "エニグマ·スラストのダメージ|{param1:F1P}",
             "迸発の刃のダメージ|{param3:F1P}",
             "迸発の刃の間隔|{param8:F1}秒",
             "命中回復量|HP上限{param4:P}",
@@ -884,7 +884,7 @@
             "迸発の刃の間隔|{param8:F1}秒",
             "命中回復量|HP上限{param4:P}",
             "HP消費|現在HP{param6:P}/秒",
-            "長押し最大継続���間|{param9:F1}秒",
+            "長押し最大継続時間|{param9:F1}秒",
             "クールタイム|{param7:F1}秒",
             "",
             "",
@@ -1136,21 +1136,21 @@
     "elementalBurst": {
       "name": "巧妙なコンビネーション",
       "description": "",
-      "icon": "/assets/images/Lynette_elemental_burst_1753019998095.png",
+      "icon": "/assets/images/Lynette_elemental_burst_1753021588381.png",
       "levelData": []
     },
     "passiveTalents": [
       {
         "name": "巧妙なコンビネーション",
-        "icon": "/assets/images/Lynette_passive_1_1753019998095.png"
+        "icon": "/assets/images/Lynette_passive_1_1753021588381.png"
       },
       {
         "name": "プロップは完備",
-        "icon": "/assets/images/Lynette_passive_2_1753019998095.png"
+        "icon": "/assets/images/Lynette_passive_2_1753021588381.png"
       },
       {
         "name": "場所法の記憶術",
-        "icon": "/assets/images/Lynette_passive_3_1753019998095.png"
+        "icon": "/assets/images/Lynette_passive_3_1753021588381.png"
       }
     ],
     "completeTableData": [
@@ -1744,7 +1744,7 @@
               0
             ],
             "description": [
-              "1���ダメージ|{param1:F1P}",
+              "1段ダメージ|{param1:F1P}",
               "2段ダメージ|{param2:F1P}",
               "3段ダメージ|{param3:F1P}+{param4:F1P}",
               "4段ダメージ|{param5:F1P}",
@@ -1893,7 +1893,7 @@
               "4段ダメージ|{param5:F1P}",
               "重撃ダメージ|{param6:F1P}+{param7:F1P}",
               "重撃スタミナ消費|{param8:F1}",
-              "落下期間の���メージ|{param9:F1P}",
+              "落下期間のダメージ|{param9:F1P}",
               "低空/高空落下攻撃ダメージ|{param10:P}/{param11:P}",
               "",
               "",
@@ -2230,7 +2230,7 @@
               0
             ],
             "description": [
-              "エニグマ·スラ���トのダメージ|{param1:F1P}",
+              "エニグマ·スラストのダメージ|{param1:F1P}",
               "迸発の刃のダメージ|{param3:F1P}",
               "迸発の刃の間隔|{param8:F1}秒",
               "命中回復量|HP上限{param4:P}",
@@ -3004,7 +3004,7 @@
               "迸発の刃の間隔|{param8:F1}秒",
               "命中回復量|HP上限{param4:P}",
               "HP消費|現在HP{param6:P}/秒",
-              "長押し最大継続���間|{param9:F1}秒",
+              "長押し最大継続時間|{param9:F1}秒",
               "クールタイム|{param7:F1}秒",
               "",
               "",
@@ -3906,7 +3906,7 @@
             ],
             "description": [
               "スキルダメージ|{param1:F1P}",
-              "ビックラキャット·ボックスのダメージ|{param2:F1P}",
+              "ビ��クラキャット·ボックスのダメージ|{param2:F1P}",
               "リボンバレットのダメージ|{param3:F1P}",
               "ビックラキャット·ボックスの継続時間|{param4:F1}秒",
               "クールタイム|{param5:F1}秒",
@@ -4317,32 +4317,32 @@
       {
         "level": null,
         "name": "流影幻視の冷刃",
-        "icon": "/assets/images/Lynette_constellation_cNaN_1753019998095.png"
+        "icon": "/assets/images/Lynette_constellation_cNaN_1753021588382.png"
       },
       {
         "level": null,
         "name": "千変万化の怪奇",
-        "icon": "/assets/images/Lynette_constellation_cNaN_1753019998095.png"
+        "icon": "/assets/images/Lynette_constellation_cNaN_1753021588382.png"
       },
       {
         "level": null,
         "name": "視覚認知の倒錯",
-        "icon": "/assets/images/Lynette_constellation_cNaN_1753019998095.png"
+        "icon": "/assets/images/Lynette_constellation_cNaN_1753021588382.png"
       },
       {
         "level": null,
         "name": "暗黙霊犀の連携",
-        "icon": "/assets/images/Lynette_constellation_cNaN_1753019998095.png"
+        "icon": "/assets/images/Lynette_constellation_cNaN_1753021588382.png"
       },
       {
         "level": null,
         "name": "闇黒遮眼の遁法",
-        "icon": "/assets/images/Lynette_constellation_cNaN_1753019998095.png"
+        "icon": "/assets/images/Lynette_constellation_cNaN_1753021588382.png"
       },
       {
         "level": null,
         "name": "真意看破の双眸",
-        "icon": "/assets/images/Lynette_constellation_cNaN_1753019998095.png"
+        "icon": "/assets/images/Lynette_constellation_cNaN_1753021588382.png"
       }
     ]
   },
@@ -4359,14 +4359,14 @@
     "id": 210166,
     "name": "リネット·実現",
     "description": "リネット·実現",
-    "icon": "/assets/images/Lynette_icon_1753019998094.png"
+    "icon": "/assets/images/Lynette_icon_1753021588381.png"
   },
   "specialFood": {
     "id": 108565,
     "name": "アフタヌーンティー",
     "rank": 3,
-    "icon": "/assets/images/Lynette_special_food_1753019998095.png",
-    "effectIcon": "/assets/images/Klee_food_effect_1753019932434.png"
+    "icon": "/assets/images/Lynette_special_food_1753021588382.png",
+    "effectIcon": "/assets/images/Klee_food_effect_1753021493828.png"
   },
   "levelProgression": [
     {
@@ -4682,7 +4682,7 @@
             "name": "ルミドゥースベル",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Lynette_material_101235_1753019998119.png",
+            "icon": "/assets/images/Lynette_material_101235_1753021588553.png",
             "description": "優雅に佇む、紫色の清楚な花。淡く清らかな香りは繊細にして優しく、貴重な香水の製造に使われることが多い。",
             "type": "フォンテーヌ地域の特産"
           },
@@ -4691,7 +4691,7 @@
             "name": "自由のターコイズ·砕屑",
             "count": 1,
             "rank": 2,
-            "icon": "/assets/images/Jean_material_104151_1753019916128.png",
+            "icon": "/assets/images/Jean_material_104151_1753021472886.png",
             "description": "キャラクターの突破用アイテム。",
             "type": "キャラクター突破素材"
           },
@@ -4700,7 +4700,7 @@
             "name": "整合の歯車",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Lynette_material_112083_1753019998134.png",
+            "icon": "/assets/images/Lynette_material_112083_1753021588602.png",
             "description": "クロックワーク·マシナリーの歯車。\\n動力伝達のための重要な部品。この部品がないと、対応のモジュールは機能しなくなる。",
             "type": "キャラと武器育成素材"
           }
@@ -4731,7 +4731,7 @@
             "name": "ルミドゥースベル",
             "count": 10,
             "rank": 1,
-            "icon": "/assets/images/Lynette_material_101235_1753019998119.png",
+            "icon": "/assets/images/Lynette_material_101235_1753021588553.png",
             "description": "優雅に佇む、紫色の清楚な花。淡く清らかな香りは繊細にして優しく、貴重な香水の製造に使われることが多い。",
             "type": "フォンテーヌ地域の特産"
           },
@@ -4740,7 +4740,7 @@
             "name": "自由のターコイズ·欠片",
             "count": 3,
             "rank": 3,
-            "icon": "/assets/images/Jean_material_104152_1753019916123.png",
+            "icon": "/assets/images/Jean_material_104152_1753021472885.png",
             "description": "キャラクターの突破用アイテム。\\n「風向きは変わるもの。」",
             "type": "キャラクター突破素材"
           },
@@ -4749,7 +4749,7 @@
             "name": "整合の歯車",
             "count": 15,
             "rank": 1,
-            "icon": "/assets/images/Lynette_material_112083_1753019998134.png",
+            "icon": "/assets/images/Lynette_material_112083_1753021588602.png",
             "description": "クロックワーク·マシナリーの歯車。\\n動力伝達のための重要な部品。この部品がないと、対応のモジュールは機能しなくなる。",
             "type": "キャラと武器育成素材"
           },
@@ -4758,7 +4758,7 @@
             "name": "奇械部品·コッペリア",
             "count": 2,
             "rank": 4,
-            "icon": "/assets/images/Lynette_material_113049_1753019998136.png",
+            "icon": "/assets/images/Lynette_material_113049_1753021588581.png",
             "description": "コッペリアの奇械部品。奇械ダンサーにエネルギーを供給できる。\\n製作者の構想の中で、細くしなやかな関節を持つ奇械ダンサーの物語は、喜びに満ちた瞬間に留まったままだ。もしこの瞬間を邪魔しようとする者がいれば、コッペリアは並外れた戦闘能力でその招かれざる客に悲運の一節を贈るだろう。",
             "type": "キャラクター育成素材"
           }
@@ -4793,7 +4793,7 @@
             "name": "ルミドゥースベル",
             "count": 20,
             "rank": 1,
-            "icon": "/assets/images/Lynette_material_101235_1753019998119.png",
+            "icon": "/assets/images/Lynette_material_101235_1753021588553.png",
             "description": "優雅に佇む、紫色の清楚な花。淡く清らかな香りは繊細にして優しく、貴重な香水の製造に使われることが多い。",
             "type": "フォンテーヌ地域の特産"
           },
@@ -4802,7 +4802,7 @@
             "name": "自由のターコイズ·欠片",
             "count": 6,
             "rank": 3,
-            "icon": "/assets/images/Jean_material_104152_1753019916123.png",
+            "icon": "/assets/images/Jean_material_104152_1753021472885.png",
             "description": "キャラクターの突破用アイテム。\\n「風向きは変わるもの。」",
             "type": "キャラクター突破素材"
           },
@@ -4811,7 +4811,7 @@
             "name": "機構の平歯車",
             "count": 12,
             "rank": 2,
-            "icon": "/assets/images/Lynette_material_112084_1753019998133.png",
+            "icon": "/assets/images/Lynette_material_112084_1753021588742.png",
             "description": "クロックワーク·マシナリーの歯車。\\nクロックワーク·マシナリーは運動学において数々の画期的な進歩を遂げてきたが、動力学においては、400年以上も前に、アラン·ギヨタンが築き上げた基礎と枠を未だに突破できていない。",
             "type": "キャラと武器育成素材"
           },
@@ -4820,7 +4820,7 @@
             "name": "奇械部品·コッペリア",
             "count": 4,
             "rank": 4,
-            "icon": "/assets/images/Lynette_material_113049_1753019998136.png",
+            "icon": "/assets/images/Lynette_material_113049_1753021588581.png",
             "description": "コッペリアの奇械部品。奇械ダンサーにエネルギーを供給できる。\\n製作者の構想の中で、細くしなやかな関節を持つ奇械ダンサーの物語は、喜びに満ちた瞬間に留まったままだ。もしこの瞬間を邪魔しようとする者がいれば、コッペリアは並外れた戦闘能力でその招かれざる客に悲運の一節を贈るだろう。",
             "type": "キャラクター育成素材"
           }
@@ -4855,7 +4855,7 @@
             "name": "ルミドゥースベル",
             "count": 30,
             "rank": 1,
-            "icon": "/assets/images/Lynette_material_101235_1753019998119.png",
+            "icon": "/assets/images/Lynette_material_101235_1753021588553.png",
             "description": "優雅に佇む、紫色の清楚な花。淡く清らかな香りは繊細にして優しく、貴重な香水の製造に使われることが多い。",
             "type": "フォンテーヌ地域の特産"
           },
@@ -4864,7 +4864,7 @@
             "name": "自由のターコイズ·塊",
             "count": 3,
             "rank": 4,
-            "icon": "/assets/images/Jean_material_104153_1753019916118.png",
+            "icon": "/assets/images/Jean_material_104153_1753021472882.png",
             "description": "キャラクターの突破用アイテム。\\n「風向きは変わるもの。」\\n「いつか、光射す方へと吹いてくる。」",
             "type": "キャラクター突破素材"
           },
@@ -4873,7 +4873,7 @@
             "name": "機構の平歯車",
             "count": 18,
             "rank": 2,
-            "icon": "/assets/images/Lynette_material_112084_1753019998133.png",
+            "icon": "/assets/images/Lynette_material_112084_1753021588742.png",
             "description": "クロックワーク·マシナリーの歯車。\\nクロックワーク·マシナリーは運動学において数々の画期的な進歩を遂げてきたが、動力学においては、400年以上も前に、アラン·ギヨタンが築き上げた基礎と枠を未だに突破できていない。",
             "type": "キャラと武器育成素材"
           },
@@ -4882,7 +4882,7 @@
             "name": "奇械部品·コッペリア",
             "count": 8,
             "rank": 4,
-            "icon": "/assets/images/Lynette_material_113049_1753019998136.png",
+            "icon": "/assets/images/Lynette_material_113049_1753021588581.png",
             "description": "コッペリアの奇械部品。奇械ダンサーにエネルギーを供給できる。\\n製作者の構想の中で、細くしなやかな関節を持つ奇械ダンサーの物語は、喜びに満ちた瞬間に留まったままだ。もしこの瞬間を邪魔しようとする者がいれば、コッペリアは並外れた戦闘能力でその招かれざる客に悲運の一節を贈るだろう。",
             "type": "キャラクター育成素材"
           }
@@ -4917,7 +4917,7 @@
             "name": "ルミドゥースベル",
             "count": 45,
             "rank": 1,
-            "icon": "/assets/images/Lynette_material_101235_1753019998119.png",
+            "icon": "/assets/images/Lynette_material_101235_1753021588553.png",
             "description": "優雅に佇む、紫色の清楚な花。淡く清らかな香りは繊細にして優しく、貴重な香水の製造に使われることが多い。",
             "type": "フォンテーヌ地域の特産"
           },
@@ -4926,7 +4926,7 @@
             "name": "自由のターコイズ·塊",
             "count": 6,
             "rank": 4,
-            "icon": "/assets/images/Jean_material_104153_1753019916118.png",
+            "icon": "/assets/images/Jean_material_104153_1753021472882.png",
             "description": "キャラクターの突破用アイテム。\\n「風向きは変わるもの。」\\n「いつか、光射す方へと吹いてくる。」",
             "type": "キャラクター突破素材"
           },
@@ -4935,7 +4935,7 @@
             "name": "奇械のコア歯車",
             "count": 12,
             "rank": 3,
-            "icon": "/assets/images/Lynette_material_112085_1753019998139.png",
+            "icon": "/assets/images/Lynette_material_112085_1753021588717.png",
             "description": "クロックワーク·マシナリーの歯車。\\n加工の精度および材料学の進歩はフォンテーヌのクロックワーク·マシナリーの発展のカギとなる。先進的設備の力を借りれば、どのエンジニアだって「奇械公」ギヨタンの時代を凌駕する機械を作り出せる可能性がある。",
             "type": "キャラと武器育成素材"
           },
@@ -4944,7 +4944,7 @@
             "name": "奇械部品·コッペリア",
             "count": 12,
             "rank": 4,
-            "icon": "/assets/images/Lynette_material_113049_1753019998136.png",
+            "icon": "/assets/images/Lynette_material_113049_1753021588581.png",
             "description": "コッペリアの奇械部品。奇械ダンサーにエネルギーを供給できる。\\n製作者の構想の中で、細くしなやかな関節を持つ奇械ダンサーの物語は、喜びに満ちた瞬間に留まったままだ。もしこの瞬間を邪魔しようとする者がいれば、コッペリアは並外れた戦闘能力でその招かれざる客に悲運の一節を贈るだろう。",
             "type": "キャラクター育成素材"
           }
@@ -4979,7 +4979,7 @@
             "name": "ルミドゥースベル",
             "count": 60,
             "rank": 1,
-            "icon": "/assets/images/Lynette_material_101235_1753019998119.png",
+            "icon": "/assets/images/Lynette_material_101235_1753021588553.png",
             "description": "優雅に佇む、紫色の清楚な花。淡く清らかな香りは繊細にして優しく、貴重な香水の製造に使われることが多い。",
             "type": "フォンテーヌ地域の特産"
           },
@@ -4988,7 +4988,7 @@
             "name": "自由のターコイズ",
             "count": 6,
             "rank": 5,
-            "icon": "/assets/images/Jean_material_104154_1753019916123.png",
+            "icon": "/assets/images/Jean_material_104154_1753021472885.png",
             "description": "キャラクターの突破用アイテム。\\n「風向きは変わるもの。」\\n「いつか、光射す方へと吹いてくる。」\\n「これからは、ボクの祝福と共に、もっと自由に生きていこう。」",
             "type": "キャラクター突破素材"
           },
@@ -4997,7 +4997,7 @@
             "name": "奇械のコア歯車",
             "count": 24,
             "rank": 3,
-            "icon": "/assets/images/Lynette_material_112085_1753019998139.png",
+            "icon": "/assets/images/Lynette_material_112085_1753021588717.png",
             "description": "クロックワーク·マシナリーの歯車。\\n加工の精度および材料学の進歩はフォンテーヌのクロックワーク·マシナリーの発展のカギとなる。先進的設備の力を借りれば、どのエンジニアだって「奇械公」ギヨタンの時代を凌駕する機械を作り出せる可能性がある。",
             "type": "キャラと武器育成素材"
           },
@@ -5006,7 +5006,7 @@
             "name": "奇械部品·コッペリア",
             "count": 20,
             "rank": 4,
-            "icon": "/assets/images/Lynette_material_113049_1753019998136.png",
+            "icon": "/assets/images/Lynette_material_113049_1753021588581.png",
             "description": "コッペリアの奇械部品。奇械ダンサーにエネルギーを供給できる。\\n製作者の構想の中で、細くしなやかな関節を持つ奇械ダンサーの物語は、喜びに満ちた瞬間に留まったままだ。もしこの瞬間を邪魔しようとする者がいれば、コッペリアは並外れた戦闘能力でその招かれざる客に悲運の一節を贈るだろう。",
             "type": "キャラクター育成素材"
           }

@@ -8,7 +8,7 @@
   "region": "Fontaine",
   "constellation": "黒斑猫座",
   "description": "話術に長け、優れた表現力を持つフォンテーヌの名高い魔術師。巧妙な手品と言葉で観客たちの心を動かす。",
-  "icon": "/assets/images/Lyney_icon_1753019999328.png",
+  "icon": "/assets/images/Lyney_icon_1753021590373.png",
   "profile": {
     "baseHp": 857.988,
     "baseAtk": 24.765,
@@ -23,7 +23,7 @@
       "id": "フォース・カード",
       "name": "フォース・カード",
       "description": "",
-      "icon": "/assets/images/Amber_normal_attack_1753019923613.png",
+      "icon": "/assets/images/Amber_normal_attack_1753021482404.png",
       "skillType": "normal",
       "params": {
         "1": [],
@@ -47,7 +47,7 @@
       "id": "ビウィルダー·ライト",
       "name": "ビウィルダー·ライト",
       "description": "",
-      "icon": "/assets/images/Lyney_elemental_skill_1753019999328.png",
+      "icon": "/assets/images/Lyney_elemental_skill_1753021590373.png",
       "levelData": [
         {
           "tableIndex": 1,
@@ -1136,21 +1136,21 @@
     "elementalBurst": {
       "name": "息を呑むパフォーマンス",
       "description": "",
-      "icon": "/assets/images/Lyney_elemental_burst_1753019999328.png",
+      "icon": "/assets/images/Lyney_elemental_burst_1753021590374.png",
       "levelData": []
     },
     "passiveTalents": [
       {
         "name": "息を呑むパフォーマンス",
-        "icon": "/assets/images/Lyney_passive_1_1753019999328.png"
+        "icon": "/assets/images/Lyney_passive_1_1753021590374.png"
       },
       {
         "name": "フィナーレの喝采",
-        "icon": "/assets/images/Lyney_passive_2_1753019999328.png"
+        "icon": "/assets/images/Lyney_passive_2_1753021590374.png"
       },
       {
         "name": "鋭い観察術",
-        "icon": "/assets/images/Lyney_passive_3_1753019999328.png"
+        "icon": "/assets/images/Lyney_passive_3_1753021590374.png"
       }
     ],
     "completeTableData": [
@@ -1264,7 +1264,7 @@
               "HP消費|HP上限{param12:P}",
               "ファニーキャット·ハットのHP継承|{param13:P}",
               "ファニーキャット·ハットの継続時間|{param14:F1}秒",
-              "クラッカーバレットのダメージ|{param15:F1P}",
+              "クラッカーバレットのダ��ージ|{param15:F1P}",
               "霊息の棘のダメージ|{param16:F1P}",
               "霊息の棘の間隔|{param17:F1}秒",
               ""
@@ -1396,7 +1396,7 @@
               "2段ダメージ|{param2:F1P}",
               "3段ダメージ|{param3:F1P}+{param4:F1P}",
               "4段ダメージ|{param5:F1P}",
-              "落下期間���ダメージ|{param6:F1P}",
+              "落下期間のダメージ|{param6:F1P}",
               "低空/高空落下攻撃ダメージ|{param7:F1P}/{param8:F1P}",
               "狙い撃ち|{param9:F1P}",
               "1段チャージ狙い撃ち|{param10:F1P}",
@@ -1607,7 +1607,7 @@
               "3段ダメージ|{param3:F1P}+{param4:F1P}",
               "4段ダメージ|{param5:F1P}",
               "落下期間のダメージ|{param6:F1P}",
-              "低空/高空落��攻撃ダメージ|{param7:F1P}/{param8:F1P}",
+              "低空/高空落下���撃ダメージ|{param7:F1P}/{param8:F1P}",
               "狙い撃ち|{param9:F1P}",
               "1段チャージ狙い撃ち|{param10:F1P}",
               "プロップアローのダメージ|{param11:F1P}",
@@ -1820,7 +1820,7 @@
               "3段ダメージ|{param3:F1P}+{param4:F1P}",
               "4段ダメージ|{param5:F1P}",
               "落下期間のダメージ|{param6:F1P}",
-              "低空/高空落下攻撃ダメージ|{param7:F1P}/{param8:F1P}",
+              "低空/��空落下攻撃ダメージ|{param7:F1P}/{param8:F1P}",
               "狙い撃ち|{param9:F1P}",
               "1段チャージ狙い撃ち|{param10:F1P}",
               "プロップアローのダメージ|{param11:F1P}",
@@ -2028,7 +2028,7 @@
               "落下期間のダメージ|{param6:F1P}",
               "低空/高空落下攻撃ダメージ|{param7:F1P}/{param8:F1P}",
               "狙い撃ち|{param9:F1P}",
-              "1段チャー��狙い撃ち|{param10:F1P}",
+              "1段チャージ���い撃ち|{param10:F1P}",
               "プロップアローのダメージ|{param11:F1P}",
               "HP消費|HP上限{param12:P}",
               "ファニーキャット·ハットのHP継承|{param13:P}",
@@ -4317,32 +4317,32 @@
       {
         "level": null,
         "name": "奇想天外の芸当",
-        "icon": "/assets/images/Lyney_constellation_cNaN_1753019999329.png"
+        "icon": "/assets/images/Lyney_constellation_cNaN_1753021590374.png"
       },
       {
         "level": null,
         "name": "巧言令色の誘引",
-        "icon": "/assets/images/Lyney_constellation_cNaN_1753019999329.png"
+        "icon": "/assets/images/Lyney_constellation_cNaN_1753021590374.png"
       },
       {
         "level": null,
         "name": "玄妙敏速の手品",
-        "icon": "/assets/images/Lyney_constellation_cNaN_1753019999329.png"
+        "icon": "/assets/images/Lyney_constellation_cNaN_1753021590374.png"
       },
       {
         "level": null,
         "name": "熟知熟練の方策",
-        "icon": "/assets/images/Lyney_constellation_cNaN_1753019999329.png"
+        "icon": "/assets/images/Lyney_constellation_cNaN_1753021590374.png"
       },
       {
         "level": null,
         "name": "隠密強襲の通則",
-        "icon": "/assets/images/Lyney_constellation_cNaN_1753019999329.png"
+        "icon": "/assets/images/Lyney_constellation_cNaN_1753021590374.png"
       },
       {
         "level": null,
         "name": "本心相違の微笑",
-        "icon": "/assets/images/Lyney_constellation_cNaN_1753019999329.png"
+        "icon": "/assets/images/Lyney_constellation_cNaN_1753021590374.png"
       }
     ]
   },
@@ -4359,14 +4359,14 @@
     "id": 210165,
     "name": "リネ·幻像",
     "description": "リネ·幻像",
-    "icon": "/assets/images/Lyney_icon_1753019999328.png"
+    "icon": "/assets/images/Lyney_namecard_1753021590543.png"
   },
   "specialFood": {
     "id": 108564,
     "name": "キューブトリック",
     "rank": 3,
-    "icon": "/assets/images/Lyney_special_food_1753019999329.png",
-    "effectIcon": "/assets/images/Diluc_food_effect_1753019921109.png"
+    "icon": "/assets/images/Lyney_special_food_1753021590374.png",
+    "effectIcon": "/assets/images/Diluc_food_effect_1753021479185.png"
   },
   "levelProgression": [
     {
@@ -4682,7 +4682,7 @@
             "name": "レインボーローズ",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Lyney_material_101236_1753019999345.png",
+            "icon": "/assets/images/Lyney_material_101236_1753021590530.png",
             "description": "すらりと伸びる姿が美しい、柔らかなピンク色の花。ローズという名前ではあるが、実際は百合により近い。",
             "type": "フォンテーヌ地域の特産"
           },
@@ -4691,7 +4691,7 @@
             "name": "炎願のアゲート·砕屑",
             "count": 1,
             "rank": 2,
-            "icon": "/assets/images/Diluc_material_104111_1753019921126.png",
+            "icon": "/assets/images/Diluc_material_104111_1753021479198.png",
             "description": "キャラクターの突破用アイテム。",
             "type": "キャラクター突破素材"
           },
@@ -4700,7 +4700,7 @@
             "name": "新兵の記章",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Diluc_material_112032_1753019921125.png",
+            "icon": "/assets/images/Diluc_material_112032_1753021479204.png",
             "description": "新兵の身分を記した記章。かつてこれをつけた人は、どんな気持ちでファデュイの戦争兵器になったのだろうか。",
             "type": "キャラと武器育成素材"
           }
@@ -4731,7 +4731,7 @@
             "name": "レインボーローズ",
             "count": 10,
             "rank": 1,
-            "icon": "/assets/images/Lyney_material_101236_1753019999345.png",
+            "icon": "/assets/images/Lyney_material_101236_1753021590530.png",
             "description": "すらりと伸びる姿が美しい、柔らかなピンク色の花。ローズという名前ではあるが、実際は百合により近い。",
             "type": "フォンテーヌ地域の特産"
           },
@@ -4740,7 +4740,7 @@
             "name": "炎願のアゲート·欠片",
             "count": 3,
             "rank": 3,
-            "icon": "/assets/images/Diluc_material_104112_1753019921124.png",
+            "icon": "/assets/images/Diluc_material_104112_1753021479201.png",
             "description": "キャラクターの突破用アイテム。\\n「人々の願いのため、巡礼の道を歩もう。最強を目指して集い、戦うのだ…」",
             "type": "キャラクター突破素材"
           },
@@ -4749,7 +4749,7 @@
             "name": "新兵の記章",
             "count": 15,
             "rank": 1,
-            "icon": "/assets/images/Diluc_material_112032_1753019921125.png",
+            "icon": "/assets/images/Diluc_material_112032_1753021479204.png",
             "description": "新兵の身分を記した記章。かつてこれをつけた人は、どんな気持ちでファデュイの戦争兵器になったのだろうか。",
             "type": "キャラと武器育成素材"
           },
@@ -4758,7 +4758,7 @@
             "name": "帝王の決断",
             "count": 2,
             "rank": 4,
-            "icon": "/assets/images/Lyney_material_113051_1753019999339.png",
+            "icon": "/assets/images/Lyney_material_113051_1753021590562.png",
             "description": "鉄甲熔炎帝王のハンマー。\\nその巨大な爪は、他の原海アベラント、クロックワーク・マシナリー、はたまた突然現れた討伐者を問わず、無数の謁見者を粉々にしてきた。\\n人間と違って、原海アベラントの中には、貴族とか金持ちの親を持つ子供とか存在しないし、生まれながらに高貴な身分に恵まれる等あり得ない。如何なる逆境をも乗り越え、全ての天敵との闘いで勝ち続けてきた原海アベラントは、長い歳月の捕食により力を蓄え続けた末に、覇者と呼ばれ恐れられる存在となった。",
             "type": "キャラクター育成素材"
           }
@@ -4793,7 +4793,7 @@
             "name": "レインボーローズ",
             "count": 20,
             "rank": 1,
-            "icon": "/assets/images/Lyney_material_101236_1753019999345.png",
+            "icon": "/assets/images/Lyney_material_101236_1753021590530.png",
             "description": "すらりと伸びる姿が美しい、柔らかなピンク色の花。ローズという名前ではあるが、実際は百合により近い。",
             "type": "フォンテーヌ地域の特産"
           },
@@ -4802,7 +4802,7 @@
             "name": "炎願のアゲート·欠片",
             "count": 6,
             "rank": 3,
-            "icon": "/assets/images/Diluc_material_104112_1753019921124.png",
+            "icon": "/assets/images/Diluc_material_104112_1753021479201.png",
             "description": "キャラクターの突破用アイテム。\\n「人々の願いのため、巡礼の道を歩もう。最強を目指して集い、戦うのだ…」",
             "type": "キャラクター突破素材"
           },
@@ -4811,7 +4811,7 @@
             "name": "士官の記章",
             "count": 12,
             "rank": 2,
-            "icon": "/assets/images/Diluc_material_112033_1753019921152.png",
+            "icon": "/assets/images/Diluc_material_112033_1753021479224.png",
             "description": "士官の身分を記した記章、一般兵士とは異なる独特なデザインがあるのは、その複雑な気持ちが含まれたからだろうか。",
             "type": "キャラと武器育成素材"
           },
@@ -4820,7 +4820,7 @@
             "name": "帝王の決断",
             "count": 4,
             "rank": 4,
-            "icon": "/assets/images/Lyney_material_113051_1753019999339.png",
+            "icon": "/assets/images/Lyney_material_113051_1753021590562.png",
             "description": "鉄甲熔炎帝王のハンマー。\\nその巨大な爪は、他の原海アベラント、クロックワーク・マシナリー、はたまた突然現れた討伐者を問わず、無数の謁見者を粉々にしてきた。\\n人間と違って、原海アベラントの中には、貴族とか金持ちの親を持つ子供とか存在しないし、生まれながらに高貴な身分に恵まれる等あり得ない。如何なる逆境をも乗り越え、全ての天敵との闘いで勝ち続けてきた原海アベラントは、長い歳月の捕食により力を蓄え続けた末に、覇者と呼ばれ恐れられる存在となった。",
             "type": "キャラクター育成素材"
           }
@@ -4855,7 +4855,7 @@
             "name": "レインボーローズ",
             "count": 30,
             "rank": 1,
-            "icon": "/assets/images/Lyney_material_101236_1753019999345.png",
+            "icon": "/assets/images/Lyney_material_101236_1753021590530.png",
             "description": "すらりと伸びる姿が美しい、柔らかなピンク色の花。ローズという名前ではあるが、実際は百合により近い。",
             "type": "フォンテーヌ地域の特産"
           },
@@ -4864,7 +4864,7 @@
             "name": "炎願のアゲート·塊",
             "count": 3,
             "rank": 4,
-            "icon": "/assets/images/Diluc_material_104113_1753019921145.png",
+            "icon": "/assets/images/Diluc_material_104113_1753021479223.png",
             "description": "キャラクターの突破用アイテム。\\n「人々の願いのため、巡礼の道を歩もう。最強を目指して集い、戦うのだ…」\\n「最後は夢のために、劫火の中で燃え尽きる。」",
             "type": "キャラクター突破素材"
           },
@@ -4873,7 +4873,7 @@
             "name": "士官の記章",
             "count": 18,
             "rank": 2,
-            "icon": "/assets/images/Diluc_material_112033_1753019921152.png",
+            "icon": "/assets/images/Diluc_material_112033_1753021479224.png",
             "description": "士官の身分を記した記章、一般兵士とは異なる独特なデザインがあるのは、その複雑な気持ちが含まれたからだろうか。",
             "type": "キャラと武器育成素材"
           },
@@ -4882,7 +4882,7 @@
             "name": "帝王の決断",
             "count": 8,
             "rank": 4,
-            "icon": "/assets/images/Lyney_material_113051_1753019999339.png",
+            "icon": "/assets/images/Lyney_material_113051_1753021590562.png",
             "description": "鉄甲熔炎帝王のハンマー。\\nその巨大な爪は、他の原海アベラント、クロックワーク・マシナリー、はたまた突然現れた討伐者を問わず、無数の謁見者を粉々にしてきた。\\n人間と違って、原海アベラントの中には、貴族とか金持ちの親を持つ子供とか存在しないし、生まれながらに高貴な身分に恵まれる等あり得ない。如何なる逆境をも乗り越え、全ての天敵との闘いで勝ち続けてきた原海アベラントは、長い歳月の捕食により力を蓄え続けた末に、覇者と呼ばれ恐れられる存在となった。",
             "type": "キャラクター育成素材"
           }
@@ -4917,7 +4917,7 @@
             "name": "レインボーローズ",
             "count": 45,
             "rank": 1,
-            "icon": "/assets/images/Lyney_material_101236_1753019999345.png",
+            "icon": "/assets/images/Lyney_material_101236_1753021590530.png",
             "description": "すらりと伸びる姿が美しい、柔らかなピンク色の花。ローズという名前ではあるが、実際は百合により近い。",
             "type": "フォンテーヌ地域の特産"
           },
@@ -4926,7 +4926,7 @@
             "name": "炎願のアゲート·塊",
             "count": 6,
             "rank": 4,
-            "icon": "/assets/images/Diluc_material_104113_1753019921145.png",
+            "icon": "/assets/images/Diluc_material_104113_1753021479223.png",
             "description": "キャラクターの突破用アイテム。\\n「人々の願いのため、巡礼の道を歩もう。最強を目指して集い、戦うのだ…」\\n「最後は夢のために、劫火の中で燃え尽きる。」",
             "type": "キャラクター突破素材"
           },
@@ -4935,7 +4935,7 @@
             "name": "尉官の記章",
             "count": 12,
             "rank": 3,
-            "icon": "/assets/images/Diluc_material_112034_1753019921132.png",
+            "icon": "/assets/images/Diluc_material_112034_1753021479218.png",
             "description": "尉官の身分を記した記章。ファデュイには膨大な軍隊があり、その中で尉官になれる人はきっと優れた能力があるだろう。",
             "type": "キャラと武器育成素材"
           },
@@ -4944,7 +4944,7 @@
             "name": "帝王の決断",
             "count": 12,
             "rank": 4,
-            "icon": "/assets/images/Lyney_material_113051_1753019999339.png",
+            "icon": "/assets/images/Lyney_material_113051_1753021590562.png",
             "description": "鉄甲熔炎帝王のハンマー。\\nその巨大な爪は、他の原海アベラント、クロックワーク・マシナリー、はたまた突然現れた討伐者を問わず、無数の謁見者を粉々にしてきた。\\n人間と違って、原海アベラントの中には、貴族とか金持ちの親を持つ子供とか存在しないし、生まれながらに高貴な身分に恵まれる等あり得ない。如何なる逆境をも乗り越え、全ての天敵との闘いで勝ち続けてきた原海アベラントは、長い歳月の捕食により力を蓄え続けた末に、覇者と呼ばれ恐れられる存在となった。",
             "type": "キャラクター育成素材"
           }
@@ -4979,7 +4979,7 @@
             "name": "レインボーローズ",
             "count": 60,
             "rank": 1,
-            "icon": "/assets/images/Lyney_material_101236_1753019999345.png",
+            "icon": "/assets/images/Lyney_material_101236_1753021590530.png",
             "description": "すらりと伸びる姿が美しい、柔らかなピンク色の花。ローズという名前ではあるが、実際は百合により近い。",
             "type": "フォンテーヌ地域の特産"
           },
@@ -4988,7 +4988,7 @@
             "name": "炎願のアゲート",
             "count": 6,
             "rank": 5,
-            "icon": "/assets/images/Diluc_material_104114_1753019921150.png",
+            "icon": "/assets/images/Diluc_material_104114_1753021479226.png",
             "description": "キャラクターの突破用アイテム。\\n「人々の願いのため、巡礼の道を歩もう。最強を目指して集い、戦うのだ…」\\n「最後は夢のために、劫火の中で燃え尽きる。」\\n「その灰燼にまだ初心が残っていれば、██の真実に辿り着いたという。」",
             "type": "キャラクター突破素材"
           },
@@ -4997,7 +4997,7 @@
             "name": "尉官の記章",
             "count": 24,
             "rank": 3,
-            "icon": "/assets/images/Diluc_material_112034_1753019921132.png",
+            "icon": "/assets/images/Diluc_material_112034_1753021479218.png",
             "description": "尉官の身分を記した記章。ファデュイには膨大な軍隊があり、その中で尉官になれる人はきっと優れた能力があるだろう。",
             "type": "キャラと武器育成素材"
           },
@@ -5006,7 +5006,7 @@
             "name": "帝王の決断",
             "count": 20,
             "rank": 4,
-            "icon": "/assets/images/Lyney_material_113051_1753019999339.png",
+            "icon": "/assets/images/Lyney_material_113051_1753021590562.png",
             "description": "鉄甲熔炎帝王のハンマー。\\nその巨大な爪は、他の原海アベラント、クロックワーク・マシナリー、はたまた突然現れた討伐者を問わず、無数の謁見者を粉々にしてきた。\\n人間と違って、原海アベラントの中には、貴族とか金持ちの親を持つ子供とか存在しないし、生まれながらに高貴な身分に恵まれる等あり得ない。如何なる逆境をも乗り越え、全ての天敵との闘いで勝ち続けてきた原海アベラントは、長い歳月の捕食により力を蓄え続けた末に、覇者と呼ばれ恐れられる存在となった。",
             "type": "キャラクター育成素材"
           }
