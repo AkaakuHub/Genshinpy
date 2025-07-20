@@ -7,7 +7,7 @@
     "weaponType": "Sword",
     "rarity": 5,
     "region": "Inazuma",
-    "icon": "/assets/images/Kamisato Ayaka_icon_1753018583153.png"
+    "icon": "/assets/images/Kamisato Ayaka_icon_1753019914804.png"
   },
   {
     "id": "Jean",
@@ -17,7 +17,7 @@
     "weaponType": "Sword",
     "rarity": 5,
     "region": "Mondstadt",
-    "icon": "/assets/images/Jean_icon_1753018584471.png"
+    "icon": "/assets/images/Jean_icon_1753019916104.png"
   },
   {
     "id": "Lisa",
@@ -27,7 +27,7 @@
     "weaponType": "Catalyst",
     "rarity": 4,
     "region": "Mondstadt",
-    "icon": "/assets/images/Lisa_icon_1753018585917.png"
+    "icon": "/assets/images/Lisa_icon_1753019917353.png"
   },
   {
     "id": "Barbara",
@@ -37,7 +37,7 @@
     "weaponType": "Catalyst",
     "rarity": 4,
     "region": "Mondstadt",
-    "icon": "/assets/images/Barbara_icon_1753018587356.png"
+    "icon": "/assets/images/Barbara_icon_1753019918600.png"
   },
   {
     "id": "Kaeya",
@@ -47,7 +47,7 @@
     "weaponType": "Sword",
     "rarity": 4,
     "region": "Mondstadt",
-    "icon": "/assets/images/Kaeya_icon_1753018588797.png"
+    "icon": "/assets/images/Kaeya_icon_1753019919853.png"
   },
   {
     "id": "Diluc",
@@ -57,7 +57,7 @@
     "weaponType": "Claymore",
     "rarity": 5,
     "region": "Mondstadt",
-    "icon": "/assets/images/Diluc_icon_1753018590240.png"
+    "icon": "/assets/images/Diluc_icon_1753019921107.png"
   },
   {
     "id": "Razor",
@@ -67,7 +67,7 @@
     "weaponType": "Claymore",
     "rarity": 4,
     "region": "Mondstadt",
-    "icon": "/assets/images/Razor_icon_1753018591694.png"
+    "icon": "/assets/images/Razor_icon_1753019922362.png"
   },
   {
     "id": "Amber",
@@ -77,7 +77,7 @@
     "weaponType": "Bow",
     "rarity": 4,
     "region": "Mondstadt",
-    "icon": "/assets/images/Amber_icon_1753018593142.png"
+    "icon": "/assets/images/Amber_icon_1753019923613.png"
   },
   {
     "id": "Venti",
@@ -87,7 +87,7 @@
     "weaponType": "Bow",
     "rarity": 5,
     "region": "Mondstadt",
-    "icon": "/assets/images/Venti_icon_1753018594597.png"
+    "icon": "/assets/images/Venti_icon_1753019924861.png"
   },
   {
     "id": "Xiangling",
@@ -97,7 +97,7 @@
     "weaponType": "Polearm",
     "rarity": 4,
     "region": "Liyue",
-    "icon": "/assets/images/Xiangling_icon_1753018596049.png"
+    "icon": "/assets/images/Xiangling_icon_1753019926094.png"
   },
   {
     "id": "Beidou",
@@ -107,7 +107,7 @@
     "weaponType": "Claymore",
     "rarity": 4,
     "region": "Liyue",
-    "icon": "/assets/images/Beidou_icon_1753018597389.png"
+    "icon": "/assets/images/Beidou_icon_1753019927342.png"
   },
   {
     "id": "Xingqiu",
@@ -117,7 +117,7 @@
     "weaponType": "Sword",
     "rarity": 4,
     "region": "Liyue",
-    "icon": "/assets/images/Xingqiu_icon_1753018598636.png"
+    "icon": "/assets/images/Xingqiu_icon_1753019928574.png"
   },
   {
     "id": "Xiao",
@@ -127,7 +127,7 @@
     "weaponType": "Polearm",
     "rarity": 5,
     "region": "Liyue",
-    "icon": "/assets/images/Xiao_icon_1753018600088.png"
+    "icon": "/assets/images/Xiao_icon_1753019929896.png"
   },
   {
     "id": "Ningguang",
@@ -137,7 +137,7 @@
     "weaponType": "Catalyst",
     "rarity": 4,
     "region": "Liyue",
-    "icon": "/assets/images/Ningguang_icon_1753018601539.png"
+    "icon": "/assets/images/Ningguang_icon_1753019931153.png"
   },
   {
     "id": "Klee",
@@ -147,7 +147,7 @@
     "weaponType": "Catalyst",
     "rarity": 5,
     "region": "Mondstadt",
-    "icon": "/assets/images/Klee_icon_1753018602834.png"
+    "icon": "/assets/images/Klee_icon_1753019932432.png"
   },
   {
     "id": "Zhongli",
@@ -157,7 +157,7 @@
     "weaponType": "Polearm",
     "rarity": 5,
     "region": "Liyue",
-    "icon": "/assets/images/Zhongli_icon_1753018604275.png"
+    "icon": "/assets/images/Zhongli_icon_1753019933691.png"
   },
   {
     "id": "Fischl",
@@ -167,7 +167,7 @@
     "weaponType": "Bow",
     "rarity": 4,
     "region": "Mondstadt",
-    "icon": "/assets/images/Fischl_icon_1753018605725.png"
+    "icon": "/assets/images/Fischl_icon_1753019934932.png"
   },
   {
     "id": "Bennett",
@@ -177,7 +177,7 @@
     "weaponType": "Sword",
     "rarity": 4,
     "region": "Mondstadt",
-    "icon": "/assets/images/Bennett_icon_1753018607174.png"
+    "icon": "/assets/images/Bennett_icon_1753019936179.png"
   },
   {
     "id": "Tartaglia",
@@ -187,7 +187,7 @@
     "weaponType": "Bow",
     "rarity": 5,
     "region": "Mondstadt",
-    "icon": "/assets/images/Tartaglia_icon_1753018608624.png"
+    "icon": "/assets/images/Tartaglia_icon_1753019937438.png"
   },
   {
     "id": "Noelle",
@@ -197,7 +197,7 @@
     "weaponType": "Claymore",
     "rarity": 4,
     "region": "Mondstadt",
-    "icon": "/assets/images/Noelle_icon_1753018610067.png"
+    "icon": "/assets/images/Noelle_icon_1753019938679.png"
   },
   {
     "id": "Qiqi",
@@ -207,7 +207,7 @@
     "weaponType": "Sword",
     "rarity": 5,
     "region": "Liyue",
-    "icon": "/assets/images/Qiqi_icon_1753018611519.png"
+    "icon": "/assets/images/Qiqi_icon_1753019939925.png"
   },
   {
     "id": "Chongyun",
@@ -217,7 +217,7 @@
     "weaponType": "Claymore",
     "rarity": 4,
     "region": "Liyue",
-    "icon": "/assets/images/Chongyun_icon_1753018612963.png"
+    "icon": "/assets/images/Chongyun_icon_1753019941170.png"
   },
   {
     "id": "Ganyu",
@@ -227,7 +227,7 @@
     "weaponType": "Bow",
     "rarity": 5,
     "region": "Liyue",
-    "icon": "/assets/images/Ganyu_icon_1753018614516.png"
+    "icon": "/assets/images/Ganyu_icon_1753019942410.png"
   },
   {
     "id": "Albedo",
@@ -237,7 +237,7 @@
     "weaponType": "Sword",
     "rarity": 5,
     "region": "Mondstadt",
-    "icon": "/assets/images/Albedo_icon_1753018615972.png"
+    "icon": "/assets/images/Albedo_icon_1753019943668.png"
   },
   {
     "id": "Diona",
@@ -247,7 +247,7 @@
     "weaponType": "Bow",
     "rarity": 4,
     "region": "Mondstadt",
-    "icon": "/assets/images/Diona_icon_1753018617306.png"
+    "icon": "/assets/images/Diona_icon_1753019944898.png"
   },
   {
     "id": "Mona",
@@ -257,7 +257,7 @@
     "weaponType": "Catalyst",
     "rarity": 5,
     "region": "Mondstadt",
-    "icon": "/assets/images/Mona_icon_1753018618751.png"
+    "icon": "/assets/images/Mona_icon_1753019946127.png"
   },
   {
     "id": "Keqing",
@@ -267,7 +267,7 @@
     "weaponType": "Sword",
     "rarity": 5,
     "region": "Liyue",
-    "icon": "/assets/images/Keqing_icon_1753018620011.png"
+    "icon": "/assets/images/Keqing_icon_1753019947383.png"
   },
   {
     "id": "Sucrose",
@@ -277,7 +277,7 @@
     "weaponType": "Catalyst",
     "rarity": 4,
     "region": "Mondstadt",
-    "icon": "/assets/images/Sucrose_icon_1753018621350.png"
+    "icon": "/assets/images/Sucrose_icon_1753019948640.png"
   },
   {
     "id": "Xinyan",
@@ -287,7 +287,7 @@
     "weaponType": "Claymore",
     "rarity": 4,
     "region": "Liyue",
-    "icon": "/assets/images/Xinyan_icon_1753018622801.png"
+    "icon": "/assets/images/Xinyan_icon_1753019949875.png"
   },
   {
     "id": "Rosaria",
@@ -297,7 +297,7 @@
     "weaponType": "Polearm",
     "rarity": 4,
     "region": "Mondstadt",
-    "icon": "/assets/images/Rosaria_icon_1753018624249.png"
+    "icon": "/assets/images/Rosaria_icon_1753019951444.png"
   },
   {
     "id": "Hu Tao",
@@ -307,7 +307,7 @@
     "weaponType": "Polearm",
     "rarity": 5,
     "region": "Liyue",
-    "icon": "/assets/images/Hu Tao_icon_1753018625704.png"
+    "icon": "/assets/images/Hu Tao_icon_1753019952696.png"
   },
   {
     "id": "Kaedehara Kazuha",
@@ -317,7 +317,7 @@
     "weaponType": "Sword",
     "rarity": 5,
     "region": "Inazuma",
-    "icon": "/assets/images/Kaedehara Kazuha_icon_1753018627150.png"
+    "icon": "/assets/images/Kaedehara Kazuha_icon_1753019953929.png"
   },
   {
     "id": "Yanfei",
@@ -327,7 +327,7 @@
     "weaponType": "Catalyst",
     "rarity": 4,
     "region": "Liyue",
-    "icon": "/assets/images/Yanfei_icon_1753018628493.png"
+    "icon": "/assets/images/Yanfei_icon_1753019955185.png"
   },
   {
     "id": "Yoimiya",
@@ -337,7 +337,7 @@
     "weaponType": "Bow",
     "rarity": 5,
     "region": "Inazuma",
-    "icon": "/assets/images/Yoimiya_icon_1753018629936.png"
+    "icon": "/assets/images/Yoimiya_icon_1753019956442.png"
   },
   {
     "id": "Thoma",
@@ -347,7 +347,7 @@
     "weaponType": "Polearm",
     "rarity": 4,
     "region": "Inazuma",
-    "icon": "/assets/images/Thoma_icon_1753018631378.png"
+    "icon": "/assets/images/Thoma_icon_1753019957673.png"
   },
   {
     "id": "Eula",
@@ -357,7 +357,7 @@
     "weaponType": "Claymore",
     "rarity": 5,
     "region": "Mondstadt",
-    "icon": "/assets/images/Eula_icon_1753018632722.png"
+    "icon": "/assets/images/Eula_icon_1753019958905.png"
   },
   {
     "id": "Sayu",
@@ -367,7 +367,7 @@
     "weaponType": "Claymore",
     "rarity": 4,
     "region": "Inazuma",
-    "icon": "/assets/images/Sayu_icon_1753018635200.png"
+    "icon": "/assets/images/Sayu_icon_1753019961165.png"
   },
   {
     "id": "Sangonomiya Kokomi",
@@ -377,7 +377,7 @@
     "weaponType": "Catalyst",
     "rarity": 5,
     "region": "Inazuma",
-    "icon": "/assets/images/Sangonomiya Kokomi_icon_1753018636539.png"
+    "icon": "/assets/images/Sangonomiya Kokomi_icon_1753019962408.png"
   },
   {
     "id": "Gorou",
@@ -387,7 +387,7 @@
     "weaponType": "Bow",
     "rarity": 4,
     "region": "Inazuma",
-    "icon": "/assets/images/Gorou_icon_1753018637993.png"
+    "icon": "/assets/images/Gorou_icon_1753019963649.png"
   },
   {
     "id": "Kujou Sara",
@@ -397,7 +397,7 @@
     "weaponType": "Bow",
     "rarity": 4,
     "region": "Inazuma",
-    "icon": "/assets/images/Kujou Sara_icon_1753018639341.png"
+    "icon": "/assets/images/Kujou Sara_icon_1753019964897.png"
   },
   {
     "id": "Arataki Itto",
@@ -407,7 +407,7 @@
     "weaponType": "Claymore",
     "rarity": 5,
     "region": "Inazuma",
-    "icon": "/assets/images/Arataki Itto_icon_1753018640601.png"
+    "icon": "/assets/images/Arataki Itto_icon_1753019966034.png"
   },
   {
     "id": "Yae Miko",
@@ -417,7 +417,7 @@
     "weaponType": "Catalyst",
     "rarity": 5,
     "region": "Inazuma",
-    "icon": "/assets/images/Yae Miko_icon_1753018642059.png"
+    "icon": "/assets/images/Yae Miko_icon_1753019967299.png"
   },
   {
     "id": "Shikanoin Heizou",
@@ -427,7 +427,7 @@
     "weaponType": "Catalyst",
     "rarity": 4,
     "region": "Inazuma",
-    "icon": "/assets/images/Shikanoin Heizou_icon_1753018643398.png"
+    "icon": "/assets/images/Shikanoin Heizou_icon_1753019968542.png"
   },
   {
     "id": "Yelan",
@@ -437,7 +437,7 @@
     "weaponType": "Bow",
     "rarity": 5,
     "region": "Liyue",
-    "icon": "/assets/images/Yelan_icon_1753018644737.png"
+    "icon": "/assets/images/Yelan_icon_1753019969784.png"
   },
   {
     "id": "Kirara",
@@ -447,7 +447,7 @@
     "weaponType": "Sword",
     "rarity": 4,
     "region": "Inazuma",
-    "icon": "/assets/images/Kirara_icon_1753018646187.png"
+    "icon": "/assets/images/Kirara_icon_1753019971034.png"
   },
   {
     "id": "Aloy",
@@ -457,7 +457,7 @@
     "weaponType": "Bow",
     "rarity": 5,
     "region": "Mondstadt",
-    "icon": "/assets/images/Aloy_icon_1753018647647.png"
+    "icon": "/assets/images/Aloy_icon_1753019972152.png"
   },
   {
     "id": "Shenhe",
@@ -467,7 +467,7 @@
     "weaponType": "Polearm",
     "rarity": 5,
     "region": "Liyue",
-    "icon": "/assets/images/Shenhe_icon_1753018649303.png"
+    "icon": "/assets/images/Shenhe_icon_1753019973408.png"
   },
   {
     "id": "Yun Jin",
@@ -477,7 +477,7 @@
     "weaponType": "Polearm",
     "rarity": 4,
     "region": "Liyue",
-    "icon": "/assets/images/Yun Jin_icon_1753018650644.png"
+    "icon": "/assets/images/Yun Jin_icon_1753019974659.png"
   },
   {
     "id": "Kuki Shinobu",
@@ -487,7 +487,7 @@
     "weaponType": "Sword",
     "rarity": 4,
     "region": "Inazuma",
-    "icon": "/assets/images/Kuki Shinobu_icon_1753018652088.png"
+    "icon": "/assets/images/Kuki Shinobu_icon_1753019975782.png"
   },
   {
     "id": "Kamisato Ayato",
@@ -497,7 +497,7 @@
     "weaponType": "Sword",
     "rarity": 5,
     "region": "Inazuma",
-    "icon": "/assets/images/Kamisato Ayato_icon_1753018653529.png"
+    "icon": "/assets/images/Kamisato Ayato_icon_1753019977029.png"
   },
   {
     "id": "Collei",
@@ -507,7 +507,7 @@
     "weaponType": "Bow",
     "rarity": 4,
     "region": "Sumeru",
-    "icon": "/assets/images/Collei_icon_1753018654787.png"
+    "icon": "/assets/images/Collei_icon_1753019978287.png"
   },
   {
     "id": "Dori",
@@ -517,7 +517,7 @@
     "weaponType": "Claymore",
     "rarity": 4,
     "region": "Sumeru",
-    "icon": "/assets/images/Dori_icon_1753018656235.png"
+    "icon": "/assets/images/Dori_icon_1753019979558.png"
   },
   {
     "id": "Tighnari",
@@ -527,7 +527,7 @@
     "weaponType": "Bow",
     "rarity": 5,
     "region": "Sumeru",
-    "icon": "/assets/images/Tighnari_icon_1753018657675.png"
+    "icon": "/assets/images/Tighnari_icon_1753019980822.png"
   },
   {
     "id": "Nilou",
@@ -537,7 +537,7 @@
     "weaponType": "Sword",
     "rarity": 5,
     "region": "Sumeru",
-    "icon": "/assets/images/Nilou_icon_1753018659333.png"
+    "icon": "/assets/images/Nilou_icon_1753019982066.png"
   },
   {
     "id": "Cyno",
@@ -547,7 +547,7 @@
     "weaponType": "Polearm",
     "rarity": 5,
     "region": "Sumeru",
-    "icon": "/assets/images/Cyno_icon_1753018660779.png"
+    "icon": "/assets/images/Cyno_icon_1753019983306.png"
   },
   {
     "id": "Candace",
@@ -557,7 +557,7 @@
     "weaponType": "Polearm",
     "rarity": 4,
     "region": "Sumeru",
-    "icon": "/assets/images/Candace_icon_1753018662224.png"
+    "icon": "/assets/images/Candace_icon_1753019984557.png"
   },
   {
     "id": "Nahida",
@@ -567,7 +567,7 @@
     "weaponType": "Catalyst",
     "rarity": 5,
     "region": "Sumeru",
-    "icon": "/assets/images/Nahida_icon_1753018663567.png"
+    "icon": "/assets/images/Nahida_icon_1753019985789.png"
   },
   {
     "id": "Layla",
@@ -577,7 +577,7 @@
     "weaponType": "Sword",
     "rarity": 4,
     "region": "Sumeru",
-    "icon": "/assets/images/Layla_icon_1753018665018.png"
+    "icon": "/assets/images/Layla_icon_1753019987032.png"
   },
   {
     "id": "Wanderer",
@@ -587,7 +587,7 @@
     "weaponType": "Catalyst",
     "rarity": 5,
     "region": "Sumeru",
-    "icon": "/assets/images/Wanderer_icon_1753018666467.png"
+    "icon": "/assets/images/Wanderer_icon_1753019988265.png"
   },
   {
     "id": "Faruzan",
@@ -597,7 +597,7 @@
     "weaponType": "Bow",
     "rarity": 4,
     "region": "Sumeru",
-    "icon": "/assets/images/Faruzan_icon_1753018667914.png"
+    "icon": "/assets/images/Faruzan_icon_1753019989513.png"
   },
   {
     "id": "Yaoyao",
@@ -607,7 +607,7 @@
     "weaponType": "Polearm",
     "rarity": 4,
     "region": "Liyue",
-    "icon": "/assets/images/Yaoyao_icon_1753018669365.png"
+    "icon": "/assets/images/Yaoyao_icon_1753019990746.png"
   },
   {
     "id": "Alhaitham",
@@ -617,7 +617,7 @@
     "weaponType": "Sword",
     "rarity": 5,
     "region": "Sumeru",
-    "icon": "/assets/images/Alhaitham_icon_1753018670810.png"
+    "icon": "/assets/images/Alhaitham_icon_1753019991988.png"
   },
   {
     "id": "Dehya",
@@ -627,7 +627,7 @@
     "weaponType": "Claymore",
     "rarity": 5,
     "region": "Sumeru",
-    "icon": "/assets/images/Dehya_icon_1753018672253.png"
+    "icon": "/assets/images/Dehya_icon_1753019993232.png"
   },
   {
     "id": "Mika",
@@ -637,7 +637,7 @@
     "weaponType": "Polearm",
     "rarity": 4,
     "region": "Mondstadt",
-    "icon": "/assets/images/Mika_icon_1753018673585.png"
+    "icon": "/assets/images/Mika_icon_1753019994370.png"
   },
   {
     "id": "Kaveh",
@@ -647,7 +647,7 @@
     "weaponType": "Claymore",
     "rarity": 4,
     "region": "Sumeru",
-    "icon": "/assets/images/Kaveh_icon_1753018675024.png"
+    "icon": "/assets/images/Kaveh_icon_1753019995604.png"
   },
   {
     "id": "Baizhu",
@@ -657,7 +657,7 @@
     "weaponType": "Catalyst",
     "rarity": 5,
     "region": "Liyue",
-    "icon": "/assets/images/Baizhu_icon_1753018676471.png"
+    "icon": "/assets/images/Baizhu_icon_1753019996847.png"
   },
   {
     "id": "Lynette",
@@ -667,7 +667,7 @@
     "weaponType": "Sword",
     "rarity": 4,
     "region": "Fontaine",
-    "icon": "/assets/images/Lynette_icon_1753018677913.png"
+    "icon": "/assets/images/Lynette_icon_1753019998094.png"
   },
   {
     "id": "Lyney",
@@ -677,7 +677,7 @@
     "weaponType": "Bow",
     "rarity": 5,
     "region": "Fontaine",
-    "icon": "/assets/images/Lyney_icon_1753018679356.png"
+    "icon": "/assets/images/Lyney_icon_1753019999328.png"
   },
   {
     "id": "Freminet",
@@ -687,7 +687,7 @@
     "weaponType": "Claymore",
     "rarity": 4,
     "region": "Fontaine",
-    "icon": "/assets/images/Freminet_icon_1753018680806.png"
+    "icon": "/assets/images/Freminet_icon_1753020000572.png"
   },
   {
     "id": "Wriothesley",
@@ -697,7 +697,7 @@
     "weaponType": "Catalyst",
     "rarity": 5,
     "region": "Fontaine",
-    "icon": "/assets/images/Wriothesley_icon_1753018682259.png"
+    "icon": "/assets/images/Wriothesley_icon_1753020001820.png"
   },
   {
     "id": "Neuvillette",
@@ -707,7 +707,7 @@
     "weaponType": "Catalyst",
     "rarity": 5,
     "region": "Fontaine",
-    "icon": "/assets/images/Neuvillette_icon_1753018683709.png"
+    "icon": "/assets/images/Neuvillette_icon_1753020003066.png"
   },
   {
     "id": "Charlotte",
@@ -717,7 +717,7 @@
     "weaponType": "Catalyst",
     "rarity": 4,
     "region": "Fontaine",
-    "icon": "/assets/images/Charlotte_icon_1753018685156.png"
+    "icon": "/assets/images/Charlotte_icon_1753020004312.png"
   },
   {
     "id": "Furina",
@@ -727,7 +727,7 @@
     "weaponType": "Sword",
     "rarity": 5,
     "region": "Fontaine",
-    "icon": "/assets/images/Furina_icon_1753018686496.png"
+    "icon": "/assets/images/Furina_icon_1753020005548.png"
   },
   {
     "id": "Chevreuse",
@@ -737,7 +737,7 @@
     "weaponType": "Polearm",
     "rarity": 4,
     "region": "Fontaine",
-    "icon": "/assets/images/Chevreuse_icon_1753018687940.png"
+    "icon": "/assets/images/Chevreuse_icon_1753020006795.png"
   },
   {
     "id": "Navia",
@@ -747,7 +747,7 @@
     "weaponType": "Claymore",
     "rarity": 5,
     "region": "Fontaine",
-    "icon": "/assets/images/Navia_icon_1753018689391.png"
+    "icon": "/assets/images/Navia_icon_1753020008031.png"
   },
   {
     "id": "Gaming",
@@ -757,7 +757,7 @@
     "weaponType": "Claymore",
     "rarity": 4,
     "region": "Liyue",
-    "icon": "/assets/images/Gaming_icon_1753018690738.png"
+    "icon": "/assets/images/Gaming_icon_1753020009271.png"
   },
   {
     "id": "Xianyun",
@@ -767,7 +767,7 @@
     "weaponType": "Catalyst",
     "rarity": 5,
     "region": "Liyue",
-    "icon": "/assets/images/Xianyun_icon_1753018692077.png"
+    "icon": "/assets/images/Xianyun_icon_1753020010522.png"
   },
   {
     "id": "Chiori",
@@ -777,7 +777,7 @@
     "weaponType": "Sword",
     "rarity": 5,
     "region": "Inazuma",
-    "icon": "/assets/images/Chiori_icon_1753018693427.png"
+    "icon": "/assets/images/Chiori_icon_1753020011784.png"
   },
   {
     "id": "Sigewinne",
@@ -787,7 +787,7 @@
     "weaponType": "Bow",
     "rarity": 5,
     "region": "Fontaine",
-    "icon": "/assets/images/Sigewinne_icon_1753018694872.png"
+    "icon": "/assets/images/Sigewinne_icon_1753020013017.png"
   },
   {
     "id": "Arlecchino",
@@ -797,7 +797,7 @@
     "weaponType": "Polearm",
     "rarity": 5,
     "region": "Mondstadt",
-    "icon": "/assets/images/Arlecchino_icon_1753018696213.png"
+    "icon": "/assets/images/Arlecchino_icon_1753020014259.png"
   },
   {
     "id": "Sethos",
@@ -807,7 +807,7 @@
     "weaponType": "Bow",
     "rarity": 4,
     "region": "Sumeru",
-    "icon": "/assets/images/Sethos_icon_1753018697680.png"
+    "icon": "/assets/images/Sethos_icon_1753020015509.png"
   },
   {
     "id": "Clorinde",
@@ -817,7 +817,7 @@
     "weaponType": "Sword",
     "rarity": 5,
     "region": "Fontaine",
-    "icon": "/assets/images/Clorinde_icon_1753018699117.png"
+    "icon": "/assets/images/Clorinde_icon_1753020016738.png"
   },
   {
     "id": "Emilie",
@@ -827,7 +827,7 @@
     "weaponType": "Polearm",
     "rarity": 5,
     "region": "Fontaine",
-    "icon": "/assets/images/Emilie_icon_1753018700575.png"
+    "icon": "/assets/images/Emilie_icon_1753020017991.png"
   },
   {
     "id": "Kachina",
@@ -837,7 +837,7 @@
     "weaponType": "Polearm",
     "rarity": 4,
     "region": "Natlan",
-    "icon": "/assets/images/Kachina_icon_1753018702145.png"
+    "icon": "/assets/images/Kachina_icon_1753020019233.png"
   },
   {
     "id": "Kinich",
@@ -847,7 +847,7 @@
     "weaponType": "Claymore",
     "rarity": 5,
     "region": "Natlan",
-    "icon": "/assets/images/Kinich_icon_1753018703597.png"
+    "icon": "/assets/images/Kinich_icon_1753020020489.png"
   },
   {
     "id": "Mualani",
@@ -857,7 +857,7 @@
     "weaponType": "Catalyst",
     "rarity": 5,
     "region": "Natlan",
-    "icon": "/assets/images/Mualani_icon_1753018705037.png"
+    "icon": "/assets/images/Mualani_icon_1753020021733.png"
   },
   {
     "id": "Xilonen",
@@ -867,7 +867,7 @@
     "weaponType": "Sword",
     "rarity": 5,
     "region": "Natlan",
-    "icon": "/assets/images/Xilonen_icon_1753018706484.png"
+    "icon": "/assets/images/Xilonen_icon_1753020022987.png"
   },
   {
     "id": "Chasca",
@@ -877,7 +877,7 @@
     "weaponType": "Bow",
     "rarity": 5,
     "region": "Natlan",
-    "icon": "/assets/images/Chasca_icon_1753018707819.png"
+    "icon": "/assets/images/Chasca_icon_1753020024126.png"
   },
   {
     "id": "Ororon",
@@ -887,7 +887,7 @@
     "weaponType": "Bow",
     "rarity": 4,
     "region": "Natlan",
-    "icon": "/assets/images/Ororon_icon_1753018709269.png"
+    "icon": "/assets/images/Ororon_icon_1753020025368.png"
   },
   {
     "id": "Mavuika",
@@ -897,7 +897,7 @@
     "weaponType": "Claymore",
     "rarity": 5,
     "region": "Natlan",
-    "icon": "/assets/images/Mavuika_icon_1753018710711.png"
+    "icon": "/assets/images/Mavuika_icon_1753020026614.png"
   },
   {
     "id": "Citlali",
@@ -907,7 +907,7 @@
     "weaponType": "Catalyst",
     "rarity": 5,
     "region": "Natlan",
-    "icon": "/assets/images/Citlali_icon_1753018712045.png"
+    "icon": "/assets/images/Citlali_icon_1753020027849.png"
   },
   {
     "id": "Lan Yan",
@@ -917,7 +917,7 @@
     "weaponType": "Catalyst",
     "rarity": 4,
     "region": "Liyue",
-    "icon": "/assets/images/Lan Yan_icon_1753018713303.png"
+    "icon": "/assets/images/Lan Yan_icon_1753020029081.png"
   },
   {
     "id": "Yumemizuki Mizuki",
@@ -927,7 +927,7 @@
     "weaponType": "Catalyst",
     "rarity": 5,
     "region": "Inazuma",
-    "icon": "/assets/images/Yumemizuki Mizuki_icon_1753018714742.png"
+    "icon": "/assets/images/Yumemizuki Mizuki_icon_1753020030332.png"
   },
   {
     "id": "Iansan",
@@ -937,7 +937,7 @@
     "weaponType": "Polearm",
     "rarity": 4,
     "region": "Natlan",
-    "icon": "/assets/images/Iansan_icon_1753018716188.png"
+    "icon": "/assets/images/Iansan_icon_1753020031565.png"
   },
   {
     "id": "Varesa",
@@ -947,7 +947,7 @@
     "weaponType": "Catalyst",
     "rarity": 5,
     "region": "Natlan",
-    "icon": "/assets/images/Varesa_icon_1753018717625.png"
+    "icon": "/assets/images/Varesa_icon_1753020032833.png"
   },
   {
     "id": "Escoffier",
@@ -957,7 +957,7 @@
     "weaponType": "Polearm",
     "rarity": 5,
     "region": "Fontaine",
-    "icon": "/assets/images/Escoffier_icon_1753018718961.png"
+    "icon": "/assets/images/Escoffier_icon_1753020034092.png"
   },
   {
     "id": "Ifa",
@@ -967,7 +967,7 @@
     "weaponType": "Catalyst",
     "rarity": 4,
     "region": "Natlan",
-    "icon": "/assets/images/Ifa_icon_1753018720404.png"
+    "icon": "/assets/images/Ifa_icon_1753020035328.png"
   },
   {
     "id": "Skirk",
@@ -977,7 +977,7 @@
     "weaponType": "Sword",
     "rarity": 5,
     "region": "Mondstadt",
-    "icon": "/assets/images/Skirk_icon_1753018721850.png"
+    "icon": "/assets/images/Skirk_icon_1753020036560.png"
   },
   {
     "id": "Dahlia",
@@ -987,6 +987,6 @@
     "weaponType": "Sword",
     "rarity": 4,
     "region": "Mondstadt",
-    "icon": "/assets/images/Dahlia_icon_1753018723301.png"
+    "icon": "/assets/images/Dahlia_icon_1753020037800.png"
   }
 ]

@@ -8,7 +8,7 @@
   "region": "Natlan",
   "constellation": "ナキウサギ座",
   "description": "古名「ウッサビーティ」を授かったナナツカヤンの若き戦士。挫折の中で成長し続ける、善良で粘り強い少女。",
-  "icon": "/assets/images/Kachina_icon_1753018702145.png",
+  "icon": "/assets/images/Kachina_icon_1753020019233.png",
   "profile": {
     "baseHp": 989.293,
     "baseAtk": 18.164,
@@ -23,7 +23,7 @@
       "id": "テペトルバイト",
       "name": "テペトルバイト",
       "description": "",
-      "icon": "/assets/images/Xiangling_normal_attack_1753018596050.png",
+      "icon": "/assets/images/Xiangling_normal_attack_1753019926094.png",
       "skillType": "normal",
       "params": {
         "1": [],
@@ -47,7 +47,7 @@
       "id": "いけ、ぐるぐるコマちゃん！",
       "name": "いけ、ぐるぐるコマちゃん！",
       "description": "",
-      "icon": "/assets/images/Kachina_elemental_skill_1753018702145.png",
+      "icon": "/assets/images/Kachina_elemental_skill_1753020019233.png",
       "levelData": [
         {
           "tableIndex": 1,
@@ -147,7 +147,7 @@
             0
           ],
           "description": [
-            "ぐるぐるコマちゃんライドダメージ|防御力{param1:F1P}",
+            "���るぐるコマちゃんライドダメージ|防御力{param1:F1P}",
             "ぐるぐるコマちゃん単独ダメージ|防御力{param2:F1P}",
             "夜魂値上限|{param3:F1}",
             "クールタイム|{param4:F1}秒",
@@ -369,7 +369,7 @@
             "ぐるぐるコマちゃんライドダメージ|防御力{param1:F1P}",
             "ぐるぐるコマちゃん単独ダメージ|防御力{param2:F1P}",
             "夜魂値上限|{param3:F1}",
-            "クールタイム|{param4:F1}秒",
+            "クールタイ���|{param4:F1}秒",
             "",
             "",
             "",
@@ -1136,25 +1136,25 @@
     "elementalBurst": {
       "name": "山のこだま",
       "description": "",
-      "icon": "/assets/images/Kachina_elemental_burst_1753018702145.png",
+      "icon": "/assets/images/Kachina_elemental_burst_1753020019233.png",
       "levelData": []
     },
     "passiveTalents": [
       {
         "name": "山のこだま",
-        "icon": "/assets/images/Kachina_passive_1_1753018702145.png"
+        "icon": "/assets/images/Kachina_passive_1_1753020019234.png"
       },
       {
         "name": "磐岩の重み",
-        "icon": "/assets/images/Kachina_passive_2_1753018702145.png"
+        "icon": "/assets/images/Kachina_passive_2_1753020019234.png"
       },
       {
         "name": "夜域の賜物·団結の炉心",
-        "icon": "/assets/images/Kachina_passive_3_1753018702145.png"
+        "icon": "/assets/images/Kachina_passive_3_1753020019234.png"
       },
       {
         "name": "晶焔の祝福",
-        "icon": "/assets/images/Kachina_passive_4_1753018702145.png"
+        "icon": "/assets/images/Kachina_passive_4_1753020019234.png"
       }
     ],
     "completeTableData": [
@@ -2301,7 +2301,7 @@
               0
             ],
             "description": [
-              "ぐるぐるコマちゃんライドダメージ|防御力{param1:F1P}",
+              "���るぐるコマちゃんライドダメージ|防御力{param1:F1P}",
               "ぐるぐるコマちゃん単独ダメージ|防御力{param2:F1P}",
               "夜魂値上限|{param3:F1}",
               "クールタイム|{param4:F1}秒",
@@ -2514,7 +2514,7 @@
               "ぐるぐるコマちゃんライドダメージ|防御力{param1:F1P}",
               "ぐるぐるコマちゃん単独ダメージ|防御力{param2:F1P}",
               "夜魂値上限|{param3:F1}",
-              "クールタイム|{param4:F1}秒",
+              "クールタイ���|{param4:F1}秒",
               "",
               "",
               "",
@@ -4116,7 +4116,7 @@
             ],
             "description": [
               "スキルダメージ|防御力{param1:F1P}",
-              "領域継続時間|{param2:F1}秒",
+              "領域継続��間|{param2:F1}秒",
               "クールタイム|{param3:F1}秒",
               "元素エネルギー|{param4:I}",
               "",
@@ -4328,32 +4328,32 @@
       {
         "level": null,
         "name": "結晶の欠片だって宝石だから",
-        "icon": "/assets/images/Kachina_constellation_cNaN_1753018702145.png"
+        "icon": "/assets/images/Kachina_constellation_cNaN_1753020019234.png"
       },
       {
         "level": null,
         "name": "ぐるぐるコマちゃん、 ずっと一緒だよ！",
-        "icon": "/assets/images/Kachina_constellation_cNaN_1753018702145.png"
+        "icon": "/assets/images/Kachina_constellation_cNaN_1753020019234.png"
       },
       {
         "level": null,
         "name": "改良型·バランス安定器",
-        "icon": "/assets/images/Kachina_constellation_cNaN_1753018702146.png"
+        "icon": "/assets/images/Kachina_constellation_cNaN_1753020019234.png"
       },
       {
         "level": null,
         "name": "敵が多いほど、 気を付けなくちゃ…！",
-        "icon": "/assets/images/Kachina_constellation_cNaN_1753018702146.png"
+        "icon": "/assets/images/Kachina_constellation_cNaN_1753020019234.png"
       },
       {
         "level": null,
         "name": "今までの全コレクション！",
-        "icon": "/assets/images/Kachina_constellation_cNaN_1753018702146.png"
+        "icon": "/assets/images/Kachina_constellation_cNaN_1753020019234.png"
       },
       {
         "level": null,
         "name": "今度こそ、 絶対勝ってみせる！",
-        "icon": "/assets/images/Kachina_constellation_cNaN_1753018702146.png"
+        "icon": "/assets/images/Kachina_constellation_cNaN_1753020019234.png"
       }
     ]
   },
@@ -4370,14 +4370,14 @@
     "id": 210210,
     "name": "カチーナ·コマちゃん",
     "description": "カチーナ·コマちゃん",
-    "icon": "/assets/images/Kachina_icon_1753018702145.png"
+    "icon": "/assets/images/Kachina_icon_1753020019233.png"
   },
   "specialFood": {
     "id": 108747,
     "name": "きっちりチップス",
     "rank": 2,
-    "icon": "/assets/images/Kachina_special_food_1753018702148.png",
-    "effectIcon": "/assets/images/Jean_food_effect_1753018584473.png"
+    "icon": "/assets/images/Kachina_special_food_1753020019235.png",
+    "effectIcon": "/assets/images/Jean_food_effect_1753019916106.png"
   },
   "levelProgression": [
     {
@@ -4693,7 +4693,7 @@
             "name": "ケネパベリー",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Kachina_material_101249_1753018702175.png",
+            "icon": "/assets/images/Kachina_material_101249_1753020019285.png",
             "description": "果汁たっぷりの青色のベリー。形はフレイムグレネードの実と似ており、「懸木の民」付近に樹が大量に生えている。",
             "type": "ナタ地域の特産"
           },
@@ -4702,7 +4702,7 @@
             "name": "堅牢なトパーズ·砕屑",
             "count": 1,
             "rank": 2,
-            "icon": "/assets/images/Ningguang_material_104171_1753018601569.png",
+            "icon": "/assets/images/Ningguang_material_104171_1753019931186.png",
             "description": "キャラクターの突破用アイテム。",
             "type": "キャラクター突破素材"
           },
@@ -4711,7 +4711,7 @@
             "name": "従戦士の木笛",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Kachina_material_112104_1753018702194.png",
+            "icon": "/assets/images/Kachina_material_112104_1753020019286.png",
             "description": "ナタの部族の従戦士のシンボル。\\n最初から戦士になれる者などおらず、真の戦士から戦い方を学ぶ必要がある。故に、部族には「従戦士」という位が設けられた。",
             "type": "キャラと武器育成素材"
           }
@@ -4742,7 +4742,7 @@
             "name": "ケネパベリー",
             "count": 10,
             "rank": 1,
-            "icon": "/assets/images/Kachina_material_101249_1753018702175.png",
+            "icon": "/assets/images/Kachina_material_101249_1753020019285.png",
             "description": "果汁たっぷりの青色のベリー。形はフレイムグレネードの実と似ており、「懸木の民」付近に樹が大量に生えている。",
             "type": "ナタ地域の特産"
           },
@@ -4751,7 +4751,7 @@
             "name": "堅牢なトパーズ·欠片",
             "count": 3,
             "rank": 3,
-            "icon": "/assets/images/Ningguang_material_104172_1753018601561.png",
+            "icon": "/assets/images/Ningguang_material_104172_1753019931192.png",
             "description": "キャラクターの突破用アイテム。\\n「この大陸の全ての金銭は俺の血肉。」",
             "type": "キャラクター突破素材"
           },
@@ -4760,7 +4760,7 @@
             "name": "従戦士の木笛",
             "count": 15,
             "rank": 1,
-            "icon": "/assets/images/Kachina_material_112104_1753018702194.png",
+            "icon": "/assets/images/Kachina_material_112104_1753020019286.png",
             "description": "ナタの部族の従戦士のシンボル。\\n最初から戦士になれる者などおらず、真の戦士から戦い方を学ぶ必要がある。故に、部族には「従戦士」という位が設けられた。",
             "type": "キャラと武器育成素材"
           },
@@ -4769,8 +4769,8 @@
             "name": "フレイムグレネード·爛熟",
             "count": 2,
             "rank": 4,
-            "icon": "/assets/images/Kachina_material_113065_1753018702189.png",
-            "description": "山の王·貪食のユムカ竜を倒して手に入れた不思議なフレイムグレネードの実。\\n通常、熟れたフレイムグレネードの実は成長し続けると、落ちて泥の中で腐ってしまうが、山の王のたてがみから落ちた実は、その奇異な体温によって守られているおかげか、めったに見られない「爛熟」状態になる。この状態のフレイムグレネードの実は非常に安定している。豊富な燃素を含み、ツヤも増し、独特な��味を持つ。",
+            "icon": "/assets/images/Kachina_material_113065_1753020019270.png",
+            "description": "山の王·貪食のユムカ竜を倒して手に入れた不思議なフレイムグレネードの実。\\n通常、熟れたフレイムグレネードの実は成長し続けると、落ちて泥の中で腐ってしまうが、山の王のたてがみから落ちた実は、その奇異な体温によって守られているおかげか、めったに見られない「爛熟」状態になる。この状態のフレイムグレネードの実は非常に安定している。豊富な燃素を含み、ツヤも増し、独特な���味を持つ。",
             "type": "キャラクター育成素材"
           }
         ],
@@ -4804,7 +4804,7 @@
             "name": "ケネパベリー",
             "count": 20,
             "rank": 1,
-            "icon": "/assets/images/Kachina_material_101249_1753018702175.png",
+            "icon": "/assets/images/Kachina_material_101249_1753020019285.png",
             "description": "果汁たっぷりの青色のベリー。形はフレイムグレネードの実と似ており、「懸木の民」付近に樹が大量に生えている。",
             "type": "ナタ地域の特産"
           },
@@ -4813,7 +4813,7 @@
             "name": "堅牢なトパーズ·欠片",
             "count": 6,
             "rank": 3,
-            "icon": "/assets/images/Ningguang_material_104172_1753018601561.png",
+            "icon": "/assets/images/Ningguang_material_104172_1753019931192.png",
             "description": "キャラクターの突破用アイテム。\\n「この大陸の全ての金銭は俺の血肉。」",
             "type": "キャラクター突破素材"
           },
@@ -4822,7 +4822,7 @@
             "name": "戦士の鉄笛",
             "count": 12,
             "rank": 2,
-            "icon": "/assets/images/Kachina_material_112105_1753018702195.png",
+            "icon": "/assets/images/Kachina_material_112105_1753020019258.png",
             "description": "ナタの部族の戦士のシンボル。\\n部族の正式な戦士になったらもらえる鉄笛。部族の周辺を巡回している際、危機を察知したら笛の音で知らせ合うことは「戦士」の責務である。",
             "type": "キャラと武器育成素材"
           },
@@ -4831,8 +4831,8 @@
             "name": "フレイムグレネード·爛熟",
             "count": 4,
             "rank": 4,
-            "icon": "/assets/images/Kachina_material_113065_1753018702189.png",
-            "description": "山の王·貪食のユムカ竜を倒して手に入れた不思議なフレイムグレネードの実。\\n通常、熟れたフレイムグレネードの実は成長し続けると、落ちて泥の中で腐ってしまうが、山の王のたてがみから落ちた実は、その奇異な体温によって守られているおかげか、めったに見られない「爛熟」状態になる。この状態のフレイムグレネードの実は非常に安定している。豊富な燃素を含み、ツヤも増し、独特な��味を持つ。",
+            "icon": "/assets/images/Kachina_material_113065_1753020019270.png",
+            "description": "山の王·貪食のユムカ竜を倒して手に入れた不思議なフレイムグレネードの実。\\n通常、熟れたフレイムグレネードの実は成長し続けると、落ちて泥の中で腐ってしまうが、山の王のたてがみから落ちた実は、その奇異な体温によって守られているおかげか、めったに見られない「爛熟」状態になる。この状態のフレイムグレネードの実は非常に安定している。豊富な燃素を含み、ツヤも増し、独特な���味を持つ。",
             "type": "キャラクター育成素材"
           }
         ],
@@ -4866,7 +4866,7 @@
             "name": "ケネパベリー",
             "count": 30,
             "rank": 1,
-            "icon": "/assets/images/Kachina_material_101249_1753018702175.png",
+            "icon": "/assets/images/Kachina_material_101249_1753020019285.png",
             "description": "果汁たっぷりの青色のベリー。形はフレイムグレネードの実と似ており、「懸木の民」付近に樹が大量に生えている。",
             "type": "ナタ地域の特産"
           },
@@ -4875,7 +4875,7 @@
             "name": "堅牢なトパーズ·塊",
             "count": 3,
             "rank": 4,
-            "icon": "/assets/images/Ningguang_material_104173_1753018601591.png",
+            "icon": "/assets/images/Ningguang_material_104173_1753019931193.png",
             "description": "キャラクターの突破用アイテム。\\n「この大陸の全ての金銭は俺の血肉。」\\n「こんな形で俺は、人間の労働、知恵、未来を保証する。」",
             "type": "キャラクター突破素材"
           },
@@ -4884,7 +4884,7 @@
             "name": "戦士の鉄笛",
             "count": 18,
             "rank": 2,
-            "icon": "/assets/images/Kachina_material_112105_1753018702195.png",
+            "icon": "/assets/images/Kachina_material_112105_1753020019258.png",
             "description": "ナタの部族の戦士のシンボル。\\n部族の正式な戦士になったらもらえる鉄笛。部族の周辺を巡回している際、危機を察知したら笛の音で知らせ合うことは「戦士」の責務である。",
             "type": "キャラと武器育成素材"
           },
@@ -4893,8 +4893,8 @@
             "name": "フレイムグレネード·爛熟",
             "count": 8,
             "rank": 4,
-            "icon": "/assets/images/Kachina_material_113065_1753018702189.png",
-            "description": "山の王·貪食のユムカ竜を倒して手に入れた不思議なフレイムグレネードの実。\\n通常、熟れたフレイムグレネードの実は成長し続けると、落ちて泥の中で腐ってしまうが、山の王のたてがみから落ちた実は、その奇異な体温によって守られているおかげか、めったに見られない「爛熟」状態になる。この状態のフレイムグレネードの実は非常に安定している。豊富な燃素を含み、ツヤも増し、独特な��味を持つ。",
+            "icon": "/assets/images/Kachina_material_113065_1753020019270.png",
+            "description": "山の王·貪食のユムカ竜を倒して手に入れた不思議なフレイムグレネードの実。\\n通常、熟れたフレイムグレネードの実は成長し続けると、落ちて泥の中で腐ってしまうが、山の王のたてがみから落ちた実は、その奇異な体温によって守られているおかげか、めったに見られない「爛熟」状態になる。この状態のフレイムグレネードの実は非常に安定している。豊富な燃素を含み、ツヤも増し、独特な���味を持つ。",
             "type": "キャラクター育成素材"
           }
         ],
@@ -4928,7 +4928,7 @@
             "name": "ケネパベリー",
             "count": 45,
             "rank": 1,
-            "icon": "/assets/images/Kachina_material_101249_1753018702175.png",
+            "icon": "/assets/images/Kachina_material_101249_1753020019285.png",
             "description": "果汁たっぷりの青色のベリー。形はフレイムグレネードの実と似ており、「懸木の民」付近に樹が大量に生えている。",
             "type": "ナタ地域の特産"
           },
@@ -4937,7 +4937,7 @@
             "name": "堅牢なトパーズ·塊",
             "count": 6,
             "rank": 4,
-            "icon": "/assets/images/Ningguang_material_104173_1753018601591.png",
+            "icon": "/assets/images/Ningguang_material_104173_1753019931193.png",
             "description": "キャラクターの突破用アイテム。\\n「この大陸の全ての金銭は俺の血肉。」\\n「こんな形で俺は、人間の労働、知恵、未来を保証する。」",
             "type": "キャラクター突破素材"
           },
@@ -4946,7 +4946,7 @@
             "name": "竜冠戦士の金笛",
             "count": 12,
             "rank": 3,
-            "icon": "/assets/images/Kachina_material_112106_1753018702187.png",
+            "icon": "/assets/images/Kachina_material_112106_1753020019266.png",
             "description": "ナタの部族で竜冠を授かった強き戦士のシンボル。\\n部族のために栄誉の功績を築き、その武勇を認められた者だけが、この金笛を手に入れることができる。しかしこれはもはや、笛よりも装飾としての意味合いのほうが強い——竜冠を授かるほどの戦士なら、ほとんどの危機を自力で解決できるからだ。",
             "type": "キャラと武器育成素材"
           },
@@ -4955,8 +4955,8 @@
             "name": "フレイムグレネード·爛熟",
             "count": 12,
             "rank": 4,
-            "icon": "/assets/images/Kachina_material_113065_1753018702189.png",
-            "description": "山の王·貪食のユムカ竜を倒して手に入れた不思議なフレイムグレネードの実。\\n通常、熟れたフレイムグレネードの実は成長し続けると、落ちて泥の中で腐ってしまうが、山の王のたてがみから落ちた実は、その奇異な体温によって守られているおかげか、めったに見られない「爛熟」状態になる。この状態のフレイムグレネードの実は非常に安定している。豊富な燃素を含み、ツヤも増し、独特な��味を持つ。",
+            "icon": "/assets/images/Kachina_material_113065_1753020019270.png",
+            "description": "山の王·貪食のユムカ竜を倒して手に入れた不思議なフレイムグレネードの実。\\n通常、熟れたフレイムグレネードの実は成長し続けると、落ちて泥の中で腐ってしまうが、山の王のたてがみから落ちた実は、その奇異な体温によって守られているおかげか、めったに見られない「爛熟」状態になる。この状態のフレイムグレネードの実は非常に安定している。豊富な燃素を含み、ツヤも増し、独特な���味を持つ。",
             "type": "キャラクター育成素材"
           }
         ],
@@ -4990,7 +4990,7 @@
             "name": "ケネパベリー",
             "count": 60,
             "rank": 1,
-            "icon": "/assets/images/Kachina_material_101249_1753018702175.png",
+            "icon": "/assets/images/Kachina_material_101249_1753020019285.png",
             "description": "果汁たっぷりの青色のベリー。形はフレイムグレネードの実と似ており、「懸木の民」付近に樹が大量に生えている。",
             "type": "ナタ地域の特産"
           },
@@ -4999,7 +4999,7 @@
             "name": "堅牢なトパーズ",
             "count": 6,
             "rank": 5,
-            "icon": "/assets/images/Ningguang_material_104174_1753018601562.png",
+            "icon": "/assets/images/Ningguang_material_104174_1753019931191.png",
             "description": "キャラクターの突破用アイテム。\\n「この大陸の全ての金銭は俺の血肉。」\\n「こんな形で俺は、人間の労働、知恵、未来を保証する。」\\n「これが俺の人間への信頼。金銭に背くことは、俺の血を汚すと同然だ。」",
             "type": "キャラクター突破素材"
           },
@@ -5008,7 +5008,7 @@
             "name": "竜冠戦士の金笛",
             "count": 24,
             "rank": 3,
-            "icon": "/assets/images/Kachina_material_112106_1753018702187.png",
+            "icon": "/assets/images/Kachina_material_112106_1753020019266.png",
             "description": "ナタの部族で竜冠を授かった強き戦士のシンボル。\\n部族のために栄誉の功績を築き、その武勇を認められた者だけが、この金笛を手に入れることができる。しかしこれはもはや、笛よりも装飾としての意味合いのほうが強い——竜冠を授かるほどの戦士なら、ほとんどの危機を自力で解決できるからだ。",
             "type": "キャラと武器育成素材"
           },
@@ -5017,8 +5017,8 @@
             "name": "フレイムグレネード·爛熟",
             "count": 20,
             "rank": 4,
-            "icon": "/assets/images/Kachina_material_113065_1753018702189.png",
-            "description": "山の王·貪食のユムカ竜を倒して手に入れた不思議なフレイムグレネードの実。\\n通常、熟れたフレイムグレネードの実は成長し続けると、落ちて泥の中で腐ってしまうが、山の王のたてがみから落ちた実は、その奇異な体温によって守られているおかげか、めったに見られない「爛熟」状態になる。この状態のフレイムグレネードの実は非常に安定している。豊富な燃素を含み、ツヤも増し、独特な��味を持つ。",
+            "icon": "/assets/images/Kachina_material_113065_1753020019270.png",
+            "description": "山の王·貪食のユムカ竜を倒して手に入れた不思議なフレイムグレネードの実。\\n通常、熟れたフレイムグレネードの実は成長し続けると、落ちて泥の中で腐ってしまうが、山の王のたてがみから落ちた実は、その奇異な体温によって守られているおかげか、めったに見られない「爛熟」状態になる。この状態のフレイムグレネードの実は非常に安定している。豊富な燃素を含み、ツヤも増し、独特な���味を持つ。",
             "type": "キャラクター育成素材"
           }
         ],
@@ -5047,7 +5047,7 @@
     "EN": "Kristen McGuire",
     "CHS": "静宸",
     "JP": "久保ユリカ",
-    "KR": "손선영"
+    "KR": "���선영"
   },
   "birthday": "4/22",
   "nativeTitle": "ナナツカヤン",

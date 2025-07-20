@@ -8,7 +8,7 @@
   "region": "Inazuma",
   "constellation": "子鹿座",
   "description": "天領奉行の天才少年探偵。直感が鋭く、洞察力に優れている。",
-  "icon": "/assets/images/Shikanoin Heizou_icon_1753018643398.png",
+  "icon": "/assets/images/Shikanoin Heizou_icon_1753019968542.png",
   "profile": {
     "baseHp": 893.555,
     "baseAtk": 18.876,
@@ -23,7 +23,7 @@
       "id": "不動流格闘術",
       "name": "不動流格闘術",
       "description": "",
-      "icon": "/assets/images/Lisa_normal_attack_1753018585917.png",
+      "icon": "/assets/images/Lisa_normal_attack_1753019917353.png",
       "skillType": "normal",
       "params": {
         "1": [],
@@ -47,7 +47,7 @@
       "id": "戮心拳",
       "name": "戮心拳",
       "description": "",
-      "icon": "/assets/images/Shikanoin Heizou_elemental_skill_1753018643398.png",
+      "icon": "/assets/images/Shikanoin Heizou_elemental_skill_1753019968542.png",
       "levelData": [
         {
           "tableIndex": 1,
@@ -1136,21 +1136,21 @@
     "elementalBurst": {
       "name": "反論稽古",
       "description": "",
-      "icon": "/assets/images/Shikanoin Heizou_elemental_burst_1753018643398.png",
+      "icon": "/assets/images/Shikanoin Heizou_elemental_burst_1753019968542.png",
       "levelData": []
     },
     "passiveTalents": [
       {
         "name": "反論稽古",
-        "icon": "/assets/images/Shikanoin Heizou_passive_1_1753018643398.png"
+        "icon": "/assets/images/Shikanoin Heizou_passive_1_1753019968542.png"
       },
       {
         "name": "因由勘破",
-        "icon": "/assets/images/Shikanoin Heizou_passive_2_1753018643398.png"
+        "icon": "/assets/images/Shikanoin Heizou_passive_2_1753019968542.png"
       },
       {
         "name": "罪より前に",
-        "icon": "/assets/images/Kaeya_passive_3_1753018588797.png"
+        "icon": "/assets/images/Kaeya_passive_3_1753019919854.png"
       }
     ],
     "completeTableData": [
@@ -4317,32 +4317,32 @@
       {
         "level": null,
         "name": "通称少年事件簿",
-        "icon": "/assets/images/Shikanoin Heizou_constellation_cNaN_1753018643398.png"
+        "icon": "/assets/images/Shikanoin Heizou_constellation_cNaN_1753019968542.png"
       },
       {
         "level": null,
         "name": "真相究明捜査集",
-        "icon": "/assets/images/Shikanoin Heizou_constellation_cNaN_1753018643398.png"
+        "icon": "/assets/images/Shikanoin Heizou_constellation_cNaN_1753019968542.png"
       },
       {
         "level": null,
         "name": "暗号隠語難問集",
-        "icon": "/assets/images/Shikanoin Heizou_constellation_cNaN_1753018643398.png"
+        "icon": "/assets/images/Shikanoin Heizou_constellation_cNaN_1753019968542.png"
       },
       {
         "level": null,
         "name": "荒唐無稽百物語",
-        "icon": "/assets/images/Shikanoin Heizou_constellation_cNaN_1753018643398.png"
+        "icon": "/assets/images/Shikanoin Heizou_constellation_cNaN_1753019968542.png"
       },
       {
         "level": null,
         "name": "屏禁密室大図鑑",
-        "icon": "/assets/images/Shikanoin Heizou_constellation_cNaN_1753018643399.png"
+        "icon": "/assets/images/Shikanoin Heizou_constellation_cNaN_1753019968543.png"
       },
       {
         "level": null,
         "name": "奇想天外捕物帳",
-        "icon": "/assets/images/Shikanoin Heizou_constellation_cNaN_1753018643399.png"
+        "icon": "/assets/images/Shikanoin Heizou_constellation_cNaN_1753019968543.png"
       }
     ]
   },
@@ -4359,14 +4359,14 @@
     "id": 210122,
     "name": "鹿野院平蔵·鞠",
     "description": "鹿野院平蔵·鞠",
-    "icon": "/assets/images/Shikanoin Heizou_icon_1753018643398.png"
+    "icon": "/assets/images/Shikanoin Heizou_icon_1753019968542.png"
   },
   "specialFood": {
     "id": 108390,
     "name": "唯一の真相",
     "rank": 2,
-    "icon": "/assets/images/Shikanoin Heizou_special_food_1753018643399.png",
-    "effectIcon": "/assets/images/Xiao_food_effect_1753018600089.png"
+    "icon": "/assets/images/Shikanoin Heizou_special_food_1753019968543.png",
+    "effectIcon": "/assets/images/Xiao_food_effect_1753019929897.png"
   },
   "levelProgression": [
     {
@@ -4682,7 +4682,7 @@
             "name": "オニカブトムシ",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Arataki Itto_material_101201_1753018640617.png",
+            "icon": "/assets/images/Arataki Itto_material_101201_1753019966045.png",
             "description": "雷元素が豊富なエリアに生息している不思議な甲虫。身を覆う殻には悪鬼の模様があるが、本体はいたって温厚で動きが鈍い。",
             "type": "稲妻地域の特産"
           },
@@ -4691,7 +4691,7 @@
             "name": "自由のターコイズ·砕屑",
             "count": 1,
             "rank": 2,
-            "icon": "/assets/images/Jean_material_104151_1753018584488.png",
+            "icon": "/assets/images/Jean_material_104151_1753019916128.png",
             "description": "キャラクターの突破用アイテム。",
             "type": "キャラクター突破素材"
           },
@@ -4700,7 +4700,7 @@
             "name": "宝探しの鴉マーク",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Kaeya_material_112035_1753018588810.png",
+            "icon": "/assets/images/Kaeya_material_112035_1753019919868.png",
             "description": "宝盗団の誇りであるマーク、彼らの宝物に対する永遠不滅の情熱を示すものである。とはいえ、自分が盗賊ということを誇らしげに示す必要はあるかな…？",
             "type": "キャラと武器育成素材"
           }
@@ -4731,7 +4731,7 @@
             "name": "オニカブトムシ",
             "count": 10,
             "rank": 1,
-            "icon": "/assets/images/Arataki Itto_material_101201_1753018640617.png",
+            "icon": "/assets/images/Arataki Itto_material_101201_1753019966045.png",
             "description": "雷元素が豊富なエリアに生息している不思議な甲虫。身を覆う殻には悪鬼の模様があるが、本体はいたって温厚で動きが鈍い。",
             "type": "稲妻地域の特産"
           },
@@ -4740,7 +4740,7 @@
             "name": "自由のターコイズ·欠片",
             "count": 3,
             "rank": 3,
-            "icon": "/assets/images/Jean_material_104152_1753018584488.png",
+            "icon": "/assets/images/Jean_material_104152_1753019916123.png",
             "description": "キャラクターの突破用アイテム。\\n「風向きは変わるもの。」",
             "type": "キャラクター突破素材"
           },
@@ -4749,7 +4749,7 @@
             "name": "宝探しの鴉マーク",
             "count": 15,
             "rank": 1,
-            "icon": "/assets/images/Kaeya_material_112035_1753018588810.png",
+            "icon": "/assets/images/Kaeya_material_112035_1753019919868.png",
             "description": "宝盗団の誇りであるマーク、彼らの宝物に対する永遠不滅の情熱を示すものである。とはいえ、自分が盗賊ということを誇らしげに示す必要はあるかな…？",
             "type": "キャラと武器育成素材"
           },
@@ -4758,7 +4758,7 @@
             "name": "符文の歯車",
             "count": 2,
             "rank": 4,
-            "icon": "/assets/images/Shikanoin Heizou_material_113035_1753018643410.png",
+            "icon": "/assets/images/Shikanoin Heizou_material_113035_1753019968555.png",
             "description": "山壁の「歯車」を掘り出すために使われた、謎の蛇の形をした古代の機械。解読不能の不吉な符文が刻まれている。\\n伝説によると、大地の黒き亀裂には、巨大な蛇が潜んでいるらしい。それらは地上の世界に恨みと悪意を抱きながら、未知なる目的のため、巨大な隧道を掘り続けていると言う…",
             "type": "キャラクター育成素材"
           }
@@ -4793,7 +4793,7 @@
             "name": "オニカブトムシ",
             "count": 20,
             "rank": 1,
-            "icon": "/assets/images/Arataki Itto_material_101201_1753018640617.png",
+            "icon": "/assets/images/Arataki Itto_material_101201_1753019966045.png",
             "description": "雷元素が豊富なエリアに生息している不思議な甲虫。身を覆う殻には悪鬼の模様があるが、本体はいたって温厚で動きが鈍い。",
             "type": "稲妻地域の特産"
           },
@@ -4802,7 +4802,7 @@
             "name": "自由のターコイズ·欠片",
             "count": 6,
             "rank": 3,
-            "icon": "/assets/images/Jean_material_104152_1753018584488.png",
+            "icon": "/assets/images/Jean_material_104152_1753019916123.png",
             "description": "キャラクターの突破用アイテム。\\n「風向きは変わるもの。」",
             "type": "キャラクター突破素材"
           },
@@ -4811,7 +4811,7 @@
             "name": "シルバーの鴉マーク",
             "count": 12,
             "rank": 2,
-            "icon": "/assets/images/Kaeya_material_112036_1753018588807.png",
+            "icon": "/assets/images/Kaeya_material_112036_1753019919869.png",
             "description": "宝盗団のメンバーが互いの存在を証明する鴉マーク。宝盗団のメンバーは出身を問わず、宝物への貪欲さえあれば、「優秀」なメンバーになれる。",
             "type": "キャラと武器育成素材"
           },
@@ -4820,7 +4820,7 @@
             "name": "符文の歯車",
             "count": 4,
             "rank": 4,
-            "icon": "/assets/images/Shikanoin Heizou_material_113035_1753018643410.png",
+            "icon": "/assets/images/Shikanoin Heizou_material_113035_1753019968555.png",
             "description": "山壁の「歯車」を掘り出すために使われた、謎の蛇の形をした古代の機械。解読不能の不吉な符文が刻まれている。\\n伝説によると、大地の黒き亀裂には、巨大な蛇が潜んでいるらしい。それらは地上の世界に恨みと悪意を抱きながら、未知なる目的のため、巨大な隧道を掘り続けていると言う…",
             "type": "キャラクター育成素材"
           }
@@ -4855,7 +4855,7 @@
             "name": "オニカブトムシ",
             "count": 30,
             "rank": 1,
-            "icon": "/assets/images/Arataki Itto_material_101201_1753018640617.png",
+            "icon": "/assets/images/Arataki Itto_material_101201_1753019966045.png",
             "description": "雷元素が豊富なエリアに生息している不思議な甲虫。身を覆う殻には悪鬼の模様があるが、本体はいたって温厚で動きが鈍い。",
             "type": "稲妻地域の特産"
           },
@@ -4864,7 +4864,7 @@
             "name": "自由のターコイズ·塊",
             "count": 3,
             "rank": 4,
-            "icon": "/assets/images/Jean_material_104153_1753018584489.png",
+            "icon": "/assets/images/Jean_material_104153_1753019916118.png",
             "description": "キャラクターの突破用アイテム。\\n「風向きは変わるもの。」\\n「いつか、光射す方へと吹いてくる。」",
             "type": "キャラクター突破素材"
           },
@@ -4873,7 +4873,7 @@
             "name": "シルバーの鴉マーク",
             "count": 18,
             "rank": 2,
-            "icon": "/assets/images/Kaeya_material_112036_1753018588807.png",
+            "icon": "/assets/images/Kaeya_material_112036_1753019919869.png",
             "description": "宝盗団のメンバーが互いの存在を証明する鴉マーク。宝盗団のメンバーは出身を問わず、宝物への貪欲さえあれば、「優秀」なメンバーになれる。",
             "type": "キャラと武器育成素材"
           },
@@ -4882,7 +4882,7 @@
             "name": "符文の歯車",
             "count": 8,
             "rank": 4,
-            "icon": "/assets/images/Shikanoin Heizou_material_113035_1753018643410.png",
+            "icon": "/assets/images/Shikanoin Heizou_material_113035_1753019968555.png",
             "description": "山壁の「歯車」を掘り出すために使われた、謎の蛇の形をした古代の機械。解読不能の不吉な符文が刻まれている。\\n伝説によると、大地の黒き亀裂には、巨大な蛇が潜んでいるらしい。それらは地上の世界に恨みと悪意を抱きながら、未知なる目的のため、巨大な隧道を掘り続けていると言う…",
             "type": "キャラクター育成素材"
           }
@@ -4917,7 +4917,7 @@
             "name": "オニカブトムシ",
             "count": 45,
             "rank": 1,
-            "icon": "/assets/images/Arataki Itto_material_101201_1753018640617.png",
+            "icon": "/assets/images/Arataki Itto_material_101201_1753019966045.png",
             "description": "雷元素が豊富なエリアに生息している不思議な甲虫。身を覆う殻には悪鬼の模様があるが、本体はいたって温厚で動きが鈍い。",
             "type": "稲妻地域の特産"
           },
@@ -4926,7 +4926,7 @@
             "name": "自由のターコイズ·塊",
             "count": 6,
             "rank": 4,
-            "icon": "/assets/images/Jean_material_104153_1753018584489.png",
+            "icon": "/assets/images/Jean_material_104153_1753019916118.png",
             "description": "キャラクターの突破用アイテム。\\n「風向きは変わるもの。」\\n「いつか、光射す方へと吹いてくる。」",
             "type": "キャラクター突破素材"
           },
@@ -4935,7 +4935,7 @@
             "name": "ゴールドの鴉マーク",
             "count": 12,
             "rank": 3,
-            "icon": "/assets/images/Kaeya_material_112037_1753018588811.png",
+            "icon": "/assets/images/Kaeya_material_112037_1753019919866.png",
             "description": "宝盗団の信仰と誇りを示す鴉マーク。この広い大地、幽邃の深淵、未知な海に秘宝が存在していれば、宝盗団の信念は永遠に続く。",
             "type": "キャラと武器育成素材"
           },
@@ -4944,7 +4944,7 @@
             "name": "符文の歯車",
             "count": 12,
             "rank": 4,
-            "icon": "/assets/images/Shikanoin Heizou_material_113035_1753018643410.png",
+            "icon": "/assets/images/Shikanoin Heizou_material_113035_1753019968555.png",
             "description": "山壁の「歯車」を掘り出すために使われた、謎の蛇の形をした古代の機械。解読不能の不吉な符文が刻まれている。\\n伝説によると、大地の黒き亀裂には、巨大な蛇が潜んでいるらしい。それらは地上の世界に恨みと悪意を抱きながら、未知なる目的のため、巨大な隧道を掘り続けていると言う…",
             "type": "キャラクター育成素材"
           }
@@ -4979,7 +4979,7 @@
             "name": "オニカブトムシ",
             "count": 60,
             "rank": 1,
-            "icon": "/assets/images/Arataki Itto_material_101201_1753018640617.png",
+            "icon": "/assets/images/Arataki Itto_material_101201_1753019966045.png",
             "description": "雷元素が豊富なエリアに生息している不思議な甲虫。身を覆う殻には悪鬼の模様があるが、本体はいたって温厚で動きが鈍い。",
             "type": "稲妻地域の特産"
           },
@@ -4988,7 +4988,7 @@
             "name": "自由のターコイズ",
             "count": 6,
             "rank": 5,
-            "icon": "/assets/images/Jean_material_104154_1753018584486.png",
+            "icon": "/assets/images/Jean_material_104154_1753019916123.png",
             "description": "キャラクターの突破用アイテム。\\n「風向きは変わるもの。」\\n「いつか、光射す方へと吹いてくる。」\\n「これからは、ボクの祝福と共に、もっと自由に生きていこう。」",
             "type": "キャラクター突破素材"
           },
@@ -4997,7 +4997,7 @@
             "name": "ゴールドの鴉マーク",
             "count": 24,
             "rank": 3,
-            "icon": "/assets/images/Kaeya_material_112037_1753018588811.png",
+            "icon": "/assets/images/Kaeya_material_112037_1753019919866.png",
             "description": "宝盗団の信仰と誇りを示す鴉マーク。この広い大地、幽邃の深淵、未知な海に秘宝が存在していれば、宝盗団の信念は永遠に続く。",
             "type": "キャラと武器育成素材"
           },
@@ -5006,7 +5006,7 @@
             "name": "符文の歯車",
             "count": 20,
             "rank": 4,
-            "icon": "/assets/images/Shikanoin Heizou_material_113035_1753018643410.png",
+            "icon": "/assets/images/Shikanoin Heizou_material_113035_1753019968555.png",
             "description": "山壁の「歯車」を掘り出すために使われた、謎の蛇の形をした古代の機械。解読不能の不吉な符文が刻まれている。\\n伝説によると、大地の黒き亀裂には、巨大な蛇が潜んでいるらしい。それらは地上の世界に恨みと悪意を抱きながら、未知なる目的のため、巨大な隧道を掘り続けていると言う…",
             "type": "キャラクター育成素材"
           }

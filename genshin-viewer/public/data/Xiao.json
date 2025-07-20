@@ -8,7 +8,7 @@
   "region": "Liyue",
   "constellation": "金翼鵬王座",
   "description": "璃月を守る仙人·「夜叉」。またの名を「降魔大聖」、「護法夜叉大将」。",
-  "icon": "/assets/images/Xiao_icon_1753018600088.png",
+  "icon": "/assets/images/Xiao_icon_1753019929896.png",
   "profile": {
     "baseHp": 991.453,
     "baseAtk": 27.185,
@@ -23,7 +23,7 @@
       "id": "微塵突進",
       "name": "微塵突進",
       "description": "",
-      "icon": "/assets/images/Xiangling_normal_attack_1753018596050.png",
+      "icon": "/assets/images/Xiangling_normal_attack_1753019926094.png",
       "skillType": "normal",
       "params": {
         "1": [],
@@ -47,7 +47,7 @@
       "id": "風輪両立",
       "name": "風輪両立",
       "description": "",
-      "icon": "/assets/images/Xiao_elemental_skill_1753018600088.png",
+      "icon": "/assets/images/Xiao_elemental_skill_1753019929896.png",
       "levelData": [
         {
           "tableIndex": 1,
@@ -1136,21 +1136,21 @@
     "elementalBurst": {
       "name": "降魔·平妖大聖",
       "description": "",
-      "icon": "/assets/images/Xiao_elemental_burst_1753018600088.png",
+      "icon": "/assets/images/Xiao_elemental_burst_1753019929896.png",
       "levelData": []
     },
     "passiveTalents": [
       {
         "name": "降魔·平妖大聖",
-        "icon": "/assets/images/Xiao_passive_1_1753018600088.png"
+        "icon": "/assets/images/Xiao_passive_1_1753019929896.png"
       },
       {
         "name": "壊劫·国土砕き",
-        "icon": "/assets/images/Xiao_passive_2_1753018600088.png"
+        "icon": "/assets/images/Xiao_passive_2_1753019929896.png"
       },
       {
         "name": "神通·空中自在法",
-        "icon": "/assets/images/Xiao_passive_3_1753018600088.png"
+        "icon": "/assets/images/Xiao_passive_3_1753019929896.png"
       }
     ],
     "completeTableData": [
@@ -3485,7 +3485,7 @@
               "通常攻撃/重撃/落下攻撃ダメージアップ|{param1:F1P}",
               "HP減少|毎秒現在HP{param2:F1P}",
               "継続時間|{param3:F1}秒",
-              "ク��ルタイム|{param4:F1}秒",
+              "クールタイム|{param4:F1}秒",
               "元素エネルギー|{param5:I}",
               "",
               "",
@@ -4317,32 +4317,32 @@
       {
         "level": null,
         "name": "壊劫·三界破壊",
-        "icon": "/assets/images/Xiao_constellation_cNaN_1753018600088.png"
+        "icon": "/assets/images/Xiao_constellation_cNaN_1753019929896.png"
       },
       {
         "level": null,
         "name": "空劫·虚空開敷の変",
-        "icon": "/assets/images/Xiao_constellation_cNaN_1753018600089.png"
+        "icon": "/assets/images/Xiao_constellation_cNaN_1753019929897.png"
       },
       {
         "level": null,
         "name": "降魔·憤怒の相",
-        "icon": "/assets/images/Xiao_constellation_cNaN_1753018600089.png"
+        "icon": "/assets/images/Xiao_constellation_cNaN_1753019929897.png"
       },
       {
         "level": null,
         "name": "神通·諸苦滅尽",
-        "icon": "/assets/images/Xiao_constellation_cNaN_1753018600089.png"
+        "icon": "/assets/images/Xiao_constellation_cNaN_1753019929897.png"
       },
       {
         "level": null,
         "name": "成劫·無明増長",
-        "icon": "/assets/images/Xiao_constellation_cNaN_1753018600089.png"
+        "icon": "/assets/images/Xiao_constellation_cNaN_1753019929897.png"
       },
       {
         "level": null,
         "name": "降魔·護法夜叉",
-        "icon": "/assets/images/Xiao_constellation_cNaN_1753018600089.png"
+        "icon": "/assets/images/Xiao_constellation_cNaN_1753019929897.png"
       }
     ]
   },
@@ -4359,14 +4359,14 @@
     "id": 210058,
     "name": "魈·儺面",
     "description": "魈·儺面",
-    "icon": "/assets/images/Xiao_namecard_1753018600313.png"
+    "icon": "/assets/images/Xiao_icon_1753019929896.png"
   },
   "specialFood": {
     "id": 108137,
     "name": "「夢」",
     "rank": 2,
-    "icon": "/assets/images/Xiao_special_food_1753018600089.png",
-    "effectIcon": "/assets/images/Xiao_food_effect_1753018600089.png"
+    "icon": "/assets/images/Xiao_special_food_1753019929897.png",
+    "effectIcon": "/assets/images/Xiao_food_effect_1753019929897.png"
   },
   "levelProgression": [
     {
@@ -4682,7 +4682,7 @@
             "name": "清心",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Xiao_material_100031_1753018600132.png",
+            "icon": "/assets/images/Xiao_material_100031_1753019929932.png",
             "description": "断崖絶壁にしか咲かない透き通る白い花。平原の温もりと潤いよりも冷たい高い場所を選ぶ花。",
             "type": "璃月地域の特産"
           },
@@ -4691,7 +4691,7 @@
             "name": "自由のターコイズ·砕屑",
             "count": 1,
             "rank": 2,
-            "icon": "/assets/images/Jean_material_104151_1753018584488.png",
+            "icon": "/assets/images/Jean_material_104151_1753019916128.png",
             "description": "キャラクターの突破用アイテム。",
             "type": "キャラクター突破素材"
           },
@@ -4700,7 +4700,7 @@
             "name": "スライムの液体",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Lisa_material_112002_1753018585932.png",
+            "icon": "/assets/images/Lisa_material_112002_1753019917369.png",
             "description": "スライムの表面にある液体、各地の元素工房では最もよくある原料である。",
             "type": "キャラと武器育成素材"
           }
@@ -4731,7 +4731,7 @@
             "name": "清心",
             "count": 10,
             "rank": 1,
-            "icon": "/assets/images/Xiao_material_100031_1753018600132.png",
+            "icon": "/assets/images/Xiao_material_100031_1753019929932.png",
             "description": "断崖絶壁にしか咲かない透き通る白い花。平原の温もりと潤いよりも冷たい高い場所を選ぶ花。",
             "type": "璃月地域の特産"
           },
@@ -4740,7 +4740,7 @@
             "name": "自由のターコイズ·欠片",
             "count": 3,
             "rank": 3,
-            "icon": "/assets/images/Jean_material_104152_1753018584488.png",
+            "icon": "/assets/images/Jean_material_104152_1753019916123.png",
             "description": "キャラクターの突破用アイテム。\\n「風向きは変わるもの。」",
             "type": "キャラクター突破素材"
           },
@@ -4749,7 +4749,7 @@
             "name": "スライムの液体",
             "count": 15,
             "rank": 1,
-            "icon": "/assets/images/Lisa_material_112002_1753018585932.png",
+            "icon": "/assets/images/Lisa_material_112002_1753019917369.png",
             "description": "スライムの表面にある液体、各地の元素工房では最もよくある原料である。",
             "type": "キャラと武器育成素材"
           },
@@ -4758,7 +4758,7 @@
             "name": "未熟の玉石",
             "count": 2,
             "rank": 4,
-            "icon": "/assets/images/Xiao_material_113016_1753018600122.png",
+            "icon": "/assets/images/Xiao_material_113016_1753019929923.png",
             "description": "エンシェントヴィシャップ·岩から取り出した結晶物質。龍になれる可能性を秘めている。\\n山で深く眠るヴィシャップは、このような薄暗い結晶を沈殿させる。璃月の伝説によると、この結晶は時間とともに力が蓄積し、最終的に本来の心臓を取り替え、ヴィシャップも真の龍になり、山を揺るがし、大地を引き裂くという。",
             "type": "キャラクター育成素材"
           }
@@ -4793,7 +4793,7 @@
             "name": "清心",
             "count": 20,
             "rank": 1,
-            "icon": "/assets/images/Xiao_material_100031_1753018600132.png",
+            "icon": "/assets/images/Xiao_material_100031_1753019929932.png",
             "description": "断崖絶壁にしか咲かない透き通る白い花。平原の温もりと潤いよりも冷たい高い場所を選ぶ花。",
             "type": "璃月地域の特産"
           },
@@ -4802,7 +4802,7 @@
             "name": "自由のターコイズ·欠片",
             "count": 6,
             "rank": 3,
-            "icon": "/assets/images/Jean_material_104152_1753018584488.png",
+            "icon": "/assets/images/Jean_material_104152_1753019916123.png",
             "description": "キャラクターの突破用アイテム。\\n「風向きは変わるもの。」",
             "type": "キャラクター突破素材"
           },
@@ -4811,7 +4811,7 @@
             "name": "スライムの分泌物",
             "count": 12,
             "rank": 2,
-            "icon": "/assets/images/Lisa_material_112003_1753018585933.png",
+            "icon": "/assets/images/Lisa_material_112003_1753019917372.png",
             "description": "純化されたスライムの分泌物、皮膚を傷つけるため、直接接触はしないように。",
             "type": "キャラと武器育成素材"
           },
@@ -4820,7 +4820,7 @@
             "name": "未熟の玉石",
             "count": 4,
             "rank": 4,
-            "icon": "/assets/images/Xiao_material_113016_1753018600122.png",
+            "icon": "/assets/images/Xiao_material_113016_1753019929923.png",
             "description": "エンシェントヴィシャップ·岩から取り出した結晶物質。龍になれる可能性を秘めている。\\n山で深く眠るヴィシャップは、このような薄暗い結晶を沈殿させる。璃月の伝説によると、この結晶は時間とともに力が蓄積し、最終的に本来の心臓を取り替え、ヴィシャップも真の龍になり、山を揺るがし、大地を引き裂くという。",
             "type": "キャラクター育成素材"
           }
@@ -4855,7 +4855,7 @@
             "name": "清心",
             "count": 30,
             "rank": 1,
-            "icon": "/assets/images/Xiao_material_100031_1753018600132.png",
+            "icon": "/assets/images/Xiao_material_100031_1753019929932.png",
             "description": "断崖絶壁にしか咲かない透き通る白い花。平原の温もりと潤いよりも冷たい高い場所を選ぶ花。",
             "type": "璃月地域の特産"
           },
@@ -4864,7 +4864,7 @@
             "name": "自由のターコイズ·塊",
             "count": 3,
             "rank": 4,
-            "icon": "/assets/images/Jean_material_104153_1753018584489.png",
+            "icon": "/assets/images/Jean_material_104153_1753019916118.png",
             "description": "キャラクターの突破用アイテム。\\n「風向きは変わるもの。」\\n「いつか、光射す方へと吹いてくる。」",
             "type": "キャラクター突破素材"
           },
@@ -4873,7 +4873,7 @@
             "name": "スライムの分泌物",
             "count": 18,
             "rank": 2,
-            "icon": "/assets/images/Lisa_material_112003_1753018585933.png",
+            "icon": "/assets/images/Lisa_material_112003_1753019917372.png",
             "description": "純化されたスライムの分泌物、皮膚を傷つけるため、直接接触はしないように。",
             "type": "キャラと武器育成素材"
           },
@@ -4882,7 +4882,7 @@
             "name": "未熟の玉石",
             "count": 8,
             "rank": 4,
-            "icon": "/assets/images/Xiao_material_113016_1753018600122.png",
+            "icon": "/assets/images/Xiao_material_113016_1753019929923.png",
             "description": "エンシェントヴィシャップ·岩から取り出した結晶物質。龍になれる可能性を秘めている。\\n山で深く眠るヴィシャップは、このような薄暗い結晶を沈殿させる。璃月の伝説によると、この結晶は時間とともに力が蓄積し、最終的に本来の心臓を取り替え、ヴィシャップも真の龍になり、山を揺るがし、大地を引き裂くという。",
             "type": "キャラクター育成素材"
           }
@@ -4917,7 +4917,7 @@
             "name": "清心",
             "count": 45,
             "rank": 1,
-            "icon": "/assets/images/Xiao_material_100031_1753018600132.png",
+            "icon": "/assets/images/Xiao_material_100031_1753019929932.png",
             "description": "断崖絶壁にしか咲かない透き通る白い花。平原の温もりと潤いよりも冷たい高い場所を選ぶ花。",
             "type": "璃月地域の特産"
           },
@@ -4926,7 +4926,7 @@
             "name": "自由のターコイズ·塊",
             "count": 6,
             "rank": 4,
-            "icon": "/assets/images/Jean_material_104153_1753018584489.png",
+            "icon": "/assets/images/Jean_material_104153_1753019916118.png",
             "description": "キャラクターの突破用アイテム。\\n「風向きは変わるもの。」\\n「いつか、光射す方へと吹いてくる。」",
             "type": "キャラクター突破素材"
           },
@@ -4935,7 +4935,7 @@
             "name": "スライムのピュレ",
             "count": 12,
             "rank": 3,
-            "icon": "/assets/images/Lisa_material_112004_1753018585931.png",
+            "icon": "/assets/images/Lisa_material_112004_1753019917366.png",
             "description": "スライムの濃縮ピュレ、静止した状態では不規則な動きをする。",
             "type": "キャラと武器育成素材"
           },
@@ -4944,7 +4944,7 @@
             "name": "未熟の玉石",
             "count": 12,
             "rank": 4,
-            "icon": "/assets/images/Xiao_material_113016_1753018600122.png",
+            "icon": "/assets/images/Xiao_material_113016_1753019929923.png",
             "description": "エンシェントヴィシャップ·岩から取り出した結晶物質。龍になれる可能性を秘めている。\\n山で深く眠るヴィシャップは、このような薄暗い結晶を沈殿させる。璃月の伝説によると、この結晶は時間とともに力が蓄積し、最終的に本来の心臓を取り替え、ヴィシャップも真の龍になり、山を揺るがし、大地を引き裂くという。",
             "type": "キャラクター育成素材"
           }
@@ -4979,7 +4979,7 @@
             "name": "清心",
             "count": 60,
             "rank": 1,
-            "icon": "/assets/images/Xiao_material_100031_1753018600132.png",
+            "icon": "/assets/images/Xiao_material_100031_1753019929932.png",
             "description": "断崖絶壁にしか咲かない透き通る白い花。平原の温もりと潤いよりも冷たい高い場所を選ぶ花。",
             "type": "璃月地域の特産"
           },
@@ -4988,7 +4988,7 @@
             "name": "自由のターコイズ",
             "count": 6,
             "rank": 5,
-            "icon": "/assets/images/Jean_material_104154_1753018584486.png",
+            "icon": "/assets/images/Jean_material_104154_1753019916123.png",
             "description": "キャラクターの突破用アイテム。\\n「風向きは変わるもの。」\\n「いつか、光射す方へと吹いてくる。」\\n「これからは、ボクの祝福と共に、もっと自由に生きていこう。」",
             "type": "キャラクター突破素材"
           },
@@ -4997,7 +4997,7 @@
             "name": "スライムのピュレ",
             "count": 24,
             "rank": 3,
-            "icon": "/assets/images/Lisa_material_112004_1753018585931.png",
+            "icon": "/assets/images/Lisa_material_112004_1753019917366.png",
             "description": "スライムの濃縮ピュレ、静止した状態では不規則な動きをする。",
             "type": "キャラと武器育成素材"
           },
@@ -5006,7 +5006,7 @@
             "name": "未熟の玉石",
             "count": 20,
             "rank": 4,
-            "icon": "/assets/images/Xiao_material_113016_1753018600122.png",
+            "icon": "/assets/images/Xiao_material_113016_1753019929923.png",
             "description": "エンシェントヴィシャップ·岩から取り出した結晶物質。龍になれる可能性を秘めている。\\n山で深く眠るヴィシャップは、このような薄暗い結晶を沈殿させる。璃月の伝説によると、この結晶は時間とともに力が蓄積し、最終的に本来の心臓を取り替え、ヴィシャップも真の龍になり、山を揺るがし、大地を引き裂くという。",
             "type": "キャラクター育成素材"
           }

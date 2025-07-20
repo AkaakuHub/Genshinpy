@@ -8,7 +8,7 @@
   "region": "Natlan",
   "constellation": "カテナ・オペレ座",
   "description": "花翼の集の竜医。人や動物、その他の生き物と共に過ごす生活を心から愛している。",
-  "icon": "/assets/images/Ifa_icon_1753018720404.png",
+  "icon": "/assets/images/Ifa_icon_1753020035328.png",
   "profile": {
     "baseHp": 845.23,
     "baseAtk": 14.959,
@@ -23,7 +23,7 @@
       "id": "風払いの儀式",
       "name": "風払いの儀式",
       "description": "",
-      "icon": "/assets/images/Lisa_normal_attack_1753018585917.png",
+      "icon": "/assets/images/Lisa_normal_attack_1753019917353.png",
       "skillType": "normal",
       "params": {
         "1": [],
@@ -47,7 +47,7 @@
       "id": "天翔ける守護",
       "name": "天翔ける守護",
       "description": "",
-      "icon": "/assets/images/Ifa_elemental_skill_1753018720404.png",
+      "icon": "/assets/images/Ifa_elemental_skill_1753020035328.png",
       "levelData": [
         {
           "tableIndex": 1,
@@ -1136,25 +1136,25 @@
     "elementalBurst": {
       "name": "臨床医の大局観",
       "description": "",
-      "icon": "/assets/images/Ifa_elemental_burst_1753018720405.png",
+      "icon": "/assets/images/Ifa_elemental_burst_1753020035328.png",
       "levelData": []
     },
     "passiveTalents": [
       {
         "name": "臨床医の大局観",
-        "icon": "/assets/images/Ifa_passive_1_1753018720405.png"
+        "icon": "/assets/images/Ifa_passive_1_1753020035328.png"
       },
       {
         "name": "相互救援協定",
-        "icon": "/assets/images/Ifa_passive_2_1753018720405.png"
+        "icon": "/assets/images/Ifa_passive_2_1753020035329.png"
       },
       {
         "name": "夜域の賜物・救急集中治療",
-        "icon": "/assets/images/Ifa_passive_3_1753018720405.png"
+        "icon": "/assets/images/Ifa_passive_3_1753020035329.png"
       },
       {
         "name": "戦略的温罨法",
-        "icon": "/assets/images/Ifa_passive_4_1753018720405.png"
+        "icon": "/assets/images/Ifa_passive_4_1753020035329.png"
       }
     ],
     "completeTableData": [
@@ -1402,7 +1402,7 @@
               "重撃ダメージ|{param4:F1P}",
               "重撃スタミナ消費|{param5:F1}",
               "落下期間のダメージ|{param6:F1P}",
-              "低空/高空落下攻撃ダメージ|{param7:P}/{param8:P}",
+              "低空/��空落下攻撃ダメージ|{param7:P}/{param8:P}",
               "",
               "",
               "",
@@ -3251,7 +3251,7 @@
       {
         "talentIndex": 3,
         "talentId": "3",
-        "name": "複合鎮静フィ���ルド",
+        "name": "複合鎮静フィールド",
         "type": "1",
         "levelData": [
           {
@@ -4328,32 +4328,32 @@
       {
         "level": null,
         "name": "蔓と知恵の霊薬",
-        "icon": "/assets/images/Ifa_constellation_cNaN_1753018720405.png"
+        "icon": "/assets/images/Ifa_constellation_cNaN_1753020035329.png"
       },
       {
         "level": null,
         "name": "祈祷弾道の天佑",
-        "icon": "/assets/images/Ifa_constellation_cNaN_1753018720405.png"
+        "icon": "/assets/images/Ifa_constellation_cNaN_1753020035329.png"
       },
       {
         "level": null,
         "name": "夜との交渉",
-        "icon": "/assets/images/Ifa_constellation_cNaN_1753018720405.png"
+        "icon": "/assets/images/Ifa_constellation_cNaN_1753020035329.png"
       },
       {
         "level": null,
         "name": "朽ちた肉体への移植",
-        "icon": "/assets/images/Ifa_constellation_cNaN_1753018720405.png"
+        "icon": "/assets/images/Ifa_constellation_cNaN_1753020035329.png"
       },
       {
         "level": null,
         "name": "生命平等の誓い",
-        "icon": "/assets/images/Ifa_constellation_cNaN_1753018720405.png"
+        "icon": "/assets/images/Ifa_constellation_cNaN_1753020035329.png"
       },
       {
         "level": null,
         "name": "羽根に結んだ約束",
-        "icon": "/assets/images/Ifa_constellation_cNaN_1753018720405.png"
+        "icon": "/assets/images/Ifa_constellation_cNaN_1753020035329.png"
       }
     ]
   },
@@ -4370,14 +4370,14 @@
     "id": 210242,
     "name": "イファ・きょうだい",
     "description": "イファ・きょうだい",
-    "icon": "/assets/images/Ifa_icon_1753018720404.png"
+    "icon": "/assets/images/Ifa_icon_1753020035328.png"
   },
   "specialFood": {
     "id": 108821,
     "name": "「心の支え」",
     "rank": 3,
-    "icon": "/assets/images/Ifa_special_food_1753018720405.png",
-    "effectIcon": "/assets/images/Klee_food_effect_1753018602836.png"
+    "icon": "/assets/images/Ifa_special_food_1753020035329.png",
+    "effectIcon": "/assets/images/Klee_food_effect_1753019932434.png"
   },
   "levelProgression": [
     {
@@ -4693,7 +4693,7 @@
             "name": "サウリアンサキュレント",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Kinich_material_101250_1753018703612.png",
+            "icon": "/assets/images/Kinich_material_101250_1753020020503.png",
             "description": "巨大な動物の手のような形をした多肉植物。",
             "type": "ナタ地域の特産"
           },
@@ -4702,7 +4702,7 @@
             "name": "自由のターコイズ·砕屑",
             "count": 1,
             "rank": 2,
-            "icon": "/assets/images/Jean_material_104151_1753018584488.png",
+            "icon": "/assets/images/Jean_material_104151_1753019916128.png",
             "description": "キャラクターの突破用アイテム。",
             "type": "キャラクター突破素材"
           },
@@ -4711,7 +4711,7 @@
             "name": "未熟な牙",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Kinich_material_112101_1753018703609.png",
+            "icon": "/assets/images/Kinich_material_112101_1753020020506.png",
             "description": "ナタの竜が落とした牙。\\nまだ育ち切っていないようだ。もし牙から年齢を推定する方法があるなら、この牙の主はあまり長い年月を過ごしていないと結論づけられるかもしれない。",
             "type": "キャラと武器育成素材"
           }
@@ -4742,7 +4742,7 @@
             "name": "サウリアンサキュレント",
             "count": 10,
             "rank": 1,
-            "icon": "/assets/images/Kinich_material_101250_1753018703612.png",
+            "icon": "/assets/images/Kinich_material_101250_1753020020503.png",
             "description": "巨大な動物の手のような形をした多肉植物。",
             "type": "ナタ地域の特産"
           },
@@ -4751,7 +4751,7 @@
             "name": "自由のターコイズ·欠片",
             "count": 3,
             "rank": 3,
-            "icon": "/assets/images/Jean_material_104152_1753018584488.png",
+            "icon": "/assets/images/Jean_material_104152_1753019916123.png",
             "description": "キャラクターの突破用アイテム。\\n「風向きは変わるもの。」",
             "type": "キャラクター突破素材"
           },
@@ -4760,7 +4760,7 @@
             "name": "未熟な牙",
             "count": 15,
             "rank": 1,
-            "icon": "/assets/images/Kinich_material_112101_1753018703609.png",
+            "icon": "/assets/images/Kinich_material_112101_1753020020506.png",
             "description": "ナタの竜が落とした牙。\\nまだ育ち切っていないようだ。もし牙から年齢を推定する方法があるなら、この牙の主はあまり長い年月を過ごしていないと結論づけられるかもしれない。",
             "type": "キャラと武器育成素材"
           },
@@ -4769,8 +4769,8 @@
             "name": "龍像の無智なるコア",
             "count": 2,
             "rank": 4,
-            "icon": "/assets/images/Varesa_material_113072_1753018717657.png",
-            "description": "輝ける溶岩の龍像を倒した後、燃え続ける体から取り出したコア。\\n輝ける溶岩の龍像は、燃素が無限に積み上げられて出来た特殊な存在だと言われている。本来の構想では、純粋なエネルギーから人類のような知能を持つ生命が誕生するはずだったが、この試みは失敗に終わった。純粋なエネルギーは太古の時代と同じく、自発的に成長し、制御可能な複雑な知恵を形成することはできないという事実��証明された。",
+            "icon": "/assets/images/Varesa_material_113072_1753020032868.png",
+            "description": "輝ける溶岩の龍像を倒した後、燃え続ける体から取り出したコア。\\n輝ける溶岩の龍像は、燃素が無限に積み上げられて出来た特殊な存在だと言われている。本来の構想では、純粋なエネルギーから人類のような知能を持つ生命が誕生するはずだったが、この試みは失敗に終わった。純粋なエネルギーは太古の時代と同じく、自発的に成長し、制御可能な複雑な知恵を形成することはできないという事実が証明された。",
             "type": "キャラクター育成素材"
           }
         ],
@@ -4804,7 +4804,7 @@
             "name": "サウリアンサキュレント",
             "count": 20,
             "rank": 1,
-            "icon": "/assets/images/Kinich_material_101250_1753018703612.png",
+            "icon": "/assets/images/Kinich_material_101250_1753020020503.png",
             "description": "巨大な動物の手のような形をした多肉植物。",
             "type": "ナタ地域の特産"
           },
@@ -4813,7 +4813,7 @@
             "name": "自由のターコイズ·欠片",
             "count": 6,
             "rank": 3,
-            "icon": "/assets/images/Jean_material_104152_1753018584488.png",
+            "icon": "/assets/images/Jean_material_104152_1753019916123.png",
             "description": "キャラクターの突破用アイテム。\\n「風向きは変わるもの。」",
             "type": "キャラクター突破素材"
           },
@@ -4822,7 +4822,7 @@
             "name": "熟練の牙",
             "count": 12,
             "rank": 2,
-            "icon": "/assets/images/Kinich_material_112102_1753018703614.png",
+            "icon": "/assets/images/Kinich_material_112102_1753020020501.png",
             "description": "ナタの竜が落とした堅い牙。\\n牙の摩耗具合から、持ち主が経験したであろう暮らしや戦いが想像できる。竜の中でも、優秀な戦士と呼ばれるにふさわしいだろう。",
             "type": "キャラと武器育成素材"
           },
@@ -4831,8 +4831,8 @@
             "name": "龍像の無智なるコア",
             "count": 4,
             "rank": 4,
-            "icon": "/assets/images/Varesa_material_113072_1753018717657.png",
-            "description": "輝ける溶岩の龍像を倒した後、燃え続ける体から取り出したコア。\\n輝ける溶岩の龍像は、燃素が無限に積み上げられて出来た特殊な存在だと言われている。本来の構想では、純粋なエネルギーから人類のような知能を持つ生命が誕生するはずだったが、この試みは失敗に終わった。純粋なエネルギーは太古の時代と同じく、自発的に成長し、制御可能な複雑な知恵を形成することはできないという事実��証明された。",
+            "icon": "/assets/images/Varesa_material_113072_1753020032868.png",
+            "description": "輝ける溶岩の龍像を倒した後、燃え続ける体から取り出したコア。\\n輝ける溶岩の龍像は、燃素が無限に積み上げられて出来た特殊な存在だと言われている。本来の構想では、純粋なエネルギーから人類のような知能を持つ生命が誕生するはずだったが、この試みは失敗に終わった。純粋なエネルギーは太古の時代と同じく、自発的に成長し、制御可能な複雑な知恵を形成することはできないという事実が証明された。",
             "type": "キャラクター育成素材"
           }
         ],
@@ -4866,7 +4866,7 @@
             "name": "サウリアンサキュレント",
             "count": 30,
             "rank": 1,
-            "icon": "/assets/images/Kinich_material_101250_1753018703612.png",
+            "icon": "/assets/images/Kinich_material_101250_1753020020503.png",
             "description": "巨大な動物の手のような形をした多肉植物。",
             "type": "ナタ地域の特産"
           },
@@ -4875,7 +4875,7 @@
             "name": "自由のターコイズ·塊",
             "count": 3,
             "rank": 4,
-            "icon": "/assets/images/Jean_material_104153_1753018584489.png",
+            "icon": "/assets/images/Jean_material_104153_1753019916118.png",
             "description": "キャラクターの突破用アイテム。\\n「風向きは変わるもの。」\\n「いつか、光射す方へと吹いてくる。」",
             "type": "キャラクター突破素材"
           },
@@ -4884,7 +4884,7 @@
             "name": "熟練の牙",
             "count": 18,
             "rank": 2,
-            "icon": "/assets/images/Kinich_material_112102_1753018703614.png",
+            "icon": "/assets/images/Kinich_material_112102_1753020020501.png",
             "description": "ナタの竜が落とした堅い牙。\\n牙の摩耗具合から、持ち主が経験したであろう暮らしや戦いが想像できる。竜の中でも、優秀な戦士と呼ばれるにふさわしいだろう。",
             "type": "キャラと武器育成素材"
           },
@@ -4893,8 +4893,8 @@
             "name": "龍像の無智なるコア",
             "count": 8,
             "rank": 4,
-            "icon": "/assets/images/Varesa_material_113072_1753018717657.png",
-            "description": "輝ける溶岩の龍像を倒した後、燃え続ける体から取り出したコア。\\n輝ける溶岩の龍像は、燃素が無限に積み上げられて出来た特殊な存在だと言われている。本来の構想では、純粋なエネルギーから人類のような知能を持つ生命が誕生するはずだったが、この試みは失敗に終わった。純粋なエネルギーは太古の時代と同じく、自発的に成長し、制御可能な複雑な知恵を形成することはできないという事実��証明された。",
+            "icon": "/assets/images/Varesa_material_113072_1753020032868.png",
+            "description": "輝ける溶岩の龍像を倒した後、燃え続ける体から取り出したコア。\\n輝ける溶岩の龍像は、燃素が無限に積み上げられて出来た特殊な存在だと言われている。本来の構想では、純粋なエネルギーから人類のような知能を持つ生命が誕生するはずだったが、この試みは失敗に終わった。純粋なエネルギーは太古の時代と同じく、自発的に成長し、制御可能な複雑な知恵を形成することはできないという事実が証明された。",
             "type": "キャラクター育成素材"
           }
         ],
@@ -4928,7 +4928,7 @@
             "name": "サウリアンサキュレント",
             "count": 45,
             "rank": 1,
-            "icon": "/assets/images/Kinich_material_101250_1753018703612.png",
+            "icon": "/assets/images/Kinich_material_101250_1753020020503.png",
             "description": "巨大な動物の手のような形をした多肉植物。",
             "type": "ナタ地域の特産"
           },
@@ -4937,7 +4937,7 @@
             "name": "自由のターコイズ·塊",
             "count": 6,
             "rank": 4,
-            "icon": "/assets/images/Jean_material_104153_1753018584489.png",
+            "icon": "/assets/images/Jean_material_104153_1753019916118.png",
             "description": "キャラクターの突破用アイテム。\\n「風向きは変わるもの。」\\n「いつか、光射す方へと吹いてくる。」",
             "type": "キャラクター突破素材"
           },
@@ -4946,7 +4946,7 @@
             "name": "覇道の牙",
             "count": 12,
             "rank": 3,
-            "icon": "/assets/images/Kinich_material_112103_1753018703613.png",
+            "icon": "/assets/images/Kinich_material_112103_1753020020501.png",
             "description": "ナタの強い竜が落とした鋭い牙。\\n側面のギザギザや獰猛な形から、持ち主が戦場でいかに勇猛であったかが窺える。「覇者」と言える竜だったのだろう。",
             "type": "キャラと武器育成素材"
           },
@@ -4955,8 +4955,8 @@
             "name": "龍像の無智なるコア",
             "count": 12,
             "rank": 4,
-            "icon": "/assets/images/Varesa_material_113072_1753018717657.png",
-            "description": "輝ける溶岩の龍像を倒した後、燃え続ける体から取り出したコア。\\n輝ける溶岩の龍像は、燃素が無限に積み上げられて出来た特殊な存在だと言われている。本来の構想では、純粋なエネルギーから人類のような知能を持つ生命が誕生するはずだったが、この試みは失敗に終わった。純粋なエネルギーは太古の時代と同じく、自発的に成長し、制御可能な複雑な知恵を形成することはできないという事実��証明された。",
+            "icon": "/assets/images/Varesa_material_113072_1753020032868.png",
+            "description": "輝ける溶岩の龍像を倒した後、燃え続ける体から取り出したコア。\\n輝ける溶岩の龍像は、燃素が無限に積み上げられて出来た特殊な存在だと言われている。本来の構想では、純粋なエネルギーから人類のような知能を持つ生命が誕生するはずだったが、この試みは失敗に終わった。純粋なエネルギーは太古の時代と同じく、自発的に成長し、制御可能な複雑な知恵を形成することはできないという事実が証明された。",
             "type": "キャラクター育成素材"
           }
         ],
@@ -4990,7 +4990,7 @@
             "name": "サウリアンサキュレント",
             "count": 60,
             "rank": 1,
-            "icon": "/assets/images/Kinich_material_101250_1753018703612.png",
+            "icon": "/assets/images/Kinich_material_101250_1753020020503.png",
             "description": "巨大な動物の手のような形をした多肉植物。",
             "type": "ナタ地域の特産"
           },
@@ -4999,7 +4999,7 @@
             "name": "自由のターコイズ",
             "count": 6,
             "rank": 5,
-            "icon": "/assets/images/Jean_material_104154_1753018584486.png",
+            "icon": "/assets/images/Jean_material_104154_1753019916123.png",
             "description": "キャラクターの突破用アイテム。\\n「風向きは変わるもの。」\\n「いつか、光射す方へと吹いてくる。」\\n「これからは、ボクの祝福と共に、もっと自由に生きていこう。」",
             "type": "キャラクター突破素材"
           },
@@ -5008,7 +5008,7 @@
             "name": "覇道の牙",
             "count": 24,
             "rank": 3,
-            "icon": "/assets/images/Kinich_material_112103_1753018703613.png",
+            "icon": "/assets/images/Kinich_material_112103_1753020020501.png",
             "description": "ナタの強い竜が落とした鋭い牙。\\n側面のギザギザや獰猛な形から、持ち主が戦場でいかに勇猛であったかが窺える。「覇者」と言える竜だったのだろう。",
             "type": "キャラと武器育成素材"
           },
@@ -5017,8 +5017,8 @@
             "name": "龍像の無智なるコア",
             "count": 20,
             "rank": 4,
-            "icon": "/assets/images/Varesa_material_113072_1753018717657.png",
-            "description": "輝ける溶岩の龍像を倒した後、燃え続ける体から取り出したコア。\\n輝ける溶岩の龍像は、燃素が無限に積み上げられて出来た特殊な存在だと言われている。本来の構想では、純粋なエネルギーから人類のような知能を持つ生命が誕生するはずだったが、この試みは失敗に終わった。純粋なエネルギーは太古の時代と同じく、自発的に成長し、制御可能な複雑な知恵を形成することはできないという事実��証明された。",
+            "icon": "/assets/images/Varesa_material_113072_1753020032868.png",
+            "description": "輝ける溶岩の龍像を倒した後、燃え続ける体から取り出したコア。\\n輝ける溶岩の龍像は、燃素が無限に積み上げられて出来た特殊な存在だと言われている。本来の構想では、純粋なエネルギーから人類のような知能を持つ生命が誕生するはずだったが、この試みは失敗に終わった。純粋なエネルギーは太古の時代と同じく、自発的に成長し、制御可能な複雑な知恵を形成することはできないという事実が証明された。",
             "type": "キャラクター育成素材"
           }
         ],

@@ -8,7 +8,7 @@
   "region": "Mondstadt",
   "constellation": "森鳩座",
   "description": "平凡な家庭に生まれた若い騎士。小隊では「前進測量士」を担当している。控えめで慎重な性格の持ち主。",
-  "icon": "/assets/images/Mika_icon_1753018673585.png",
+  "icon": "/assets/images/Mika_icon_1753019994370.png",
   "profile": {
     "baseHp": 1048.56,
     "baseAtk": 18.698,
@@ -23,7 +23,7 @@
       "id": "西風槍術・鏑矢",
       "name": "西風槍術・鏑矢",
       "description": "",
-      "icon": "/assets/images/Xiangling_normal_attack_1753018596050.png",
+      "icon": "/assets/images/Xiangling_normal_attack_1753019926094.png",
       "skillType": "normal",
       "params": {
         "1": [],
@@ -47,7 +47,7 @@
       "id": "スターフロストスワール",
       "name": "スターフロストスワール",
       "description": "",
-      "icon": "/assets/images/Mika_elemental_skill_1753018673586.png",
+      "icon": "/assets/images/Mika_elemental_skill_1753019994370.png",
       "levelData": [
         {
           "tableIndex": 1,
@@ -1136,21 +1136,21 @@
     "elementalBurst": {
       "name": "速射牽制",
       "description": "",
-      "icon": "/assets/images/Mika_elemental_burst_1753018673586.png",
+      "icon": "/assets/images/Mika_elemental_burst_1753019994371.png",
       "levelData": []
     },
     "passiveTalents": [
       {
         "name": "速射牽制",
-        "icon": "/assets/images/Mika_passive_1_1753018673586.png"
+        "icon": "/assets/images/Mika_passive_1_1753019994371.png"
       },
       {
         "name": "地形測量",
-        "icon": "/assets/images/Mika_passive_2_1753018673586.png"
+        "icon": "/assets/images/Mika_passive_2_1753019994371.png"
       },
       {
         "name": "デマケーション",
-        "icon": "/assets/images/Klee_passive_3_1753018602835.png"
+        "icon": "/assets/images/Klee_passive_3_1753019932433.png"
       }
     ],
     "completeTableData": [
@@ -4317,32 +4317,32 @@
       {
         "level": null,
         "name": "逢遇の因縁",
-        "icon": "/assets/images/Mika_constellation_cNaN_1753018673586.png"
+        "icon": "/assets/images/Mika_constellation_cNaN_1753019994371.png"
       },
       {
         "level": null,
         "name": "同行の旅路",
-        "icon": "/assets/images/Mika_constellation_cNaN_1753018673586.png"
+        "icon": "/assets/images/Mika_constellation_cNaN_1753019994371.png"
       },
       {
         "level": null,
         "name": "遊撃の心得",
-        "icon": "/assets/images/Mika_constellation_cNaN_1753018673586.png"
+        "icon": "/assets/images/Mika_constellation_cNaN_1753019994371.png"
       },
       {
         "level": null,
         "name": "霜晴の祈念",
-        "icon": "/assets/images/Mika_constellation_cNaN_1753018673586.png"
+        "icon": "/assets/images/Mika_constellation_cNaN_1753019994371.png"
       },
       {
         "level": null,
         "name": "道標の鳴鏑",
-        "icon": "/assets/images/Mika_constellation_cNaN_1753018673586.png"
+        "icon": "/assets/images/Mika_constellation_cNaN_1753019994371.png"
       },
       {
         "level": null,
         "name": "臨機の策応",
-        "icon": "/assets/images/Mika_constellation_cNaN_1753018673586.png"
+        "icon": "/assets/images/Mika_constellation_cNaN_1753019994371.png"
       }
     ]
   },
@@ -4359,14 +4359,14 @@
     "id": 210153,
     "name": "ミカ·インデックス",
     "description": "ミカ·インデックス",
-    "icon": "/assets/images/Mika_icon_1753018673585.png"
+    "icon": "/assets/images/Mika_icon_1753019994370.png"
   },
   "specialFood": {
     "id": 108502,
     "name": "測量士エッグバーガー",
     "rank": 3,
-    "icon": "/assets/images/Mika_special_food_1753018673586.png",
-    "effectIcon": "/assets/images/Xiao_food_effect_1753018600089.png"
+    "icon": "/assets/images/Mika_special_food_1753019994371.png",
+    "effectIcon": "/assets/images/Xiao_food_effect_1753019929897.png"
   },
   "levelProgression": [
     {
@@ -4682,7 +4682,7 @@
             "name": "ググプラム",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Razor_material_100021_1753018591708.png",
+            "icon": "/assets/images/Razor_material_100021_1753019922377.png",
             "description": "針があるプラム、時に狼の毛皮に引っかかることがある。それを見る時、まるで狼の遠吠えが聞こえるようだ…",
             "type": "モンド地域の特産"
           },
@@ -4691,7 +4691,7 @@
             "name": "哀切なアイスクリスタル·砕屑",
             "count": 1,
             "rank": 2,
-            "icon": "/assets/images/Kamisato Ayaka_material_104161_1753018583217.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104161_1753019914880.png",
             "description": "キャラクターの突破用アイテム。",
             "type": "キャラクター突破素材"
           },
@@ -4700,7 +4700,7 @@
             "name": "新兵の記章",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Diluc_material_112032_1753018590263.png",
+            "icon": "/assets/images/Diluc_material_112032_1753019921125.png",
             "description": "新兵の身分を記した記章。かつてこれをつけた人は、どんな気持ちでファデュイの戦争兵器になったのだろうか。",
             "type": "キャラと武器育成素材"
           }
@@ -4731,7 +4731,7 @@
             "name": "ググプラム",
             "count": 10,
             "rank": 1,
-            "icon": "/assets/images/Razor_material_100021_1753018591708.png",
+            "icon": "/assets/images/Razor_material_100021_1753019922377.png",
             "description": "針があるプラム、時に狼の毛皮に引っかかることがある。それを見る時、まるで狼の遠吠えが聞こえるようだ…",
             "type": "モンド地域の特産"
           },
@@ -4740,7 +4740,7 @@
             "name": "哀切なアイスクリスタル·欠片",
             "count": 3,
             "rank": 3,
-            "icon": "/assets/images/Kamisato Ayaka_material_104162_1753018583217.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104162_1753019914868.png",
             "description": "キャラクターの突破用アイテム。\\n「…すみません…」",
             "type": "キャラクター突破素材"
           },
@@ -4749,7 +4749,7 @@
             "name": "新兵の記章",
             "count": 15,
             "rank": 1,
-            "icon": "/assets/images/Diluc_material_112032_1753018590263.png",
+            "icon": "/assets/images/Diluc_material_112032_1753019921125.png",
             "description": "新兵の身分を記した記章。かつてこれをつけた人は、どんな気持ちでファデュイの戦争兵器になったのだろうか。",
             "type": "キャラと武器育成素材"
           },
@@ -4758,8 +4758,8 @@
             "name": "蒼礫蕊羽",
             "count": 2,
             "rank": 4,
-            "icon": "/assets/images/Alhaitham_material_113044_1753018670849.png",
-            "description": "ウェネトの尾に隠されている蒼い鞘翅は、まるで咲き誇る花の蕊のように繊細である。\\n伝説によると、この世に時が始まるよりも前、彼らは草原や巨木の下にある湿った大地を、空を飛ぶ鳥や水を泳ぐ魚のように行き来していたという。一般的には、花への擬態は道に迷った獲物を砂嵐へと誘い出すためであると考えられている。しかし、花が咲いて浮遊するその姿はそもそも砂塵に属するものであり、数え切れな���ほどの遠い昔、砂漠に草が蔓延り、花がまだ咲いていた時代を模倣しているという説もある。",
+            "icon": "/assets/images/Alhaitham_material_113044_1753019992024.png",
+            "description": "ウェネトの尾に隠されている蒼い鞘翅は、まるで咲き誇る花の蕊のように繊細である。\\n伝説によると、この世に時が始まるよりも前、彼らは草原や巨木の下にある湿った大地を、空を飛ぶ鳥や水を泳ぐ魚のように行き来していたという。一般的には、花への擬態は道に迷った獲物を砂嵐へと誘い出すためであると考えられている。しかし、花が咲いて浮遊するその姿はそもそも砂塵に属するものであり、数え切れない���どの遠い昔、砂漠に草が蔓延り、花がまだ咲いていた時代を模倣しているという説もある。",
             "type": "キャラクター育成素材"
           }
         ],
@@ -4793,7 +4793,7 @@
             "name": "ググプラム",
             "count": 20,
             "rank": 1,
-            "icon": "/assets/images/Razor_material_100021_1753018591708.png",
+            "icon": "/assets/images/Razor_material_100021_1753019922377.png",
             "description": "針があるプラム、時に狼の毛皮に引っかかることがある。それを見る時、まるで狼の遠吠えが聞こえるようだ…",
             "type": "モンド地域の特産"
           },
@@ -4802,7 +4802,7 @@
             "name": "哀切なアイスクリスタル·欠片",
             "count": 6,
             "rank": 3,
-            "icon": "/assets/images/Kamisato Ayaka_material_104162_1753018583217.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104162_1753019914868.png",
             "description": "キャラクターの突破用アイテム。\\n「…すみません…」",
             "type": "キャラクター突破素材"
           },
@@ -4811,7 +4811,7 @@
             "name": "士官の記章",
             "count": 12,
             "rank": 2,
-            "icon": "/assets/images/Diluc_material_112033_1753018590279.png",
+            "icon": "/assets/images/Diluc_material_112033_1753019921152.png",
             "description": "士官の身分を記した記章、一般兵士とは異なる独特なデザインがあるのは、その複雑な気持ちが含まれたからだろうか。",
             "type": "キャラと武器育成素材"
           },
@@ -4820,8 +4820,8 @@
             "name": "蒼礫蕊羽",
             "count": 4,
             "rank": 4,
-            "icon": "/assets/images/Alhaitham_material_113044_1753018670849.png",
-            "description": "ウェネトの尾に隠されている蒼い鞘翅は、まるで咲き誇る花の蕊のように繊細である。\\n伝説によると、この世に時が始まるよりも前、彼らは草原や巨木の下にある湿った大地を、空を飛ぶ鳥や水を泳ぐ魚のように行き来していたという。一般的には、花への擬態は道に迷った獲物を砂嵐へと誘い出すためであると考えられている。しかし、花が咲いて浮遊するその姿はそもそも砂塵に属するものであり、数え切れな���ほどの遠い昔、砂漠に草が蔓延り、花がまだ咲いていた時代を模倣しているという説もある。",
+            "icon": "/assets/images/Alhaitham_material_113044_1753019992024.png",
+            "description": "ウェネトの尾に隠されている蒼い鞘翅は、まるで咲き誇る花の蕊のように繊細である。\\n伝説によると、この世に時が始まるよりも前、彼らは草原や巨木の下にある湿った大地を、空を飛ぶ鳥や水を泳ぐ魚のように行き来していたという。一般的には、花への擬態は道に迷った獲物を砂嵐へと誘い出すためであると考えられている。しかし、花が咲いて浮遊するその姿はそもそも砂塵に属するものであり、数え切れない���どの遠い昔、砂漠に草が蔓延り、花がまだ咲いていた時代を模倣しているという説もある。",
             "type": "キャラクター育成素材"
           }
         ],
@@ -4855,7 +4855,7 @@
             "name": "ググプラム",
             "count": 30,
             "rank": 1,
-            "icon": "/assets/images/Razor_material_100021_1753018591708.png",
+            "icon": "/assets/images/Razor_material_100021_1753019922377.png",
             "description": "針があるプラム、時に狼の毛皮に引っかかることがある。それを見る時、まるで狼の遠吠えが聞こえるようだ…",
             "type": "モンド地域の特産"
           },
@@ -4864,7 +4864,7 @@
             "name": "哀切なアイスクリスタル·塊",
             "count": 3,
             "rank": 4,
-            "icon": "/assets/images/Kamisato Ayaka_material_104163_1753018583214.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104163_1753019914868.png",
             "description": "キャラクターの突破用アイテム。\\n「…すみません…」\\n「あなた達まで、わたしと一緒にこの世界の悲しみを背負わせるなんて…」",
             "type": "キャラクター突破素材"
           },
@@ -4873,7 +4873,7 @@
             "name": "士官の記章",
             "count": 18,
             "rank": 2,
-            "icon": "/assets/images/Diluc_material_112033_1753018590279.png",
+            "icon": "/assets/images/Diluc_material_112033_1753019921152.png",
             "description": "士官の身分を記した記章、一般兵士とは異なる独特なデザインがあるのは、その複雑な気持ちが含まれたからだろうか。",
             "type": "キャラと武器育成素材"
           },
@@ -4882,8 +4882,8 @@
             "name": "蒼礫蕊羽",
             "count": 8,
             "rank": 4,
-            "icon": "/assets/images/Alhaitham_material_113044_1753018670849.png",
-            "description": "ウェネトの尾に隠されている蒼い鞘翅は、まるで咲き誇る花の蕊のように繊細である。\\n伝説によると、この世に時が始まるよりも前、彼らは草原や巨木の下にある湿った大地を、空を飛ぶ鳥や水を泳ぐ魚のように行き来していたという。一般的には、花への擬態は道に迷った獲物を砂嵐へと誘い出すためであると考えられている。しかし、花が咲いて浮遊するその姿はそもそも砂塵に属するものであり、数え切れな���ほどの遠い昔、砂漠に草が蔓延り、花がまだ咲いていた時代を模倣しているという説もある。",
+            "icon": "/assets/images/Alhaitham_material_113044_1753019992024.png",
+            "description": "ウェネトの尾に隠されている蒼い鞘翅は、まるで咲き誇る花の蕊のように繊細である。\\n伝説によると、この世に時が始まるよりも前、彼らは草原や巨木の下にある湿った大地を、空を飛ぶ鳥や水を泳ぐ魚のように行き来していたという。一般的には、花への擬態は道に迷った獲物を砂嵐へと誘い出すためであると考えられている。しかし、花が咲いて浮遊するその姿はそもそも砂塵に属するものであり、数え切れない���どの遠い昔、砂漠に草が蔓延り、花がまだ咲いていた時代を模倣しているという説もある。",
             "type": "キャラクター育成素材"
           }
         ],
@@ -4917,7 +4917,7 @@
             "name": "ググプラム",
             "count": 45,
             "rank": 1,
-            "icon": "/assets/images/Razor_material_100021_1753018591708.png",
+            "icon": "/assets/images/Razor_material_100021_1753019922377.png",
             "description": "針があるプラム、時に狼の毛皮に引っかかることがある。それを見る時、まるで狼の遠吠えが聞こえるようだ…",
             "type": "モンド地域の特産"
           },
@@ -4926,7 +4926,7 @@
             "name": "哀切なアイスクリスタル·塊",
             "count": 6,
             "rank": 4,
-            "icon": "/assets/images/Kamisato Ayaka_material_104163_1753018583214.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104163_1753019914868.png",
             "description": "キャラクターの突破用アイテム。\\n「…すみません…」\\n「あなた達まで、わたしと一緒にこの世界の悲しみを背負わせるなんて…」",
             "type": "キャラクター突破素材"
           },
@@ -4935,7 +4935,7 @@
             "name": "尉官の記章",
             "count": 12,
             "rank": 3,
-            "icon": "/assets/images/Diluc_material_112034_1753018590275.png",
+            "icon": "/assets/images/Diluc_material_112034_1753019921132.png",
             "description": "尉官の身分を記した記章。ファデュイには膨大な軍隊があり、その中で尉官になれる人はきっと優れた能力があるだろう。",
             "type": "キャラと武器育成素材"
           },
@@ -4944,8 +4944,8 @@
             "name": "蒼礫蕊羽",
             "count": 12,
             "rank": 4,
-            "icon": "/assets/images/Alhaitham_material_113044_1753018670849.png",
-            "description": "ウェネトの尾に隠されている蒼い鞘翅は、まるで咲き誇る花の蕊のように繊細である。\\n伝説によると、この世に時が始まるよりも前、彼らは草原や巨木の下にある湿った大地を、空を飛ぶ鳥や水を泳ぐ魚のように行き来していたという。一般的には、花への擬態は道に迷った獲物を砂嵐へと誘い出すためであると考えられている。しかし、花が咲いて浮遊するその姿はそもそも砂塵に属するものであり、数え切れな���ほどの遠い昔、砂漠に草が蔓延り、花がまだ咲いていた時代を模倣しているという説もある。",
+            "icon": "/assets/images/Alhaitham_material_113044_1753019992024.png",
+            "description": "ウェネトの尾に隠されている蒼い鞘翅は、まるで咲き誇る花の蕊のように繊細である。\\n伝説によると、この世に時が始まるよりも前、彼らは草原や巨木の下にある湿った大地を、空を飛ぶ鳥や水を泳ぐ魚のように行き来していたという。一般的には、花への擬態は道に迷った獲物を砂嵐へと誘い出すためであると考えられている。しかし、花が咲いて浮遊するその姿はそもそも砂塵に属するものであり、数え切れない���どの遠い昔、砂漠に草が蔓延り、花がまだ咲いていた時代を模倣しているという説もある。",
             "type": "キャラクター育成素材"
           }
         ],
@@ -4979,7 +4979,7 @@
             "name": "ググプラム",
             "count": 60,
             "rank": 1,
-            "icon": "/assets/images/Razor_material_100021_1753018591708.png",
+            "icon": "/assets/images/Razor_material_100021_1753019922377.png",
             "description": "針があるプラム、時に狼の毛皮に引っかかることがある。それを見る時、まるで狼の遠吠えが聞こえるようだ…",
             "type": "モンド地域の特産"
           },
@@ -4988,7 +4988,7 @@
             "name": "哀切なアイスクリスタル",
             "count": 6,
             "rank": 5,
-            "icon": "/assets/images/Kamisato Ayaka_material_104164_1753018583221.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104164_1753019914875.png",
             "description": "キャラクターの突破用アイテム。\\n「…すみません、あなた達まで、わたしと一緒にこの世界の悲しみを背負わせるなんて…」\\n「わたしの寒さを耐えられる者は、きっと心の中に熱い欲望を持っているだろう？」\\n「なら、わたしの代わりに、旧世界を焼き尽くそう。」",
             "type": "キャラクター突破素材"
           },
@@ -4997,7 +4997,7 @@
             "name": "尉官の記章",
             "count": 24,
             "rank": 3,
-            "icon": "/assets/images/Diluc_material_112034_1753018590275.png",
+            "icon": "/assets/images/Diluc_material_112034_1753019921132.png",
             "description": "尉官の身分を記した記章。ファデュイには膨大な軍隊があり、その中で尉官になれる人はきっと優れた能力があるだろう。",
             "type": "キャラと武器育成素材"
           },
@@ -5006,8 +5006,8 @@
             "name": "蒼礫蕊羽",
             "count": 20,
             "rank": 4,
-            "icon": "/assets/images/Alhaitham_material_113044_1753018670849.png",
-            "description": "ウェネトの尾に隠されている蒼い鞘翅は、まるで咲き誇る花の蕊のように繊細である。\\n伝説によると、この世に時が始まるよりも前、彼らは草原や巨木の下にある湿った大地を、空を飛ぶ鳥や水を泳ぐ魚のように行き来していたという。一般的には、花への擬態は道に迷った獲物を砂嵐へと誘い出すためであると考えられている。しかし、花が咲いて浮遊するその姿はそもそも砂塵に属するものであり、数え切れな���ほどの遠い昔、砂漠に草が蔓延り、花がまだ咲いていた時代を模倣しているという説もある。",
+            "icon": "/assets/images/Alhaitham_material_113044_1753019992024.png",
+            "description": "ウェネトの尾に隠されている蒼い鞘翅は、まるで咲き誇る花の蕊のように繊細である。\\n伝説によると、この世に時が始まるよりも前、彼らは草原や巨木の下にある湿った大地を、空を飛ぶ鳥や水を泳ぐ魚のように行き来していたという。一般的には、花への擬態は道に迷った獲物を砂嵐へと誘い出すためであると考えられている。しかし、花が咲いて浮遊するその姿はそもそも砂塵に属するものであり、数え切れない���どの遠い昔、砂漠に草が蔓延り、花がまだ咲いていた時代を模倣しているという説もある。",
             "type": "キャラクター育成素材"
           }
         ],

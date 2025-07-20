@@ -8,7 +8,7 @@
   "region": "Mondstadt",
   "constellation": "狼座",
   "description": "人間の町から離れた、モンド地域の奔狼領で狼と暮らす少年。勘が鋭く、動きが俊敏。",
-  "icon": "/assets/images/Razor_icon_1753018591694.png",
+  "icon": "/assets/images/Razor_icon_1753019922362.png",
   "profile": {
     "baseHp": 1002.97,
     "baseAtk": 19.589,
@@ -23,7 +23,7 @@
       "id": "鋼の脊",
       "name": "鋼の脊",
       "description": "",
-      "icon": "/assets/images/Diluc_normal_attack_1753018590240.png",
+      "icon": "/assets/images/Diluc_normal_attack_1753019921107.png",
       "skillType": "normal",
       "params": {
         "1": [],
@@ -47,7 +47,7 @@
       "id": "鋭い爪と蒼雷",
       "name": "鋭い爪と蒼雷",
       "description": "",
-      "icon": "/assets/images/Razor_elemental_skill_1753018591694.png",
+      "icon": "/assets/images/Razor_elemental_skill_1753019922362.png",
       "levelData": [
         {
           "tableIndex": 1,
@@ -440,7 +440,7 @@
           ],
           "description": [
             "一回押しスキルダメージ|{param1:P}",
-            "長押しスキルダメージ|{param2:P}",
+            "長��しスキルダメージ|{param2:P}",
             "雷の印によるチャージ効率アップ|1つにつき{param3:P}",
             "雷の印吸収によるエネルギー回復|1つにつき{param4:F1}",
             "雷の印の継続時間|{param5:F1}秒",
@@ -1136,21 +1136,21 @@
     "elementalBurst": {
       "name": "覚醒",
       "description": "",
-      "icon": "/assets/images/Razor_elemental_burst_1753018591695.png",
+      "icon": "/assets/images/Razor_elemental_burst_1753019922362.png",
       "levelData": []
     },
     "passiveTalents": [
       {
         "name": "覚醒",
-        "icon": "/assets/images/Razor_passive_1_1753018591695.png"
+        "icon": "/assets/images/Razor_passive_1_1753019922362.png"
       },
       {
         "name": "飢餓",
-        "icon": "/assets/images/Razor_passive_2_1753018591695.png"
+        "icon": "/assets/images/Razor_passive_2_1753019922362.png"
       },
       {
         "name": "奔狼",
-        "icon": "/assets/images/Kaeya_passive_3_1753018588797.png"
+        "icon": "/assets/images/Kaeya_passive_3_1753019919854.png"
       }
     ],
     "completeTableData": [
@@ -2578,7 +2578,7 @@
             ],
             "description": [
               "一回押しスキルダメージ|{param1:P}",
-              "長押しスキルダメージ|{param2:P}",
+              "長��しスキルダメージ|{param2:P}",
               "雷の印によるチャージ効率アップ|1つにつき{param3:P}",
               "雷の印吸収によるエネルギー回復|1つにつき{param4:F1}",
               "雷の印の継続時間|{param5:F1}秒",
@@ -3909,7 +3909,7 @@
               "狼の魂のダメージ|通常攻撃ダメージ{param2:F1P}",
               "通常攻撃速度アップ|{param3:P}",
               "雷元素耐性アップ|{param4:P}",
-              "継続時間|{param5:F1}秒",
+              "継続時��|{param5:F1}秒",
               "クールタイム|{param6:F1}秒",
               "元素エネルギー|{param7:I}",
               "",
@@ -4317,32 +4317,32 @@
       {
         "level": null,
         "name": "狼の性",
-        "icon": "/assets/images/Razor_constellation_cNaN_1753018591695.png"
+        "icon": "/assets/images/Razor_constellation_cNaN_1753019922362.png"
       },
       {
         "level": null,
         "name": "制圧",
-        "icon": "/assets/images/Razor_constellation_cNaN_1753018591695.png"
+        "icon": "/assets/images/Razor_constellation_cNaN_1753019922362.png"
       },
       {
         "level": null,
         "name": "獣の魂",
-        "icon": "/assets/images/Razor_constellation_cNaN_1753018591695.png"
+        "icon": "/assets/images/Razor_constellation_cNaN_1753019922362.png"
       },
       {
         "level": null,
         "name": "噛みつく",
-        "icon": "/assets/images/Razor_constellation_cNaN_1753018591695.png"
+        "icon": "/assets/images/Razor_constellation_cNaN_1753019922363.png"
       },
       {
         "level": null,
         "name": "鋭い爪",
-        "icon": "/assets/images/Razor_constellation_cNaN_1753018591695.png"
+        "icon": "/assets/images/Razor_constellation_cNaN_1753019922363.png"
       },
       {
         "level": null,
         "name": "天狼",
-        "icon": "/assets/images/Razor_constellation_cNaN_1753018591695.png"
+        "icon": "/assets/images/Razor_constellation_cNaN_1753019922363.png"
       }
     ]
   },
@@ -4359,14 +4359,14 @@
     "id": 210006,
     "name": "レザー·奔狼",
     "description": "レザー·奔狼",
-    "icon": "/assets/images/Razor_namecard_1753018591821.png"
+    "icon": "/assets/images/Razor_icon_1753019922362.png"
   },
   "specialFood": {
     "id": 108048,
     "name": "ツメ型ハッシュドポテト",
     "rank": 3,
-    "icon": "/assets/images/Razor_special_food_1753018591695.png",
-    "effectIcon": "/assets/images/Kaeya_food_effect_1753018588798.png"
+    "icon": "/assets/images/Razor_special_food_1753019922363.png",
+    "effectIcon": "/assets/images/Kaeya_food_effect_1753019919855.png"
   },
   "levelProgression": [
     {
@@ -4682,7 +4682,7 @@
             "name": "ググプラム",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Razor_material_100021_1753018591708.png",
+            "icon": "/assets/images/Razor_material_100021_1753019922377.png",
             "description": "針があるプラム、時に狼の毛皮に引っかかることがある。それを見る時、まるで狼の遠吠えが聞こえるようだ…",
             "type": "モンド地域の特産"
           },
@@ -4691,7 +4691,7 @@
             "name": "最勝のアメシスト·砕屑",
             "count": 1,
             "rank": 2,
-            "icon": "/assets/images/Lisa_material_104141_1753018585934.png",
+            "icon": "/assets/images/Lisa_material_104141_1753019917374.png",
             "description": "キャラクターの突破用アイテム。",
             "type": "キャラクター突破素材"
           },
@@ -4700,7 +4700,7 @@
             "name": "破損した仮面",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Jean_material_112005_1753018584487.png",
+            "icon": "/assets/images/Jean_material_112005_1753019916117.png",
             "description": "破損した骨の仮面、あるヒルチャールの所持品だった。\\n破損した部分のほうが多く、仮面としての機能は失われている。",
             "type": "キャラと武器育成素材"
           }
@@ -4731,7 +4731,7 @@
             "name": "ググプラム",
             "count": 10,
             "rank": 1,
-            "icon": "/assets/images/Razor_material_100021_1753018591708.png",
+            "icon": "/assets/images/Razor_material_100021_1753019922377.png",
             "description": "針があるプラム、時に狼の毛皮に引っかかることがある。それを見る時、まるで狼の遠吠えが聞こえるようだ…",
             "type": "モンド地域の特産"
           },
@@ -4740,7 +4740,7 @@
             "name": "最勝のアメシスト·欠片",
             "count": 3,
             "rank": 3,
-            "icon": "/assets/images/Lisa_material_104142_1753018585931.png",
+            "icon": "/assets/images/Lisa_material_104142_1753019917372.png",
             "description": "キャラクターの突破用アイテム。\\n「此の身こそ、いと尊き存在。」",
             "type": "キャラクター突破素材"
           },
@@ -4749,7 +4749,7 @@
             "name": "破損した仮面",
             "count": 15,
             "rank": 1,
-            "icon": "/assets/images/Jean_material_112005_1753018584487.png",
+            "icon": "/assets/images/Jean_material_112005_1753019916117.png",
             "description": "破損した骨の仮面、あるヒルチャールの所持品だった。\\n破損した部分のほうが多く、仮面としての機能は失われている。",
             "type": "キャラと武器育成素材"
           },
@@ -4758,7 +4758,7 @@
             "name": "雷光のプリズム",
             "count": 2,
             "rank": 4,
-            "icon": "/assets/images/Lisa_material_113002_1753018585932.png",
+            "icon": "/assets/images/Lisa_material_113002_1753019917368.png",
             "description": "無相の雷が元素を集め、損傷を直すための物質。中には純粋な雷の力がある。\\nプリズムは光を構成する色彩の区別ができ、雷光のプリズムは流れるエネルギーを純粋な雷光に織り成すことができる。たとえ無相の雷が倒されたとしても、雷元素はこのプリズムの中で集まり続ける。",
             "type": "キャラクター育成素材"
           }
@@ -4793,7 +4793,7 @@
             "name": "ググプラム",
             "count": 20,
             "rank": 1,
-            "icon": "/assets/images/Razor_material_100021_1753018591708.png",
+            "icon": "/assets/images/Razor_material_100021_1753019922377.png",
             "description": "針があるプラム、時に狼の毛皮に引っかかることがある。それを見る時、まるで狼の遠吠えが聞こえるようだ…",
             "type": "モンド地域の特産"
           },
@@ -4802,7 +4802,7 @@
             "name": "最勝のアメシスト·欠片",
             "count": 6,
             "rank": 3,
-            "icon": "/assets/images/Lisa_material_104142_1753018585931.png",
+            "icon": "/assets/images/Lisa_material_104142_1753019917372.png",
             "description": "キャラクターの突破用アイテム。\\n「此の身こそ、いと尊き存在。」",
             "type": "キャラクター突破素材"
           },
@@ -4811,7 +4811,7 @@
             "name": "汚れた仮面",
             "count": 12,
             "rank": 2,
-            "icon": "/assets/images/Jean_material_112006_1753018584485.png",
+            "icon": "/assets/images/Jean_material_112006_1753019916120.png",
             "description": "汚れまみれで、何とも言えないにおいがする骨の仮面。\\nそれでも被るのは、ヒルチャールのこだわりだろうか。",
             "type": "キャラと武器育成素材"
           },
@@ -4820,7 +4820,7 @@
             "name": "雷光のプリズム",
             "count": 4,
             "rank": 4,
-            "icon": "/assets/images/Lisa_material_113002_1753018585932.png",
+            "icon": "/assets/images/Lisa_material_113002_1753019917368.png",
             "description": "無相の雷が元素を集め、損傷を直すための物質。中には純粋な雷の力がある。\\nプリズムは光を構成する色彩の区別ができ、雷光のプリズムは流れるエネルギーを純粋な雷光に織り成すことができる。たとえ無相の雷が倒されたとしても、雷元素はこのプリズムの中で集まり続ける。",
             "type": "キャラクター育成素材"
           }
@@ -4855,7 +4855,7 @@
             "name": "ググプラム",
             "count": 30,
             "rank": 1,
-            "icon": "/assets/images/Razor_material_100021_1753018591708.png",
+            "icon": "/assets/images/Razor_material_100021_1753019922377.png",
             "description": "針があるプラム、時に狼の毛皮に引っかかることがある。それを見る時、まるで狼の遠吠えが聞こえるようだ…",
             "type": "モンド地域の特産"
           },
@@ -4864,7 +4864,7 @@
             "name": "最勝のアメシスト·塊",
             "count": 3,
             "rank": 4,
-            "icon": "/assets/images/Lisa_material_104143_1753018585933.png",
+            "icon": "/assets/images/Lisa_material_104143_1753019917369.png",
             "description": "キャラクターの突破用アイテム。\\n「此の身こそ、いと尊き存在。」\\n「天下を泰平せし者。」",
             "type": "キャラクター突破素材"
           },
@@ -4873,7 +4873,7 @@
             "name": "汚れた仮面",
             "count": 18,
             "rank": 2,
-            "icon": "/assets/images/Jean_material_112006_1753018584485.png",
+            "icon": "/assets/images/Jean_material_112006_1753019916120.png",
             "description": "汚れまみれで、何とも言えないにおいがする骨の仮面。\\nそれでも被るのは、ヒルチャールのこだわりだろうか。",
             "type": "キャラと武器育成素材"
           },
@@ -4882,7 +4882,7 @@
             "name": "雷光のプリズム",
             "count": 8,
             "rank": 4,
-            "icon": "/assets/images/Lisa_material_113002_1753018585932.png",
+            "icon": "/assets/images/Lisa_material_113002_1753019917368.png",
             "description": "無相の雷が元素を集め、損傷を直すための物質。中には純粋な雷の力がある。\\nプリズムは光を構成する色彩の区別ができ、雷光のプリズムは流れるエネルギーを純粋な雷光に織り成すことができる。たとえ無相の雷が倒されたとしても、雷元素はこのプリズムの中で集まり続ける。",
             "type": "キャラクター育成素材"
           }
@@ -4917,7 +4917,7 @@
             "name": "ググプラム",
             "count": 45,
             "rank": 1,
-            "icon": "/assets/images/Razor_material_100021_1753018591708.png",
+            "icon": "/assets/images/Razor_material_100021_1753019922377.png",
             "description": "針があるプラム、時に狼の毛皮に引っかかることがある。それを見る時、まるで狼の遠吠えが聞こえるようだ…",
             "type": "モンド地域の特産"
           },
@@ -4926,7 +4926,7 @@
             "name": "最勝のアメシスト·塊",
             "count": 6,
             "rank": 4,
-            "icon": "/assets/images/Lisa_material_104143_1753018585933.png",
+            "icon": "/assets/images/Lisa_material_104143_1753019917369.png",
             "description": "キャラクターの突破用アイテム。\\n「此の身こそ、いと尊き存在。」\\n「天下を泰平せし者。」",
             "type": "キャラクター突破素材"
           },
@@ -4935,7 +4935,7 @@
             "name": "不吉な仮面",
             "count": 12,
             "rank": 3,
-            "icon": "/assets/images/Jean_material_112007_1753018584487.png",
+            "icon": "/assets/images/Jean_material_112007_1753019916128.png",
             "description": "つるりとした骨の仮面の上には、敵を威嚇する絵が描かれている。\\nヒルチャールが仮面に対するこだわりは今でも解明されていない。一説では、水に反射する自分の倒影を見たくないかららしい。",
             "type": "キャラと武器育成素材"
           },
@@ -4944,7 +4944,7 @@
             "name": "雷光のプリズム",
             "count": 12,
             "rank": 4,
-            "icon": "/assets/images/Lisa_material_113002_1753018585932.png",
+            "icon": "/assets/images/Lisa_material_113002_1753019917368.png",
             "description": "無相の雷が元素を集め、損傷を直すための物質。中には純粋な雷の力がある。\\nプリズムは光を構成する色彩の区別ができ、雷光のプリズムは流れるエネルギーを純粋な雷光に織り成すことができる。たとえ無相の雷が倒されたとしても、雷元素はこのプリズムの中で集まり続ける。",
             "type": "キャラクター育成素材"
           }
@@ -4979,7 +4979,7 @@
             "name": "ググプラム",
             "count": 60,
             "rank": 1,
-            "icon": "/assets/images/Razor_material_100021_1753018591708.png",
+            "icon": "/assets/images/Razor_material_100021_1753019922377.png",
             "description": "針があるプラム、時に狼の毛皮に引っかかることがある。それを見る時、まるで狼の遠吠えが聞こえるようだ…",
             "type": "モンド地域の特産"
           },
@@ -4988,7 +4988,7 @@
             "name": "最勝のアメシスト",
             "count": 6,
             "rank": 5,
-            "icon": "/assets/images/Lisa_material_104144_1753018585937.png",
+            "icon": "/assets/images/Lisa_material_104144_1753019917373.png",
             "description": "キャラクターの突破用アイテム。\\n「此の身こそ、いと尊き存在。」\\n「天下を泰平せし者。」\\n「臣民に夢を与えると誓いましょう。未来永劫、不変の『永遠』を。」",
             "type": "キャラクター突破素材"
           },
@@ -4997,7 +4997,7 @@
             "name": "不吉な仮面",
             "count": 24,
             "rank": 3,
-            "icon": "/assets/images/Jean_material_112007_1753018584487.png",
+            "icon": "/assets/images/Jean_material_112007_1753019916128.png",
             "description": "つるりとした骨の仮面の上には、敵を威嚇する絵が描かれている。\\nヒルチャールが仮面に対するこだわりは今でも解明されていない。一説では、水に反射する自分の倒影を見たくないかららしい。",
             "type": "キャラと武器育成素材"
           },
@@ -5006,7 +5006,7 @@
             "name": "雷光のプリズム",
             "count": 20,
             "rank": 4,
-            "icon": "/assets/images/Lisa_material_113002_1753018585932.png",
+            "icon": "/assets/images/Lisa_material_113002_1753019917368.png",
             "description": "無相の雷が元素を集め、損傷を直すための物質。中には純粋な雷の力がある。\\nプリズムは光を構成する色彩の区別ができ、雷光のプリズムは流れるエネルギーを純粋な雷光に織り成すことができる。たとえ無相の雷が倒されたとしても、雷元素はこのプリズムの中で集まり続ける。",
             "type": "キャラクター育成素材"
           }

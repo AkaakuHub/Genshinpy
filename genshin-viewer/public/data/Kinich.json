@@ -8,7 +8,7 @@
   "region": "Natlan",
   "constellation": "キメラ·アレブリヘス座",
   "description": "ウィッツトランの竜狩り人。代償を量ることに長けている。",
-  "icon": "/assets/images/Kinich_icon_1753018703597.png",
+  "icon": "/assets/images/Kinich_icon_1753020020489.png",
   "profile": {
     "baseHp": 1000.986,
     "baseAtk": 25.882,
@@ -23,7 +23,7 @@
       "id": "武闘術・白夜",
       "name": "武闘術・白夜",
       "description": "",
-      "icon": "/assets/images/Diluc_normal_attack_1753018590240.png",
+      "icon": "/assets/images/Diluc_normal_attack_1753019921107.png",
       "skillType": "normal",
       "params": {
         "1": [],
@@ -47,7 +47,7 @@
       "id": "懸狩り·宙の遊猟",
       "name": "懸狩り·宙の遊猟",
       "description": "",
-      "icon": "/assets/images/Kinich_elemental_skill_1753018703597.png",
+      "icon": "/assets/images/Kinich_elemental_skill_1753020020489.png",
       "levelData": [
         {
           "tableIndex": 1,
@@ -439,7 +439,7 @@
             0
           ],
           "description": [
-            "円軌道射撃ダメージ|{param1:F1P}×2",
+            "円軌��射撃ダメージ|{param1:F1P}×2",
             "廻狩貫鱗砲ダメージ|{param2:F1P}",
             "夜魂値上限|{param4:F1}",
             "クールタイム|{param3:F1}秒",
@@ -1019,7 +1019,7 @@
             0
           ],
           "description": [
-            "円軌道射撃ダメージ|{param1:F1P}×2",
+            "円軌道射撃ダメー���|{param1:F1P}×2",
             "廻狩貫鱗砲ダメージ|{param2:F1P}",
             "夜魂値上限|{param4:F1}",
             "クールタイム|{param3:F1}秒",
@@ -1136,25 +1136,25 @@
     "elementalBurst": {
       "name": "厄地の代償",
       "description": "",
-      "icon": "/assets/images/Kinich_elemental_burst_1753018703597.png",
+      "icon": "/assets/images/Kinich_elemental_burst_1753020020489.png",
       "levelData": []
     },
     "passiveTalents": [
       {
         "name": "厄地の代償",
-        "icon": "/assets/images/Kinich_passive_1_1753018703597.png"
+        "icon": "/assets/images/Kinich_passive_1_1753020020490.png"
       },
       {
         "name": "焔霊の契約",
-        "icon": "/assets/images/Kinich_passive_2_1753018703597.png"
+        "icon": "/assets/images/Kinich_passive_2_1753020020490.png"
       },
       {
         "name": "夜域の賜物·すべてに対価を",
-        "icon": "/assets/images/Kinich_passive_3_1753018703597.png"
+        "icon": "/assets/images/Kinich_passive_3_1753020020490.png"
       },
       {
         "name": "疾行の使令",
-        "icon": "/assets/images/Kachina_passive_4_1753018702145.png"
+        "icon": "/assets/images/Kachina_passive_4_1753020019234.png"
       }
     ],
     "completeTableData": [
@@ -1398,7 +1398,7 @@
             "description": [
               "1段ダメージ|{param1:F1P}",
               "2段ダメージ|{param2:F1P}",
-              "3段ダメージ|{param3:F1P}",
+              "3段ダメ���ジ|{param3:F1P}",
               "空中の通常攻撃ダメージ|{param9:F1P}",
               "重撃ダメージ|{param4:F1P}×3",
               "重撃スタミナ消費|{param5:F1}",
@@ -2581,7 +2581,7 @@
               0
             ],
             "description": [
-              "円軌道射撃ダメージ|{param1:F1P}×2",
+              "円軌��射撃ダメージ|{param1:F1P}×2",
               "廻狩貫鱗砲ダメージ|{param2:F1P}",
               "夜魂値上限|{param4:F1}",
               "クールタイム|{param3:F1}秒",
@@ -3137,7 +3137,7 @@
               0
             ],
             "description": [
-              "円軌道射撃ダメージ|{param1:F1P}×2",
+              "円軌道射撃ダメー���|{param1:F1P}×2",
               "廻狩貫鱗砲ダメージ|{param2:F1P}",
               "夜魂値上限|{param4:F1}",
               "クールタイム|{param3:F1}秒",
@@ -3910,7 +3910,7 @@
             ],
             "description": [
               "スキルダメージ|{param1:F1P}",
-              "龍の息ダメージ|{param2:F1P}",
+              "龍の息���メージ|{param2:F1P}",
               "継続時間|{param3:F1}秒",
               "クールタイム|{param4:F1}秒",
               "元素エネルギー|{param5:I}",
@@ -4328,32 +4328,32 @@
       {
         "level": null,
         "name": "七鸚の嘴",
-        "icon": "/assets/images/Kinich_constellation_cNaN_1753018703597.png"
+        "icon": "/assets/images/Kinich_constellation_cNaN_1753020020490.png"
       },
       {
         "level": null,
         "name": "星虎の掌",
-        "icon": "/assets/images/Kinich_constellation_cNaN_1753018703598.png"
+        "icon": "/assets/images/Kinich_constellation_cNaN_1753020020490.png"
       },
       {
         "level": null,
         "name": "原鰐の爪",
-        "icon": "/assets/images/Kinich_constellation_cNaN_1753018703598.png"
+        "icon": "/assets/images/Kinich_constellation_cNaN_1753020020490.png"
       },
       {
         "level": null,
         "name": "蜂鳥の羽",
-        "icon": "/assets/images/Kinich_constellation_cNaN_1753018703598.png"
+        "icon": "/assets/images/Kinich_constellation_cNaN_1753020020490.png"
       },
       {
         "level": null,
         "name": "吠猿の尾",
-        "icon": "/assets/images/Kinich_constellation_cNaN_1753018703598.png"
+        "icon": "/assets/images/Kinich_constellation_cNaN_1753020020490.png"
       },
       {
         "level": null,
         "name": "瑞獣の姿",
-        "icon": "/assets/images/Kinich_constellation_cNaN_1753018703598.png"
+        "icon": "/assets/images/Kinich_constellation_cNaN_1753020020490.png"
       }
     ]
   },
@@ -4370,14 +4370,14 @@
     "id": 210208,
     "name": "キィニチ·アハウ",
     "description": "キィニチ·アハウ",
-    "icon": "/assets/images/Kinich_icon_1753018703597.png"
+    "icon": "/assets/images/Kinich_icon_1753020020489.png"
   },
   "specialFood": {
     "id": 108745,
     "name": "竜狩り人の褒賞",
     "rank": 3,
-    "icon": "/assets/images/Kinich_special_food_1753018703598.png",
-    "effectIcon": "/assets/images/Diluc_food_effect_1753018590242.png"
+    "icon": "/assets/images/Kinich_special_food_1753020020490.png",
+    "effectIcon": "/assets/images/Diluc_food_effect_1753019921109.png"
   },
   "levelProgression": [
     {
@@ -4693,7 +4693,7 @@
             "name": "サウリアンサキュレント",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Kinich_material_101250_1753018703612.png",
+            "icon": "/assets/images/Kinich_material_101250_1753020020503.png",
             "description": "巨大な動物の手のような形をした多肉植物。",
             "type": "ナタ地域の特産"
           },
@@ -4702,7 +4702,7 @@
             "name": "成長のエメラルド·砕屑",
             "count": 1,
             "rank": 2,
-            "icon": "/assets/images/Kirara_material_104131_1753018646223.png",
+            "icon": "/assets/images/Kirara_material_104131_1753019971079.png",
             "description": "キャラクターの突破用アイテム。",
             "type": "キャラクター突破素材"
           },
@@ -4711,7 +4711,7 @@
             "name": "未熟な牙",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Kinich_material_112101_1753018703609.png",
+            "icon": "/assets/images/Kinich_material_112101_1753020020506.png",
             "description": "ナタの竜が落とした牙。\\nまだ育ち切っていないようだ。もし牙から年齢を推定する方法があるなら、この牙の主はあまり長い年月を過ごしていないと結論づけられるかもしれない。",
             "type": "キャラと武器育成素材"
           }
@@ -4742,7 +4742,7 @@
             "name": "サウリアンサキュレント",
             "count": 10,
             "rank": 1,
-            "icon": "/assets/images/Kinich_material_101250_1753018703612.png",
+            "icon": "/assets/images/Kinich_material_101250_1753020020503.png",
             "description": "巨大な動物の手のような形をした多肉植物。",
             "type": "ナタ地域の特産"
           },
@@ -4751,7 +4751,7 @@
             "name": "成長のエメラルド·欠片",
             "count": 3,
             "rank": 3,
-            "icon": "/assets/images/Kirara_material_104132_1753018646227.png",
+            "icon": "/assets/images/Kirara_material_104132_1753019971075.png",
             "description": "キャラクターの突破用アイテム。\\n「長い長い夢を見ていたわ…」",
             "type": "キャラクター突破素材"
           },
@@ -4760,7 +4760,7 @@
             "name": "未熟な牙",
             "count": 15,
             "rank": 1,
-            "icon": "/assets/images/Kinich_material_112101_1753018703609.png",
+            "icon": "/assets/images/Kinich_material_112101_1753020020506.png",
             "description": "ナタの竜が落とした牙。\\nまだ育ち切っていないようだ。もし牙から年齢を推定する方法があるなら、この牙の主はあまり長い年月を過ごしていないと結論づけられるかもしれない。",
             "type": "キャラと武器育成素材"
           },
@@ -4769,8 +4769,8 @@
             "name": "フレイムグレネード·爛熟",
             "count": 2,
             "rank": 4,
-            "icon": "/assets/images/Kachina_material_113065_1753018702189.png",
-            "description": "山の王·貪食のユムカ竜を倒して手に入れた不思議なフレイムグレネードの実。\\n通常、熟れたフレイムグレネードの実は成長し続けると、落ちて泥の中で腐ってしまうが、山の王のたてがみから落ちた実は、その奇異な体温によって守られているおかげか、めったに見られない「爛熟」状態になる。この状態のフレイムグレネードの実は非常に安定している。豊富な燃素を含み、ツヤも増し、独特な��味を持つ。",
+            "icon": "/assets/images/Kachina_material_113065_1753020019270.png",
+            "description": "山の王·貪食のユムカ竜を倒して手に入れた不思議なフレイムグレネードの実。\\n通常、熟れたフレイムグレネードの実は成長し続けると、落ちて泥の中で腐ってしまうが、山の王のたてがみから落ちた実は、その奇異な体温によって守られているおかげか、めったに見られない「爛熟」状態になる。この状態のフレイムグレネードの実は非常に安定している。豊富な燃素を含み、ツヤも増し、独特な���味を持つ。",
             "type": "キャラクター育成素材"
           }
         ],
@@ -4804,7 +4804,7 @@
             "name": "サウリアンサキュレント",
             "count": 20,
             "rank": 1,
-            "icon": "/assets/images/Kinich_material_101250_1753018703612.png",
+            "icon": "/assets/images/Kinich_material_101250_1753020020503.png",
             "description": "巨大な動物の手のような形をした多肉植物。",
             "type": "ナタ地域の特産"
           },
@@ -4813,7 +4813,7 @@
             "name": "成長のエメラルド·欠片",
             "count": 6,
             "rank": 3,
-            "icon": "/assets/images/Kirara_material_104132_1753018646227.png",
+            "icon": "/assets/images/Kirara_material_104132_1753019971075.png",
             "description": "キャラクターの突破用アイテム。\\n「長い長い夢を見ていたわ…」",
             "type": "キャラクター突破素材"
           },
@@ -4822,7 +4822,7 @@
             "name": "熟練の牙",
             "count": 12,
             "rank": 2,
-            "icon": "/assets/images/Kinich_material_112102_1753018703614.png",
+            "icon": "/assets/images/Kinich_material_112102_1753020020501.png",
             "description": "ナタの竜が落とした堅い牙。\\n牙の摩耗具合から、持ち主が経験したであろう暮らしや戦いが想像できる。竜の中でも、優秀な戦士と呼ばれるにふさわしいだろう。",
             "type": "キャラと武器育成素材"
           },
@@ -4831,8 +4831,8 @@
             "name": "フレイムグレネード·爛熟",
             "count": 4,
             "rank": 4,
-            "icon": "/assets/images/Kachina_material_113065_1753018702189.png",
-            "description": "山の王·貪食のユムカ竜を倒して手に入れた不思議なフレイムグレネードの実。\\n通常、熟れたフレイムグレネードの実は成長し続けると、落ちて泥の中で腐ってしまうが、山の王のたてがみから落ちた実は、その奇異な体温によって守られているおかげか、めったに見られない「爛熟」状態になる。この状態のフレイムグレネードの実は非常に安定している。豊富な燃素を含み、ツヤも増し、独特な��味を持つ。",
+            "icon": "/assets/images/Kachina_material_113065_1753020019270.png",
+            "description": "山の王·貪食のユムカ竜を倒して手に入れた不思議なフレイムグレネードの実。\\n通常、熟れたフレイムグレネードの実は成長し続けると、落ちて泥の中で腐ってしまうが、山の王のたてがみから落ちた実は、その奇異な体温によって守られているおかげか、めったに見られない「爛熟」状態になる。この状態のフレイムグレネードの実は非常に安定している。豊富な燃素を含み、ツヤも増し、独特な���味を持つ。",
             "type": "キャラクター育成素材"
           }
         ],
@@ -4866,7 +4866,7 @@
             "name": "サウリアンサキュレント",
             "count": 30,
             "rank": 1,
-            "icon": "/assets/images/Kinich_material_101250_1753018703612.png",
+            "icon": "/assets/images/Kinich_material_101250_1753020020503.png",
             "description": "巨大な動物の手のような形をした多肉植物。",
             "type": "ナタ地域の特産"
           },
@@ -4875,7 +4875,7 @@
             "name": "成長のエメラルド·塊",
             "count": 3,
             "rank": 4,
-            "icon": "/assets/images/Kirara_material_104133_1753018646229.png",
+            "icon": "/assets/images/Kirara_material_104133_1753019971097.png",
             "description": "キャラクターの突破用アイテム。\\n「長い長い夢を見ていたわ…」\\n「人々は手をつなぎ、円を描くようにくるくると回っていた。賢者と愚者、舞人と勇士、人形と神像…」",
             "type": "キャラクター突破素材"
           },
@@ -4884,7 +4884,7 @@
             "name": "熟練の牙",
             "count": 18,
             "rank": 2,
-            "icon": "/assets/images/Kinich_material_112102_1753018703614.png",
+            "icon": "/assets/images/Kinich_material_112102_1753020020501.png",
             "description": "ナタの竜が落とした堅い牙。\\n牙の摩耗具合から、持ち主が経験したであろう暮らしや戦いが想像できる。竜の中でも、優秀な戦士と呼ばれるにふさわしいだろう。",
             "type": "キャラと武器育成素材"
           },
@@ -4893,8 +4893,8 @@
             "name": "フレイムグレネード·爛熟",
             "count": 8,
             "rank": 4,
-            "icon": "/assets/images/Kachina_material_113065_1753018702189.png",
-            "description": "山の王·貪食のユムカ竜を倒して手に入れた不思議なフレイムグレネードの実。\\n通常、熟れたフレイムグレネードの実は成長し続けると、落ちて泥の中で腐ってしまうが、山の王のたてがみから落ちた実は、その奇異な体温によって守られているおかげか、めったに見られない「爛熟」状態になる。この状態のフレイムグレネードの実は非常に安定している。豊富な燃素を含み、ツヤも増し、独特な��味を持つ。",
+            "icon": "/assets/images/Kachina_material_113065_1753020019270.png",
+            "description": "山の王·貪食のユムカ竜を倒して手に入れた不思議なフレイムグレネードの実。\\n通常、熟れたフレイムグレネードの実は成長し続けると、落ちて泥の中で腐ってしまうが、山の王のたてがみから落ちた実は、その奇異な体温によって守られているおかげか、めったに見られない「爛熟」状態になる。この状態のフレイムグレネードの実は非常に安定している。豊富な燃素を含み、ツヤも増し、独特な���味を持つ。",
             "type": "キャラクター育成素材"
           }
         ],
@@ -4928,7 +4928,7 @@
             "name": "サウリアンサキュレント",
             "count": 45,
             "rank": 1,
-            "icon": "/assets/images/Kinich_material_101250_1753018703612.png",
+            "icon": "/assets/images/Kinich_material_101250_1753020020503.png",
             "description": "巨大な動物の手のような形をした多肉植物。",
             "type": "ナタ地域の特産"
           },
@@ -4937,7 +4937,7 @@
             "name": "成長のエメラルド·塊",
             "count": 6,
             "rank": 4,
-            "icon": "/assets/images/Kirara_material_104133_1753018646229.png",
+            "icon": "/assets/images/Kirara_material_104133_1753019971097.png",
             "description": "キャラクターの突破用アイテム。\\n「長い長い夢を見ていたわ…」\\n「人々は手をつなぎ、円を描くようにくるくると回っていた。賢者と愚者、舞人と勇士、人形と神像…」",
             "type": "キャラクター突破素材"
           },
@@ -4946,7 +4946,7 @@
             "name": "覇道の牙",
             "count": 12,
             "rank": 3,
-            "icon": "/assets/images/Kinich_material_112103_1753018703613.png",
+            "icon": "/assets/images/Kinich_material_112103_1753020020501.png",
             "description": "ナタの強い竜が落とした鋭い牙。\\n側面のギザギザや獰猛な形から、持ち主が戦場でいかに勇猛であったかが窺える。「覇者」と言える竜だったのだろう。",
             "type": "キャラと武器育成素材"
           },
@@ -4955,8 +4955,8 @@
             "name": "フレイムグレネード·爛熟",
             "count": 12,
             "rank": 4,
-            "icon": "/assets/images/Kachina_material_113065_1753018702189.png",
-            "description": "山の王·貪食のユムカ竜を倒して手に入れた不思議なフレイムグレネードの実。\\n通常、熟れたフレイムグレネードの実は成長し続けると、落ちて泥の中で腐ってしまうが、山の王のたてがみから落ちた実は、その奇異な体温によって守られているおかげか、めったに見られない「爛熟」状態になる。この状態のフレイムグレネードの実は非常に安定している。豊富な燃素を含み、ツヤも増し、独特な��味を持つ。",
+            "icon": "/assets/images/Kachina_material_113065_1753020019270.png",
+            "description": "山の王·貪食のユムカ竜を倒して手に入れた不思議なフレイムグレネードの実。\\n通常、熟れたフレイムグレネードの実は成長し続けると、落ちて泥の中で腐ってしまうが、山の王のたてがみから落ちた実は、その奇異な体温によって守られているおかげか、めったに見られない「爛熟」状態になる。この状態のフレイムグレネードの実は非常に安定している。豊富な燃素を含み、ツヤも増し、独特な���味を持つ。",
             "type": "キャラクター育成素材"
           }
         ],
@@ -4990,7 +4990,7 @@
             "name": "サウリアンサキュレント",
             "count": 60,
             "rank": 1,
-            "icon": "/assets/images/Kinich_material_101250_1753018703612.png",
+            "icon": "/assets/images/Kinich_material_101250_1753020020503.png",
             "description": "巨大な動物の手のような形をした多肉植物。",
             "type": "ナタ地域の特産"
           },
@@ -4999,7 +4999,7 @@
             "name": "成長のエメラルド",
             "count": 6,
             "rank": 5,
-            "icon": "/assets/images/Kirara_material_104134_1753018646226.png",
+            "icon": "/assets/images/Kirara_material_104134_1753019971077.png",
             "description": "キャラクターの突破用アイテム。\\n「長い長い夢を見ていたわ…」\\n「人々は手をつなぎ、円を描くようにくるくると回っていた。賢者と愚者、舞人と勇士、人形と神像…」\\n「みんなの喜びの踊りの中には、宇宙のすべてが秘められている。『命』はいつも目的で、『知恵』こそが手段なの。」",
             "type": "キャラクター突破素材"
           },
@@ -5008,7 +5008,7 @@
             "name": "覇道の牙",
             "count": 24,
             "rank": 3,
-            "icon": "/assets/images/Kinich_material_112103_1753018703613.png",
+            "icon": "/assets/images/Kinich_material_112103_1753020020501.png",
             "description": "ナタの強い竜が落とした鋭い牙。\\n側面のギザギザや獰猛な形から、持ち主が戦場でいかに勇猛であったかが窺える。「覇者」と言える竜だったのだろう。",
             "type": "キャラと武器育成素材"
           },
@@ -5017,8 +5017,8 @@
             "name": "フレイムグレネード·爛熟",
             "count": 20,
             "rank": 4,
-            "icon": "/assets/images/Kachina_material_113065_1753018702189.png",
-            "description": "山の王·貪食のユムカ竜を倒して手に入れた不思議なフレイムグレネードの実。\\n通常、熟れたフレイムグレネードの実は成長し続けると、落ちて泥の中で腐ってしまうが、山の王のたてがみから落ちた実は、その奇異な体温によって守られているおかげか、めったに見られない「爛熟」状態になる。この状態のフレイムグレネードの実は非常に安定している。豊富な燃素を含み、ツヤも増し、独特な��味を持つ。",
+            "icon": "/assets/images/Kachina_material_113065_1753020019270.png",
+            "description": "山の王·貪食のユムカ竜を倒して手に入れた不思議なフレイムグレネードの実。\\n通常、熟れたフレイムグレネードの実は成長し続けると、落ちて泥の中で腐ってしまうが、山の王のたてがみから落ちた実は、その奇異な体温によって守られているおかげか、めったに見られない「爛熟」状態になる。この状態のフレイムグレネードの実は非常に安定している。豊富な燃素を含み、ツヤも増し、独特な���味を持つ。",
             "type": "キャラクター育成素材"
           }
         ],

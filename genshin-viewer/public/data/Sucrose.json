@@ -8,7 +8,7 @@
   "region": "Mondstadt",
   "constellation": "フラスコ座",
   "description": "この世界のありとあらゆるものに強い好奇心を抱く錬金術師。研究分野は「生物錬金」。",
-  "icon": "/assets/images/Sucrose_icon_1753018621350.png",
+  "icon": "/assets/images/Sucrose_icon_1753019948640.png",
   "profile": {
     "baseHp": 775.022,
     "baseAtk": 14.246,
@@ -23,7 +23,7 @@
       "id": "簡式風霊作成",
       "name": "簡式風霊作成",
       "description": "",
-      "icon": "/assets/images/Lisa_normal_attack_1753018585917.png",
+      "icon": "/assets/images/Lisa_normal_attack_1753019917353.png",
       "skillType": "normal",
       "params": {
         "1": [],
@@ -47,7 +47,7 @@
       "id": "風霊作成·六三〇八",
       "name": "風霊作成·六三〇八",
       "description": "",
-      "icon": "/assets/images/Sucrose_elemental_skill_1753018621350.png",
+      "icon": "/assets/images/Sucrose_elemental_skill_1753019948640.png",
       "levelData": [
         {
           "tableIndex": 1,
@@ -148,7 +148,7 @@
           ],
           "description": [
             "スキルダメージ|{param1:P}",
-            "クー��タイム|{param2:F1}秒",
+            "クールタイム|{param2:F1}秒",
             "",
             "",
             "",
@@ -1136,21 +1136,21 @@
     "elementalBurst": {
       "name": "触媒置換術",
       "description": "",
-      "icon": "/assets/images/Sucrose_elemental_burst_1753018621351.png",
+      "icon": "/assets/images/Sucrose_elemental_burst_1753019948641.png",
       "levelData": []
     },
     "passiveTalents": [
       {
         "name": "触媒置換術",
-        "icon": "/assets/images/Sucrose_passive_1_1753018621351.png"
+        "icon": "/assets/images/Sucrose_passive_1_1753019948641.png"
       },
       {
         "name": "小さな恵風",
-        "icon": "/assets/images/Sucrose_passive_2_1753018621351.png"
+        "icon": "/assets/images/Sucrose_passive_2_1753019948641.png"
       },
       {
         "name": "不安定な発見",
-        "icon": "/assets/images/Sucrose_passive_3_1753018621351.png"
+        "icon": "/assets/images/Sucrose_passive_3_1753019948641.png"
       }
     ],
     "completeTableData": [
@@ -2024,7 +2024,7 @@
               "1段ダメージ|{param1:F1P}",
               "2段ダメージ|{param2:F1P}",
               "3段ダメージ|{param3:P}",
-              "4段ダメ��ジ|{param4:P}",
+              "4段ダメージ|{param4:P}",
               "重撃ダメージ|{param5:P}",
               "重撃スタミナ消費|{param6:F1}",
               "落下期間のダメージ|{param7:F1P}",
@@ -2298,7 +2298,7 @@
             ],
             "description": [
               "スキルダメージ|{param1:P}",
-              "クー��タイム|{param2:F1}秒",
+              "クールタイム|{param2:F1}秒",
               "",
               "",
               "",
@@ -3835,7 +3835,7 @@
             ],
             "description": [
               "継続ダメージ|{param1:P}",
-              "付加元素ダメージ|{param2:F1P}",
+              "��加元素ダメージ|{param2:F1P}",
               "継続時間|{param3:F1}秒",
               "クールタイム|{param4:F1}秒",
               "元素エネルギー|{param5:I}",
@@ -4317,32 +4317,32 @@
       {
         "level": null,
         "name": "積み上げ真空域",
-        "icon": "/assets/images/Sucrose_constellation_cNaN_1753018621351.png"
+        "icon": "/assets/images/Sucrose_constellation_cNaN_1753019948641.png"
       },
       {
         "level": null,
         "name": "不羈型ベト",
-        "icon": "/assets/images/Sucrose_constellation_cNaN_1753018621351.png"
+        "icon": "/assets/images/Sucrose_constellation_cNaN_1753019948641.png"
       },
       {
         "level": null,
         "name": "ゼロミス少女",
-        "icon": "/assets/images/Sucrose_constellation_cNaN_1753018621351.png"
+        "icon": "/assets/images/Sucrose_constellation_cNaN_1753019948641.png"
       },
       {
         "level": null,
         "name": "錬金の偏執",
-        "icon": "/assets/images/Sucrose_constellation_cNaN_1753018621351.png"
+        "icon": "/assets/images/Sucrose_constellation_cNaN_1753019948641.png"
       },
       {
         "level": null,
         "name": "真面目な普通瓶",
-        "icon": "/assets/images/Sucrose_constellation_cNaN_1753018621352.png"
+        "icon": "/assets/images/Sucrose_constellation_cNaN_1753019948641.png"
       },
       {
         "level": null,
         "name": "混元熵増論",
-        "icon": "/assets/images/Sucrose_constellation_cNaN_1753018621352.png"
+        "icon": "/assets/images/Sucrose_constellation_cNaN_1753019948641.png"
       }
     ]
   },
@@ -4359,14 +4359,14 @@
     "id": 210012,
     "name": "スクロース·創生",
     "description": "スクロース·創生",
-    "icon": "/assets/images/Sucrose_icon_1753018621350.png"
+    "icon": "/assets/images/Sucrose_icon_1753019948640.png"
   },
   "specialFood": {
     "id": 108146,
     "name": "五九三式栄養食",
     "rank": 3,
-    "icon": "/assets/images/Sucrose_special_food_1753018621352.png",
-    "effectIcon": "/assets/images/Kamisato Ayaka_food_effect_1753018583171.png"
+    "icon": "/assets/images/Sucrose_special_food_1753019948641.png",
+    "effectIcon": "/assets/images/Kamisato Ayaka_food_effect_1753019914822.png"
   },
   "levelProgression": [
     {
@@ -4682,7 +4682,7 @@
             "name": "風車アスター",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Bennett_material_100024_1753018607193.png",
+            "icon": "/assets/images/Bennett_material_100024_1753019936201.png",
             "description": "風が好きな植物。風を崇拝するモンドの人々にとって、風車アスターは「見える風」である。",
             "type": "モンド地域の特産"
           },
@@ -4691,7 +4691,7 @@
             "name": "自由のターコイズ·砕屑",
             "count": 1,
             "rank": 2,
-            "icon": "/assets/images/Jean_material_104151_1753018584488.png",
+            "icon": "/assets/images/Jean_material_104151_1753019916128.png",
             "description": "キャラクターの突破用アイテム。",
             "type": "キャラクター突破素材"
           },
@@ -4700,7 +4700,7 @@
             "name": "トリックフラワーの蜜",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Ganyu_material_112038_1753018614550.png",
+            "icon": "/assets/images/Ganyu_material_112038_1753019942457.png",
             "description": "花蕊から抽出された花蜜、少量の元素が含まれている。\\nスイートフラワーの味と微妙に似ている。",
             "type": "キャラと武器育成素材"
           }
@@ -4731,7 +4731,7 @@
             "name": "風車アスター",
             "count": 10,
             "rank": 1,
-            "icon": "/assets/images/Bennett_material_100024_1753018607193.png",
+            "icon": "/assets/images/Bennett_material_100024_1753019936201.png",
             "description": "風が好きな植物。風を崇拝するモンドの人々にとって、風車アスターは「見える風」である。",
             "type": "モンド地域の特産"
           },
@@ -4740,7 +4740,7 @@
             "name": "自由のターコイズ·欠片",
             "count": 3,
             "rank": 3,
-            "icon": "/assets/images/Jean_material_104152_1753018584488.png",
+            "icon": "/assets/images/Jean_material_104152_1753019916123.png",
             "description": "キャラクターの突破用アイテム。\\n「風向きは変わるもの。」",
             "type": "キャラクター突破素材"
           },
@@ -4749,7 +4749,7 @@
             "name": "トリックフラワーの蜜",
             "count": 15,
             "rank": 1,
-            "icon": "/assets/images/Ganyu_material_112038_1753018614550.png",
+            "icon": "/assets/images/Ganyu_material_112038_1753019942457.png",
             "description": "花蕊から抽出された花蜜、少量の元素が含まれている。\\nスイートフラワーの味と微妙に似ている。",
             "type": "キャラと武器育成素材"
           },
@@ -4758,7 +4758,7 @@
             "name": "暴風の種",
             "count": 2,
             "rank": 4,
-            "icon": "/assets/images/Jean_material_113001_1753018584485.png",
+            "icon": "/assets/images/Jean_material_113001_1753019916119.png",
             "description": "無相の風が倒された後の形態、中には純粋な風の力が含まれている。\\n繊細な蝶々の中にも、暴風を引き起こす力がある。この純粋な風によって構成された蝶は、暴風を再び起こす日を待っているはずだ。",
             "type": "キャラクター育成素材"
           }
@@ -4793,7 +4793,7 @@
             "name": "風車アスター",
             "count": 20,
             "rank": 1,
-            "icon": "/assets/images/Bennett_material_100024_1753018607193.png",
+            "icon": "/assets/images/Bennett_material_100024_1753019936201.png",
             "description": "風が好きな植物。風を崇拝するモンドの人々にとって、風車アスターは「見える風」である。",
             "type": "モンド地域の特産"
           },
@@ -4802,7 +4802,7 @@
             "name": "自由のターコイズ·欠片",
             "count": 6,
             "rank": 3,
-            "icon": "/assets/images/Jean_material_104152_1753018584488.png",
+            "icon": "/assets/images/Jean_material_104152_1753019916123.png",
             "description": "キャラクターの突破用アイテム。\\n「風向きは変わるもの。」",
             "type": "キャラクター突破素材"
           },
@@ -4811,7 +4811,7 @@
             "name": "微光花の蜜",
             "count": 12,
             "rank": 2,
-            "icon": "/assets/images/Ganyu_material_112039_1753018614544.png",
+            "icon": "/assets/images/Ganyu_material_112039_1753019942451.png",
             "description": "元素純度がやや高めの花蜜。\\n学界の見解によるとトリックフラワーは元素植物の高等生命形態である。だがトリックフラワーの食性は未だ解明されていない。",
             "type": "キャラと武器育成素材"
           },
@@ -4820,7 +4820,7 @@
             "name": "暴風の種",
             "count": 4,
             "rank": 4,
-            "icon": "/assets/images/Jean_material_113001_1753018584485.png",
+            "icon": "/assets/images/Jean_material_113001_1753019916119.png",
             "description": "無相の風が倒された後の形態、中には純粋な風の力が含まれている。\\n繊細な蝶々の中にも、暴風を引き起こす力がある。この純粋な風によって構成された蝶は、暴風を再び起こす日を待っているはずだ。",
             "type": "キャラクター育成素材"
           }
@@ -4855,7 +4855,7 @@
             "name": "風車アスター",
             "count": 30,
             "rank": 1,
-            "icon": "/assets/images/Bennett_material_100024_1753018607193.png",
+            "icon": "/assets/images/Bennett_material_100024_1753019936201.png",
             "description": "風が好きな植物。風を崇拝するモンドの人々にとって、風車アスターは「見える風」である。",
             "type": "モンド地域の特産"
           },
@@ -4864,7 +4864,7 @@
             "name": "自由のターコイズ·塊",
             "count": 3,
             "rank": 4,
-            "icon": "/assets/images/Jean_material_104153_1753018584489.png",
+            "icon": "/assets/images/Jean_material_104153_1753019916118.png",
             "description": "キャラクターの突破用アイテム。\\n「風向きは変わるもの。」\\n「いつか、光射す方へと吹いてくる。」",
             "type": "キャラクター突破素材"
           },
@@ -4873,7 +4873,7 @@
             "name": "微光花の蜜",
             "count": 18,
             "rank": 2,
-            "icon": "/assets/images/Ganyu_material_112039_1753018614544.png",
+            "icon": "/assets/images/Ganyu_material_112039_1753019942451.png",
             "description": "元素純度がやや高めの花蜜。\\n学界の見解によるとトリックフラワーは元素植物の高等生命形態である。だがトリックフラワーの食性は未だ解明されていない。",
             "type": "キャラと武器育成素材"
           },
@@ -4882,7 +4882,7 @@
             "name": "暴風の種",
             "count": 8,
             "rank": 4,
-            "icon": "/assets/images/Jean_material_113001_1753018584485.png",
+            "icon": "/assets/images/Jean_material_113001_1753019916119.png",
             "description": "無相の風が倒された後の形態、中には純粋な風の力が含まれている。\\n繊細な蝶々の中にも、暴風を引き起こす力がある。この純粋な風によって構成された蝶は、暴風を再び起こす日を待っているはずだ。",
             "type": "キャラクター育成素材"
           }
@@ -4917,7 +4917,7 @@
             "name": "風車アスター",
             "count": 45,
             "rank": 1,
-            "icon": "/assets/images/Bennett_material_100024_1753018607193.png",
+            "icon": "/assets/images/Bennett_material_100024_1753019936201.png",
             "description": "風が好きな植物。風を崇拝するモンドの人々にとって、風車アスターは「見える風」である。",
             "type": "モンド地域の特産"
           },
@@ -4926,7 +4926,7 @@
             "name": "自由のターコイズ·塊",
             "count": 6,
             "rank": 4,
-            "icon": "/assets/images/Jean_material_104153_1753018584489.png",
+            "icon": "/assets/images/Jean_material_104153_1753019916118.png",
             "description": "キャラクターの突破用アイテム。\\n「風向きは変わるもの。」\\n「いつか、光射す方へと吹いてくる。」",
             "type": "キャラクター突破素材"
           },
@@ -4935,7 +4935,7 @@
             "name": "原素花の蜜",
             "count": 12,
             "rank": 3,
-            "icon": "/assets/images/Ganyu_material_112040_1753018614557.png",
+            "icon": "/assets/images/Ganyu_material_112040_1753019942454.png",
             "description": "エネルギーに満ちたネバネバの花蜜。\\nトリックフラワーが獲物を騙しているのは狩るためである。そして捕食しているのはより強くてより純粋な姿へと進化するためであろう…",
             "type": "キャラと武器育成素材"
           },
@@ -4944,7 +4944,7 @@
             "name": "暴風の種",
             "count": 12,
             "rank": 4,
-            "icon": "/assets/images/Jean_material_113001_1753018584485.png",
+            "icon": "/assets/images/Jean_material_113001_1753019916119.png",
             "description": "無相の風が倒された後の形態、中には純粋な風の力が含まれている。\\n繊細な蝶々の中にも、暴風を引き起こす力がある。この純粋な風によって構成された蝶は、暴風を再び起こす日を待っているはずだ。",
             "type": "キャラクター育成素材"
           }
@@ -4979,7 +4979,7 @@
             "name": "風車アスター",
             "count": 60,
             "rank": 1,
-            "icon": "/assets/images/Bennett_material_100024_1753018607193.png",
+            "icon": "/assets/images/Bennett_material_100024_1753019936201.png",
             "description": "風が好きな植物。風を崇拝するモンドの人々にとって、風車アスターは「見える風」である。",
             "type": "モンド地域の特産"
           },
@@ -4988,7 +4988,7 @@
             "name": "自由のターコイズ",
             "count": 6,
             "rank": 5,
-            "icon": "/assets/images/Jean_material_104154_1753018584486.png",
+            "icon": "/assets/images/Jean_material_104154_1753019916123.png",
             "description": "キャラクターの突破用アイテム。\\n「風向きは変わるもの。」\\n「いつか、光射す方へと吹いてくる。」\\n「これからは、ボクの祝福と共に、もっと自由に生きていこう。」",
             "type": "キャラクター突破素材"
           },
@@ -4997,7 +4997,7 @@
             "name": "原素花の蜜",
             "count": 24,
             "rank": 3,
-            "icon": "/assets/images/Ganyu_material_112040_1753018614557.png",
+            "icon": "/assets/images/Ganyu_material_112040_1753019942454.png",
             "description": "エネルギーに満ちたネバネバの花蜜。\\nトリックフラワーが獲物を騙しているのは狩るためである。そして捕食しているのはより強くてより純粋な姿へと進化するためであろう…",
             "type": "キャラと武器育成素材"
           },
@@ -5006,7 +5006,7 @@
             "name": "暴風の種",
             "count": 20,
             "rank": 4,
-            "icon": "/assets/images/Jean_material_113001_1753018584485.png",
+            "icon": "/assets/images/Jean_material_113001_1753019916119.png",
             "description": "無相の風が倒された後の形態、中には純粋な風の力が含まれている。\\n繊細な蝶々の中にも、暴風を引き起こす力がある。この純粋な風によって構成された蝶は、暴風を再び起こす日を待っているはずだ。",
             "type": "キャラクター育成素材"
           }

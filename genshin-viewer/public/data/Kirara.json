@@ -8,7 +8,7 @@
   "region": "Inazuma",
   "constellation": "箱筥座",
   "description": "稲妻の配達会社「狛荷屋」の配達員。仕事を愛し、人間社会に憧れている「猫又」。",
-  "icon": "/assets/images/Kirara_icon_1753018646187.png",
+  "icon": "/assets/images/Kirara_icon_1753019971034.png",
   "profile": {
     "baseHp": 1021.206,
     "baseAtk": 18.698,
@@ -23,7 +23,7 @@
       "id": "段板紙・切り裂き術",
       "name": "段板紙・切り裂き術",
       "description": "",
-      "icon": "/assets/images/Kamisato Ayaka_normal_attack_1753018583153.png",
+      "icon": "/assets/images/Kamisato Ayaka_normal_attack_1753019914804.png",
       "skillType": "normal",
       "params": {
         "1": [],
@@ -47,7 +47,7 @@
       "id": "にゃんにゃん町飛脚",
       "name": "にゃんにゃん町飛脚",
       "description": "",
-      "icon": "/assets/images/Kirara_elemental_skill_1753018646187.png",
+      "icon": "/assets/images/Kirara_elemental_skill_1753019971034.png",
       "levelData": [
         {
           "tableIndex": 1,
@@ -1136,21 +1136,21 @@
     "elementalBurst": {
       "name": "妖説岐尾の変",
       "description": "",
-      "icon": "/assets/images/Kirara_elemental_burst_1753018646188.png",
+      "icon": "/assets/images/Kirara_elemental_burst_1753019971034.png",
       "levelData": []
     },
     "passiveTalents": [
       {
         "name": "妖説岐尾の変",
-        "icon": "/assets/images/Kirara_passive_1_1753018646188.png"
+        "icon": "/assets/images/Kirara_passive_1_1753019971034.png"
       },
       {
         "name": "ネコのぐるぐる目時計",
-        "icon": "/assets/images/Kirara_passive_2_1753018646188.png"
+        "icon": "/assets/images/Kirara_passive_2_1753019971034.png"
       },
       {
         "name": "抜き足、差し足、忍び猫",
-        "icon": "/assets/images/Kirara_passive_3_1753018646188.png"
+        "icon": "/assets/images/Kirara_passive_3_1753019971034.png"
       }
     ],
     "completeTableData": [
@@ -4317,32 +4317,32 @@
       {
         "level": null,
         "name": "器物流転",
-        "icon": "/assets/images/Kirara_constellation_cNaN_1753018646188.png"
+        "icon": "/assets/images/Kirara_constellation_cNaN_1753019971035.png"
       },
       {
         "level": null,
         "name": "八隅·完璧梱包術",
-        "icon": "/assets/images/Kirara_constellation_cNaN_1753018646188.png"
+        "icon": "/assets/images/Kirara_constellation_cNaN_1753019971035.png"
       },
       {
         "level": null,
         "name": "万戸門札に通ず",
-        "icon": "/assets/images/Kirara_constellation_cNaN_1753018646188.png"
+        "icon": "/assets/images/Kirara_constellation_cNaN_1753019971035.png"
       },
       {
         "level": null,
         "name": "韋駄天駿足",
-        "icon": "/assets/images/Kirara_constellation_cNaN_1753018646188.png"
+        "icon": "/assets/images/Kirara_constellation_cNaN_1753019971035.png"
       },
       {
         "level": null,
         "name": "一日千里",
-        "icon": "/assets/images/Kirara_constellation_cNaN_1753018646188.png"
+        "icon": "/assets/images/Kirara_constellation_cNaN_1753019971035.png"
       },
       {
         "level": null,
         "name": "道中百景心得たり",
-        "icon": "/assets/images/Kirara_constellation_cNaN_1753018646188.png"
+        "icon": "/assets/images/Kirara_constellation_cNaN_1753019971035.png"
       }
     ]
   },
@@ -4360,21 +4360,21 @@
       "isDefault": false,
       "rank": 4,
       "storyId": 340018,
-      "icon": "/assets/images/Kirara_costume_2_1753018646188.png"
+      "icon": "/assets/images/Kirara_costume_2_1753019971035.png"
     }
   ],
   "nameCard": {
     "id": 210162,
     "name": "綺良々·猫箱",
     "description": "綺良々·猫箱",
-    "icon": "/assets/images/Kirara_namecard_1753018646228.png"
+    "icon": "/assets/images/Kirara_namecard_1753019971072.png"
   },
   "specialFood": {
     "id": 108511,
     "name": "元気お弁当",
     "rank": 3,
-    "icon": "/assets/images/Kirara_special_food_1753018646191.png",
-    "effectIcon": "/assets/images/Jean_food_effect_1753018584473.png"
+    "icon": "/assets/images/Kirara_special_food_1753019971037.png",
+    "effectIcon": "/assets/images/Jean_food_effect_1753019916106.png"
   },
   "levelProgression": [
     {
@@ -4690,7 +4690,7 @@
             "name": "天雲草の実",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Raiden Shogun_material_101208_1753018634205.png",
+            "icon": "/assets/images/Raiden Shogun_material_101208_1753019960178.png",
             "description": "セイライ島にある天雲草が結んだ実。耳もとに置くと微かな電流の音が聞こえる。",
             "type": "稲妻地域の特産"
           },
@@ -4699,7 +4699,7 @@
             "name": "成長のエメラルド·砕屑",
             "count": 1,
             "rank": 2,
-            "icon": "/assets/images/Kirara_material_104131_1753018646223.png",
+            "icon": "/assets/images/Kirara_material_104131_1753019971079.png",
             "description": "キャラクターの突破用アイテム。",
             "type": "キャラクター突破素材"
           },
@@ -4708,7 +4708,7 @@
             "name": "フライムの乾核",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Sangonomiya Kokomi_material_112053_1753018636575.png",
+            "icon": "/assets/images/Sangonomiya Kokomi_material_112053_1753019962448.png",
             "description": "フライムを浮遊させるエネルギー核。中には微かな元素が含まれている。\\n多くのエネルギーは逸散していったようだ。",
             "type": "キャラと武器育成素材"
           }
@@ -4739,7 +4739,7 @@
             "name": "天雲草の実",
             "count": 10,
             "rank": 1,
-            "icon": "/assets/images/Raiden Shogun_material_101208_1753018634205.png",
+            "icon": "/assets/images/Raiden Shogun_material_101208_1753019960178.png",
             "description": "セイライ島にある天雲草が結んだ実。耳もとに置くと微かな電流の音が聞こえる。",
             "type": "稲妻地域の特産"
           },
@@ -4748,7 +4748,7 @@
             "name": "成長のエメラルド·欠片",
             "count": 3,
             "rank": 3,
-            "icon": "/assets/images/Kirara_material_104132_1753018646227.png",
+            "icon": "/assets/images/Kirara_material_104132_1753019971075.png",
             "description": "キャラクターの突破用アイテム。\\n「長い長い夢を見ていたわ…」",
             "type": "キャラクター突破素材"
           },
@@ -4757,7 +4757,7 @@
             "name": "フライムの乾核",
             "count": 15,
             "rank": 1,
-            "icon": "/assets/images/Sangonomiya Kokomi_material_112053_1753018636575.png",
+            "icon": "/assets/images/Sangonomiya Kokomi_material_112053_1753019962448.png",
             "description": "フライムを浮遊させるエネルギー核。中には微かな元素が含まれている。\\n多くのエネルギーは逸散していったようだ。",
             "type": "キャラと武器育成素材"
           },
@@ -4766,7 +4766,7 @@
             "name": "常闇の輪",
             "count": 2,
             "rank": 4,
-            "icon": "/assets/images/Kirara_material_113045_1753018646229.png",
+            "icon": "/assets/images/Kirara_material_113045_1753019971085.png",
             "description": "闇の福音を囁く四本の腕を持つ使者を倒した後、手に入れた円環状の法器。\\n円環とは通路の形を模したものである。ゆえに様々な不思議な力を持つ法器は、往々にして円環の形をしている。この円環状の法器は、宇宙を招致するための通路なのかもしれない。",
             "type": "キャラクター育成素材"
           }
@@ -4801,7 +4801,7 @@
             "name": "天雲草の実",
             "count": 20,
             "rank": 1,
-            "icon": "/assets/images/Raiden Shogun_material_101208_1753018634205.png",
+            "icon": "/assets/images/Raiden Shogun_material_101208_1753019960178.png",
             "description": "セイライ島にある天雲草が結んだ実。耳もとに置くと微かな電流の音が聞こえる。",
             "type": "稲妻地域の特産"
           },
@@ -4810,7 +4810,7 @@
             "name": "成長のエメラルド·欠片",
             "count": 6,
             "rank": 3,
-            "icon": "/assets/images/Kirara_material_104132_1753018646227.png",
+            "icon": "/assets/images/Kirara_material_104132_1753019971075.png",
             "description": "キャラクターの突破用アイテム。\\n「長い長い夢を見ていたわ…」",
             "type": "キャラクター突破素材"
           },
@@ -4819,7 +4819,7 @@
             "name": "フライムの幽核",
             "count": 12,
             "rank": 2,
-            "icon": "/assets/images/Sangonomiya Kokomi_material_112054_1753018636579.png",
+            "icon": "/assets/images/Sangonomiya Kokomi_material_112054_1753019962451.png",
             "description": "フライムを浮遊させるエネルギー核。\\nこの元素生物は特殊な習性を持っているようで、周期的に大量に現れたり、消えたりしている。",
             "type": "キャラと武器育成素材"
           },
@@ -4828,7 +4828,7 @@
             "name": "常闇の輪",
             "count": 4,
             "rank": 4,
-            "icon": "/assets/images/Kirara_material_113045_1753018646229.png",
+            "icon": "/assets/images/Kirara_material_113045_1753019971085.png",
             "description": "闇の福音を囁く四本の腕を持つ使者を倒した後、手に入れた円環状の法器。\\n円環とは通路の形を模したものである。ゆえに様々な不思議な力を持つ法器は、往々にして円環の形をしている。この円環状の法器は、宇宙を招致するための通路なのかもしれない。",
             "type": "キャラクター育成素材"
           }
@@ -4863,7 +4863,7 @@
             "name": "天雲草の実",
             "count": 30,
             "rank": 1,
-            "icon": "/assets/images/Raiden Shogun_material_101208_1753018634205.png",
+            "icon": "/assets/images/Raiden Shogun_material_101208_1753019960178.png",
             "description": "セイライ島にある天雲草が結んだ実。耳もとに置くと微かな電流の音が聞こえる。",
             "type": "稲妻地域の特産"
           },
@@ -4872,7 +4872,7 @@
             "name": "成長のエメラルド·塊",
             "count": 3,
             "rank": 4,
-            "icon": "/assets/images/Kirara_material_104133_1753018646229.png",
+            "icon": "/assets/images/Kirara_material_104133_1753019971097.png",
             "description": "キャラクターの突破用アイテム。\\n「長い長い夢を見ていたわ…」\\n「人々は手をつなぎ、円を描くようにくるくると回っていた。賢者と愚者、舞人と勇士、人形と神像…」",
             "type": "キャラクター突破素材"
           },
@@ -4881,7 +4881,7 @@
             "name": "フライムの幽核",
             "count": 18,
             "rank": 2,
-            "icon": "/assets/images/Sangonomiya Kokomi_material_112054_1753018636579.png",
+            "icon": "/assets/images/Sangonomiya Kokomi_material_112054_1753019962451.png",
             "description": "フライムを浮遊させるエネルギー核。\\nこの元素生物は特殊な習性を持っているようで、周期的に大量に現れたり、消えたりしている。",
             "type": "キャラと武器育成素材"
           },
@@ -4890,7 +4890,7 @@
             "name": "常闇の輪",
             "count": 8,
             "rank": 4,
-            "icon": "/assets/images/Kirara_material_113045_1753018646229.png",
+            "icon": "/assets/images/Kirara_material_113045_1753019971085.png",
             "description": "闇の福音を囁く四本の腕を持つ使者を倒した後、手に入れた円環状の法器。\\n円環とは通路の形を模したものである。ゆえに様々な不思議な力を持つ法器は、往々にして円環の形をしている。この円環状の法器は、宇宙を招致するための通路なのかもしれない。",
             "type": "キャラクター育成素材"
           }
@@ -4925,7 +4925,7 @@
             "name": "天雲草の実",
             "count": 45,
             "rank": 1,
-            "icon": "/assets/images/Raiden Shogun_material_101208_1753018634205.png",
+            "icon": "/assets/images/Raiden Shogun_material_101208_1753019960178.png",
             "description": "セイライ島にある天雲草が結んだ実。耳もとに置くと微かな電流の音が聞こえる。",
             "type": "稲妻地域の特産"
           },
@@ -4934,7 +4934,7 @@
             "name": "成長のエメラルド·塊",
             "count": 6,
             "rank": 4,
-            "icon": "/assets/images/Kirara_material_104133_1753018646229.png",
+            "icon": "/assets/images/Kirara_material_104133_1753019971097.png",
             "description": "キャラクターの突破用アイテム。\\n「長い長い夢を見ていたわ…」\\n「人々は手をつなぎ、円を描くようにくるくると回っていた。賢者と愚者、舞人と勇士、人形と神像…」",
             "type": "キャラクター突破素材"
           },
@@ -4943,7 +4943,7 @@
             "name": "フライムの晶化核",
             "count": 12,
             "rank": 3,
-            "icon": "/assets/images/Sangonomiya Kokomi_material_112055_1753018636587.png",
+            "icon": "/assets/images/Sangonomiya Kokomi_material_112055_1753019962455.png",
             "description": "フライムを倒すと、たまに見つけられる完全なエネルギー核。\\n物事の雌雄を決させたい人たちの間では、よくこんな議論がある。フライムと風スライムの浮かぶ力、一体どちらが上なのか。",
             "type": "キャラと武器育成素材"
           },
@@ -4952,7 +4952,7 @@
             "name": "常闇の輪",
             "count": 12,
             "rank": 4,
-            "icon": "/assets/images/Kirara_material_113045_1753018646229.png",
+            "icon": "/assets/images/Kirara_material_113045_1753019971085.png",
             "description": "闇の福音を囁く四本の腕を持つ使者を倒した後、手に入れた円環状の法器。\\n円環とは通路の形を模したものである。ゆえに様々な不思議な力を持つ法器は、往々にして円環の形をしている。この円環状の法器は、宇宙を招致するための通路なのかもしれない。",
             "type": "キャラクター育成素材"
           }
@@ -4987,7 +4987,7 @@
             "name": "天雲草の実",
             "count": 60,
             "rank": 1,
-            "icon": "/assets/images/Raiden Shogun_material_101208_1753018634205.png",
+            "icon": "/assets/images/Raiden Shogun_material_101208_1753019960178.png",
             "description": "セイライ島にある天雲草が結んだ実。耳もとに置くと微かな電流の音が聞こえる。",
             "type": "稲妻地域の特産"
           },
@@ -4996,7 +4996,7 @@
             "name": "成長のエメラルド",
             "count": 6,
             "rank": 5,
-            "icon": "/assets/images/Kirara_material_104134_1753018646226.png",
+            "icon": "/assets/images/Kirara_material_104134_1753019971077.png",
             "description": "キャラクターの突破用アイテム。\\n「長い長い夢を見ていたわ…」\\n「人々は手をつなぎ、円を描くようにくるくると回っていた。賢者と愚者、舞人と勇士、人形と神像…」\\n「みんなの喜びの踊りの中には、宇宙のすべてが秘められている。『命』はいつも目的で、『知恵』こそが手段なの。」",
             "type": "キャラクター突破素材"
           },
@@ -5005,7 +5005,7 @@
             "name": "フライムの晶化核",
             "count": 24,
             "rank": 3,
-            "icon": "/assets/images/Sangonomiya Kokomi_material_112055_1753018636587.png",
+            "icon": "/assets/images/Sangonomiya Kokomi_material_112055_1753019962455.png",
             "description": "フライムを倒すと、たまに見つけられる完全なエネルギー核。\\n物事の雌雄を決させたい人たちの間では、よくこんな議論がある。フライムと風スライムの浮かぶ力、一体どちらが上なのか。",
             "type": "キャラと武器育成素材"
           },
@@ -5014,7 +5014,7 @@
             "name": "常闇の輪",
             "count": 20,
             "rank": 4,
-            "icon": "/assets/images/Kirara_material_113045_1753018646229.png",
+            "icon": "/assets/images/Kirara_material_113045_1753019971085.png",
             "description": "闇の福音を囁く四本の腕を持つ使者を倒した後、手に入れた円環状の法器。\\n円環とは通路の形を模したものである。ゆえに様々な不思議な力を持つ法器は、往々にして円環の形をしている。この円環状の法器は、宇宙を招致するための通路なのかもしれない。",
             "type": "キャラクター育成素材"
           }
