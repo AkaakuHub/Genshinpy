@@ -91,8 +91,8 @@ jobs:
           echo "No dist changes to commit"
         fi
 
-      - name: Notify completion
-        run: |
-          echo "🎉 Deployment completed!"
-          echo "📊 All character data scraped and deployed"
-          echo "🌐 Site URL: ${{ steps.deployment.outputs.page_url }}"
+    - name: Notify completion
+      run: |
+        echo "🎉 Deployment completed!"
+        echo "📊 All character data scraped and deployed"
+        echo "🌐 Site URL: ${{ steps.deployment.outputs.page_url }}"
