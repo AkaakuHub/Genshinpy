@@ -2,7 +2,8 @@
 node_modules/
 
 # Build outputs
-dist/
+# dist/ - Commented out to allow genshin-viewer/dist commits
+!genshin-viewer/dist/
 
 # Environment variables
 .env
