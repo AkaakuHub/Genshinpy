@@ -79,16 +79,20 @@ jobs:
         pnpm install --frozen-lockfile
         npx vite build --config vite.config.ts
 
-    - name: Commit built dist
+    - name: Copy dist to docs and commit
       run: |
+        # Remove existing docs and copy new dist
+        rm -rf docs
+        cp -r genshin-viewer/dist docs
+        
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action Bot"
-        git add -f genshin-viewer/dist/
+        git add docs/
         if ! git diff --cached --quiet; then
-          git commit -m "bot: Update built dist $(date '+%Y-%m-%d %H:%M')"
+          git commit -m "bot: Update docs from dist $(date '+%Y-%m-%d %H:%M')"
           git push
         else
-          echo "No dist changes to commit"
+          echo "No docs changes to commit"
         fi
 
     - name: Notify completion
