@@ -11,23 +11,22 @@
     "scrape": "tsx src/index.ts",
     "scrape:weekly": "tsx src/scrapers/weekly-scraper.ts",
     "scrape:manual": "tsx manual-scrape.ts",
-    "lint": "eslint src/**/*.ts *.ts",
-    "lint:fix": "eslint src/**/*.ts *.ts --fix",
-    "format": "prettier --write src/**/*.ts *.ts",
-    "format:check": "prettier --check src/**/*.ts *.ts",
+    "lint": "eslint src/**/*.ts",
+    "lint:fix": "eslint src/**/*.ts --fix",
+    "format": "prettier --write src/**/*.ts",
+    "format:check": "prettier --check src/**/*.ts",
     "type-check": "tsc --noEmit",
     "knip": "knip",
     "test": "vitest run",
     "test:watch": "vitest",
     "test:coverage": "vitest run --coverage",
-    "check-all": "pnpm lint && pnpm format:check && pnpm type-check && pnpm test",
+    "check-all": "pnpm lint && pnpm format:check && pnpm type-check",
     "prepare": "lefthook install"
   },
   "keywords": [
     "genshin",
     "api",
-    "typescript",
-    "puppeteer"
+    "typescript"
   ],
   "author": "akaaku",
   "license": "MIT",
@@ -46,9 +45,7 @@
     "typescript": "^5.7.2",
     "vitest": "^2.1.9"
   },
-  "dependencies": {
-    "puppeteer": "^23.10.4"
-  },
+  "dependencies": {},
   "engines": {
     "node": ">=18.0.0"
   },

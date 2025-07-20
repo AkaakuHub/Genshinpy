@@ -4,9 +4,9 @@ import fs from 'fs';
 import https from 'https';
 
 /**
- * APIから動的にキャラクターリストを取得
+ * APIから動的にキャラクターリストを取得（IDとrouteの両方）
  */
-async function fetchAllCharacterIds(): Promise<number[]> {
+async function fetchAllCharacterData(): Promise<Array<{ id: number; route: string }>> {
   return new Promise((resolve, reject) => {
     const url = 'https://gi.yatta.moe/api/v2/jp/avatar?vh=38E6';
 
@@ -16,13 +16,18 @@ async function fetchAllCharacterIds(): Promise<number[]> {
         res.on('data', chunk => (data += chunk));
         res.on('end', () => {
           try {
-            const json = JSON.parse(data) as { response: number; data: Record<string, unknown> };
-            if (json.response === 200 && json.data) {
-              const characterIds = Object.keys(json.data)
-                .map(Number)
-                .filter(id => id > 0);
-              Logger.info(`📋 Found ${characterIds.length} characters in API`);
-              resolve(characterIds);
+            const json = JSON.parse(data) as {
+              response: number;
+              data: {
+                items: Record<string, { id: number; route: string; name: string }>;
+              };
+            };
+            if (json.response === 200 && json.data?.items) {
+              const characterData = Object.values(json.data.items)
+                .filter(char => char.id > 0 && char.route)
+                .map(char => ({ id: char.id, route: char.route }));
+              Logger.info(`📋 Found ${characterData.length} characters in API`);
+              resolve(characterData);
             } else {
               reject(new Error('Invalid API response'));
             }
@@ -38,13 +43,13 @@ async function fetchAllCharacterIds(): Promise<number[]> {
 async function scrapeAllCharacters() {
   Logger.info('🚀 Starting comprehensive character data scraping...');
 
-  // APIから動的にキャラクターIDリストを取得
-  let characterIds: number[];
+  // APIから動的にキャラクターデータリストを取得
+  let characterDataList: Array<{ id: number; route: string }>;
   try {
-    characterIds = await fetchAllCharacterIds();
-    Logger.info(`✅ Successfully fetched ${characterIds.length} character IDs from API`);
+    characterDataList = await fetchAllCharacterData();
+    Logger.info(`✅ Successfully fetched ${characterDataList.length} character data from API`);
   } catch (error) {
-    Logger.error('❌ Failed to fetch character IDs from API:', error as Error);
+    Logger.error('❌ Failed to fetch character data from API:', error as Error);
     return [];
   }
 
@@ -63,10 +68,13 @@ async function scrapeAllCharacters() {
   const results = [];
   const errors = [];
 
-  for (const characterId of characterIds) {
+  for (const characterData of characterDataList) {
     try {
-      Logger.info(`🔍 Scraping character ${characterId}...`);
-      const character = await scraper.scrapeCompleteCharacterByPureApi(characterId);
+      Logger.info(`🔍 Scraping character ${characterData.id}...`);
+      const character = await scraper.scrapeCompleteCharacterByPureApi(
+        characterData.id,
+        characterData.route
+      );
 
       if (character) {
         results.push(character);
@@ -76,15 +84,15 @@ async function scrapeAllCharacters() {
         fs.writeFileSync(filename, JSON.stringify(character, null, 2));
         Logger.info(`✅ Saved ${character.name} to ${filename}`);
       } else {
-        Logger.error(`❌ Failed to scrape character ${characterId}`);
-        errors.push(characterId);
+        Logger.error(`❌ Failed to scrape character ${characterData.id}`);
+        errors.push(characterData.id);
       }
 
       // API負荷軽減のため1秒待機
       await new Promise(resolve => setTimeout(resolve, 1000));
     } catch (error) {
-      Logger.error(`❌ Error scraping character ${characterId}:`, error as Error);
-      errors.push(characterId);
+      Logger.error(`❌ Error scraping character ${characterData.id}:`, error as Error);
+      errors.push(characterData.id);
     }
   }
 
@@ -110,10 +118,10 @@ async function scrapeAllCharacters() {
     dataCompleteness: '100% Python-level',
     source: 'gi.yatta.moe API v2',
     errors: errors,
-    successRate: `${Math.round((results.length / characterIds.length) * 100)}%`,
+    successRate: `${Math.round((results.length / characterDataList.length) * 100)}%`,
     performance: {
       averageTimePerCharacter: '~2 seconds',
-      totalExecutionTime: `${characterIds.length * 2} seconds estimated`,
+      totalExecutionTime: `${characterDataList.length * 2} seconds estimated`,
       memoryUsage: 'Low (No Puppeteer)',
     },
   };
@@ -123,7 +131,7 @@ async function scrapeAllCharacters() {
   // サマリーログ
   Logger.info('='.repeat(60));
   Logger.info('🎉 SCRAPING COMPLETE!');
-  Logger.info(`📊 Successfully scraped: ${results.length}/${characterIds.length} characters`);
+  Logger.info(`📊 Successfully scraped: ${results.length}/${characterDataList.length} characters`);
   Logger.info(`✅ Success rate: ${metadata.successRate}`);
   Logger.info(`❌ Failed characters: ${errors.length}`);
   if (errors.length > 0) {

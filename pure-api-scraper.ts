@@ -162,7 +162,10 @@ class PureApiScraper {
   /**
    * HTTPリクエストのみで完全なキャラクター情報を取得
    */
-  async scrapeCompleteCharacterByPureApi(characterId: number): Promise<Character | null> {
+  async scrapeCompleteCharacterByPureApi(
+    characterId: number,
+    characterSlug: string
+  ): Promise<Character | null> {
     try {
       Logger.info(`🚀 PURE API scraping character ID: ${characterId} (NO PUPPETEER!)`);
 
@@ -174,8 +177,6 @@ class PureApiScraper {
       }
 
       Logger.info(`✅ PURE API data loaded for: ${avatarData.name}`);
-
-      const characterSlug = this.mapCharacterNameToId(avatarData.name);
 
       // 2. 全ての画像を並行ダウンロード
       const [
@@ -229,18 +230,22 @@ class PureApiScraper {
           },
         },
         talents: {
-          normalAttack: {
+          normal: {
+            id: talents.normalAttack.name,
             name: talents.normalAttack.name,
             description: talents.normalAttack.description,
             icon: talents.normalAttack.icon,
-            levelData: talents.normalAttack.levelData.map(level => ({
-              tableIndex: level.level,
-              skillType: 'normal_attack',
-              rowIndex: level.level,
-              ...level,
-            })),
+            skillType: 'normal' as const,
+            params: talents.normalAttack.levelData.reduce(
+              (acc, level) => {
+                acc[level.level.toString()] = [];
+                return acc;
+              },
+              {} as { [level: string]: number[] }
+            ),
           },
-          elementalSkill: {
+          skill: {
+            id: talents.elementalSkill.name,
             name: talents.elementalSkill.name,
             description: talents.elementalSkill.description,
             icon: talents.elementalSkill.icon,
@@ -975,18 +980,6 @@ class PureApiScraper {
       FIGHT_PROP_DEFENSE_PERCENT: '防御力',
     };
     return propMap[specialProp] || specialProp;
-  }
-
-  private mapCharacterNameToId(name: string): string {
-    const nameMap: Record<string, string> = {
-      神里綾華: 'kamisato-ayaka',
-      神里綾人: 'kamisato-ayato',
-      雷電将軍: 'raiden-shogun',
-      八重神子: 'yae-miko',
-      楓原万葉: 'kaedehara-kazuha',
-      珊瑚宮心海: 'sangonomiya-kokomi',
-    };
-    return nameMap[name] || name.toLowerCase().replace(/[^a-z0-9]/g, '-');
   }
 
   private buildLevelProgression(upgrade: {

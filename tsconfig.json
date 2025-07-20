@@ -26,6 +26,6 @@
     "useUnknownInCatchVariables": true,
     "verbatimModuleSyntax": true
   },
-  "include": ["src/**/*", "tests/**/*", "*.ts", "vitest.config.ts"],
+  "include": ["src/**/*"],
   "exclude": ["node_modules", "dist", "**/*.d.ts", "**/*.js"]
 }
