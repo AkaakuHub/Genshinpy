@@ -86,13 +86,5 @@ mat/
 *.woff2
 
 # Legacy files
-Genshin*.py
-demo.py
-requirements.txt
-pyproject.toml
 Dockerfile
-errorlog.txt
 geckodriver.log
-*.csv
-*.html
-itemname.json
