@@ -8,7 +8,7 @@
   "region": "Mondstadt",
   "constellation": "波沫座",
   "description": "古き一族出身の「波花騎士」。同時に西風騎士団の遊撃小隊隊長でもある。旧貴族の末裔でありながら、敵対関係にある西風騎士団に入団した理由は、未だ謎に包まれている。",
-  "icon": "/assets/images/Eula_icon_1753021531903.png",
+  "icon": "/assets/images/Eula_icon_1753588904250.png",
   "profile": {
     "baseHp": 1029.586,
     "baseAtk": 26.627,
@@ -23,7 +23,7 @@
       "id": "西風剣術・旧貴族",
       "name": "西風剣術・旧貴族",
       "description": "",
-      "icon": "/assets/images/Diluc_normal_attack_1753021479183.png",
+      "icon": "/assets/images/Diluc_normal_attack_1753588845424.png",
       "skillType": "normal",
       "params": {
         "1": [],
@@ -47,7 +47,7 @@
       "id": "氷潮の渦",
       "name": "氷潮の渦",
       "description": "",
-      "icon": "/assets/images/Eula_elemental_skill_1753021531903.png",
+      "icon": "/assets/images/Eula_elemental_skill_1753588904250.png",
       "levelData": [
         {
           "tableIndex": 1,
@@ -227,7 +227,7 @@
             "冷酷な心継続時間|{param13:F1}秒",
             "物理耐性ダウン|{param4:P}",
             "氷元素耐性ダウン|{param5:P}",
-            "耐性ダウン時間|{param6:F1}秒",
+            "耐性ダ��ン時間|{param6:F1}秒",
             "一回押しクールタイム|{param7:F1}秒",
             "長押しクールタイム|{param8:F1}秒",
             "",
@@ -742,7 +742,7 @@
             "物理耐性ダウン|{param4:P}",
             "氷元素耐性ダウン|{param5:P}",
             "耐性ダウン時間|{param6:F1}秒",
-            "一回押しクールタイム|{param7:F1}秒",
+            "一回押し���ールタイム|{param7:F1}秒",
             "長押しクールタイム|{param8:F1}秒",
             "",
             "",
@@ -1136,21 +1136,21 @@
     "elementalBurst": {
       "name": "氷の残剣",
       "description": "",
-      "icon": "/assets/images/Eula_elemental_burst_1753021531903.png",
+      "icon": "/assets/images/Eula_elemental_burst_1753588904250.png",
       "levelData": []
     },
     "passiveTalents": [
       {
         "name": "氷の残剣",
-        "icon": "/assets/images/Eula_passive_1_1753021531903.png"
+        "icon": "/assets/images/Eula_passive_1_1753588904250.png"
       },
       {
         "name": "戦意の表れ",
-        "icon": "/assets/images/Eula_passive_2_1753021531903.png"
+        "icon": "/assets/images/Eula_passive_2_1753588904250.png"
       },
       {
         "name": "貴族の省察",
-        "icon": "/assets/images/Eula_passive_3_1753021531903.png"
+        "icon": "/assets/images/Eula_passive_3_1753588904251.png"
       }
     ],
     "completeTableData": [
@@ -1469,7 +1469,7 @@
               "5段ダメージ|{param5:F1P}+{param5:F1P}",
               "連続重撃ダメージ|{param6:F1P}",
               "重撃終了ダメージ|{param7:P}",
-              "重撃スタミナ消費|毎秒{param8:F1}",
+              "重撃スタ��ナ消費|毎秒{param8:F1}",
               "最大継続時間|{param9:F1}秒",
               "落下期間のダメージ|{param10:F1P}",
               "低空/高空落下攻撃ダメージ|{param11:P}/{param12:P}",
@@ -1824,7 +1824,7 @@
               "重撃終了ダメージ|{param7:P}",
               "重撃スタミナ消費|毎秒{param8:F1}",
               "最大継続時間|{param9:F1}秒",
-              "落下期間のダメー���|{param10:F1P}",
+              "落下期間のダメージ|{param10:F1P}",
               "低空/高空落下攻撃ダメージ|{param11:P}/{param12:P}",
               "",
               "",
@@ -2374,7 +2374,7 @@
               "冷酷な心継続時間|{param13:F1}秒",
               "物理耐性ダウン|{param4:P}",
               "氷元素耐性ダウン|{param5:P}",
-              "耐性ダウン時間|{param6:F1}秒",
+              "耐性ダ��ン時間|{param6:F1}秒",
               "一回押しクールタイム|{param7:F1}秒",
               "長押しクールタイム|{param8:F1}秒",
               "",
@@ -2868,7 +2868,7 @@
               "物理耐性ダウン|{param4:P}",
               "氷元素耐性ダウン|{param5:P}",
               "耐性ダウン時間|{param6:F1}秒",
-              "一回押しクールタイム|{param7:F1}秒",
+              "一回押し���ールタイム|{param7:F1}秒",
               "長押しクールタイム|{param8:F1}秒",
               "",
               "",
@@ -3626,7 +3626,7 @@
               "光臨の剣基礎ダメージ|{param2:F1P}",
               "エネルギー1重ごとのダメージ|{param3:F1P}",
               "エネルギー数上限|{param4:I}",
-              "クールタイム|{param5:F1}秒",
+              "クールタ��ム|{param5:F1}秒",
               "元素エネルギー|{param6:I}",
               "",
               "",
@@ -4317,32 +4317,32 @@
       {
         "level": null,
         "name": "潮の幻像",
-        "icon": "/assets/images/Eula_constellation_cNaN_1753021531904.png"
+        "icon": "/assets/images/Eula_constellation_cNaN_1753588904251.png"
       },
       {
         "level": null,
         "name": "波花の淑女",
-        "icon": "/assets/images/Eula_constellation_cNaN_1753021531904.png"
+        "icon": "/assets/images/Eula_constellation_cNaN_1753588904251.png"
       },
       {
         "level": null,
         "name": "ローレンスの血統",
-        "icon": "/assets/images/Eula_constellation_cNaN_1753021531904.png"
+        "icon": "/assets/images/Eula_constellation_cNaN_1753588904251.png"
       },
       {
         "level": null,
         "name": "劣等感との戦い",
-        "icon": "/assets/images/Eula_constellation_cNaN_1753021531904.png"
+        "icon": "/assets/images/Eula_constellation_cNaN_1753588904251.png"
       },
       {
         "level": null,
         "name": "騎士の素質",
-        "icon": "/assets/images/Eula_constellation_cNaN_1753021531904.png"
+        "icon": "/assets/images/Eula_constellation_cNaN_1753588904251.png"
       },
       {
         "level": null,
         "name": "高貴なる者の義務",
-        "icon": "/assets/images/Eula_constellation_cNaN_1753021531904.png"
+        "icon": "/assets/images/Eula_constellation_cNaN_1753588904251.png"
       }
     ]
   },
@@ -4359,14 +4359,14 @@
     "id": 210070,
     "name": "エウルア·氷印",
     "description": "エウルア·氷印",
-    "icon": "/assets/images/Eula_icon_1753021531903.png"
+    "icon": "/assets/images/Eula_icon_1753588904250.png"
   },
   "specialFood": {
     "id": 108245,
     "name": "荒波パイ",
     "rank": 4,
-    "icon": "/assets/images/Eula_special_food_1753021531904.png",
-    "effectIcon": "/assets/images/Klee_food_effect_1753021493828.png"
+    "icon": "/assets/images/Eula_special_food_1753588904252.png",
+    "effectIcon": "/assets/images/Klee_food_effect_1753588864411.png"
   },
   "levelProgression": [
     {
@@ -4682,7 +4682,7 @@
             "name": "蒲公英の種",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Jean_material_100057_1753021472884.png",
+            "icon": "/assets/images/Jean_material_100057_1753588836926.png",
             "description": "風に乗って移動する小さい種。旅するための羽を抜いても、そこには遠くへの希望が宿っている。",
             "type": "モンド地域の特産"
           },
@@ -4691,7 +4691,7 @@
             "name": "哀切なアイスクリスタル·砕屑",
             "count": 1,
             "rank": 2,
-            "icon": "/assets/images/Kamisato Ayaka_material_104161_1753021471474.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104161_1753588834679.png",
             "description": "キャラクターの突破用アイテム。",
             "type": "キャラクター突破素材"
           },
@@ -4700,7 +4700,7 @@
             "name": "破損した仮面",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Jean_material_112005_1753021472883.png",
+            "icon": "/assets/images/Jean_material_112005_1753588837155.png",
             "description": "破損した骨の仮面、あるヒルチャールの所持品だった。\\n破損した部分のほうが多く、仮面としての機能は失われている。",
             "type": "キャラと武器育成素材"
           }
@@ -4731,7 +4731,7 @@
             "name": "蒲公英の種",
             "count": 10,
             "rank": 1,
-            "icon": "/assets/images/Jean_material_100057_1753021472884.png",
+            "icon": "/assets/images/Jean_material_100057_1753588836926.png",
             "description": "風に乗って移動する小さい種。旅するための羽を抜いても、そこには遠くへの希望が宿っている。",
             "type": "モンド地域の特産"
           },
@@ -4740,7 +4740,7 @@
             "name": "哀切なアイスクリスタル·欠片",
             "count": 3,
             "rank": 3,
-            "icon": "/assets/images/Kamisato Ayaka_material_104162_1753021471480.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104162_1753588834829.png",
             "description": "キャラクターの突破用アイテム。\\n「…すみません…」",
             "type": "キャラクター突破素材"
           },
@@ -4749,7 +4749,7 @@
             "name": "破損した仮面",
             "count": 15,
             "rank": 1,
-            "icon": "/assets/images/Jean_material_112005_1753021472883.png",
+            "icon": "/assets/images/Jean_material_112005_1753588837155.png",
             "description": "破損した骨の仮面、あるヒルチャールの所持品だった。\\n破損した部分のほうが多く、仮面としての機能は失われている。",
             "type": "キャラと武器育成素材"
           },
@@ -4758,7 +4758,7 @@
             "name": "凝結の華",
             "count": 2,
             "rank": 4,
-            "icon": "/assets/images/Eula_material_113020_1753021532099.png",
+            "icon": "/assets/images/Eula_material_113020_1753588904463.png",
             "description": "無相の氷が開花する極寒の瞬間、純粋な氷晶が凝結される。\\n氷霜の結晶は、必ず氷のように冷たい規則に従って成長し、開花し、やがてすべてを凍らせる寒冬の花となる。停滞した時間、溶けることのない意思こそが、不滅の花の真意であるはずだ。",
             "type": "キャラクター育成素材"
           }
@@ -4793,7 +4793,7 @@
             "name": "蒲公英の種",
             "count": 20,
             "rank": 1,
-            "icon": "/assets/images/Jean_material_100057_1753021472884.png",
+            "icon": "/assets/images/Jean_material_100057_1753588836926.png",
             "description": "風に乗って移動する小さい種。旅するための羽を抜いても、そこには遠くへの希望が宿っている。",
             "type": "モンド地域の特産"
           },
@@ -4802,7 +4802,7 @@
             "name": "哀切なアイスクリスタル·欠片",
             "count": 6,
             "rank": 3,
-            "icon": "/assets/images/Kamisato Ayaka_material_104162_1753021471480.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104162_1753588834829.png",
             "description": "キャラクターの突破用アイテム。\\n「…すみません…」",
             "type": "キャラクター突破素材"
           },
@@ -4811,7 +4811,7 @@
             "name": "汚れた仮面",
             "count": 12,
             "rank": 2,
-            "icon": "/assets/images/Jean_material_112006_1753021472884.png",
+            "icon": "/assets/images/Jean_material_112006_1753588837103.png",
             "description": "汚れまみれで、何とも言えないにおいがする骨の仮面。\\nそれでも被るのは、ヒルチャールのこだわりだろうか。",
             "type": "キャラと武器育成素材"
           },
@@ -4820,7 +4820,7 @@
             "name": "凝結の華",
             "count": 4,
             "rank": 4,
-            "icon": "/assets/images/Eula_material_113020_1753021532099.png",
+            "icon": "/assets/images/Eula_material_113020_1753588904463.png",
             "description": "無相の氷が開花する極寒の瞬間、純粋な氷晶が凝結される。\\n氷霜の結晶は、必ず氷のように冷たい規則に従って成長し、開花し、やがてすべてを凍らせる寒冬の花となる。停滞した時間、溶けることのない意思こそが、不滅の花の真意であるはずだ。",
             "type": "キャラクター育成素材"
           }
@@ -4855,7 +4855,7 @@
             "name": "蒲公英の種",
             "count": 30,
             "rank": 1,
-            "icon": "/assets/images/Jean_material_100057_1753021472884.png",
+            "icon": "/assets/images/Jean_material_100057_1753588836926.png",
             "description": "風に乗って移動する小さい種。旅するための羽を抜いても、そこには遠くへの希望が宿っている。",
             "type": "モンド地域の特産"
           },
@@ -4864,7 +4864,7 @@
             "name": "哀切なアイスクリスタル·塊",
             "count": 3,
             "rank": 4,
-            "icon": "/assets/images/Kamisato Ayaka_material_104163_1753021471472.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104163_1753588834651.png",
             "description": "キャラクターの突破用アイテム。\\n「…すみません…」\\n「あなた達まで、わたしと一緒にこの世界の悲しみを背負わせるなんて…」",
             "type": "キャラクター突破素材"
           },
@@ -4873,7 +4873,7 @@
             "name": "汚れた仮面",
             "count": 18,
             "rank": 2,
-            "icon": "/assets/images/Jean_material_112006_1753021472884.png",
+            "icon": "/assets/images/Jean_material_112006_1753588837103.png",
             "description": "汚れまみれで、何とも言えないにおいがする骨の仮面。\\nそれでも被るのは、ヒルチャールのこだわりだろうか。",
             "type": "キャラと武器育成素材"
           },
@@ -4882,7 +4882,7 @@
             "name": "凝結の華",
             "count": 8,
             "rank": 4,
-            "icon": "/assets/images/Eula_material_113020_1753021532099.png",
+            "icon": "/assets/images/Eula_material_113020_1753588904463.png",
             "description": "無相の氷が開花する極寒の瞬間、純粋な氷晶が凝結される。\\n氷霜の結晶は、必ず氷のように冷たい規則に従って成長し、開花し、やがてすべてを凍らせる寒冬の花となる。停滞した時間、溶けることのない意思こそが、不滅の花の真意であるはずだ。",
             "type": "キャラクター育成素材"
           }
@@ -4917,7 +4917,7 @@
             "name": "蒲公英の種",
             "count": 45,
             "rank": 1,
-            "icon": "/assets/images/Jean_material_100057_1753021472884.png",
+            "icon": "/assets/images/Jean_material_100057_1753588836926.png",
             "description": "風に乗って移動する小さい種。旅するための羽を抜いても、そこには遠くへの希望が宿っている。",
             "type": "モンド地域の特産"
           },
@@ -4926,7 +4926,7 @@
             "name": "哀切なアイスクリスタル·塊",
             "count": 6,
             "rank": 4,
-            "icon": "/assets/images/Kamisato Ayaka_material_104163_1753021471472.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104163_1753588834651.png",
             "description": "キャラクターの突破用アイテム。\\n「…すみません…」\\n「あなた達まで、わたしと一緒にこの世界の悲しみを背負わせるなんて…」",
             "type": "キャラクター突破素材"
           },
@@ -4935,7 +4935,7 @@
             "name": "不吉な仮面",
             "count": 12,
             "rank": 3,
-            "icon": "/assets/images/Jean_material_112007_1753021472883.png",
+            "icon": "/assets/images/Jean_material_112007_1753588837178.png",
             "description": "つるりとした骨の仮面の上には、敵を威嚇する絵が描かれている。\\nヒルチャールが仮面に対するこだわりは今でも解明されていない。一説では、水に反射する自分の倒影を見たくないかららしい。",
             "type": "キャラと武器育成素材"
           },
@@ -4944,7 +4944,7 @@
             "name": "凝結の華",
             "count": 12,
             "rank": 4,
-            "icon": "/assets/images/Eula_material_113020_1753021532099.png",
+            "icon": "/assets/images/Eula_material_113020_1753588904463.png",
             "description": "無相の氷が開花する極寒の瞬間、純粋な氷晶が凝結される。\\n氷霜の結晶は、必ず氷のように冷たい規則に従って成長し、開花し、やがてすべてを凍らせる寒冬の花となる。停滞した時間、溶けることのない意思こそが、不滅の花の真意であるはずだ。",
             "type": "キャラクター育成素材"
           }
@@ -4979,7 +4979,7 @@
             "name": "蒲公英の種",
             "count": 60,
             "rank": 1,
-            "icon": "/assets/images/Jean_material_100057_1753021472884.png",
+            "icon": "/assets/images/Jean_material_100057_1753588836926.png",
             "description": "風に乗って移動する小さい種。旅するための羽を抜いても、そこには遠くへの希望が宿っている。",
             "type": "モンド地域の特産"
           },
@@ -4988,7 +4988,7 @@
             "name": "哀切なアイスクリスタル",
             "count": 6,
             "rank": 5,
-            "icon": "/assets/images/Kamisato Ayaka_material_104164_1753021471465.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104164_1753588834705.png",
             "description": "キャラクターの突破用アイテム。\\n「…すみません、あなた達まで、わたしと一緒にこの世界の悲しみを背負わせるなんて…」\\n「わたしの寒さを耐えられる者は、きっと心の中に熱い欲望を持っているだろう？」\\n「なら、わたしの代わりに、旧世界を焼き尽くそう。」",
             "type": "キャラクター突破素材"
           },
@@ -4997,7 +4997,7 @@
             "name": "不吉な仮面",
             "count": 24,
             "rank": 3,
-            "icon": "/assets/images/Jean_material_112007_1753021472883.png",
+            "icon": "/assets/images/Jean_material_112007_1753588837178.png",
             "description": "つるりとした骨の仮面の上には、敵を威嚇する絵が描かれている。\\nヒルチャールが仮面に対するこだわりは今でも解明されていない。一説では、水に反射する自分の倒影を見たくないかららしい。",
             "type": "キャラと武器育成素材"
           },
@@ -5006,7 +5006,7 @@
             "name": "凝結の華",
             "count": 20,
             "rank": 4,
-            "icon": "/assets/images/Eula_material_113020_1753021532099.png",
+            "icon": "/assets/images/Eula_material_113020_1753588904463.png",
             "description": "無相の氷が開花する極寒の瞬間、純粋な氷晶が凝結される。\\n氷霜の結晶は、必ず氷のように冷たい規則に従って成長し、開花し、やがてすべてを凍らせる寒冬の花となる。停滞した時間、溶けることのない意思こそが、不滅の花の真意であるはずだ。",
             "type": "キャラクター育成素材"
           }

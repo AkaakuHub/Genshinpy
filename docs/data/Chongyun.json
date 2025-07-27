@@ -8,7 +8,7 @@
   "region": "Liyue",
   "constellation": "乾坤鋒座",
   "description": "妖魔退治一族の方士少年、自身の「純陽の体」を抑えるためにいろいろ苦労している。",
-  "icon": "/assets/images/Chongyun_icon_1753021507320.png",
+  "icon": "/assets/images/Chongyun_icon_1753588878111.png",
   "profile": {
     "baseHp": 920.909,
     "baseAtk": 18.698,
@@ -23,7 +23,7 @@
       "id": "滅邪四式",
       "name": "滅邪四式",
       "description": "",
-      "icon": "/assets/images/Diluc_normal_attack_1753021479183.png",
+      "icon": "/assets/images/Diluc_normal_attack_1753588845424.png",
       "skillType": "normal",
       "params": {
         "1": [],
@@ -47,7 +47,7 @@
       "id": "霊刃·重華積霜",
       "name": "霊刃·重華積霜",
       "description": "",
-      "icon": "/assets/images/Chongyun_elemental_skill_1753021507320.png",
+      "icon": "/assets/images/Chongyun_elemental_skill_1753588878112.png",
       "levelData": [
         {
           "tableIndex": 1,
@@ -1136,21 +1136,21 @@
     "elementalBurst": {
       "name": "吐納真定",
       "description": "",
-      "icon": "/assets/images/Chongyun_elemental_burst_1753021507320.png",
+      "icon": "/assets/images/Chongyun_elemental_burst_1753588878112.png",
       "levelData": []
     },
     "passiveTalents": [
       {
         "name": "吐納真定",
-        "icon": "/assets/images/Chongyun_passive_1_1753021507320.png"
+        "icon": "/assets/images/Chongyun_passive_1_1753588878112.png"
       },
       {
         "name": "追氷剣訣",
-        "icon": "/assets/images/Chongyun_passive_2_1753021507320.png"
+        "icon": "/assets/images/Chongyun_passive_2_1753588878112.png"
       },
       {
         "name": "雲遊山海",
-        "icon": "/assets/images/Chongyun_passive_3_1753021507320.png"
+        "icon": "/assets/images/Chongyun_passive_3_1753588878112.png"
       }
     ],
     "completeTableData": [
@@ -1254,7 +1254,7 @@
             "description": [
               "1段ダメージ|{param1:F1P}",
               "2段ダメージ|{param2:F1P}",
-              "3段ダメ��ジ|{param3:F1P}",
+              "3段ダメージ|{param3:F1P}",
               "4段ダメージ|{param4:P}",
               "連続重撃ダメージ|{param5:F1P}",
               "重撃終了ダメージ|{param6:P}",
@@ -1399,7 +1399,7 @@
               "連続重撃ダメージ|{param5:F1P}",
               "重撃終了ダメージ|{param6:P}",
               "重撃スタミナ消費|毎秒{param7:F1}",
-              "���大継続時間|{param8:F1}秒",
+              "最大���続時間|{param8:F1}秒",
               "落下期間のダメージ|{param9:F1P}",
               "低空/高空落下攻撃ダメージ|{param10:P}/{param11:P}",
               "",
@@ -2030,7 +2030,7 @@
               "重撃スタミナ消費|毎秒{param7:F1}",
               "最大継続時間|{param8:F1}秒",
               "落下期間のダメージ|{param9:F1P}",
-              "低空/高���落下攻撃ダメージ|{param10:P}/{param11:P}",
+              "低空/高空落���攻撃ダメージ|{param10:P}/{param11:P}",
               "",
               "",
               "",
@@ -4317,32 +4317,32 @@
       {
         "level": null,
         "name": "釈凌詠氷",
-        "icon": "/assets/images/Chongyun_constellation_cNaN_1753021507321.png"
+        "icon": "/assets/images/Chongyun_constellation_cNaN_1753588878112.png"
       },
       {
         "level": null,
         "name": "周天の回転",
-        "icon": "/assets/images/Chongyun_constellation_cNaN_1753021507321.png"
+        "icon": "/assets/images/Chongyun_constellation_cNaN_1753588878112.png"
       },
       {
         "level": null,
         "name": "雲の果てに光あり",
-        "icon": "/assets/images/Chongyun_constellation_cNaN_1753021507321.png"
+        "icon": "/assets/images/Chongyun_constellation_cNaN_1753588878112.png"
       },
       {
         "level": null,
         "name": "浮雲霜天",
-        "icon": "/assets/images/Chongyun_constellation_cNaN_1753021507321.png"
+        "icon": "/assets/images/Chongyun_constellation_cNaN_1753588878112.png"
       },
       {
         "level": null,
         "name": "真道の正理",
-        "icon": "/assets/images/Chongyun_constellation_cNaN_1753021507321.png"
+        "icon": "/assets/images/Chongyun_constellation_cNaN_1753588878112.png"
       },
       {
         "level": null,
         "name": "四霊の捧げ",
-        "icon": "/assets/images/Chongyun_constellation_cNaN_1753021507321.png"
+        "icon": "/assets/images/Chongyun_constellation_cNaN_1753588878112.png"
       }
     ]
   },
@@ -4359,14 +4359,14 @@
     "id": 210040,
     "name": "重雲·霊刃",
     "description": "重雲·霊刃",
-    "icon": "/assets/images/Chongyun_icon_1753021507320.png"
+    "icon": "/assets/images/Chongyun_namecard_1753588878464.png"
   },
   "specialFood": {
     "id": 108144,
     "name": "山幸の冷やし麺",
     "rank": 2,
-    "icon": "/assets/images/Chongyun_special_food_1753021507321.png",
-    "effectIcon": "/assets/images/Chongyun_food_effect_1753021507321.png"
+    "icon": "/assets/images/Chongyun_special_food_1753588878113.png",
+    "effectIcon": "/assets/images/Chongyun_food_effect_1753588878113.png"
   },
   "levelProgression": [
     {
@@ -4682,7 +4682,7 @@
             "name": "石珀",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Zhongli_material_100058_1753021496040.png",
+            "icon": "/assets/images/Zhongli_material_100058_1753588866716.png",
             "description": "純度が極めて高い岩の元素の晶石。よくほかの鉱物と一緒に発見される。「岩の心」とも呼ばれる。",
             "type": "璃月地域の特産"
           },
@@ -4691,7 +4691,7 @@
             "name": "哀切なアイスクリスタル·砕屑",
             "count": 1,
             "rank": 2,
-            "icon": "/assets/images/Kamisato Ayaka_material_104161_1753021471474.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104161_1753588834679.png",
             "description": "キャラクターの突破用アイテム。",
             "type": "キャラクター突破素材"
           },
@@ -4700,7 +4700,7 @@
             "name": "破損した仮面",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Jean_material_112005_1753021472883.png",
+            "icon": "/assets/images/Jean_material_112005_1753588837155.png",
             "description": "破損した骨の仮面、あるヒルチャールの所持品だった。\\n破損した部分のほうが多く、仮面としての機能は失われている。",
             "type": "キャラと武器育成素材"
           }
@@ -4731,7 +4731,7 @@
             "name": "石珀",
             "count": 10,
             "rank": 1,
-            "icon": "/assets/images/Zhongli_material_100058_1753021496040.png",
+            "icon": "/assets/images/Zhongli_material_100058_1753588866716.png",
             "description": "純度が極めて高い岩の元素の晶石。よくほかの鉱物と一緒に発見される。「岩の心」とも呼ばれる。",
             "type": "璃月地域の特産"
           },
@@ -4740,7 +4740,7 @@
             "name": "哀切なアイスクリスタル·欠片",
             "count": 3,
             "rank": 3,
-            "icon": "/assets/images/Kamisato Ayaka_material_104162_1753021471480.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104162_1753588834829.png",
             "description": "キャラクターの突破用アイテム。\\n「…すみません…」",
             "type": "キャラクター突破素材"
           },
@@ -4749,7 +4749,7 @@
             "name": "破損した仮面",
             "count": 15,
             "rank": 1,
-            "icon": "/assets/images/Jean_material_112005_1753021472883.png",
+            "icon": "/assets/images/Jean_material_112005_1753588837155.png",
             "description": "破損した骨の仮面、あるヒルチャールの所持品だった。\\n破損した部分のほうが多く、仮面としての機能は失われている。",
             "type": "キャラと武器育成素材"
           },
@@ -4758,7 +4758,7 @@
             "name": "極寒のコア",
             "count": 2,
             "rank": 4,
-            "icon": "/assets/images/Kaeya_material_113010_1753021477823.png",
+            "icon": "/assets/images/Kaeya_material_113010_1753588843876.png",
             "description": "急凍樹を倒した後に現れるコア。\\n今にも大地の深淵のエネルギーと思念が噴出しようとしている。哀悼のように静寂な氷霜もいずれ地上の生物に宿る。たとえ生き物を狩らないはずのツル植物でも、強く凶暴になるであろう。",
             "type": "キャラクター育成素材"
           }
@@ -4793,7 +4793,7 @@
             "name": "石珀",
             "count": 20,
             "rank": 1,
-            "icon": "/assets/images/Zhongli_material_100058_1753021496040.png",
+            "icon": "/assets/images/Zhongli_material_100058_1753588866716.png",
             "description": "純度が極めて高い岩の元素の晶石。よくほかの鉱物と一緒に発見される。「岩の心」とも呼ばれる。",
             "type": "璃月地域の特産"
           },
@@ -4802,7 +4802,7 @@
             "name": "哀切なアイスクリスタル·欠片",
             "count": 6,
             "rank": 3,
-            "icon": "/assets/images/Kamisato Ayaka_material_104162_1753021471480.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104162_1753588834829.png",
             "description": "キャラクターの突破用アイテム。\\n「…すみません…」",
             "type": "キャラクター突破素材"
           },
@@ -4811,7 +4811,7 @@
             "name": "汚れた仮面",
             "count": 12,
             "rank": 2,
-            "icon": "/assets/images/Jean_material_112006_1753021472884.png",
+            "icon": "/assets/images/Jean_material_112006_1753588837103.png",
             "description": "汚れまみれで、何とも言えないにおいがする骨の仮面。\\nそれでも被るのは、ヒルチャールのこだわりだろうか。",
             "type": "キャラと武器育成素材"
           },
@@ -4820,7 +4820,7 @@
             "name": "極寒のコア",
             "count": 4,
             "rank": 4,
-            "icon": "/assets/images/Kaeya_material_113010_1753021477823.png",
+            "icon": "/assets/images/Kaeya_material_113010_1753588843876.png",
             "description": "急凍樹を倒した後に現れるコア。\\n今にも大地の深淵のエネルギーと思念が噴出しようとしている。哀悼のように静寂な氷霜もいずれ地上の生物に宿る。たとえ生き物を狩らないはずのツル植物でも、強く凶暴になるであろう。",
             "type": "キャラクター育成素材"
           }
@@ -4855,7 +4855,7 @@
             "name": "石珀",
             "count": 30,
             "rank": 1,
-            "icon": "/assets/images/Zhongli_material_100058_1753021496040.png",
+            "icon": "/assets/images/Zhongli_material_100058_1753588866716.png",
             "description": "純度が極めて高い岩の元素の晶石。よくほかの鉱物と一緒に発見される。「岩の心」とも呼ばれる。",
             "type": "璃月地域の特産"
           },
@@ -4864,7 +4864,7 @@
             "name": "哀切なアイスクリスタル·塊",
             "count": 3,
             "rank": 4,
-            "icon": "/assets/images/Kamisato Ayaka_material_104163_1753021471472.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104163_1753588834651.png",
             "description": "キャラクターの突破用アイテム。\\n「…すみません…」\\n「あなた達まで、わたしと一緒にこの世界の悲しみを背負わせるなんて…」",
             "type": "キャラクター突破素材"
           },
@@ -4873,7 +4873,7 @@
             "name": "汚れた仮面",
             "count": 18,
             "rank": 2,
-            "icon": "/assets/images/Jean_material_112006_1753021472884.png",
+            "icon": "/assets/images/Jean_material_112006_1753588837103.png",
             "description": "汚れまみれで、何とも言えないにおいがする骨の仮面。\\nそれでも被るのは、ヒルチャールのこだわりだろうか。",
             "type": "キャラと武器育成素材"
           },
@@ -4882,7 +4882,7 @@
             "name": "極寒のコア",
             "count": 8,
             "rank": 4,
-            "icon": "/assets/images/Kaeya_material_113010_1753021477823.png",
+            "icon": "/assets/images/Kaeya_material_113010_1753588843876.png",
             "description": "急凍樹を倒した後に現れるコア。\\n今にも大地の深淵のエネルギーと思念が噴出しようとしている。哀悼のように静寂な氷霜もいずれ地上の生物に宿る。たとえ生き物を狩らないはずのツル植物でも、強く凶暴になるであろう。",
             "type": "キャラクター育成素材"
           }
@@ -4917,7 +4917,7 @@
             "name": "石珀",
             "count": 45,
             "rank": 1,
-            "icon": "/assets/images/Zhongli_material_100058_1753021496040.png",
+            "icon": "/assets/images/Zhongli_material_100058_1753588866716.png",
             "description": "純度が極めて高い岩の元素の晶石。よくほかの鉱物と一緒に発見される。「岩の心」とも呼ばれる。",
             "type": "璃月地域の特産"
           },
@@ -4926,7 +4926,7 @@
             "name": "哀切なアイスクリスタル·塊",
             "count": 6,
             "rank": 4,
-            "icon": "/assets/images/Kamisato Ayaka_material_104163_1753021471472.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104163_1753588834651.png",
             "description": "キャラクターの突破用アイテム。\\n「…すみません…」\\n「あなた達まで、わたしと一緒にこの世界の悲しみを背負わせるなんて…」",
             "type": "キャラクター突破素材"
           },
@@ -4935,7 +4935,7 @@
             "name": "不吉な仮面",
             "count": 12,
             "rank": 3,
-            "icon": "/assets/images/Jean_material_112007_1753021472883.png",
+            "icon": "/assets/images/Jean_material_112007_1753588837178.png",
             "description": "つるりとした骨の仮面の上には、敵を威嚇する絵が描かれている。\\nヒルチャールが仮面に対するこだわりは今でも解明されていない。一説では、水に反射する自分の倒影を見たくないかららしい。",
             "type": "キャラと武器育成素材"
           },
@@ -4944,7 +4944,7 @@
             "name": "極寒のコア",
             "count": 12,
             "rank": 4,
-            "icon": "/assets/images/Kaeya_material_113010_1753021477823.png",
+            "icon": "/assets/images/Kaeya_material_113010_1753588843876.png",
             "description": "急凍樹を倒した後に現れるコア。\\n今にも大地の深淵のエネルギーと思念が噴出しようとしている。哀悼のように静寂な氷霜もいずれ地上の生物に宿る。たとえ生き物を狩らないはずのツル植物でも、強く凶暴になるであろう。",
             "type": "キャラクター育成素材"
           }
@@ -4979,7 +4979,7 @@
             "name": "石珀",
             "count": 60,
             "rank": 1,
-            "icon": "/assets/images/Zhongli_material_100058_1753021496040.png",
+            "icon": "/assets/images/Zhongli_material_100058_1753588866716.png",
             "description": "純度が極めて高い岩の元素の晶石。よくほかの鉱物と一緒に発見される。「岩の心」とも呼ばれる。",
             "type": "璃月地域の特産"
           },
@@ -4988,7 +4988,7 @@
             "name": "哀切なアイスクリスタル",
             "count": 6,
             "rank": 5,
-            "icon": "/assets/images/Kamisato Ayaka_material_104164_1753021471465.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104164_1753588834705.png",
             "description": "キャラクターの突破用アイテム。\\n「…すみません、あなた達まで、わたしと一緒にこの世界の悲しみを背負わせるなんて…」\\n「わたしの寒さを耐えられる者は、きっと心の中に熱い欲望を持っているだろう？」\\n「なら、わたしの代わりに、旧世界を焼き尽くそう。」",
             "type": "キャラクター突破素材"
           },
@@ -4997,7 +4997,7 @@
             "name": "不吉な仮面",
             "count": 24,
             "rank": 3,
-            "icon": "/assets/images/Jean_material_112007_1753021472883.png",
+            "icon": "/assets/images/Jean_material_112007_1753588837178.png",
             "description": "つるりとした骨の仮面の上には、敵を威嚇する絵が描かれている。\\nヒルチャールが仮面に対するこだわりは今でも解明されていない。一説では、水に反射する自分の倒影を見たくないかららしい。",
             "type": "キャラと武器育成素材"
           },
@@ -5006,7 +5006,7 @@
             "name": "極寒のコア",
             "count": 20,
             "rank": 4,
-            "icon": "/assets/images/Kaeya_material_113010_1753021477823.png",
+            "icon": "/assets/images/Kaeya_material_113010_1753588843876.png",
             "description": "急凍樹を倒した後に現れるコア。\\n今にも大地の深淵のエネルギーと思念が噴出しようとしている。哀悼のように静寂な氷霜もいずれ地上の生物に宿る。たとえ生き物を狩らないはずのツル植物でも、強く凶暴になるであろう。",
             "type": "キャラクター育成素材"
           }
