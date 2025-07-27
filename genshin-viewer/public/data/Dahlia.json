@@ -8,7 +8,7 @@
   "region": "Mondstadt",
   "constellation": "礼賛歌座",
   "description": "西風教会の助祭にして、教会における風神の代理人。",
-  "icon": "/assets/images/Dahlia_icon_1753021646643.png",
+  "icon": "/assets/images/Dahlia_icon_1753589032214.png",
   "profile": {
     "baseHp": 1048.56,
     "baseAtk": 15.849,
@@ -23,7 +23,7 @@
       "id": "西風剣術・祭儀",
       "name": "西風剣術・祭儀",
       "description": "",
-      "icon": "/assets/images/Kamisato Ayaka_normal_attack_1753021471401.png",
+      "icon": "/assets/images/Kamisato Ayaka_normal_attack_1753588834273.png",
       "skillType": "normal",
       "params": {
         "1": [],
@@ -47,7 +47,7 @@
       "id": "受洗の礼典",
       "name": "受洗の礼典",
       "description": "",
-      "icon": "/assets/images/Dahlia_elemental_skill_1753021646644.png",
+      "icon": "/assets/images/Dahlia_elemental_skill_1753589032214.png",
       "levelData": [
         {
           "tableIndex": 1,
@@ -1136,21 +1136,21 @@
     "elementalBurst": {
       "name": "優しき風の寵愛",
       "description": "",
-      "icon": "/assets/images/Dahlia_elemental_burst_1753021646644.png",
+      "icon": "/assets/images/Dahlia_elemental_burst_1753589032214.png",
       "levelData": []
     },
     "passiveTalents": [
       {
         "name": "優しき風の寵愛",
-        "icon": "/assets/images/Dahlia_passive_1_1753021646644.png"
+        "icon": "/assets/images/Dahlia_passive_1_1753589032214.png"
       },
       {
         "name": "遊び心に満ちた祈り",
-        "icon": "/assets/images/Dahlia_passive_2_1753021646644.png"
+        "icon": "/assets/images/Dahlia_passive_2_1753589032214.png"
       },
       {
         "name": "帰風の巡礼",
-        "icon": "/assets/images/Dehya_passive_3_1753021581455.png"
+        "icon": "/assets/images/Dehya_passive_3_1753588962067.png"
       }
     ],
     "completeTableData": [
@@ -4317,32 +4317,32 @@
       {
         "level": null,
         "name": "無瑕の導き",
-        "icon": "/assets/images/Dahlia_constellation_cNaN_1753021646644.png"
+        "icon": "/assets/images/Dahlia_constellation_cNaN_1753589032215.png"
       },
       {
         "level": null,
         "name": "慈愛の啓示",
-        "icon": "/assets/images/Dahlia_constellation_cNaN_1753021646644.png"
+        "icon": "/assets/images/Dahlia_constellation_cNaN_1753589032215.png"
       },
       {
         "level": null,
         "name": "風花の奉納",
-        "icon": "/assets/images/Dahlia_constellation_cNaN_1753021646644.png"
+        "icon": "/assets/images/Dahlia_constellation_cNaN_1753589032215.png"
       },
       {
         "level": null,
         "name": "人々の祈り",
-        "icon": "/assets/images/Dahlia_constellation_cNaN_1753021646644.png"
+        "icon": "/assets/images/Dahlia_constellation_cNaN_1753589032215.png"
       },
       {
         "level": null,
         "name": "狡知の完成",
-        "icon": "/assets/images/Dahlia_constellation_cNaN_1753021646644.png"
+        "icon": "/assets/images/Dahlia_constellation_cNaN_1753589032215.png"
       },
       {
         "level": null,
         "name": "あらゆる喜びが 君とあらんことを",
-        "icon": "/assets/images/Dahlia_constellation_cNaN_1753021646644.png"
+        "icon": "/assets/images/Dahlia_constellation_cNaN_1753589032215.png"
       }
     ]
   },
@@ -4359,14 +4359,14 @@
     "id": 210245,
     "name": "ダリア・天職",
     "description": "ダリア・天職",
-    "icon": "/assets/images/Dahlia_namecard_1753021646834.png"
+    "icon": "/assets/images/Dahlia_namecard_1753589032583.png"
   },
   "specialFood": {
     "id": 108839,
     "name": "「夜の歓談」",
     "rank": 3,
-    "icon": "/assets/images/Dahlia_special_food_1753021646645.png",
-    "effectIcon": "/assets/images/Jean_food_effect_1753021472869.png"
+    "icon": "/assets/images/Dahlia_special_food_1753589032215.png",
+    "effectIcon": "/assets/images/Jean_food_effect_1753588836759.png"
   },
   "levelProgression": [
     {
@@ -4682,7 +4682,7 @@
             "name": "ドドリアン",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Kaeya_material_100056_1753021477820.png",
+            "icon": "/assets/images/Kaeya_material_100056_1753588843753.png",
             "description": "水辺に育つ花。花びらを料理すると、爽やかな口当たりで、ほろ苦い。",
             "type": "モンド地域の特産"
           },
@@ -4691,7 +4691,7 @@
             "name": "澄明なラピスラズリ·砕屑",
             "count": 1,
             "rank": 2,
-            "icon": "/assets/images/Barbara_material_104121_1753021476197.png",
+            "icon": "/assets/images/Barbara_material_104121_1753588841349.png",
             "description": "キャラクターの突破用アイテム。",
             "type": "キャラクター突破素材"
           },
@@ -4700,7 +4700,7 @@
             "name": "牢固な矢先",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Amber_material_112011_1753021482422.png",
+            "icon": "/assets/images/Amber_material_112011_1753588849717.png",
             "description": "粗末な矢先。それでもその威力はなめてはいけない。弓弩は危険な武器である。たとえ騎士のような人でも後ろからの矢に撃たれる可能性があるから。",
             "type": "キャラと武器育成素材"
           }
@@ -4731,7 +4731,7 @@
             "name": "ドドリアン",
             "count": 10,
             "rank": 1,
-            "icon": "/assets/images/Kaeya_material_100056_1753021477820.png",
+            "icon": "/assets/images/Kaeya_material_100056_1753588843753.png",
             "description": "水辺に育つ花。花びらを料理すると、爽やかな口当たりで、ほろ苦い。",
             "type": "モンド地域の特産"
           },
@@ -4740,7 +4740,7 @@
             "name": "澄明なラピスラズリ·欠片",
             "count": 3,
             "rank": 3,
-            "icon": "/assets/images/Barbara_material_104122_1753021476194.png",
+            "icon": "/assets/images/Barbara_material_104122_1753588841481.png",
             "description": "キャラクターの突破用アイテム。\\n「僕の理想には一片の穢れも無い。」",
             "type": "キャラクター突破素材"
           },
@@ -4749,7 +4749,7 @@
             "name": "牢固な矢先",
             "count": 15,
             "rank": 1,
-            "icon": "/assets/images/Amber_material_112011_1753021482422.png",
+            "icon": "/assets/images/Amber_material_112011_1753588849717.png",
             "description": "粗末な矢先。それでもその威力はなめてはいけない。弓弩は危険な武器である。たとえ騎士のような人でも後ろからの矢に撃たれる可能性があるから。",
             "type": "キャラと武器育成素材"
           },
@@ -4758,7 +4758,7 @@
             "name": "秘源の蓄圧機",
             "count": 2,
             "rank": 4,
-            "icon": "/assets/images/Escoffier_material_113076_1753021641465.png",
+            "icon": "/assets/images/Escoffier_material_113076_1753589026866.png",
             "description": "活動を停止した龍の頭部のような秘源機兵から取り外された特殊な構造体。\\nどうやらこの元々は、様々な物体を星の束縛から解放するために設計されたものらしく、試験的に各種秘源装置に導入されたようだ。もし全てがうまくいっていれば、この技術はもっと重要なものに応用されていたのかもしれない…",
             "type": "キャラクター育成素材"
           }
@@ -4793,7 +4793,7 @@
             "name": "ドドリアン",
             "count": 20,
             "rank": 1,
-            "icon": "/assets/images/Kaeya_material_100056_1753021477820.png",
+            "icon": "/assets/images/Kaeya_material_100056_1753588843753.png",
             "description": "水辺に育つ花。花びらを料理すると、爽やかな口当たりで、ほろ苦い。",
             "type": "モンド地域の特産"
           },
@@ -4802,7 +4802,7 @@
             "name": "澄明なラピスラズリ·欠片",
             "count": 6,
             "rank": 3,
-            "icon": "/assets/images/Barbara_material_104122_1753021476194.png",
+            "icon": "/assets/images/Barbara_material_104122_1753588841481.png",
             "description": "キャラクターの突破用アイテム。\\n「僕の理想には一片の穢れも無い。」",
             "type": "キャラクター突破素材"
           },
@@ -4811,7 +4811,7 @@
             "name": "鋭利な矢先",
             "count": 12,
             "rank": 2,
-            "icon": "/assets/images/Amber_material_112012_1753021482420.png",
+            "icon": "/assets/images/Amber_material_112012_1753588849690.png",
             "description": "精良に作られた矢先。鋭利な先端は石を水に投げるように簡単に敵の鎧を貫くことができる。",
             "type": "キャラと武器育成素材"
           },
@@ -4820,7 +4820,7 @@
             "name": "秘源の蓄圧機",
             "count": 4,
             "rank": 4,
-            "icon": "/assets/images/Escoffier_material_113076_1753021641465.png",
+            "icon": "/assets/images/Escoffier_material_113076_1753589026866.png",
             "description": "活動を停止した龍の頭部のような秘源機兵から取り外された特殊な構造体。\\nどうやらこの元々は、様々な物体を星の束縛から解放するために設計されたものらしく、試験的に各種秘源装置に導入されたようだ。もし全てがうまくいっていれば、この技術はもっと重要なものに応用されていたのかもしれない…",
             "type": "キャラクター育成素材"
           }
@@ -4855,7 +4855,7 @@
             "name": "ドドリアン",
             "count": 30,
             "rank": 1,
-            "icon": "/assets/images/Kaeya_material_100056_1753021477820.png",
+            "icon": "/assets/images/Kaeya_material_100056_1753588843753.png",
             "description": "水辺に育つ花。花びらを料理すると、爽やかな口当たりで、ほろ苦い。",
             "type": "モンド地域の特産"
           },
@@ -4864,7 +4864,7 @@
             "name": "澄明なラピスラズリ·塊",
             "count": 3,
             "rank": 4,
-            "icon": "/assets/images/Barbara_material_104123_1753021476197.png",
+            "icon": "/assets/images/Barbara_material_104123_1753588841660.png",
             "description": "キャラクターの突破用アイテム。\\n「僕の理想には一片の穢れも無い。」\\n「訂正させてもらおう。ここでは、人が神の裁きを受けることはない…」",
             "type": "キャラクター突破素材"
           },
@@ -4873,7 +4873,7 @@
             "name": "鋭利な矢先",
             "count": 18,
             "rank": 2,
-            "icon": "/assets/images/Amber_material_112012_1753021482420.png",
+            "icon": "/assets/images/Amber_material_112012_1753588849690.png",
             "description": "精良に作られた矢先。鋭利な先端は石を水に投げるように簡単に敵の鎧を貫くことができる。",
             "type": "キャラと武器育成素材"
           },
@@ -4882,7 +4882,7 @@
             "name": "秘源の蓄圧機",
             "count": 8,
             "rank": 4,
-            "icon": "/assets/images/Escoffier_material_113076_1753021641465.png",
+            "icon": "/assets/images/Escoffier_material_113076_1753589026866.png",
             "description": "活動を停止した龍の頭部のような秘源機兵から取り外された特殊な構造体。\\nどうやらこの元々は、様々な物体を星の束縛から解放するために設計されたものらしく、試験的に各種秘源装置に導入されたようだ。もし全てがうまくいっていれば、この技術はもっと重要なものに応用されていたのかもしれない…",
             "type": "キャラクター育成素材"
           }
@@ -4917,7 +4917,7 @@
             "name": "ドドリアン",
             "count": 45,
             "rank": 1,
-            "icon": "/assets/images/Kaeya_material_100056_1753021477820.png",
+            "icon": "/assets/images/Kaeya_material_100056_1753588843753.png",
             "description": "水辺に育つ花。花びらを料理すると、爽やかな口当たりで、ほろ苦い。",
             "type": "モンド地域の特産"
           },
@@ -4926,7 +4926,7 @@
             "name": "澄明なラピスラズリ·塊",
             "count": 6,
             "rank": 4,
-            "icon": "/assets/images/Barbara_material_104123_1753021476197.png",
+            "icon": "/assets/images/Barbara_material_104123_1753588841660.png",
             "description": "キャラクターの突破用アイテム。\\n「僕の理想には一片の穢れも無い。」\\n「訂正させてもらおう。ここでは、人が神の裁きを受けることはない…」",
             "type": "キャラクター突破素材"
           },
@@ -4935,7 +4935,7 @@
             "name": "歴戦の矢先",
             "count": 12,
             "rank": 3,
-            "icon": "/assets/images/Amber_material_112013_1753021482417.png",
+            "icon": "/assets/images/Amber_material_112013_1753588849961.png",
             "description": "古く、乾いた血がたくさんついた矢先。何度も使用されたため、その鋭さは失われ、武器としては使えなくなったが、狩人の誇りの象徴としてお守りや表彰として使用されている。",
             "type": "キャラと武器育成素材"
           },
@@ -4944,7 +4944,7 @@
             "name": "秘源の蓄圧機",
             "count": 12,
             "rank": 4,
-            "icon": "/assets/images/Escoffier_material_113076_1753021641465.png",
+            "icon": "/assets/images/Escoffier_material_113076_1753589026866.png",
             "description": "活動を停止した龍の頭部のような秘源機兵から取り外された特殊な構造体。\\nどうやらこの元々は、様々な物体を星の束縛から解放するために設計されたものらしく、試験的に各種秘源装置に導入されたようだ。もし全てがうまくいっていれば、この技術はもっと重要なものに応用されていたのかもしれない…",
             "type": "キャラクター育成素材"
           }
@@ -4979,7 +4979,7 @@
             "name": "ドドリアン",
             "count": 60,
             "rank": 1,
-            "icon": "/assets/images/Kaeya_material_100056_1753021477820.png",
+            "icon": "/assets/images/Kaeya_material_100056_1753588843753.png",
             "description": "水辺に育つ花。花びらを料理すると、爽やかな口当たりで、ほろ苦い。",
             "type": "モンド地域の特産"
           },
@@ -4988,7 +4988,7 @@
             "name": "澄明なラピスラズリ",
             "count": 6,
             "rank": 5,
-            "icon": "/assets/images/Barbara_material_104124_1753021476193.png",
+            "icon": "/assets/images/Barbara_material_104124_1753588841613.png",
             "description": "キャラクターの突破用アイテム。\\n「僕の理想には一片の穢れも無い。」\\n「訂正させてもらおう。ここでは、人が神の裁きを受けることはない。裁きを下せるのは、ただ法と法廷のみ。」\\n「この僕でさえ、断罪され得るのだからね。さあ、僕の崇高と純潔を讃えてくれたまえ。」",
             "type": "キャラクター突破素材"
           },
@@ -4997,7 +4997,7 @@
             "name": "歴戦の矢先",
             "count": 24,
             "rank": 3,
-            "icon": "/assets/images/Amber_material_112013_1753021482417.png",
+            "icon": "/assets/images/Amber_material_112013_1753588849961.png",
             "description": "古く、乾いた血がたくさんついた矢先。何度も使用されたため、その鋭さは失われ、武器としては使えなくなったが、狩人の誇りの象徴としてお守りや表彰として使用されている。",
             "type": "キャラと武器育成素材"
           },
@@ -5006,7 +5006,7 @@
             "name": "秘源の蓄圧機",
             "count": 20,
             "rank": 4,
-            "icon": "/assets/images/Escoffier_material_113076_1753021641465.png",
+            "icon": "/assets/images/Escoffier_material_113076_1753589026866.png",
             "description": "活動を停止した龍の頭部のような秘源機兵から取り外された特殊な構造体。\\nどうやらこの元々は、様々な物体を星の束縛から解放するために設計されたものらしく、試験的に各種秘源装置に導入されたようだ。もし全てがうまくいっていれば、この技術はもっと重要なものに応用されていたのかもしれない…",
             "type": "キャラクター育成素材"
           }
