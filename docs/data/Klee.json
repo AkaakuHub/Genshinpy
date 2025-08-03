@@ -8,9 +8,9 @@
   "region": "Mondstadt",
   "constellation": "四つ葉座",
   "description": "西風騎士団反省室の常連で、モンドの爆破スペシャリスト。人呼んで「逃げ回る太陽」。",
-  "icon": "/assets/images/Klee_icon_1753588864410.png",
+  "icon": "/assets/images/Klee_icon_1754193876138.png",
   "profile": {
-    "baseHp": 800.789,
+    "baseHp": 800.7888,
     "baseAtk": 24.206,
     "baseDef": 47.864,
     "bonusStat": {
@@ -23,7 +23,7 @@
       "id": "バンバン",
       "name": "バンバン",
       "description": "",
-      "icon": "/assets/images/Lisa_normal_attack_1753588838984.png",
+      "icon": "/assets/images/Lisa_normal_attack_1754193854966.png",
       "skillType": "normal",
       "params": {
         "1": [],
@@ -47,7 +47,7 @@
       "id": "ボンボン爆弾",
       "name": "ボンボン爆弾",
       "description": "",
-      "icon": "/assets/images/Klee_elemental_skill_1753588864410.png",
+      "icon": "/assets/images/Klee_elemental_skill_1754193876138.png",
       "levelData": [
         {
           "tableIndex": 1,
@@ -78,7 +78,7 @@
           ],
           "description": [
             "ボンボン爆弾ダメージ|{param1:F1P}",
-            "ブービートラップダメージ|{param4:F1P}",
+            "ブービートラッ���ダメージ|{param4:F1P}",
             "ブービートラップ継続時間|{param5:F1}秒",
             "クールタイム|{param6:F1}秒",
             "",
@@ -589,7 +589,7 @@
             "ボンボン爆弾ダメージ|{param1:P}",
             "ブービートラップダメージ|{param4:F1P}",
             "ブービートラップ継続時間|{param5:F1}秒",
-            "クール��イム|{param6:F1}秒",
+            "クールタイム|{param6:F1}秒",
             "",
             "",
             "",
@@ -1136,21 +1136,21 @@
     "elementalBurst": {
       "name": "こんこんプレゼント",
       "description": "",
-      "icon": "/assets/images/Klee_elemental_burst_1753588864410.png",
+      "icon": "/assets/images/Klee_elemental_burst_1754193876139.png",
       "levelData": []
     },
     "passiveTalents": [
       {
         "name": "こんこんプレゼント",
-        "icon": "/assets/images/Klee_passive_1_1753588864411.png"
+        "icon": "/assets/images/Klee_passive_1_1754193876139.png"
       },
       {
         "name": "無限花火",
-        "icon": "/assets/images/Klee_passive_2_1753588864411.png"
+        "icon": "/assets/images/Klee_passive_2_1754193876139.png"
       },
       {
         "name": "宝物揃い",
-        "icon": "/assets/images/Klee_passive_3_1753588864411.png"
+        "icon": "/assets/images/Klee_passive_3_1754193876139.png"
       }
     ],
     "completeTableData": [
@@ -1186,7 +1186,7 @@
             ],
             "description": [
               "1段ダメージ|{param1:F1P}",
-              "2段ダメージ|{param2:F1P}",
+              "2���ダメージ|{param2:F1P}",
               "3段ダメージ|{param3:F1P}",
               "重撃ダメージ|{param4:P}",
               "重撃スタミナ消費|{param5:F1}",
@@ -2231,7 +2231,7 @@
             ],
             "description": [
               "ボンボン爆弾ダメージ|{param1:F1P}",
-              "ブービートラップダメージ|{param4:F1P}",
+              "ブービートラッ���ダメージ|{param4:F1P}",
               "ブービートラップ継続時間|{param5:F1}秒",
               "クールタイム|{param6:F1}秒",
               "",
@@ -2721,7 +2721,7 @@
               "ボンボン爆弾ダメージ|{param1:P}",
               "ブービートラップダメージ|{param4:F1P}",
               "ブービートラップ継続時間|{param5:F1}秒",
-              "クール��イム|{param6:F1}秒",
+              "クールタイム|{param6:F1}秒",
               "",
               "",
               "",
@@ -4317,32 +4317,32 @@
       {
         "level": null,
         "name": "ゴロゴロコンボ",
-        "icon": "/assets/images/Klee_constellation_cNaN_1753588864411.png"
+        "icon": "/assets/images/Klee_constellation_cNaN_1754193876139.png"
       },
       {
         "level": null,
         "name": "弾丸の破片",
-        "icon": "/assets/images/Klee_constellation_cNaN_1753588864411.png"
+        "icon": "/assets/images/Klee_constellation_cNaN_1754193876140.png"
       },
       {
         "level": null,
         "name": "クレー特製",
-        "icon": "/assets/images/Klee_constellation_cNaN_1753588864411.png"
+        "icon": "/assets/images/Klee_constellation_cNaN_1754193876140.png"
       },
       {
         "level": null,
         "name": "一触即発",
-        "icon": "/assets/images/Klee_constellation_cNaN_1753588864411.png"
+        "icon": "/assets/images/Klee_constellation_cNaN_1754193876140.png"
       },
       {
         "level": null,
         "name": "轟撃の星",
-        "icon": "/assets/images/Klee_constellation_cNaN_1753588864411.png"
+        "icon": "/assets/images/Klee_constellation_cNaN_1754193876140.png"
       },
       {
         "level": null,
         "name": "火力全開",
-        "icon": "/assets/images/Klee_constellation_cNaN_1753588864411.png"
+        "icon": "/assets/images/Klee_constellation_cNaN_1754193876140.png"
       }
     ]
   },
@@ -4360,118 +4360,118 @@
       "isDefault": false,
       "rank": 4,
       "storyId": 340012,
-      "icon": "/assets/images/Klee_costume_2_1753588864411.png"
+      "icon": "/assets/images/Klee_costume_2_1754193876140.png"
     }
   ],
   "nameCard": {
     "id": 210004,
     "name": "クレー·爆弾",
     "description": "クレー·爆弾",
-    "icon": "/assets/images/Klee_icon_1753588864410.png"
+    "icon": "/assets/images/Klee_icon_1754193876138.png"
   },
   "specialFood": {
     "id": 108115,
     "name": "魚香トースト",
     "rank": 2,
-    "icon": "/assets/images/Klee_special_food_1753588864411.png",
-    "effectIcon": "/assets/images/Klee_food_effect_1753588864411.png"
+    "icon": "/assets/images/Klee_special_food_1754193876140.png",
+    "effectIcon": "/assets/images/Klee_food_effect_1754193876140.png"
   },
   "levelProgression": [
     {
       "statType": "FIGHT_PROP_BASE_HP",
       "values": [
-        800.789,
-        817.0739628043037,
-        833.6900990057662,
-        850.6441433952684,
-        867.9429677233882,
-        885.5935834856331,
-        903.6031447643138,
-        921.9789511282106,
-        940.7284505912077,
-        959.8592426310933,
-        979.3790812697539,
-        999.2958782160044,
-        1019.617706072333,
-        1040.3528016068587,
-        1061.5095690918276,
-        1083.0965837100016,
-        1105.122595030319,
-        1127.5965305542388,
-        1150.5274993342016,
-        1173.9247956656773,
-        1197.797902854294,
-        1222.156497059578,
-        1247.0104512168568,
-        1272.369839038923,
-        1298.2449390990716,
-        1324.6462389971773,
-        1351.5844396104842,
-        1379.070459430852,
-        1407.115438990193,
-        1435.730745375916,
-        1464.927976838189,
-        1494.7189674908998,
-        1525.1157921082165,
-        1556.130771018689,
-        1587.7764750988795,
-        1620.0657308685436,
-        1653.011625689428,
-        1686.6275130697913,
-        1720.9270180767992,
-        1755.9240428589849,
-        1791.6327722810188,
-        1828.0676796730634,
-        1865.24353269705,
-        1903.1753993322554,
-        1941.8786539825956,
-        1981.368983708126,
-        2021.6623945832603,
-        2062.7752181842934,
-        2104.724118208857,
-        2147.526097229988,
-        2191.198503587545,
-        2235.759038419777,
-        2281.2257628378848,
-        2327.6171052464774,
-        2374.9518688129097,
-        2423.2492390885122,
-        2472.5287917848073,
-        2522.810500707864,
-        2574.114745854006,
-        2626.46232167016,
-        2679.87444548218,
-        2734.372766094577,
-        2789.9793725651343,
-        2846.7168031579586,
-        2904.6080544786114,
-        2963.6765907950003,
-        3023.946353547838,
-        3085.4417710544913,
-        3148.1877684101833,
-        3212.2097775905336,
-        3277.5337477595576,
-        3344.186155787283,
-        3412.194016981259,
-        3481.5848960363005,
-        3552.3869182069056,
-        3624.6287807068825,
-        3698.339764340799,
-        3773.5497453719654,
-        3850.2892076317767,
-        3928.5892548753004,
-        4008.481623388144,
-        4089.9986948496794,
-        4173.173509457868,
-        4258.039779320999,
-        4344.631902121746,
-        4432.984975059117,
-        4523.134809073912,
-        4615.117943363493,
-        4708.971660191708,
-        4804.734
+        800.7888,
+        817.0737587370744,
+        833.6898907885957,
+        850.6439309437629,
+        867.9427509514376,
+        885.5933623053763,
+        903.6029190861028,
+        921.9787208605744,
+        940.7282156408149,
+        959.8590029027148,
+        979.3788366662238,
+        999.295628638181,
+        1019.6174514190584,
+        1040.3525417749177,
+        1061.509303975906,
+        1083.0963132026436,
+        1105.1223190218836,
+        1127.5962489328554,
+        1150.5272119857243,
+        1173.924502473639,
+        1197.7976036998596,
+        1222.1561918214948,
+        1247.0101397714072,
+        1272.3695212598727,
+        1298.24461485762,
+        1324.645908161904,
+        1351.5841020472963,
+        1379.0701150029292,
+        1407.1150875579335,
+        1435.7303867968785,
+        1464.9276109670352,
+        1494.7185941793366,
+        1525.1154112049344,
+        1556.130382369302,
+        1587.7760785458613,
+        1620.0653262511648,
+        1653.0112128436908,
+        1686.6270918283624,
+        1720.9265882689429,
+        1755.923604310493,
+        1791.63232481414,
+        1828.0672231064323,
+        1865.243066845613,
+        1903.174924007195,
+        1941.8781689912548,
+        1981.36848885393,
+        2021.6618896656366,
+        2062.774702998591,
+        2104.7235925462624,
+        2147.5255608774414,
+        2191.197956327654,
+        2235.758480030729,
+        2281.225193093355,
+        2327.616523915539,
+        2374.9512756599397,
+        2423.2486338730964,
+        2472.5281742616417,
+        2522.8098706266564,
+        2574.1141029593746,
+        2626.461665701529,
+        2679.8737761736743,
+        2734.372083174915,
+        2789.978675757518,
+        2846.71609217996,
+        2904.6073290420595,
+        2963.6758506058645,
+        3023.945598306107,
+        3085.4410004540537,
+        3148.1869821387018,
+        3212.2089753293194,
+        3277.532929183442,
+        3344.1853205644825,
+        3412.1931647732454,
+        3481.584026497659,
+        3552.3860309851984,
+        3624.627875442505,
+        3698.3388406668314,
+        3773.5488029140283,
+        3850.2882460078763,
+        3928.5882736956755,
+        4008.4806222551056,
+        4089.9976733574526,
+        4173.172467192426,
+        4258.038715859892,
+        4344.630817033939,
+        4432.983867904803,
+        4523.133679404347,
+        4615.116790720802,
+        4708.970484108705,
+        4804.7328
       ],
-      "initValue": 800.789,
+      "initValue": 800.7888,
       "growthType": "GROW_CURVE_HP_S5"
     },
     {
@@ -4690,7 +4690,7 @@
             "name": "慕風のマッシュルーム",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Barbara_material_100025_1753588841536.png",
+            "icon": "/assets/images/Barbara_material_100025_1754193857188.png",
             "description": "爽やかな風を浴びて育ったマッシュルーム、風のように果てしなく命を育む。",
             "type": "モンド地域の特産"
           },
@@ -4699,7 +4699,7 @@
             "name": "炎願のアゲート·砕屑",
             "count": 1,
             "rank": 2,
-            "icon": "/assets/images/Diluc_material_104111_1753588845847.png",
+            "icon": "/assets/images/Diluc_material_104111_1754193860732.png",
             "description": "キャラクターの突破用アイテム。",
             "type": "キャラクター突破素材"
           },
@@ -4708,7 +4708,7 @@
             "name": "占いの絵巻",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Barbara_material_112008_1753588841583.png",
+            "icon": "/assets/images/Barbara_material_112008_1754193857089.png",
             "description": "ある、魔法に関する絵巻の断片だと考えられる。異様で不吉な暖かさがある。",
             "type": "キャラと武器育成素材"
           }
@@ -4724,7 +4724,7 @@
           },
           {
             "statType": "FIGHT_PROP_BASE_ATTACK",
-            "value": 20.753
+            "value": 20.75294
           }
         ]
       },
@@ -4739,7 +4739,7 @@
             "name": "慕風のマッシュルーム",
             "count": 10,
             "rank": 1,
-            "icon": "/assets/images/Barbara_material_100025_1753588841536.png",
+            "icon": "/assets/images/Barbara_material_100025_1754193857188.png",
             "description": "爽やかな風を浴びて育ったマッシュルーム、風のように果てしなく命を育む。",
             "type": "モンド地域の特産"
           },
@@ -4748,7 +4748,7 @@
             "name": "炎願のアゲート·欠片",
             "count": 3,
             "rank": 3,
-            "icon": "/assets/images/Diluc_material_104112_1753588845750.png",
+            "icon": "/assets/images/Diluc_material_104112_1754193860760.png",
             "description": "キャラクターの突破用アイテム。\\n「人々の願いのため、巡礼の道を歩もう。最強を目指して集い、戦うのだ…」",
             "type": "キャラクター突破素材"
           },
@@ -4757,7 +4757,7 @@
             "name": "占いの絵巻",
             "count": 15,
             "rank": 1,
-            "icon": "/assets/images/Barbara_material_112008_1753588841583.png",
+            "icon": "/assets/images/Barbara_material_112008_1754193857089.png",
             "description": "ある、魔法に関する絵巻の断片だと考えられる。異様で不吉な暖かさがある。",
             "type": "キャラと武器育成素材"
           },
@@ -4766,7 +4766,7 @@
             "name": "常燃の火種",
             "count": 2,
             "rank": 4,
-            "icon": "/assets/images/Diluc_material_113011_1753588845689.png",
+            "icon": "/assets/images/Diluc_material_113011_1754193860783.png",
             "description": "永遠に燃え続ける爆炎樹のエネルギー源である種。世の中にある全ての草木を焼き尽くすような炎元素の熱量を放っている。\\n大地の深所で湧いているエネルギーは無数の願いを背負っている。烈火と共に植物に纏って永遠に燃えさせて、そして爆裂の炎で全てを浄化させようとしている。いったいどんな願いかな？",
             "type": "キャラクター育成素材"
           }
@@ -4774,7 +4774,7 @@
         "statBonus": [
           {
             "statType": "FIGHT_PROP_BASE_HP",
-            "value": 1174.454
+            "value": 1174.4542
           },
           {
             "statType": "FIGHT_PROP_BASE_DEFENSE",
@@ -4782,7 +4782,7 @@
           },
           {
             "statType": "FIGHT_PROP_BASE_ATTACK",
-            "value": 35.498
+            "value": 35.49845
           },
           {
             "statType": "FIGHT_PROP_FIRE_ADD_HURT",
@@ -4801,7 +4801,7 @@
             "name": "慕風のマッシュルーム",
             "count": 20,
             "rank": 1,
-            "icon": "/assets/images/Barbara_material_100025_1753588841536.png",
+            "icon": "/assets/images/Barbara_material_100025_1754193857188.png",
             "description": "爽やかな風を浴びて育ったマッシュルーム、風のように果てしなく命を育む。",
             "type": "モンド地域の特産"
           },
@@ -4810,7 +4810,7 @@
             "name": "炎願のアゲート·欠片",
             "count": 6,
             "rank": 3,
-            "icon": "/assets/images/Diluc_material_104112_1753588845750.png",
+            "icon": "/assets/images/Diluc_material_104112_1754193860760.png",
             "description": "キャラクターの突破用アイテム。\\n「人々の願いのため、巡礼の道を歩もう。最強を目指して集い、戦うのだ…」",
             "type": "キャラクター突破素材"
           },
@@ -4819,7 +4819,7 @@
             "name": "封魔の絵巻",
             "count": 12,
             "rank": 2,
-            "icon": "/assets/images/Barbara_material_112009_1753588841561.png",
+            "icon": "/assets/images/Barbara_material_112009_1754193857140.png",
             "description": "解読が難しい絵がある古書の断章。中の人物を真似することで、魔物も魔法を再現できるようになる。",
             "type": "キャラと武器育成素材"
           },
@@ -4828,7 +4828,7 @@
             "name": "常燃の火種",
             "count": 4,
             "rank": 4,
-            "icon": "/assets/images/Diluc_material_113011_1753588845689.png",
+            "icon": "/assets/images/Diluc_material_113011_1754193860783.png",
             "description": "永遠に燃え続ける爆炎樹のエネルギー源である種。世の中にある全ての草木を焼き尽くすような炎元素の熱量を放っている。\\n大地の深所で湧いているエネルギーは無数の願いを背負っている。烈火と共に植物に纏って永遠に燃えさせて、そして爆裂の炎で全てを浄化させようとしている。いったいどんな願いかな？",
             "type": "キャラクター育成素材"
           }
@@ -4836,7 +4836,7 @@
         "statBonus": [
           {
             "statType": "FIGHT_PROP_BASE_HP",
-            "value": 1824.921
+            "value": 1824.9211
           },
           {
             "statType": "FIGHT_PROP_BASE_DEFENSE",
@@ -4844,7 +4844,7 @@
           },
           {
             "statType": "FIGHT_PROP_BASE_ATTACK",
-            "value": 55.159
+            "value": 55.15913
           },
           {
             "statType": "FIGHT_PROP_FIRE_ADD_HURT",
@@ -4863,7 +4863,7 @@
             "name": "慕風のマッシュルーム",
             "count": 30,
             "rank": 1,
-            "icon": "/assets/images/Barbara_material_100025_1753588841536.png",
+            "icon": "/assets/images/Barbara_material_100025_1754193857188.png",
             "description": "爽やかな風を浴びて育ったマッシュルーム、風のように果てしなく命を育む。",
             "type": "モンド地域の特産"
           },
@@ -4872,7 +4872,7 @@
             "name": "炎願のアゲート·塊",
             "count": 3,
             "rank": 4,
-            "icon": "/assets/images/Diluc_material_104113_1753588845961.png",
+            "icon": "/assets/images/Diluc_material_104113_1754193860669.png",
             "description": "キャラクターの突破用アイテム。\\n「人々の願いのため、巡礼の道を歩もう。最強を目指して集い、戦うのだ…」\\n「最後は夢のために、劫火の中で燃え尽きる。」",
             "type": "キャラクター突破素材"
           },
@@ -4881,7 +4881,7 @@
             "name": "封魔の絵巻",
             "count": 18,
             "rank": 2,
-            "icon": "/assets/images/Barbara_material_112009_1753588841561.png",
+            "icon": "/assets/images/Barbara_material_112009_1754193857140.png",
             "description": "解読が難しい絵がある古書の断章。中の人物を真似することで、魔物も魔法を再現できるようになる。",
             "type": "キャラと武器育成素材"
           },
@@ -4890,7 +4890,7 @@
             "name": "常燃の火種",
             "count": 8,
             "rank": 4,
-            "icon": "/assets/images/Diluc_material_113011_1753588845689.png",
+            "icon": "/assets/images/Diluc_material_113011_1754193860783.png",
             "description": "永遠に燃え続ける爆炎樹のエネルギー源である種。世の中にある全ての草木を焼き尽くすような炎元素の熱量を放っている。\\n大地の深所で湧いているエネルギーは無数の願いを背負っている。烈火と共に植物に纏って永遠に燃えさせて、そして爆裂の炎で全てを浄化させようとしている。いったいどんな願いかな？",
             "type": "キャラクター育成素材"
           }
@@ -4898,7 +4898,7 @@
         "statBonus": [
           {
             "statType": "FIGHT_PROP_BASE_HP",
-            "value": 2312.771
+            "value": 2312.7712
           },
           {
             "statType": "FIGHT_PROP_BASE_DEFENSE",
@@ -4906,7 +4906,7 @@
           },
           {
             "statType": "FIGHT_PROP_BASE_ATTACK",
-            "value": 69.905
+            "value": 69.90464
           },
           {
             "statType": "FIGHT_PROP_FIRE_ADD_HURT",
@@ -4925,7 +4925,7 @@
             "name": "慕風のマッシュルーム",
             "count": 45,
             "rank": 1,
-            "icon": "/assets/images/Barbara_material_100025_1753588841536.png",
+            "icon": "/assets/images/Barbara_material_100025_1754193857188.png",
             "description": "爽やかな風を浴びて育ったマッシュルーム、風のように果てしなく命を育む。",
             "type": "モンド地域の特産"
           },
@@ -4934,7 +4934,7 @@
             "name": "炎願のアゲート·塊",
             "count": 6,
             "rank": 4,
-            "icon": "/assets/images/Diluc_material_104113_1753588845961.png",
+            "icon": "/assets/images/Diluc_material_104113_1754193860669.png",
             "description": "キャラクターの突破用アイテム。\\n「人々の願いのため、巡礼の道を歩もう。最強を目指して集い、戦うのだ…」\\n「最後は夢のために、劫火の中で燃え尽きる。」",
             "type": "キャラクター突破素材"
           },
@@ -4943,7 +4943,7 @@
             "name": "禁呪の絵巻",
             "count": 12,
             "rank": 3,
-            "icon": "/assets/images/Barbara_material_112010_1753588841510.png",
+            "icon": "/assets/images/Barbara_material_112010_1754193856962.png",
             "description": "古代の絵が描かれている古い写本。その意味を解読できる人は少ないが、本当の意味を理解した学者はみんな狂ってしまったという噂がある。",
             "type": "キャラと武器育成素材"
           },
@@ -4952,7 +4952,7 @@
             "name": "常燃の火種",
             "count": 12,
             "rank": 4,
-            "icon": "/assets/images/Diluc_material_113011_1753588845689.png",
+            "icon": "/assets/images/Diluc_material_113011_1754193860783.png",
             "description": "永遠に燃え続ける爆炎樹のエネルギー源である種。世の中にある全ての草木を焼き尽くすような炎元素の熱量を放っている。\\n大地の深所で湧いているエネルギーは無数の願いを背負っている。烈火と共に植物に纏って永遠に燃えさせて、そして爆裂の炎で全てを浄化させようとしている。いったいどんな願いかな？",
             "type": "キャラクター育成素材"
           }
@@ -4960,7 +4960,7 @@
         "statBonus": [
           {
             "statType": "FIGHT_PROP_BASE_HP",
-            "value": 2800.622
+            "value": 2800.6216
           },
           {
             "statType": "FIGHT_PROP_BASE_DEFENSE",
@@ -4968,7 +4968,7 @@
           },
           {
             "statType": "FIGHT_PROP_BASE_ATTACK",
-            "value": 84.65
+            "value": 84.65015
           },
           {
             "statType": "FIGHT_PROP_FIRE_ADD_HURT",
@@ -4987,7 +4987,7 @@
             "name": "慕風のマッシュルーム",
             "count": 60,
             "rank": 1,
-            "icon": "/assets/images/Barbara_material_100025_1753588841536.png",
+            "icon": "/assets/images/Barbara_material_100025_1754193857188.png",
             "description": "爽やかな風を浴びて育ったマッシュルーム、風のように果てしなく命を育む。",
             "type": "モンド地域の特産"
           },
@@ -4996,7 +4996,7 @@
             "name": "炎願のアゲート",
             "count": 6,
             "rank": 5,
-            "icon": "/assets/images/Diluc_material_104114_1753588845874.png",
+            "icon": "/assets/images/Diluc_material_104114_1754193860698.png",
             "description": "キャラクターの突破用アイテム。\\n「人々の願いのため、巡礼の道を歩もう。最強を目指して集い、戦うのだ…」\\n「最後は夢のために、劫火の中で燃え尽きる。」\\n「その灰燼にまだ初心が残っていれば、██の真実に辿り着いたという。」",
             "type": "キャラクター突破素材"
           },
@@ -5005,7 +5005,7 @@
             "name": "禁呪の絵巻",
             "count": 24,
             "rank": 3,
-            "icon": "/assets/images/Barbara_material_112010_1753588841510.png",
+            "icon": "/assets/images/Barbara_material_112010_1754193856962.png",
             "description": "古代の絵が描かれている古い写本。その意味を解読できる人は少ないが、本当の意味を理解した学者はみんな狂ってしまったという噂がある。",
             "type": "キャラと武器育成素材"
           },
@@ -5014,7 +5014,7 @@
             "name": "常燃の火種",
             "count": 20,
             "rank": 4,
-            "icon": "/assets/images/Diluc_material_113011_1753588845689.png",
+            "icon": "/assets/images/Diluc_material_113011_1754193860783.png",
             "description": "永遠に燃え続ける爆炎樹のエネルギー源である種。世の中にある全ての草木を焼き尽くすような炎元素の熱量を放っている。\\n大地の深所で湧いているエネルギーは無数の願いを背負っている。烈火と共に植物に纏って永遠に燃えさせて、そして爆裂の炎で全てを浄化させようとしている。いったいどんな願いかな？",
             "type": "キャラクター育成素材"
           }
@@ -5022,7 +5022,7 @@
         "statBonus": [
           {
             "statType": "FIGHT_PROP_BASE_HP",
-            "value": 3288.472
+            "value": 3288.4717
           },
           {
             "statType": "FIGHT_PROP_BASE_DEFENSE",
@@ -5030,7 +5030,7 @@
           },
           {
             "statType": "FIGHT_PROP_BASE_ATTACK",
-            "value": 99.396
+            "value": 99.39566
           },
           {
             "statType": "FIGHT_PROP_FIRE_ADD_HURT",

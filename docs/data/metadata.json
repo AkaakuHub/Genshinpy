@@ -1,16 +1,17 @@
 {
-  "lastUpdated": "2025-07-27T04:03:53.704Z",
+  "lastUpdated": "2025-08-03T04:06:54.465Z",
   "totalCharacters": 99,
   "scrapingMethod": "Pure API (No Puppeteer)",
   "dataCompleteness": "100% Python-level",
   "source": "gi.yatta.moe API v2",
   "errors": [
-    10000052
+    10000052,
+    10000116
   ],
-  "successRate": "99%",
+  "successRate": "98%",
   "performance": {
     "averageTimePerCharacter": "~2 seconds",
-    "totalExecutionTime": "200 seconds estimated",
+    "totalExecutionTime": "202 seconds estimated",
     "memoryUsage": "Low (No Puppeteer)"
   }
 }

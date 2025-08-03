@@ -8,11 +8,11 @@
   "region": "Liyue",
   "constellation": "閑鶴座",
   "description": "絶雲仙衆「三眼五顕仙人」の一人。尊称は「留雲借風真君」。仕掛けの術に長けており、俗世の人の営みに思いを寄せている。現在は「閑雲」という名で人の世を渡り歩いている。",
-  "icon": "/assets/images/Xianyun_icon_1753588990182.png",
+  "icon": "/assets/images/Xianyun_icon_1754193977214.png",
   "profile": {
     "baseHp": 810.322,
     "baseAtk": 26.068,
-    "baseDef": 44.573,
+    "baseDef": 44.57335,
     "bonusStat": {
       "name": "攻撃力",
       "value": "28.8%"
@@ -23,7 +23,7 @@
       "id": "清風散花の詞",
       "name": "清風散花の詞",
       "description": "",
-      "icon": "/assets/images/Lisa_normal_attack_1753588838984.png",
+      "icon": "/assets/images/Lisa_normal_attack_1754193854966.png",
       "skillType": "normal",
       "params": {
         "1": [],
@@ -47,7 +47,7 @@
       "id": "朝翔の鶴雲",
       "name": "朝翔の鶴雲",
       "description": "",
-      "icon": "/assets/images/Xianyun_elemental_skill_1753588990183.png",
+      "icon": "/assets/images/Xianyun_elemental_skill_1754193977215.png",
       "levelData": [
         {
           "tableIndex": 1,
@@ -1136,21 +1136,21 @@
     "elementalBurst": {
       "name": "白羽高くして祥風を追う",
       "description": "",
-      "icon": "/assets/images/Xianyun_elemental_burst_1753588990183.png",
+      "icon": "/assets/images/Xianyun_elemental_burst_1754193977215.png",
       "levelData": []
     },
     "passiveTalents": [
       {
         "name": "白羽高くして祥風を追う",
-        "icon": "/assets/images/Xianyun_passive_1_1753588990183.png"
+        "icon": "/assets/images/Xianyun_passive_1_1754193977215.png"
       },
       {
         "name": "かの姿、洞府の仙人を彷彿す",
-        "icon": "/assets/images/Xianyun_passive_2_1753588990183.png"
+        "icon": "/assets/images/Xianyun_passive_2_1754193977215.png"
       },
       {
         "name": "鶴の如く",
-        "icon": "/assets/images/Xianyun_passive_3_1753588990183.png"
+        "icon": "/assets/images/Xianyun_passive_3_1754193977215.png"
       }
     ],
     "completeTableData": [
@@ -1394,7 +1394,7 @@
             "description": [
               "1段ダメージ|{param1:F1P}",
               "2段ダメージ|{param2:F1P}",
-              "3段ダメー���|{param3:F1P}",
+              "3段ダメージ|{param3:F1P}",
               "4段ダメージ|{param4:F1P}",
               "重撃ダメージ|{param5:F1P}",
               "重撃スタミナ消費|{param6:F1}",
@@ -4317,32 +4317,32 @@
       {
         "level": null,
         "name": "因縁を晴らす借風",
-        "icon": "/assets/images/Xianyun_constellation_cNaN_1753588990183.png"
+        "icon": "/assets/images/Xianyun_constellation_cNaN_1754193977216.png"
       },
       {
         "level": null,
         "name": "俗世を離れた鶴鳴",
-        "icon": "/assets/images/Xianyun_constellation_cNaN_1753588990183.png"
+        "icon": "/assets/images/Xianyun_constellation_cNaN_1754193977216.png"
       },
       {
         "level": null,
         "name": "造化に在りし星月",
-        "icon": "/assets/images/Xianyun_constellation_cNaN_1753588990183.png"
+        "icon": "/assets/images/Xianyun_constellation_cNaN_1754193977216.png"
       },
       {
         "level": null,
         "name": "黍珠割烹の妙",
-        "icon": "/assets/images/Xianyun_constellation_cNaN_1753588990183.png"
+        "icon": "/assets/images/Xianyun_constellation_cNaN_1754193977216.png"
       },
       {
         "level": null,
         "name": "彩雲を巡りし足取",
-        "icon": "/assets/images/Xianyun_constellation_cNaN_1753588990183.png"
+        "icon": "/assets/images/Xianyun_constellation_cNaN_1754193977216.png"
       },
       {
         "level": null,
         "name": "留雲を仙と覚る",
-        "icon": "/assets/images/Xianyun_constellation_cNaN_1753588990183.png"
+        "icon": "/assets/images/Xianyun_constellation_cNaN_1754193977216.png"
       }
     ]
   },
@@ -4359,14 +4359,14 @@
     "id": 210187,
     "name": "閑雲·鶴雲",
     "description": "閑雲·鶴雲",
-    "icon": "/assets/images/Xianyun_icon_1753588990182.png"
+    "icon": "/assets/images/Xianyun_icon_1754193977214.png"
   },
   "specialFood": {
     "id": 108663,
     "name": "四喜円満",
     "rank": 3,
-    "icon": "/assets/images/Xianyun_special_food_1753588990183.png",
-    "effectIcon": "/assets/images/Xiao_food_effect_1753588859978.png"
+    "icon": "/assets/images/Xianyun_special_food_1754193977216.png",
+    "effectIcon": "/assets/images/Xiao_food_effect_1754193872657.png"
   },
   "levelProgression": [
     {
@@ -4566,98 +4566,98 @@
     {
       "statType": "FIGHT_PROP_BASE_DEFENSE",
       "values": [
-        44.573,
-        45.47944307935827,
-        46.40431971840774,
-        47.34800478472769,
-        48.31088076925955,
-        49.29333794133676,
-        50.2957745068673,
-        51.31859676973302,
-        52.36221929647123,
-        53.427065084305255,
-        54.513565732592156,
-        55.622161617756944,
-        56.75330207178433,
-        57.907445564340314,
-        59.08505988859742,
-        60.28662235083886,
-        61.5126199639186,
-        62.76354964465557,
-        64.03991841524217,
-        65.34224360874866,
-        66.6710530788066,
-        68.02688541355658,
-        69.41029015394687,
-        70.82182801647114,
-        72.26207112043612,
-        73.7316032198509,
-        75.23101994003179,
-        76.7609290190192,
-        78.32195055390356,
-        79.91471725216094,
-        81.5398746880996,
-        83.19808156452184,
-        84.89000997970693,
-        86.61634569982358,
-        88.37778843688207,
-        90.17505213233898,
-        92.00886524646927,
-        93.87997105362312,
-        95.7891279434872,
-        97.73710972847222,
-        99.72470595735187,
-        101.75272223527978,
-        103.82198055031427,
-        105.93331960658378,
-        108.08759516422707,
-        110.28568038624694,
-        112.5284661924173,
-        114.81686162038753,
-        117.15179419413028,
-        119.53421029988206,
-        121.96507556972891,
-        124.44537527299292,
-        126.97611471557806,
-        129.55831964743675,
-        132.1930366783233,
-        134.8813337020017,
-        137.6243003290807,
-        140.42304832865037,
-        143.27871207890044,
-        146.19244902690227,
-        149.16544015774093,
-        152.19889047318782,
-        155.2940294801074,
-        158.45211168879655,
-        161.6744171214579,
-        164.96225183101362,
-        168.31694843047018,
-        171.73986663304797,
-        175.2323938032954,
-        178.79594551941005,
-        182.431966146996,
-        186.1419294244883,
-        189.9273390604837,
-        193.7897293432178,
-        197.7306657624373,
-        201.75174564391855,
-        205.8545987968896,
-        210.04088817461854,
-        214.3123105484356,
-        218.67059719546194,
-        223.11751460032508,
-        227.65486517114343,
-        232.28448797007147,
-        237.00825945870247,
-        241.82809425862817,
-        246.74594592746652,
-        251.76380775067028,
-        256.88371354943814,
-        262.10773850505564,
-        267.438
+        44.57335,
+        45.47980019700971,
+        46.40468409845624,
+        47.34837657486241,
+        48.31126012017308,
+        49.29372500678623,
+        50.296169443736645,
+        51.318999738096586,
+        52.36263045965867,
+        53.4274846089677,
+        54.5139937887698,
+        55.622598378947934,
+        56.753747715015095,
+        57.90790027023732,
+        59.08552384146038,
+        60.28709573871544,
+        61.513102978680614,
+        62.764042482076775,
+        64.04042127507762,
+        65.34275669481563,
+        66.67157659906722,
+        68.02741958020219,
+        69.4108351834839,
+        70.82238412980894,
+        72.26263854297649,
+        73.73218218157945,
+        75.23161067561115,
+        76.76153176788414,
+        78.322565560358,
+        79.91534476547703,
+        81.54051496261872,
+        83.19873485975768,
+        84.89067656045071,
+        86.61702583625136,
+        88.3784824046642,
+        90.17576021275192,
+        92.00958772650957,
+        93.8807082261237,
+        95.78988010723612,
+        97.73787718833367,
+        99.72548902438987,
+        101.75352122688415,
+        103.82279579032935,
+        105.93415142543964,
+        108.08844389907344,
+        110.28654638108989,
+        112.52934979825866,
+        114.81776319536716,
+        117.1527141036712,
+        119.53514891683861,
+        121.96603327453785,
+        124.44635245382763,
+        126.97711176850585,
+        129.55933697657943,
+        132.19407469602095,
+        134.88239282897985,
+        137.6253809946207,
+        140.42415097076363,
+        143.2798371445058,
+        146.19359697200713,
+        149.16661144762617,
+        152.2000855825963,
+        155.2952488934365,
+        158.45335590029433,
+        161.67568663542357,
+        164.96354716200187,
+        168.31827010349983,
+        171.7412151838146,
+        175.23376977838862,
+        178.79734947653503,
+        182.43339865519943,
+        186.1433910643891,
+        189.92883042450833,
+        193.79125103584045,
+        197.73221840042478,
+        201.75332985658036,
+        205.85621522633295,
+        210.04253747600865,
+        214.31399339026115,
+        218.67231425980623,
+        223.11926658314226,
+        227.65665278254068,
+        232.28631193459685,
+        237.0101205156385,
+        241.8299931622916,
+        246.74788344751394,
+        251.76578467241015,
+        256.8857306741491,
+        262.1097966503112,
+        267.4401
       ],
-      "initValue": 44.573,
+      "initValue": 44.57335,
       "growthType": "GROW_CURVE_HP_S5"
     }
   ],
@@ -4682,7 +4682,7 @@
             "name": "清水玉",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Xianyun_material_101241_1753588990388.png",
+            "icon": "/assets/images/Xianyun_material_101241_1754193977354.png",
             "description": "沈玉の谷で採れる玉。手触りが清水のように冷たいことからこの名がついた。",
             "type": "璃月地域の特産"
           },
@@ -4691,7 +4691,7 @@
             "name": "自由のターコイズ·砕屑",
             "count": 1,
             "rank": 2,
-            "icon": "/assets/images/Jean_material_104151_1753588837203.png",
+            "icon": "/assets/images/Jean_material_104151_1754193853486.png",
             "description": "キャラクターの突破用アイテム。",
             "type": "キャラクター突破素材"
           },
@@ -4700,7 +4700,7 @@
             "name": "占いの絵巻",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Barbara_material_112008_1753588841583.png",
+            "icon": "/assets/images/Barbara_material_112008_1754193857089.png",
             "description": "ある、魔法に関する絵巻の断片だと考えられる。異様で不吉な暖かさがある。",
             "type": "キャラと武器育成素材"
           }
@@ -4708,15 +4708,15 @@
         "statBonus": [
           {
             "statType": "FIGHT_PROP_BASE_HP",
-            "value": 694.778
+            "value": 694.77783
           },
           {
             "statType": "FIGHT_PROP_BASE_DEFENSE",
-            "value": 38.218
+            "value": 38.2185
           },
           {
             "statType": "FIGHT_PROP_BASE_ATTACK",
-            "value": 22.349
+            "value": 22.34932
           }
         ]
       },
@@ -4731,7 +4731,7 @@
             "name": "清水玉",
             "count": 10,
             "rank": 1,
-            "icon": "/assets/images/Xianyun_material_101241_1753588990388.png",
+            "icon": "/assets/images/Xianyun_material_101241_1754193977354.png",
             "description": "沈玉の谷で採れる玉。手触りが清水のように冷たいことからこの名がついた。",
             "type": "璃月地域の特産"
           },
@@ -4740,7 +4740,7 @@
             "name": "自由のターコイズ·欠片",
             "count": 3,
             "rank": 3,
-            "icon": "/assets/images/Jean_material_104152_1753588837003.png",
+            "icon": "/assets/images/Jean_material_104152_1754193853340.png",
             "description": "キャラクターの突破用アイテム。\\n「風向きは変わるもの。」",
             "type": "キャラクター突破素材"
           },
@@ -4749,7 +4749,7 @@
             "name": "占いの絵巻",
             "count": 15,
             "rank": 1,
-            "icon": "/assets/images/Barbara_material_112008_1753588841583.png",
+            "icon": "/assets/images/Barbara_material_112008_1754193857089.png",
             "description": "ある、魔法に関する絵巻の断片だと考えられる。異様で不吉な暖かさがある。",
             "type": "キャラと武器育成素材"
           },
@@ -4758,7 +4758,7 @@
             "name": "凝雲の鱗甲",
             "count": 2,
             "rank": 4,
-            "icon": "/assets/images/Xianyun_material_113058_1753588990418.png",
+            "icon": "/assets/images/Xianyun_material_113058_1754193977457.png",
             "description": "山隠れの猊獣の鱗の鎧。手触りは冷たく硬い。剥がれ落ちても、表面になお純粋な仙力がこびりついており、普通の武器ではわずかな傷も付けられない。\\n普通の野獣も時として漂う仙力に影響を受け、普段より強くなることがある。一方、猊獣の身にまとわりつく仙力は周りの環境ではなく、自分自身に由来している——これも長の地位に就く猊獣がよく仙人と同等にみなされる理由である。",
             "type": "キャラクター育成素材"
           }
@@ -4766,15 +4766,15 @@
         "statBonus": [
           {
             "statType": "FIGHT_PROP_BASE_HP",
-            "value": 1188.436
+            "value": 1188.4358
           },
           {
             "statType": "FIGHT_PROP_BASE_DEFENSE",
-            "value": 65.374
+            "value": 65.37375
           },
           {
             "statType": "FIGHT_PROP_BASE_ATTACK",
-            "value": 38.229
+            "value": 38.2291
           },
           {
             "statType": "攻撃力",
@@ -4793,7 +4793,7 @@
             "name": "清水玉",
             "count": 20,
             "rank": 1,
-            "icon": "/assets/images/Xianyun_material_101241_1753588990388.png",
+            "icon": "/assets/images/Xianyun_material_101241_1754193977354.png",
             "description": "沈玉の谷で採れる玉。手触りが清水のように冷たいことからこの名がついた。",
             "type": "璃月地域の特産"
           },
@@ -4802,7 +4802,7 @@
             "name": "自由のターコイズ·欠片",
             "count": 6,
             "rank": 3,
-            "icon": "/assets/images/Jean_material_104152_1753588837003.png",
+            "icon": "/assets/images/Jean_material_104152_1754193853340.png",
             "description": "キャラクターの突破用アイテム。\\n「風向きは変わるもの。」",
             "type": "キャラクター突破素材"
           },
@@ -4811,7 +4811,7 @@
             "name": "封魔の絵巻",
             "count": 12,
             "rank": 2,
-            "icon": "/assets/images/Barbara_material_112009_1753588841561.png",
+            "icon": "/assets/images/Barbara_material_112009_1754193857140.png",
             "description": "解読が難しい絵がある古書の断章。中の人物を真似することで、魔物も魔法を再現できるようになる。",
             "type": "キャラと武器育成素材"
           },
@@ -4820,7 +4820,7 @@
             "name": "凝雲の鱗甲",
             "count": 4,
             "rank": 4,
-            "icon": "/assets/images/Xianyun_material_113058_1753588990418.png",
+            "icon": "/assets/images/Xianyun_material_113058_1754193977457.png",
             "description": "山隠れの猊獣の鱗の鎧。手触りは冷たく硬い。剥がれ落ちても、表面になお純粋な仙力がこびりついており、普通の武器ではわずかな傷も付けられない。\\n普通の野獣も時として漂う仙力に影響を受け、普段より強くなることがある。一方、猊獣の身にまとわりつく仙力は周りの環境ではなく、自分自身に由来している——これも長の地位に就く猊獣がよく仙人と同等にみなされる理由である。",
             "type": "キャラクター育成素材"
           }
@@ -4828,15 +4828,15 @@
         "statBonus": [
           {
             "statType": "FIGHT_PROP_BASE_HP",
-            "value": 1846.646
+            "value": 1846.6464
           },
           {
             "statType": "FIGHT_PROP_BASE_DEFENSE",
-            "value": 101.581
+            "value": 101.58075
           },
           {
             "statType": "FIGHT_PROP_BASE_ATTACK",
-            "value": 59.402
+            "value": 59.40214
           },
           {
             "statType": "攻撃力",
@@ -4855,7 +4855,7 @@
             "name": "清水玉",
             "count": 30,
             "rank": 1,
-            "icon": "/assets/images/Xianyun_material_101241_1753588990388.png",
+            "icon": "/assets/images/Xianyun_material_101241_1754193977354.png",
             "description": "沈玉の谷で採れる玉。手触りが清水のように冷たいことからこの名がついた。",
             "type": "璃月地域の特産"
           },
@@ -4864,7 +4864,7 @@
             "name": "自由のターコイズ·塊",
             "count": 3,
             "rank": 4,
-            "icon": "/assets/images/Jean_material_104153_1753588837230.png",
+            "icon": "/assets/images/Jean_material_104153_1754193853361.png",
             "description": "キャラクターの突破用アイテム。\\n「風向きは変わるもの。」\\n「いつか、光射す方へと吹いてくる。」",
             "type": "キャラクター突破素材"
           },
@@ -4873,7 +4873,7 @@
             "name": "封魔の絵巻",
             "count": 18,
             "rank": 2,
-            "icon": "/assets/images/Barbara_material_112009_1753588841561.png",
+            "icon": "/assets/images/Barbara_material_112009_1754193857140.png",
             "description": "解読が難しい絵がある古書の断章。中の人物を真似することで、魔物も魔法を再現できるようになる。",
             "type": "キャラと武器育成素材"
           },
@@ -4882,7 +4882,7 @@
             "name": "凝雲の鱗甲",
             "count": 8,
             "rank": 4,
-            "icon": "/assets/images/Xianyun_material_113058_1753588990418.png",
+            "icon": "/assets/images/Xianyun_material_113058_1754193977457.png",
             "description": "山隠れの猊獣の鱗の鎧。手触りは冷たく硬い。剥がれ落ちても、表面になお純粋な仙力がこびりついており、普通の武器ではわずかな傷も付けられない。\\n普通の野獣も時として漂う仙力に影響を受け、普段より強くなることがある。一方、猊獣の身にまとわりつく仙力は周りの環境ではなく、自分自身に由来している——これも長の地位に就く猊獣がよく仙人と同等にみなされる理由である。",
             "type": "キャラクター育成素材"
           }
@@ -4890,7 +4890,7 @@
         "statBonus": [
           {
             "statType": "FIGHT_PROP_BASE_HP",
-            "value": 2340.304
+            "value": 2340.3042
           },
           {
             "statType": "FIGHT_PROP_BASE_DEFENSE",
@@ -4898,7 +4898,7 @@
           },
           {
             "statType": "FIGHT_PROP_BASE_ATTACK",
-            "value": 75.282
+            "value": 75.28192
           },
           {
             "statType": "攻撃力",
@@ -4917,7 +4917,7 @@
             "name": "清水玉",
             "count": 45,
             "rank": 1,
-            "icon": "/assets/images/Xianyun_material_101241_1753588990388.png",
+            "icon": "/assets/images/Xianyun_material_101241_1754193977354.png",
             "description": "沈玉の谷で採れる玉。手触りが清水のように冷たいことからこの名がついた。",
             "type": "璃月地域の特産"
           },
@@ -4926,7 +4926,7 @@
             "name": "自由のターコイズ·塊",
             "count": 6,
             "rank": 4,
-            "icon": "/assets/images/Jean_material_104153_1753588837230.png",
+            "icon": "/assets/images/Jean_material_104153_1754193853361.png",
             "description": "キャラクターの突破用アイテム。\\n「風向きは変わるもの。」\\n「いつか、光射す方へと吹いてくる。」",
             "type": "キャラクター突破素材"
           },
@@ -4935,7 +4935,7 @@
             "name": "禁呪の絵巻",
             "count": 12,
             "rank": 3,
-            "icon": "/assets/images/Barbara_material_112010_1753588841510.png",
+            "icon": "/assets/images/Barbara_material_112010_1754193856962.png",
             "description": "古代の絵が描かれている古い写本。その意味を解読できる人は少ないが、本当の意味を理解した学者はみんな狂ってしまったという噂がある。",
             "type": "キャラと武器育成素材"
           },
@@ -4944,7 +4944,7 @@
             "name": "凝雲の鱗甲",
             "count": 12,
             "rank": 4,
-            "icon": "/assets/images/Xianyun_material_113058_1753588990418.png",
+            "icon": "/assets/images/Xianyun_material_113058_1754193977457.png",
             "description": "山隠れの猊獣の鱗の鎧。手触りは冷たく硬い。剥がれ落ちても、表面になお純粋な仙力がこびりついており、普通の武器ではわずかな傷も付けられない。\\n普通の野獣も時として漂う仙力に影響を受け、普段より強くなることがある。一方、猊獣の身にまとわりつく仙力は周りの環境ではなく、自分自身に由来している——これも長の地位に就く猊獣がよく仙人と同等にみなされる理由である。",
             "type": "キャラクター育成素材"
           }
@@ -4952,15 +4952,15 @@
         "statBonus": [
           {
             "statType": "FIGHT_PROP_BASE_HP",
-            "value": 2833.962
+            "value": 2833.9622
           },
           {
             "statType": "FIGHT_PROP_BASE_DEFENSE",
-            "value": 155.891
+            "value": 155.89125
           },
           {
             "statType": "FIGHT_PROP_BASE_ATTACK",
-            "value": 91.162
+            "value": 91.1617
           },
           {
             "statType": "攻撃力",
@@ -4979,7 +4979,7 @@
             "name": "清水玉",
             "count": 60,
             "rank": 1,
-            "icon": "/assets/images/Xianyun_material_101241_1753588990388.png",
+            "icon": "/assets/images/Xianyun_material_101241_1754193977354.png",
             "description": "沈玉の谷で採れる玉。手触りが清水のように冷たいことからこの名がついた。",
             "type": "璃月地域の特産"
           },
@@ -4988,7 +4988,7 @@
             "name": "自由のターコイズ",
             "count": 6,
             "rank": 5,
-            "icon": "/assets/images/Jean_material_104154_1753588837130.png",
+            "icon": "/assets/images/Jean_material_104154_1754193853390.png",
             "description": "キャラクターの突破用アイテム。\\n「風向きは変わるもの。」\\n「いつか、光射す方へと吹いてくる。」\\n「これからは、ボクの祝福と共に、もっと自由に生きていこう。」",
             "type": "キャラクター突破素材"
           },
@@ -4997,7 +4997,7 @@
             "name": "禁呪の絵巻",
             "count": 24,
             "rank": 3,
-            "icon": "/assets/images/Barbara_material_112010_1753588841510.png",
+            "icon": "/assets/images/Barbara_material_112010_1754193856962.png",
             "description": "古代の絵が描かれている古い写本。その意味を解読できる人は少ないが、本当の意味を理解した学者はみんな狂ってしまったという噂がある。",
             "type": "キャラと武器育成素材"
           },
@@ -5006,7 +5006,7 @@
             "name": "凝雲の鱗甲",
             "count": 20,
             "rank": 4,
-            "icon": "/assets/images/Xianyun_material_113058_1753588990418.png",
+            "icon": "/assets/images/Xianyun_material_113058_1754193977457.png",
             "description": "山隠れの猊獣の鱗の鎧。手触りは冷たく硬い。剥がれ落ちても、表面になお純粋な仙力がこびりついており、普通の武器ではわずかな傷も付けられない。\\n普通の野獣も時として漂う仙力に影響を受け、普段より強くなることがある。一方、猊獣の身にまとわりつく仙力は周りの環境ではなく、自分自身に由来している——これも長の地位に就く猊獣がよく仙人と同等にみなされる理由である。",
             "type": "キャラクター育成素材"
           }
@@ -5018,11 +5018,11 @@
           },
           {
             "statType": "FIGHT_PROP_BASE_DEFENSE",
-            "value": 183.047
+            "value": 183.0465
           },
           {
             "statType": "FIGHT_PROP_BASE_ATTACK",
-            "value": 107.041
+            "value": 107.04148
           },
           {
             "statType": "攻撃力",

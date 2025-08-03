@@ -8,7 +8,7 @@
   "region": "Natlan",
   "constellation": "ヴァルチャー・グリフィス座",
   "description": "トラロカンの「調停者」。幾千万の争いを終結させる者。",
-  "icon": "/assets/images/Chasca_icon_1753589011748.png",
+  "icon": "/assets/images/Chasca_icon_1754193994697.png",
   "profile": {
     "baseHp": 762.656,
     "baseAtk": 26.999,
@@ -23,7 +23,7 @@
       "id": "フェザー・フルーリー",
       "name": "フェザー・フルーリー",
       "description": "",
-      "icon": "/assets/images/Amber_normal_attack_1753588849513.png",
+      "icon": "/assets/images/Amber_normal_attack_1754193864101.png",
       "skillType": "normal",
       "params": {
         "1": [],
@@ -47,7 +47,7 @@
       "id": "スピリット・レインズ",
       "name": "スピリット・レインズ",
       "description": "",
-      "icon": "/assets/images/Chasca_elemental_skill_1753589011748.png",
+      "icon": "/assets/images/Chasca_elemental_skill_1754193994697.png",
       "levelData": [
         {
           "tableIndex": 1,
@@ -80,7 +80,7 @@
             "共鳴ダメージ|{param1:F1P}",
             "マルチ照準一回押しダメージ|{param2:F1P}",
             "シャドウチェイサー弾のダメージ|{param3:F1P}",
-            "シャドウチェイサ���弾・光輝のダメージ|{param4:F1P}",
+            "シャドウチェイサー弾・光輝のダメージ|{param4:F1P}",
             "夜魂値上限|{param5:F1}",
             "クールタイム|{param6:F1}秒",
             "",
@@ -735,7 +735,7 @@
           ],
           "description": [
             "共鳴ダメージ|{param1:F1P}",
-            "マルチ照準一回押しダメージ|{param2:F1P}",
+            "マルチ照準一回��しダメージ|{param2:F1P}",
             "シャドウチェイサー弾のダメージ|{param3:F1P}",
             "シャドウチェイサー弾・光輝のダメージ|{param4:F1P}",
             "夜魂値上限|{param5:F1}",
@@ -1136,25 +1136,25 @@
     "elementalBurst": {
       "name": "弾丸トリック",
       "description": "",
-      "icon": "/assets/images/Chasca_elemental_burst_1753589011748.png",
+      "icon": "/assets/images/Chasca_elemental_burst_1754193994697.png",
       "levelData": []
     },
     "passiveTalents": [
       {
         "name": "弾丸トリック",
-        "icon": "/assets/images/Chasca_passive_1_1753589011748.png"
+        "icon": "/assets/images/Chasca_passive_1_1754193994698.png"
       },
       {
         "name": "援護の気持ち",
-        "icon": "/assets/images/Chasca_passive_2_1753589011748.png"
+        "icon": "/assets/images/Chasca_passive_2_1754193994698.png"
       },
       {
         "name": "夜域の賜物・燻る灼心",
-        "icon": "/assets/images/Chasca_passive_3_1753589011748.png"
+        "icon": "/assets/images/Chasca_passive_3_1754193994698.png"
       },
       {
         "name": "調停の真意",
-        "icon": "/assets/images/Chasca_passive_4_1753589011748.png"
+        "icon": "/assets/images/Chasca_passive_4_1754193994698.png"
       }
     ],
     "completeTableData": [
@@ -2237,7 +2237,7 @@
               "共鳴ダメージ|{param1:F1P}",
               "マルチ照準一回押しダメージ|{param2:F1P}",
               "シャドウチェイサー弾のダメージ|{param3:F1P}",
-              "シャドウチェイサ���弾・光輝のダメージ|{param4:F1P}",
+              "シャドウチェイサー弾・光輝のダメージ|{param4:F1P}",
               "夜魂値上限|{param5:F1}",
               "クールタイム|{param6:F1}秒",
               "",
@@ -2865,7 +2865,7 @@
             ],
             "description": [
               "共鳴ダメージ|{param1:F1P}",
-              "マルチ照準一回押しダメージ|{param2:F1P}",
+              "マルチ照準一回��しダメージ|{param2:F1P}",
               "シャドウチェイサー弾のダメージ|{param3:F1P}",
               "シャドウチェイサー弾・光輝のダメージ|{param4:F1P}",
               "夜魂値上限|{param5:F1}",
@@ -3626,7 +3626,7 @@
               0
             ],
             "description": [
-              "���ウルリーパー弾・裂風のダメージ|{param1:F1P}",
+              "ソウルリーパー弾・裂風のダメージ|{param1:F1P}",
               "ソウルリーパー弾のダメージ|{param2:F1P}",
               "ソウルリーパー弾・光溢のダメージ|{param3:F1P}",
               "クールタイム|{param4:F1}秒",
@@ -4328,32 +4328,32 @@
       {
         "level": null,
         "name": "弾倉・躍動のルーレット",
-        "icon": "/assets/images/Chasca_constellation_cNaN_1753589011748.png"
+        "icon": "/assets/images/Chasca_constellation_cNaN_1754193994698.png"
       },
       {
         "level": null,
         "name": "銃口・灼熱のスモーク",
-        "icon": "/assets/images/Chasca_constellation_cNaN_1753589011748.png"
+        "icon": "/assets/images/Chasca_constellation_cNaN_1754193994698.png"
       },
       {
         "level": null,
         "name": "手綱・緻密なコントロール",
-        "icon": "/assets/images/Chasca_constellation_cNaN_1753589011749.png"
+        "icon": "/assets/images/Chasca_constellation_cNaN_1754193994698.png"
       },
       {
         "level": null,
         "name": "火花・刹那のショット",
-        "icon": "/assets/images/Chasca_constellation_cNaN_1753589011749.png"
+        "icon": "/assets/images/Chasca_constellation_cNaN_1754193994698.png"
       },
       {
         "level": null,
         "name": "鋭帽・砂塵のシルエット",
-        "icon": "/assets/images/Chasca_constellation_cNaN_1753589011749.png"
+        "icon": "/assets/images/Chasca_constellation_cNaN_1754193994698.png"
       },
       {
         "level": null,
         "name": "対決・闘争のグローリー",
-        "icon": "/assets/images/Chasca_constellation_cNaN_1753589011749.png"
+        "icon": "/assets/images/Chasca_constellation_cNaN_1754193994698.png"
       }
     ]
   },
@@ -4370,14 +4370,14 @@
     "id": 210221,
     "name": "チャスカ・全弾",
     "description": "チャスカ・全弾",
-    "icon": "/assets/images/Chasca_namecard_1753589012104.png"
+    "icon": "/assets/images/Chasca_namecard_1754193994821.png"
   },
   "specialFood": {
     "id": 108777,
     "name": "しばしの休息",
     "rank": 3,
-    "icon": "/assets/images/Chasca_special_food_1753589011749.png",
-    "effectIcon": "/assets/images/Barbara_food_effect_1753588841173.png"
+    "icon": "/assets/images/Chasca_special_food_1754193994698.png",
+    "effectIcon": "/assets/images/Barbara_food_effect_1754193856840.png"
   },
   "levelProgression": [
     {
@@ -4693,7 +4693,7 @@
             "name": "枯れ紫菖",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Chasca_material_101253_1753589011920.png",
+            "icon": "/assets/images/Chasca_material_101253_1754193994921.png",
             "description": "花弁と葉が枯れたような見た目をしている花。灰が舞うところでよく見かける。",
             "type": "ナタ地域の特産"
           },
@@ -4702,7 +4702,7 @@
             "name": "自由のターコイズ·砕屑",
             "count": 1,
             "rank": 2,
-            "icon": "/assets/images/Jean_material_104151_1753588837203.png",
+            "icon": "/assets/images/Jean_material_104151_1754193853486.png",
             "description": "キャラクターの突破用アイテム。",
             "type": "キャラクター突破素材"
           },
@@ -4711,7 +4711,7 @@
             "name": "未熟な牙",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Kinich_material_112101_1753589005684.png",
+            "icon": "/assets/images/Kinich_material_112101_1754193989998.png",
             "description": "ナタの竜が落とした牙。\\nまだ育ち切っていないようだ。もし牙から年齢を推定する方法があるなら、この牙の主はあまり長い年月を過ごしていないと結論づけられるかもしれない。",
             "type": "キャラと武器育成素材"
           }
@@ -4719,7 +4719,7 @@
         "statBonus": [
           {
             "statType": "FIGHT_PROP_BASE_HP",
-            "value": 653.909
+            "value": 653.90857
           },
           {
             "statType": "FIGHT_PROP_BASE_DEFENSE",
@@ -4727,7 +4727,7 @@
           },
           {
             "statType": "FIGHT_PROP_BASE_ATTACK",
-            "value": 23.148
+            "value": 23.14751
           }
         ]
       },
@@ -4742,7 +4742,7 @@
             "name": "枯れ紫菖",
             "count": 10,
             "rank": 1,
-            "icon": "/assets/images/Chasca_material_101253_1753589011920.png",
+            "icon": "/assets/images/Chasca_material_101253_1754193994921.png",
             "description": "花弁と葉が枯れたような見た目をしている花。灰が舞うところでよく見かける。",
             "type": "ナタ地域の特産"
           },
@@ -4751,7 +4751,7 @@
             "name": "自由のターコイズ·欠片",
             "count": 3,
             "rank": 3,
-            "icon": "/assets/images/Jean_material_104152_1753588837003.png",
+            "icon": "/assets/images/Jean_material_104152_1754193853340.png",
             "description": "キャラクターの突破用アイテム。\\n「風向きは変わるもの。」",
             "type": "キャラクター突破素材"
           },
@@ -4760,7 +4760,7 @@
             "name": "未熟な牙",
             "count": 15,
             "rank": 1,
-            "icon": "/assets/images/Kinich_material_112101_1753589005684.png",
+            "icon": "/assets/images/Kinich_material_112101_1754193989998.png",
             "description": "ナタの竜が落とした牙。\\nまだ育ち切っていないようだ。もし牙から年齢を推定する方法があるなら、この牙の主はあまり長い年月を過ごしていないと結論づけられるかもしれない。",
             "type": "キャラと武器育成素材"
           },
@@ -4769,7 +4769,7 @@
             "name": "深遠と絡み合う眼差し",
             "count": 2,
             "rank": 4,
-            "icon": "/assets/images/Chasca_material_113067_1753589011958.png",
+            "icon": "/assets/images/Chasca_material_113067_1754193994834.png",
             "description": "深遠なるミミックパピラを倒した後、獲得した果実のようで果実ではないもの。\\n一ヶ所に集まったエネルギーによって形成された「目」——遥か暗闇の彼方からの視線を感じる。",
             "type": "キャラクター育成素材"
           }
@@ -4777,7 +4777,7 @@
         "statBonus": [
           {
             "statType": "FIGHT_PROP_BASE_HP",
-            "value": 1118.528
+            "value": 1118.5278
           },
           {
             "statType": "FIGHT_PROP_BASE_DEFENSE",
@@ -4785,7 +4785,7 @@
           },
           {
             "statType": "FIGHT_PROP_BASE_ATTACK",
-            "value": 39.594
+            "value": 39.594425
           },
           {
             "statType": "会心率",
@@ -4804,7 +4804,7 @@
             "name": "枯れ紫菖",
             "count": 20,
             "rank": 1,
-            "icon": "/assets/images/Chasca_material_101253_1753589011920.png",
+            "icon": "/assets/images/Chasca_material_101253_1754193994921.png",
             "description": "花弁と葉が枯れたような見た目をしている花。灰が舞うところでよく見かける。",
             "type": "ナタ地域の特産"
           },
@@ -4813,7 +4813,7 @@
             "name": "自由のターコイズ·欠片",
             "count": 6,
             "rank": 3,
-            "icon": "/assets/images/Jean_material_104152_1753588837003.png",
+            "icon": "/assets/images/Jean_material_104152_1754193853340.png",
             "description": "キャラクターの突破用アイテム。\\n「風向きは変わるもの。」",
             "type": "キャラクター突破素材"
           },
@@ -4822,7 +4822,7 @@
             "name": "熟練の牙",
             "count": 12,
             "rank": 2,
-            "icon": "/assets/images/Kinich_material_112102_1753589005830.png",
+            "icon": "/assets/images/Kinich_material_112102_1754193990026.png",
             "description": "ナタの竜が落とした堅い牙。\\n牙の摩耗具合から、持ち主が経験したであろう暮らしや戦いが想像できる。竜の中でも、優秀な戦士と呼ばれるにふさわしいだろう。",
             "type": "キャラと武器育成素材"
           },
@@ -4831,7 +4831,7 @@
             "name": "深遠と絡み合う眼差し",
             "count": 4,
             "rank": 4,
-            "icon": "/assets/images/Chasca_material_113067_1753589011958.png",
+            "icon": "/assets/images/Chasca_material_113067_1754193994834.png",
             "description": "深遠なるミミックパピラを倒した後、獲得した果実のようで果実ではないもの。\\n一ヶ所に集まったエネルギーによって形成された「目」——遥か暗闇の彼方からの視線を感じる。",
             "type": "キャラクター育成素材"
           }
@@ -4839,7 +4839,7 @@
         "statBonus": [
           {
             "statType": "FIGHT_PROP_BASE_HP",
-            "value": 1738.02
+            "value": 1738.0201
           },
           {
             "statType": "FIGHT_PROP_BASE_DEFENSE",
@@ -4847,7 +4847,7 @@
           },
           {
             "statType": "FIGHT_PROP_BASE_ATTACK",
-            "value": 61.524
+            "value": 61.523643
           },
           {
             "statType": "会心率",
@@ -4866,7 +4866,7 @@
             "name": "枯れ紫菖",
             "count": 30,
             "rank": 1,
-            "icon": "/assets/images/Chasca_material_101253_1753589011920.png",
+            "icon": "/assets/images/Chasca_material_101253_1754193994921.png",
             "description": "花弁と葉が枯れたような見た目をしている花。灰が舞うところでよく見かける。",
             "type": "ナタ地域の特産"
           },
@@ -4875,7 +4875,7 @@
             "name": "自由のターコイズ·塊",
             "count": 3,
             "rank": 4,
-            "icon": "/assets/images/Jean_material_104153_1753588837230.png",
+            "icon": "/assets/images/Jean_material_104153_1754193853361.png",
             "description": "キャラクターの突破用アイテム。\\n「風向きは変わるもの。」\\n「いつか、光射す方へと吹いてくる。」",
             "type": "キャラクター突破素材"
           },
@@ -4884,7 +4884,7 @@
             "name": "熟練の牙",
             "count": 18,
             "rank": 2,
-            "icon": "/assets/images/Kinich_material_112102_1753589005830.png",
+            "icon": "/assets/images/Kinich_material_112102_1754193990026.png",
             "description": "ナタの竜が落とした堅い牙。\\n牙の摩耗具合から、持ち主が経験したであろう暮らしや戦いが想像できる。竜の中でも、優秀な戦士と呼ばれるにふさわしいだろう。",
             "type": "キャラと武器育成素材"
           },
@@ -4893,7 +4893,7 @@
             "name": "深遠と絡み合う眼差し",
             "count": 8,
             "rank": 4,
-            "icon": "/assets/images/Chasca_material_113067_1753589011958.png",
+            "icon": "/assets/images/Chasca_material_113067_1754193994834.png",
             "description": "深遠なるミミックパピラを倒した後、獲得した果実のようで果実ではないもの。\\n一ヶ所に集まったエネルギーによって形成された「目」——遥か暗闇の彼方からの視線を感じる。",
             "type": "キャラクター育成素材"
           }
@@ -4901,7 +4901,7 @@
         "statBonus": [
           {
             "statType": "FIGHT_PROP_BASE_HP",
-            "value": 2202.639
+            "value": 2202.6394
           },
           {
             "statType": "FIGHT_PROP_BASE_DEFENSE",
@@ -4909,7 +4909,7 @@
           },
           {
             "statType": "FIGHT_PROP_BASE_ATTACK",
-            "value": 77.971
+            "value": 77.97056
           },
           {
             "statType": "会心率",
@@ -4928,7 +4928,7 @@
             "name": "枯れ紫菖",
             "count": 45,
             "rank": 1,
-            "icon": "/assets/images/Chasca_material_101253_1753589011920.png",
+            "icon": "/assets/images/Chasca_material_101253_1754193994921.png",
             "description": "花弁と葉が枯れたような見た目をしている花。灰が舞うところでよく見かける。",
             "type": "ナタ地域の特産"
           },
@@ -4937,7 +4937,7 @@
             "name": "自由のターコイズ·塊",
             "count": 6,
             "rank": 4,
-            "icon": "/assets/images/Jean_material_104153_1753588837230.png",
+            "icon": "/assets/images/Jean_material_104153_1754193853361.png",
             "description": "キャラクターの突破用アイテム。\\n「風向きは変わるもの。」\\n「いつか、光射す方へと吹いてくる。」",
             "type": "キャラクター突破素材"
           },
@@ -4946,7 +4946,7 @@
             "name": "覇道の牙",
             "count": 12,
             "rank": 3,
-            "icon": "/assets/images/Kinich_material_112103_1753589005660.png",
+            "icon": "/assets/images/Kinich_material_112103_1754193989975.png",
             "description": "ナタの強い竜が落とした鋭い牙。\\n側面のギザギザや獰猛な形から、持ち主が戦場でいかに勇猛であったかが窺える。「覇者」と言える竜だったのだろう。",
             "type": "キャラと武器育成素材"
           },
@@ -4955,7 +4955,7 @@
             "name": "深遠と絡み合う眼差し",
             "count": 12,
             "rank": 4,
-            "icon": "/assets/images/Chasca_material_113067_1753589011958.png",
+            "icon": "/assets/images/Chasca_material_113067_1754193994834.png",
             "description": "深遠なるミミックパピラを倒した後、獲得した果実のようで果実ではないもの。\\n一ヶ所に集まったエネルギーによって形成された「目」——遥か暗闇の彼方からの視線を感じる。",
             "type": "キャラクター育成素材"
           }
@@ -4963,7 +4963,7 @@
         "statBonus": [
           {
             "statType": "FIGHT_PROP_BASE_HP",
-            "value": 2667.258
+            "value": 2667.2585
           },
           {
             "statType": "FIGHT_PROP_BASE_DEFENSE",
@@ -4971,7 +4971,7 @@
           },
           {
             "statType": "FIGHT_PROP_BASE_ATTACK",
-            "value": 94.417
+            "value": 94.41747
           },
           {
             "statType": "会心率",
@@ -4990,7 +4990,7 @@
             "name": "枯れ紫菖",
             "count": 60,
             "rank": 1,
-            "icon": "/assets/images/Chasca_material_101253_1753589011920.png",
+            "icon": "/assets/images/Chasca_material_101253_1754193994921.png",
             "description": "花弁と葉が枯れたような見た目をしている花。灰が舞うところでよく見かける。",
             "type": "ナタ地域の特産"
           },
@@ -4999,7 +4999,7 @@
             "name": "自由のターコイズ",
             "count": 6,
             "rank": 5,
-            "icon": "/assets/images/Jean_material_104154_1753588837130.png",
+            "icon": "/assets/images/Jean_material_104154_1754193853390.png",
             "description": "キャラクターの突破用アイテム。\\n「風向きは変わるもの。」\\n「いつか、光射す方へと吹いてくる。」\\n「これからは、ボクの祝福と共に、もっと自由に生きていこう。」",
             "type": "キャラクター突破素材"
           },
@@ -5008,7 +5008,7 @@
             "name": "覇道の牙",
             "count": 24,
             "rank": 3,
-            "icon": "/assets/images/Kinich_material_112103_1753589005660.png",
+            "icon": "/assets/images/Kinich_material_112103_1754193989975.png",
             "description": "ナタの強い竜が落とした鋭い牙。\\n側面のギザギザや獰猛な形から、持ち主が戦場でいかに勇猛であったかが窺える。「覇者」と言える竜だったのだろう。",
             "type": "キャラと武器育成素材"
           },
@@ -5017,7 +5017,7 @@
             "name": "深遠と絡み合う眼差し",
             "count": 20,
             "rank": 4,
-            "icon": "/assets/images/Chasca_material_113067_1753589011958.png",
+            "icon": "/assets/images/Chasca_material_113067_1754193994834.png",
             "description": "深遠なるミミックパピラを倒した後、獲得した果実のようで果実ではないもの。\\n一ヶ所に集まったエネルギーによって形成された「目」——遥か暗闇の彼方からの視線を感じる。",
             "type": "キャラクター育成素材"
           }
@@ -5033,7 +5033,7 @@
           },
           {
             "statType": "FIGHT_PROP_BASE_ATTACK",
-            "value": 110.864
+            "value": 110.86439
           },
           {
             "statType": "会心率",

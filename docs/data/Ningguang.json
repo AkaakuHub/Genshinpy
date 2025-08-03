@@ -8,9 +8,9 @@
   "region": "Liyue",
   "constellation": "璣衡儀座",
   "description": "「璃月七星」の一人、「天権」。富の多さで有名であり、全大陸で彼女に匹敵する者はまずいない。",
-  "icon": "/assets/images/Ningguang_icon_1753588862223.png",
+  "icon": "/assets/images/Ningguang_icon_1754193874358.png",
   "profile": {
-    "baseHp": 820.612,
+    "baseHp": 820.6119,
     "baseAtk": 17.808,
     "baseDef": 48.069,
     "bonusStat": {
@@ -23,7 +23,7 @@
       "id": "千金擲",
       "name": "千金擲",
       "description": "",
-      "icon": "/assets/images/Lisa_normal_attack_1753588838984.png",
+      "icon": "/assets/images/Lisa_normal_attack_1754193854966.png",
       "skillType": "normal",
       "params": {
         "1": [],
@@ -47,7 +47,7 @@
       "id": "璇璣屏",
       "name": "璇璣屏",
       "description": "",
-      "icon": "/assets/images/Ningguang_elemental_skill_1753588862223.png",
+      "icon": "/assets/images/Ningguang_elemental_skill_1754193874358.png",
       "levelData": [
         {
           "tableIndex": 1,
@@ -1136,21 +1136,21 @@
     "elementalBurst": {
       "name": "物換星移",
       "description": "",
-      "icon": "/assets/images/Ningguang_elemental_burst_1753588862224.png",
+      "icon": "/assets/images/Ningguang_elemental_burst_1754193874358.png",
       "levelData": []
     },
     "passiveTalents": [
       {
         "name": "物換星移",
-        "icon": "/assets/images/Ningguang_passive_1_1753588862224.png"
+        "icon": "/assets/images/Ningguang_passive_1_1754193874359.png"
       },
       {
         "name": "備えあれば憂いなし",
-        "icon": "/assets/images/Ningguang_passive_2_1753588862224.png"
+        "icon": "/assets/images/Ningguang_passive_2_1754193874359.png"
       },
       {
         "name": "奇石宝物録",
-        "icon": "/assets/images/Ningguang_passive_3_1753588862224.png"
+        "icon": "/assets/images/Ningguang_passive_3_1754193874359.png"
       }
     ],
     "completeTableData": [
@@ -1187,7 +1187,7 @@
             "description": [
               "通常攻撃ダメージ|{param1:F1P}",
               "重撃ダメージ|{param2:P}",
-              "���璇ダメージ|1つにつき{param3:F1P}",
+              "星璇ダメージ|1つにつき{param3:F1P}",
               "重撃スタミナ消費|{param4:F1}",
               "落下期間のダメージ|{param5:F1P}",
               "低空/高空落下攻撃ダメージ|{param6:P}/{param7:P}",
@@ -1602,7 +1602,7 @@
               0
             ],
             "description": [
-              "通常攻撃ダメージ|{param1:F1P}",
+              "通常攻���ダメージ|{param1:F1P}",
               "重撃ダメージ|{param2:P}",
               "星璇ダメージ|1つにつき{param3:F1P}",
               "重撃スタミナ消費|{param4:F1}",
@@ -3482,7 +3482,7 @@
               0
             ],
             "description": [
-              "��石ダメージ|1つにつき{param1:P}",
+              "宝石ダメージ|1つにつき{param1:P}",
               "クールタイム|{param2:F1}秒",
               "元素エネルギー|{param3:I}",
               "",
@@ -4111,7 +4111,7 @@
               0
             ],
             "description": [
-              "宝石ダメージ|1つにつき{param1:P}",
+              "宝石ダメージ|1つに��き{param1:P}",
               "クールタイム|{param2:F1}秒",
               "元素エネルギー|{param3:I}",
               "",
@@ -4317,32 +4317,32 @@
       {
         "level": null,
         "name": "散る星の破片",
-        "icon": "/assets/images/Ningguang_constellation_cNaN_1753588862224.png"
+        "icon": "/assets/images/Ningguang_constellation_cNaN_1754193874359.png"
       },
       {
         "level": null,
         "name": "璇璣、崑崙を鎮める",
-        "icon": "/assets/images/Ningguang_constellation_cNaN_1753588862224.png"
+        "icon": "/assets/images/Ningguang_constellation_cNaN_1754193874359.png"
       },
       {
         "level": null,
         "name": "森羅星列の囲い",
-        "icon": "/assets/images/Ningguang_constellation_cNaN_1753588862224.png"
+        "icon": "/assets/images/Ningguang_constellation_cNaN_1754193874359.png"
       },
       {
         "level": null,
         "name": "神機妙道の陣組み",
-        "icon": "/assets/images/Ningguang_constellation_cNaN_1753588862224.png"
+        "icon": "/assets/images/Ningguang_constellation_cNaN_1754193874359.png"
       },
       {
         "level": null,
         "name": "瓊屏と千扇の守り",
-        "icon": "/assets/images/Ningguang_constellation_cNaN_1753588862224.png"
+        "icon": "/assets/images/Ningguang_constellation_cNaN_1754193874359.png"
       },
       {
         "level": null,
         "name": "燦々たる七星",
-        "icon": "/assets/images/Ningguang_constellation_cNaN_1753588862224.png"
+        "icon": "/assets/images/Ningguang_constellation_cNaN_1754193874359.png"
       }
     ]
   },
@@ -4360,118 +4360,118 @@
       "isDefault": false,
       "rank": 4,
       "storyId": 340002,
-      "icon": "/assets/images/Ningguang_costume_2_1753588862224.png"
+      "icon": "/assets/images/Ningguang_costume_2_1754193874359.png"
     }
   ],
   "nameCard": {
     "id": 210038,
     "name": "凝光·鳳儀",
     "description": "凝光·鳳儀",
-    "icon": "/assets/images/Ningguang_icon_1753588862223.png"
+    "icon": "/assets/images/Ningguang_icon_1754193874358.png"
   },
   "specialFood": {
     "id": 108139,
     "name": "乾坤モラミート",
     "rank": 1,
-    "icon": "/assets/images/Ningguang_special_food_1753588862225.png",
-    "effectIcon": "/assets/images/Kamisato Ayaka_food_effect_1753588834293.png"
+    "icon": "/assets/images/Ningguang_special_food_1754193874359.png",
+    "effectIcon": "/assets/images/Kamisato Ayaka_food_effect_1754193851048.png"
   },
   "levelProgression": [
     {
       "statType": "FIGHT_PROP_BASE_HP",
       "values": [
-        820.612,
-        836.4818948787174,
-        852.6586991902258,
-        869.1483482857459,
-        885.9568923008293,
-        903.0904983751851,
-        920.555452915434,
-        938.3581639016224,
-        956.5051632383432,
-        975.0031091513238,
-        993.8587886303641,
-        1013.0791199195157,
-        1032.671155055422,
-        1052.642082454745,
-        1072.9992295516322,
-        1093.7500654861901,
-        1114.9022038449468,
-        1136.4634054543185,
-        1158.4415812280936,
-        1180.8447950699885,
-        1203.6812668323332,
-        1226.9593753319782,
-        1250.6876614245227,
-        1274.8748311380002,
-        1299.5297588671617,
-        1324.6614906295379,
-        1350.2792473844668,
-        1376.392428416313,
-        1403.0106147831088,
-        1430.1435728318977,
-        1457.8012577820516,
-        1485.9938173778937,
-        1514.731595611957,
-        1544.0251365202469,
-        1573.885188050902,
-        1604.3227060076686,
-        1635.348858069643,
-        1666.9750278887484,
-        1699.2128192664538,
-        1732.0740604112675,
-        1765.5708082785661,
-        1799.7153529943555,
-        1834.5202223645745,
-        1869.9981864716156,
-        1906.1622623597289,
-        1943.0257188110447,
-        1980.6020812139532,
-        2018.9051365256405,
-        2057.948938330592,
-        2097.747811996922,
-        2138.316359932427,
-        2179.66946694228,
-        2221.822305690341,
-        2264.790342266086,
-        2308.5893418591913,
-        2353.2353745438613,
-        2398.7448211750225,
-        2445.134379398538,
-        2492.4210697776607,
-        2540.622242037964,
-        2589.755581433042,
-        2639.839115233321,
-        2690.891219340352,
-        2742.930625029027,
-        2795.9764258201744,
-        2850.048084486071,
-        2905.165440191427,
-        2961.3487157724826,
-        3018.6185251568613,
-        3076.995880926931,
-        3136.502202029422,
-        3197.159321634146,
-        3258.9894951447036,
-        3322.0154083640946,
-        3386.2601858182597,
-        3451.7473992405853,
-        3518.501076220492,
-        3586.545709019273,
-        3655.906263556437,
-        3726.6081885698227,
-        3798.6774249528767,
-        3872.1404152724913,
-        3947.0241134709186,
-        4023.355994755308,
-        4101.164065678502,
-        4180.476874414778,
-        4261.323521234312,
-        4343.7336691802275,
-        4427.737554952109,
-        4513.366
+        820.6119,
+        836.4817929448078,
+        852.6585952850064,
+        869.1482423710934,
+        885.956784337883,
+        903.090388324333,
+        920.5553407362978,
+        938.3580495530431,
+        956.5050466783656,
+        975.0029903371816,
+        993.8586675184636,
+        1013.0789964654206,
+        1032.6710292138362,
+        1052.6419541794965,
+        1072.9990987956564,
+        1093.7499322015117,
+        1114.902067982663,
+        1136.463266964581,
+        1158.4414400600897,
+        1180.8446511719228,
+        1203.681120151409,
+        1226.9592258143773,
+        1250.6875090153865,
+        1274.874675781409,
+        1299.5296005061143,
+        1324.6613292059308,
+        1350.279082839073,
+        1376.3922606887597,
+        1403.0104438118565,
+        1430.1433985542158,
+        1457.8010801339965,
+        1485.9936362942858,
+        1514.7314110263555,
+        1544.0249483649268,
+        1573.8849962568277,
+        1604.3225105044703,
+        1635.3486587855894,
+        1666.9748247507212,
+        1699.2126121999206,
+        1732.0738493402546,
+        1765.5705931256305,
+        1799.7151336805564,
+        1834.5199988094446,
+        1869.9979585931314,
+        1906.1620300742807,
+        1943.0254820334058,
+        1980.6018398572487,
+        2018.9048905013153,
+        2057.9486875483785,
+        2097.7475563648068,
+        2138.316099356618,
+        2179.66920132717,
+        2221.822034938475,
+        2264.790066278123,
+        2308.5890605338705,
+        2353.235087777963,
+        2398.7445288633307,
+        2445.134081433802,
+        2492.420766050556,
+        2540.6219324370513,
+        2589.7552658447275,
+        2639.838793541813,
+        2690.890891427621,
+        2742.93029077476,
+        2795.976085101732,
+        2850.0477371784414,
+        2905.165086167182,
+        2961.3483549017283,
+        3018.6181573071926,
+        3076.995505963382,
+        3136.501819814416,
+        3197.158932027448,
+        3258.9890980033633,
+        3322.0150035423994,
+        3386.2597731676788,
+        3451.746978609715,
+        3518.5006474550005,
+        3586.5452719618443,
+        3655.905818046712,
+        3726.607734444342,
+        3798.6769620450195,
+        3872.1399434124146,
+        3947.023632485494,
+        4023.3555044680597,
+        4101.163565909541,
+        4180.476364980736,
+        4261.323001948276,
+        4343.733139851669,
+        4427.737015386815,
+        4513.36545
       ],
-      "initValue": 820.612,
+      "initValue": 820.6119,
       "growthType": "GROW_CURVE_HP_S4"
     },
     {
@@ -4690,7 +4690,7 @@
             "name": "琉璃百合",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Ningguang_material_100030_1753588862557.png",
+            "icon": "/assets/images/Ningguang_material_100030_1754193874588.png",
             "description": "極めて古い花。かつて璃月の至るところにあり、大地の記憶を花の香りに変えられるらしい。",
             "type": "璃月地域の特産"
           },
@@ -4699,7 +4699,7 @@
             "name": "堅牢なトパーズ·砕屑",
             "count": 1,
             "rank": 2,
-            "icon": "/assets/images/Ningguang_material_104171_1753588862517.png",
+            "icon": "/assets/images/Ningguang_material_104171_1754193874635.png",
             "description": "キャラクターの突破用アイテム。",
             "type": "キャラクター突破素材"
           },
@@ -4708,7 +4708,7 @@
             "name": "新兵の記章",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Diluc_material_112032_1753588845832.png",
+            "icon": "/assets/images/Diluc_material_112032_1754193860624.png",
             "description": "新兵の身分を記した記章。かつてこれをつけた人は、どんな気持ちでファデュイの戦争兵器になったのだろうか。",
             "type": "キャラと武器育成素材"
           }
@@ -4716,7 +4716,7 @@
         "statBonus": [
           {
             "statType": "FIGHT_PROP_BASE_HP",
-            "value": 613.039
+            "value": 613.0391
           },
           {
             "statType": "FIGHT_PROP_BASE_DEFENSE",
@@ -4724,7 +4724,7 @@
           },
           {
             "statType": "FIGHT_PROP_BASE_ATTACK",
-            "value": 13.304
+            "value": 13.3038
           }
         ]
       },
@@ -4739,7 +4739,7 @@
             "name": "琉璃百合",
             "count": 10,
             "rank": 1,
-            "icon": "/assets/images/Ningguang_material_100030_1753588862557.png",
+            "icon": "/assets/images/Ningguang_material_100030_1754193874588.png",
             "description": "極めて古い花。かつて璃月の至るところにあり、大地の記憶を花の香りに変えられるらしい。",
             "type": "璃月地域の特産"
           },
@@ -4748,7 +4748,7 @@
             "name": "堅牢なトパーズ·欠片",
             "count": 3,
             "rank": 3,
-            "icon": "/assets/images/Ningguang_material_104172_1753588862709.png",
+            "icon": "/assets/images/Ningguang_material_104172_1754193874662.png",
             "description": "キャラクターの突破用アイテム。\\n「この大陸の全ての金銭は俺の血肉。」",
             "type": "キャラクター突破素材"
           },
@@ -4757,7 +4757,7 @@
             "name": "新兵の記章",
             "count": 15,
             "rank": 1,
-            "icon": "/assets/images/Diluc_material_112032_1753588845832.png",
+            "icon": "/assets/images/Diluc_material_112032_1754193860624.png",
             "description": "新兵の身分を記した記章。かつてこれをつけた人は、どんな気持ちでファデュイの戦争兵器になったのだろうか。",
             "type": "キャラと武器育成素材"
           },
@@ -4766,7 +4766,7 @@
             "name": "玄岩の塔",
             "count": 2,
             "rank": 4,
-            "icon": "/assets/images/Ningguang_material_113009_1753588862447.png",
+            "icon": "/assets/images/Ningguang_material_113009_1754193874482.png",
             "description": "無相の岩の外殻によって構成された石柱、純粋な岩元素が高度に濃縮されたものである。\\n岩元素は最も重い元素だ。無相の岩が、外殻を高くそびえ立つ岩の柱にし、自身を高いところに上げたのは、敵から身を守るためではなく、無縁だった天空により近づくためなのかもしれない。",
             "type": "キャラクター育成素材"
           }
@@ -4774,7 +4774,7 @@
         "statBonus": [
           {
             "statType": "FIGHT_PROP_BASE_HP",
-            "value": 1048.62
+            "value": 1048.6195
           },
           {
             "statType": "FIGHT_PROP_BASE_DEFENSE",
@@ -4782,7 +4782,7 @@
           },
           {
             "statType": "FIGHT_PROP_BASE_ATTACK",
-            "value": 22.756
+            "value": 22.7565
           },
           {
             "statType": "FIGHT_PROP_ROCK_ADD_HURT",
@@ -4801,7 +4801,7 @@
             "name": "琉璃百合",
             "count": 20,
             "rank": 1,
-            "icon": "/assets/images/Ningguang_material_100030_1753588862557.png",
+            "icon": "/assets/images/Ningguang_material_100030_1754193874588.png",
             "description": "極めて古い花。かつて璃月の至るところにあり、大地の記憶を花の香りに変えられるらしい。",
             "type": "璃月地域の特産"
           },
@@ -4810,7 +4810,7 @@
             "name": "堅牢なトパーズ·欠片",
             "count": 6,
             "rank": 3,
-            "icon": "/assets/images/Ningguang_material_104172_1753588862709.png",
+            "icon": "/assets/images/Ningguang_material_104172_1754193874662.png",
             "description": "キャラクターの突破用アイテム。\\n「この大陸の全ての金銭は俺の血肉。」",
             "type": "キャラクター突破素材"
           },
@@ -4819,7 +4819,7 @@
             "name": "士官の記章",
             "count": 12,
             "rank": 2,
-            "icon": "/assets/images/Diluc_material_112033_1753588845974.png",
+            "icon": "/assets/images/Diluc_material_112033_1754193860834.png",
             "description": "士官の身分を記した記章、一般兵士とは異なる独特なデザインがあるのは、その複雑な気持ちが含まれたからだろうか。",
             "type": "キャラと武器育成素材"
           },
@@ -4828,7 +4828,7 @@
             "name": "玄岩の塔",
             "count": 4,
             "rank": 4,
-            "icon": "/assets/images/Ningguang_material_113009_1753588862447.png",
+            "icon": "/assets/images/Ningguang_material_113009_1754193874482.png",
             "description": "無相の岩の外殻によって構成された石柱、純粋な岩元素が高度に濃縮されたものである。\\n岩元素は最も重い元素だ。無相の岩が、外殻を高くそびえ立つ岩の柱にし、自身を高いところに上げたのは、敵から身を守るためではなく、無縁だった天空により近づくためなのかもしれない。",
             "type": "キャラクター育成素材"
           }
@@ -4836,7 +4836,7 @@
         "statBonus": [
           {
             "statType": "FIGHT_PROP_BASE_HP",
-            "value": 1629.393
+            "value": 1629.3934
           },
           {
             "statType": "FIGHT_PROP_BASE_DEFENSE",
@@ -4844,7 +4844,7 @@
           },
           {
             "statType": "FIGHT_PROP_BASE_ATTACK",
-            "value": 35.36
+            "value": 35.3601
           },
           {
             "statType": "FIGHT_PROP_ROCK_ADD_HURT",
@@ -4863,7 +4863,7 @@
             "name": "琉璃百合",
             "count": 30,
             "rank": 1,
-            "icon": "/assets/images/Ningguang_material_100030_1753588862557.png",
+            "icon": "/assets/images/Ningguang_material_100030_1754193874588.png",
             "description": "極めて古い花。かつて璃月の至るところにあり、大地の記憶を花の香りに変えられるらしい。",
             "type": "璃月地域の特産"
           },
@@ -4872,7 +4872,7 @@
             "name": "堅牢なトパーズ·塊",
             "count": 3,
             "rank": 4,
-            "icon": "/assets/images/Ningguang_material_104173_1753588862414.png",
+            "icon": "/assets/images/Ningguang_material_104173_1754193874612.png",
             "description": "キャラクターの突破用アイテム。\\n「この大陸の全ての金銭は俺の血肉。」\\n「こんな形で俺は、人間の労働、知恵、未来を保証する。」",
             "type": "キャラクター突破素材"
           },
@@ -4881,7 +4881,7 @@
             "name": "士官の記章",
             "count": 18,
             "rank": 2,
-            "icon": "/assets/images/Diluc_material_112033_1753588845974.png",
+            "icon": "/assets/images/Diluc_material_112033_1754193860834.png",
             "description": "士官の身分を記した記章、一般兵士とは異なる独特なデザインがあるのは、その複雑な気持ちが含まれたからだろうか。",
             "type": "キャラと武器育成素材"
           },
@@ -4890,7 +4890,7 @@
             "name": "玄岩の塔",
             "count": 8,
             "rank": 4,
-            "icon": "/assets/images/Ningguang_material_113009_1753588862447.png",
+            "icon": "/assets/images/Ningguang_material_113009_1754193874482.png",
             "description": "無相の岩の外殻によって構成された石柱、純粋な岩元素が高度に濃縮されたものである。\\n岩元素は最も重い元素だ。無相の岩が、外殻を高くそびえ立つ岩の柱にし、自身を高いところに上げたのは、敵から身を守るためではなく、無縁だった天空により近づくためなのかもしれない。",
             "type": "キャラクター育成素材"
           }
@@ -4898,7 +4898,7 @@
         "statBonus": [
           {
             "statType": "FIGHT_PROP_BASE_HP",
-            "value": 2064.974
+            "value": 2064.9739
           },
           {
             "statType": "FIGHT_PROP_BASE_DEFENSE",
@@ -4906,7 +4906,7 @@
           },
           {
             "statType": "FIGHT_PROP_BASE_ATTACK",
-            "value": 44.813
+            "value": 44.8128
           },
           {
             "statType": "FIGHT_PROP_ROCK_ADD_HURT",
@@ -4925,7 +4925,7 @@
             "name": "琉璃百合",
             "count": 45,
             "rank": 1,
-            "icon": "/assets/images/Ningguang_material_100030_1753588862557.png",
+            "icon": "/assets/images/Ningguang_material_100030_1754193874588.png",
             "description": "極めて古い花。かつて璃月の至るところにあり、大地の記憶を花の香りに変えられるらしい。",
             "type": "璃月地域の特産"
           },
@@ -4934,7 +4934,7 @@
             "name": "堅牢なトパーズ·塊",
             "count": 6,
             "rank": 4,
-            "icon": "/assets/images/Ningguang_material_104173_1753588862414.png",
+            "icon": "/assets/images/Ningguang_material_104173_1754193874612.png",
             "description": "キャラクターの突破用アイテム。\\n「この大陸の全ての金銭は俺の血肉。」\\n「こんな形で俺は、人間の労働、知恵、未来を保証する。」",
             "type": "キャラクター突破素材"
           },
@@ -4943,7 +4943,7 @@
             "name": "尉官の記章",
             "count": 12,
             "rank": 3,
-            "icon": "/assets/images/Diluc_material_112034_1753588845805.png",
+            "icon": "/assets/images/Diluc_material_112034_1754193860805.png",
             "description": "尉官の身分を記した記章。ファデュイには膨大な軍隊があり、その中で尉官になれる人はきっと優れた能力があるだろう。",
             "type": "キャラと武器育成素材"
           },
@@ -4952,7 +4952,7 @@
             "name": "玄岩の塔",
             "count": 12,
             "rank": 4,
-            "icon": "/assets/images/Ningguang_material_113009_1753588862447.png",
+            "icon": "/assets/images/Ningguang_material_113009_1754193874482.png",
             "description": "無相の岩の外殻によって構成された石柱、純粋な岩元素が高度に濃縮されたものである。\\n岩元素は最も重い元素だ。無相の岩が、外殻を高くそびえ立つ岩の柱にし、自身を高いところに上げたのは、敵から身を守るためではなく、無縁だった天空により近づくためなのかもしれない。",
             "type": "キャラクター育成素材"
           }
@@ -4960,7 +4960,7 @@
         "statBonus": [
           {
             "statType": "FIGHT_PROP_BASE_HP",
-            "value": 2500.554
+            "value": 2500.5542
           },
           {
             "statType": "FIGHT_PROP_BASE_DEFENSE",
@@ -4968,7 +4968,7 @@
           },
           {
             "statType": "FIGHT_PROP_BASE_ATTACK",
-            "value": 54.266
+            "value": 54.2655
           },
           {
             "statType": "FIGHT_PROP_ROCK_ADD_HURT",
@@ -4987,7 +4987,7 @@
             "name": "琉璃百合",
             "count": 60,
             "rank": 1,
-            "icon": "/assets/images/Ningguang_material_100030_1753588862557.png",
+            "icon": "/assets/images/Ningguang_material_100030_1754193874588.png",
             "description": "極めて古い花。かつて璃月の至るところにあり、大地の記憶を花の香りに変えられるらしい。",
             "type": "璃月地域の特産"
           },
@@ -4996,7 +4996,7 @@
             "name": "堅牢なトパーズ",
             "count": 6,
             "rank": 5,
-            "icon": "/assets/images/Ningguang_material_104174_1753588862578.png",
+            "icon": "/assets/images/Ningguang_material_104174_1754193874687.png",
             "description": "キャラクターの突破用アイテム。\\n「この大陸の全ての金銭は俺の血肉。」\\n「こんな形で俺は、人間の労働、知恵、未来を保証する。」\\n「これが俺の人間への信頼。金銭に背くことは、俺の血を汚すと同然だ。」",
             "type": "キャラクター突破素材"
           },
@@ -5005,7 +5005,7 @@
             "name": "尉官の記章",
             "count": 24,
             "rank": 3,
-            "icon": "/assets/images/Diluc_material_112034_1753588845805.png",
+            "icon": "/assets/images/Diluc_material_112034_1754193860805.png",
             "description": "尉官の身分を記した記章。ファデュイには膨大な軍隊があり、その中で尉官になれる人はきっと優れた能力があるだろう。",
             "type": "キャラと武器育成素材"
           },
@@ -5014,7 +5014,7 @@
             "name": "玄岩の塔",
             "count": 20,
             "rank": 4,
-            "icon": "/assets/images/Ningguang_material_113009_1753588862447.png",
+            "icon": "/assets/images/Ningguang_material_113009_1754193874482.png",
             "description": "無相の岩の外殻によって構成された石柱、純粋な岩元素が高度に濃縮されたものである。\\n岩元素は最も重い元素だ。無相の岩が、外殻を高くそびえ立つ岩の柱にし、自身を高いところに上げたのは、敵から身を守るためではなく、無縁だった天空により近づくためなのかもしれない。",
             "type": "キャラクター育成素材"
           }
@@ -5022,7 +5022,7 @@
         "statBonus": [
           {
             "statType": "FIGHT_PROP_BASE_HP",
-            "value": 2936.135
+            "value": 2936.1348
           },
           {
             "statType": "FIGHT_PROP_BASE_DEFENSE",
@@ -5030,7 +5030,7 @@
           },
           {
             "statType": "FIGHT_PROP_BASE_ATTACK",
-            "value": 63.718
+            "value": 63.7182
           },
           {
             "statType": "FIGHT_PROP_ROCK_ADD_HURT",

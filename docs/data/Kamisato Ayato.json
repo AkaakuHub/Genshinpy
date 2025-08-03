@@ -8,9 +8,9 @@
   "region": "Inazuma",
   "constellation": "神守柏座",
   "description": "若く有能な社奉行神里家の現当主。穏やかで礼儀正しく、物事をそつなく処理する。",
-  "icon": "/assets/images/Kamisato Ayato_icon_1753588936380.png",
+  "icon": "/assets/images/Kamisato Ayato_icon_1754193933375.png",
   "profile": {
-    "baseHp": 1067.718,
+    "baseHp": 1067.7184,
     "baseAtk": 23.275,
     "baseDef": 59.83,
     "bonusStat": {
@@ -23,7 +23,7 @@
       "id": "神里流・転",
       "name": "神里流・転",
       "description": "",
-      "icon": "/assets/images/Kamisato Ayaka_normal_attack_1753588834273.png",
+      "icon": "/assets/images/Kamisato Ayaka_normal_attack_1754193851031.png",
       "skillType": "normal",
       "params": {
         "1": [],
@@ -47,7 +47,7 @@
       "id": "神里流·鏡花",
       "name": "神里流·鏡花",
       "description": "",
-      "icon": "/assets/images/Kamisato Ayato_elemental_skill_1753588936380.png",
+      "icon": "/assets/images/Kamisato Ayato_elemental_skill_1754193933375.png",
       "levelData": [
         {
           "tableIndex": 1,
@@ -147,7 +147,7 @@
             0
           ],
           "description": [
-            "瞬水剣1段��メージ|{param1:F1P}",
+            "瞬水剣1段ダメージ|{param1:F1P}",
             "瞬水剣2段ダメージ|{param2:F1P}",
             "瞬水剣3段ダメージ|{param3:F1P}",
             "滝廻鑑花継続時間|{param4:F1}秒",
@@ -1136,21 +1136,21 @@
     "elementalBurst": {
       "name": "神里流·峰を纏いし清滝",
       "description": "",
-      "icon": "/assets/images/Kamisato Ayato_elemental_burst_1753588936380.png",
+      "icon": "/assets/images/Kamisato Ayato_elemental_burst_1754193933375.png",
       "levelData": []
     },
     "passiveTalents": [
       {
         "name": "神里流·峰を纏いし清滝",
-        "icon": "/assets/images/Kamisato Ayato_passive_1_1753588936381.png"
+        "icon": "/assets/images/Kamisato Ayato_passive_1_1754193933375.png"
       },
       {
         "name": "神里流·満ちゆく破月",
-        "icon": "/assets/images/Kamisato Ayato_passive_2_1753588936381.png"
+        "icon": "/assets/images/Kamisato Ayato_passive_2_1754193933375.png"
       },
       {
         "name": "神里流·日常茶飯",
-        "icon": "/assets/images/Kamisato Ayato_passive_3_1753588936381.png"
+        "icon": "/assets/images/Kamisato Ayato_passive_3_1754193933375.png"
       }
     ],
     "completeTableData": [
@@ -2297,7 +2297,7 @@
               0
             ],
             "description": [
-              "瞬水剣1段��メージ|{param1:F1P}",
+              "瞬水剣1段ダメージ|{param1:F1P}",
               "瞬水剣2段ダメージ|{param2:F1P}",
               "瞬水剣3段ダメージ|{param3:F1P}",
               "滝廻鑑花継続時間|{param4:F1}秒",
@@ -3908,7 +3908,7 @@
               "水沫剣ダメージ|{param1:F1P}",
               "通常攻撃ダメージアップ|{param2:F1P}",
               "継続時間|{param3:F1}秒",
-              "クール���イム|{param4:F1}秒",
+              "クールタイム|{param4:F1}秒",
               "元素エネルギー|{param5:I}",
               "",
               "",
@@ -4317,32 +4317,32 @@
       {
         "level": null,
         "name": "鏡華風姿",
-        "icon": "/assets/images/Kamisato Ayato_constellation_cNaN_1753588936381.png"
+        "icon": "/assets/images/Kamisato Ayato_constellation_cNaN_1754193933375.png"
       },
       {
         "level": null,
         "name": "世に源泉ありて",
-        "icon": "/assets/images/Kamisato Ayato_constellation_cNaN_1753588936381.png"
+        "icon": "/assets/images/Kamisato Ayato_constellation_cNaN_1754193933376.png"
       },
       {
         "level": null,
         "name": "無意弄花",
-        "icon": "/assets/images/Kamisato Ayato_constellation_cNaN_1753588936381.png"
+        "icon": "/assets/images/Kamisato Ayato_constellation_cNaN_1754193933376.png"
       },
       {
         "level": null,
         "name": "細流厭わず",
-        "icon": "/assets/images/Kamisato Ayato_constellation_cNaN_1753588936381.png"
+        "icon": "/assets/images/Kamisato Ayato_constellation_cNaN_1754193933376.png"
       },
       {
         "level": null,
         "name": "万水一露",
-        "icon": "/assets/images/Kamisato Ayato_constellation_cNaN_1753588936381.png"
+        "icon": "/assets/images/Kamisato Ayato_constellation_cNaN_1754193933376.png"
       },
       {
         "level": null,
         "name": "濫觴無底",
-        "icon": "/assets/images/Kamisato Ayato_constellation_cNaN_1753588936381.png"
+        "icon": "/assets/images/Kamisato Ayato_constellation_cNaN_1754193933376.png"
       }
     ]
   },
@@ -4359,111 +4359,111 @@
     "id": 210114,
     "name": "神里綾人·細波",
     "description": "神里綾人·細波",
-    "icon": "/assets/images/Kamisato Ayato_icon_1753588936380.png"
+    "icon": "/assets/images/Kamisato Ayato_namecard_1754193933497.png"
   },
   "specialFood": {
     "id": 108387,
     "name": "「静寂閑雅」",
     "rank": 3,
-    "icon": "/assets/images/Kamisato Ayato_special_food_1753588936382.png",
-    "effectIcon": "/assets/images/Klee_food_effect_1753588864411.png"
+    "icon": "/assets/images/Kamisato Ayato_special_food_1754193933376.png",
+    "effectIcon": "/assets/images/Klee_food_effect_1754193876140.png"
   },
   "levelProgression": [
     {
       "statType": "FIGHT_PROP_BASE_HP",
       "values": [
-        1067.718,
-        1089.4312701816405,
-        1111.5861046171199,
-        1134.1914830220062,
-        1157.2565677246823,
-        1180.7907073799881,
-        1204.8034407583816,
-        1229.30450061216,
-        1254.3038176203008,
-        1279.8115244135292,
-        1305.8379596812383,
-        1332.3936723619279,
-        1359.4894259188618,
-        1387.1362027026746,
-        1415.345208402698,
-        1444.1278765888087,
-        1473.4958733456408,
-        1503.46110200104,
-        1534.0357079506775,
-        1565.2320835807757,
-        1597.0628732909433,
-        1629.5409786191601,
-        1662.6795634709767,
-        1696.4920594550633,
-        1730.992171327257,
-        1766.1938825453249,
-        1802.1114609366853,
-        1838.7594644813935,
-        1876.1527472127254,
-        1914.3064652377625,
-        1953.236082880406,
-        1992.957378949322,
-        2033.4864531333483,
-        2074.839732526961,
-        2117.033978288445,
-        2160.0862924334624,
-        2204.01412476678,
-        2248.835279954959,
-        2294.5679247428775,
-        2341.2305953170057,
-        2388.842204818429,
-        2437.4220510086475,
-        2486.989824091276,
-        2537.565614692806,
-        2589.1699220056585,
-        2641.8236620968482,
-        2695.5481763856014,
-        2750.3652402933826,
-        2806.297072069827,
-        2863.366341798162,
-        2921.5961805837574,
-        2981.010189929542,
-        3041.6324513020795,
-        3103.4875358921745,
-        3166.6005145739796,
-        3230.9969680666295,
-        3296.702997302524,
-        3363.7452340064597,
-        3432.150851489903,
-        3501.9475756647757,
-        3573.163696281221,
-        3645.8280783938967,
-        3719.9701740614573,
-        3795.6200342839493,
-        3872.808321182976,
-        3951.566320429547,
-        4031.92595392468,
-        4113.919792737862,
-        4197.581070308639,
-        4282.943695916664,
-        4370.04226842569,
-        4458.9120903070425,
-        4549.5891819482995,
-        4642.110296252929,
-        4736.51293353685,
-        4832.835356727916,
-        4931.116606874507,
-        5031.396518969497,
-        5133.715738096034,
-        5238.115735901651,
-        5344.638827407397,
-        5453.328188158816,
-        5564.227871725681,
-        5677.382827557644,
-        5792.83891920297,
-        5910.642942897779,
-        6030.842646533331,
-        6153.486749009019,
-        6278.6249599789335,
-        6406.308000000001
+        1067.7184,
+        1089.4316783160991,
+        1111.586521051461,
+        1134.1919079250172,
+        1157.2570012685835,
+        1180.7911497405016,
+        1204.8038921148036,
+        1229.3049611474326,
+        1254.3042875210865,
+        1279.8120038702864,
+        1305.8384488882984,
+        1332.3941715175747,
+        1359.489935225411,
+        1387.1367223665568,
+        1415.3457386345412,
+        1444.1284176035247,
+        1473.4964253625114,
+        1503.461665243807,
+        1534.036282647632,
+        1565.232669964852,
+        1597.0634715998126,
+        1629.5415890953263,
+        1662.6801863618762,
+        1696.4926950131635,
+        1730.99281981016,
+        1766.1945442158717,
+        1802.1121360630614,
+        1838.760153337239,
+        1876.1534500772445,
+        1914.3071823958378,
+        1953.2368146227134,
+        1992.9581255724486,
+        2033.4872149399125,
+        2074.840509825736,
+        2117.0347713944816,
+        2160.0871016682195,
+        2204.014950458254,
+        2248.8361224378164,
+        2294.56878435859,
+        2341.23147241399,
+        2388.8430997521864,
+        2437.4229641419097,
+        2486.9907557941506,
+        2537.5665653429264,
+        2589.17089198834,
+        2641.82465180524,
+        2695.5491862208487,
+        2750.366270664788,
+        2806.2981233950163,
+        2863.367414503255,
+        2921.597275103539,
+        2981.011306707638,
+        3041.6335907911393,
+        3103.4886985540516,
+        3166.6017008799195,
+        3230.9981784974616,
+        3296.7042323488554,
+        3363.746494168875,
+        3432.152137279166,
+        3501.948887602038,
+        3573.165034898232,
+        3645.8294442332203,
+        3719.97156767669,
+        3795.6214562399464,
+        3872.8097720560795,
+        3951.567800807819,
+        4031.927464408142,
+        4113.921333938738,
+        4197.582642851602,
+        4282.9453004390925,
+        4370.0439055779225,
+        4458.913760752644,
+        4549.590886364327,
+        4642.112035330212,
+        4736.514707980265,
+        4832.837167256673,
+        4931.118454222441,
+        5031.3984038853705,
+        5133.717661343835,
+        5238.1176982609,
+        5344.6408296734735,
+        5453.33023114327,
+        5564.229956256567,
+        5677.384954479857,
+        5792.841089378584,
+        5910.645157206404,
+        6030.844905872462,
+        6153.489054294402,
+        6278.627312144939,
+        6406.3104
       ],
-      "initValue": 1067.718,
+      "initValue": 1067.7184,
       "growthType": "GROW_CURVE_HP_S5"
     },
     {
@@ -4682,7 +4682,7 @@
             "name": "緋櫻毬",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Kamisato Ayaka_material_101202_1753588834727.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_101202_1754193851429.png",
             "description": "鳴神大社の神櫻から落ちる花びら。稲妻の地の恵みを受けている。",
             "type": "稲妻地域の特産"
           },
@@ -4691,7 +4691,7 @@
             "name": "澄明なラピスラズリ·砕屑",
             "count": 1,
             "rank": 2,
-            "icon": "/assets/images/Barbara_material_104121_1753588841349.png",
+            "icon": "/assets/images/Barbara_material_104121_1754193857211.png",
             "description": "キャラクターの突破用アイテム。",
             "type": "キャラクター突破素材"
           },
@@ -4700,7 +4700,7 @@
             "name": "古びた鍔",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Kamisato Ayaka_material_112044_1753588834804.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_112044_1754193851447.png",
             "description": "稲妻の刀についている防具。多くの戦いを経験している。\\n剣術の達人にとって、鍔は相手の刃から手を守ってくれる物。新人にとっては、誤って手が柄から刀身へと滑らないよう守ってくれる物だ。",
             "type": "キャラと武器育成素材"
           }
@@ -4716,7 +4716,7 @@
           },
           {
             "statType": "FIGHT_PROP_BASE_ATTACK",
-            "value": 19.955
+            "value": 19.95475
           }
         ]
       },
@@ -4731,7 +4731,7 @@
             "name": "緋櫻毬",
             "count": 10,
             "rank": 1,
-            "icon": "/assets/images/Kamisato Ayaka_material_101202_1753588834727.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_101202_1754193851429.png",
             "description": "鳴神大社の神櫻から落ちる花びら。稲妻の地の恵みを受けている。",
             "type": "稲妻地域の特産"
           },
@@ -4740,7 +4740,7 @@
             "name": "澄明なラピスラズリ·欠片",
             "count": 3,
             "rank": 3,
-            "icon": "/assets/images/Barbara_material_104122_1753588841481.png",
+            "icon": "/assets/images/Barbara_material_104122_1754193857241.png",
             "description": "キャラクターの突破用アイテム。\\n「僕の理想には一片の穢れも無い。」",
             "type": "キャラクター突破素材"
           },
@@ -4749,7 +4749,7 @@
             "name": "古びた鍔",
             "count": 15,
             "rank": 1,
-            "icon": "/assets/images/Kamisato Ayaka_material_112044_1753588834804.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_112044_1754193851447.png",
             "description": "稲妻の刀についている防具。多くの戦いを経験している。\\n剣術の達人にとって、鍔は相手の刃から手を守ってくれる物。新人にとっては、誤って手が柄から刀身へと滑らないよう守ってくれる物だ。",
             "type": "キャラと武器育成素材"
           },
@@ -4758,7 +4758,7 @@
             "name": "排他の露",
             "count": 2,
             "rank": 4,
-            "icon": "/assets/images/Sangonomiya Kokomi_material_113028_1753588910847.png",
+            "icon": "/assets/images/Sangonomiya Kokomi_material_113028_1754193914439.png",
             "description": "無相の水が凝縮した後、残された奇妙な水玉。\\n強烈な排他本能を持つことも、無相の水の攻撃手段の一つである。水の中に記憶と意志が含まれ、水との融合と共に成長していくそうだ。だが、無相の水が召喚した波は、あらゆる湧いている物と相容れない。たとえペトリコールの純粋な水の中に落ちても、この水玉は水銀のように、周りとの融合を拒絶するだろう。",
             "type": "キャラクター育成素材"
           }
@@ -4774,7 +4774,7 @@
           },
           {
             "statType": "FIGHT_PROP_BASE_ATTACK",
-            "value": 34.133
+            "value": 34.133125
           },
           {
             "statType": "会心ダメージ",
@@ -4793,7 +4793,7 @@
             "name": "緋櫻毬",
             "count": 20,
             "rank": 1,
-            "icon": "/assets/images/Kamisato Ayaka_material_101202_1753588834727.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_101202_1754193851429.png",
             "description": "鳴神大社の神櫻から落ちる花びら。稲妻の地の恵みを受けている。",
             "type": "稲妻地域の特産"
           },
@@ -4802,7 +4802,7 @@
             "name": "澄明なラピスラズリ·欠片",
             "count": 6,
             "rank": 3,
-            "icon": "/assets/images/Barbara_material_104122_1753588841481.png",
+            "icon": "/assets/images/Barbara_material_104122_1754193857241.png",
             "description": "キャラクターの突破用アイテム。\\n「僕の理想には一片の穢れも無い。」",
             "type": "キャラクター突破素材"
           },
@@ -4811,7 +4811,7 @@
             "name": "影打の鍔",
             "count": 12,
             "rank": 2,
-            "icon": "/assets/images/Kamisato Ayaka_material_112045_1753588834522.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_112045_1754193851352.png",
             "description": "優れた刀に使われる防具。\\n稲妻には、刀鍛冶の長き伝統がある。刀工が刀を鍛える時、必ず何本か刀を打ち、その中で一番出来の良い物を「真打」として選び、残りは「影打」と呼ぶ。",
             "type": "キャラと武器育成素材"
           },
@@ -4820,7 +4820,7 @@
             "name": "排他の露",
             "count": 4,
             "rank": 4,
-            "icon": "/assets/images/Sangonomiya Kokomi_material_113028_1753588910847.png",
+            "icon": "/assets/images/Sangonomiya Kokomi_material_113028_1754193914439.png",
             "description": "無相の水が凝縮した後、残された奇妙な水玉。\\n強烈な排他本能を持つことも、無相の水の攻撃手段の一つである。水の中に記憶と意志が含まれ、水との融合と共に成長していくそうだ。だが、無相の水が召喚した波は、あらゆる湧いている物と相容れない。たとえペトリコールの純粋な水の中に落ちても、この水玉は水銀のように、周りとの融合を拒絶するだろう。",
             "type": "キャラクター育成素材"
           }
@@ -4828,7 +4828,7 @@
         "statBonus": [
           {
             "statType": "FIGHT_PROP_BASE_HP",
-            "value": 2433.228
+            "value": 2433.2283
           },
           {
             "statType": "FIGHT_PROP_BASE_DEFENSE",
@@ -4836,7 +4836,7 @@
           },
           {
             "statType": "FIGHT_PROP_BASE_ATTACK",
-            "value": 53.038
+            "value": 53.037624
           },
           {
             "statType": "会心ダメージ",
@@ -4855,7 +4855,7 @@
             "name": "緋櫻毬",
             "count": 30,
             "rank": 1,
-            "icon": "/assets/images/Kamisato Ayaka_material_101202_1753588834727.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_101202_1754193851429.png",
             "description": "鳴神大社の神櫻から落ちる花びら。稲妻の地の恵みを受けている。",
             "type": "稲妻地域の特産"
           },
@@ -4864,7 +4864,7 @@
             "name": "澄明なラピスラズリ·塊",
             "count": 3,
             "rank": 4,
-            "icon": "/assets/images/Barbara_material_104123_1753588841660.png",
+            "icon": "/assets/images/Barbara_material_104123_1754193857114.png",
             "description": "キャラクターの突破用アイテム。\\n「僕の理想には一片の穢れも無い。」\\n「訂正させてもらおう。ここでは、人が神の裁きを受けることはない…」",
             "type": "キャラクター突破素材"
           },
@@ -4873,7 +4873,7 @@
             "name": "影打の鍔",
             "count": 18,
             "rank": 2,
-            "icon": "/assets/images/Kamisato Ayaka_material_112045_1753588834522.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_112045_1754193851352.png",
             "description": "優れた刀に使われる防具。\\n稲妻には、刀鍛冶の長き伝統がある。刀工が刀を鍛える時、必ず何本か刀を打ち、その中で一番出来の良い物を「真打」として選び、残りは「影打」と呼ぶ。",
             "type": "キャラと武器育成素材"
           },
@@ -4882,7 +4882,7 @@
             "name": "排他の露",
             "count": 8,
             "rank": 4,
-            "icon": "/assets/images/Sangonomiya Kokomi_material_113028_1753588910847.png",
+            "icon": "/assets/images/Sangonomiya Kokomi_material_113028_1754193914439.png",
             "description": "無相の水が凝縮した後、残された奇妙な水玉。\\n強烈な排他本能を持つことも、無相の水の攻撃手段の一つである。水の中に記憶と意志が含まれ、水との融合と共に成長していくそうだ。だが、無相の水が召喚した波は、あらゆる湧いている物と相容れない。たとえペトリコールの純粋な水の中に落ちても、この水玉は水銀のように、周りとの融合を拒絶するだろう。",
             "type": "キャラクター育成素材"
           }
@@ -4917,7 +4917,7 @@
             "name": "緋櫻毬",
             "count": 45,
             "rank": 1,
-            "icon": "/assets/images/Kamisato Ayaka_material_101202_1753588834727.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_101202_1754193851429.png",
             "description": "鳴神大社の神櫻から落ちる花びら。稲妻の地の恵みを受けている。",
             "type": "稲妻地域の特産"
           },
@@ -4926,7 +4926,7 @@
             "name": "澄明なラピスラズリ·塊",
             "count": 6,
             "rank": 4,
-            "icon": "/assets/images/Barbara_material_104123_1753588841660.png",
+            "icon": "/assets/images/Barbara_material_104123_1754193857114.png",
             "description": "キャラクターの突破用アイテム。\\n「僕の理想には一片の穢れも無い。」\\n「訂正させてもらおう。ここでは、人が神の裁きを受けることはない…」",
             "type": "キャラクター突破素材"
           },
@@ -4935,7 +4935,7 @@
             "name": "名刀の鍔",
             "count": 12,
             "rank": 3,
-            "icon": "/assets/images/Kamisato Ayaka_material_112046_1753588834752.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_112046_1754193851375.png",
             "description": "名刀に取り付けられた美しい防具。\\n刀には魂が宿り、命が存在すると人々は信じている。刀に名前を付けるのも、そのためである。刀を大切にする者は、刀にも報われる。しかし、刀と親友に、ひいては恋人にまでなった者は、その感情は殺伐を伴うことを肝に銘じておかなければならない。血を浴び、常に刀と踊ってきた者の熱血は、いずれ無情の鋼鉄によって冷めてしまう。",
             "type": "キャラと武器育成素材"
           },
@@ -4944,7 +4944,7 @@
             "name": "排他の露",
             "count": 12,
             "rank": 4,
-            "icon": "/assets/images/Sangonomiya Kokomi_material_113028_1753588910847.png",
+            "icon": "/assets/images/Sangonomiya Kokomi_material_113028_1754193914439.png",
             "description": "無相の水が凝縮した後、残された奇妙な水玉。\\n強烈な排他本能を持つことも、無相の水の攻撃手段の一つである。水の中に記憶と意志が含まれ、水との融合と共に成長していくそうだ。だが、無相の水が召喚した波は、あらゆる湧いている物と相容れない。たとえペトリコールの純粋な水の中に落ちても、この水玉は水銀のように、周りとの融合を拒絶するだろう。",
             "type": "キャラクター育成素材"
           }
@@ -4960,7 +4960,7 @@
           },
           {
             "statType": "FIGHT_PROP_BASE_ATTACK",
-            "value": 81.394
+            "value": 81.39438
           },
           {
             "statType": "会心ダメージ",
@@ -4979,7 +4979,7 @@
             "name": "緋櫻毬",
             "count": 60,
             "rank": 1,
-            "icon": "/assets/images/Kamisato Ayaka_material_101202_1753588834727.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_101202_1754193851429.png",
             "description": "鳴神大社の神櫻から落ちる花びら。稲妻の地の恵みを受けている。",
             "type": "稲妻地域の特産"
           },
@@ -4988,7 +4988,7 @@
             "name": "澄明なラピスラズリ",
             "count": 6,
             "rank": 5,
-            "icon": "/assets/images/Barbara_material_104124_1753588841613.png",
+            "icon": "/assets/images/Barbara_material_104124_1754193857162.png",
             "description": "キャラクターの突破用アイテム。\\n「僕の理想には一片の穢れも無い。」\\n「訂正させてもらおう。ここでは、人が神の裁きを受けることはない。裁きを下せるのは、ただ法と法廷のみ。」\\n「この僕でさえ、断罪され得るのだからね。さあ、僕の崇高と純潔を讃えてくれたまえ。」",
             "type": "キャラクター突破素材"
           },
@@ -4997,7 +4997,7 @@
             "name": "名刀の鍔",
             "count": 24,
             "rank": 3,
-            "icon": "/assets/images/Kamisato Ayaka_material_112046_1753588834752.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_112046_1754193851375.png",
             "description": "名刀に取り付けられた美しい防具。\\n刀には魂が宿り、命が存在すると人々は信じている。刀に名前を付けるのも、そのためである。刀を大切にする者は、刀にも報われる。しかし、刀と親友に、ひいては恋人にまでなった者は、その感情は殺伐を伴うことを肝に銘じておかなければならない。血を浴び、常に刀と踊ってきた者の熱血は、いずれ無情の鋼鉄によって冷めてしまう。",
             "type": "キャラと武器育成素材"
           },
@@ -5006,7 +5006,7 @@
             "name": "排他の露",
             "count": 20,
             "rank": 4,
-            "icon": "/assets/images/Sangonomiya Kokomi_material_113028_1753588910847.png",
+            "icon": "/assets/images/Sangonomiya Kokomi_material_113028_1754193914439.png",
             "description": "無相の水が凝縮した後、残された奇妙な水玉。\\n強烈な排他本能を持つことも、無相の水の攻撃手段の一つである。水の中に記憶と意志が含まれ、水との融合と共に成長していくそうだ。だが、無相の水が召喚した波は、あらゆる湧いている物と相容れない。たとえペトリコールの純粋な水の中に落ちても、この水玉は水銀のように、周りとの融合を拒絶するだろう。",
             "type": "キャラクター育成素材"
           }
@@ -5022,7 +5022,7 @@
           },
           {
             "statType": "FIGHT_PROP_BASE_ATTACK",
-            "value": 95.573
+            "value": 95.57275
           },
           {
             "statType": "会心ダメージ",

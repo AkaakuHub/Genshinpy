@@ -8,11 +8,11 @@
   "region": "Mondstadt",
   "constellation": "映天座",
   "description": "謎の占星術師の少女。自分のことを「偉大なる占星術師モナ」と自称するが、その肩書きに相応しい実力を持っている。博学で、高慢。",
-  "icon": "/assets/images/Mona_icon_1753588885498.png",
+  "icon": "/assets/images/Mona_icon_1754193893485.png",
   "profile": {
     "baseHp": 810.322,
     "baseAtk": 22.344,
-    "baseDef": 50.855,
+    "baseDef": 50.8555,
     "bonusStat": {
       "name": "チャージ効率",
       "value": "0"
@@ -23,7 +23,7 @@
       "id": "因果点破",
       "name": "因果点破",
       "description": "",
-      "icon": "/assets/images/Lisa_normal_attack_1753588838984.png",
+      "icon": "/assets/images/Lisa_normal_attack_1754193854966.png",
       "skillType": "normal",
       "params": {
         "1": [],
@@ -47,7 +47,7 @@
       "id": "水中幻願",
       "name": "水中幻願",
       "description": "",
-      "icon": "/assets/images/Mona_elemental_skill_1753588885498.png",
+      "icon": "/assets/images/Mona_elemental_skill_1754193893485.png",
       "levelData": [
         {
           "tableIndex": 1,
@@ -1136,7 +1136,7 @@
     "elementalBurst": {
       "name": "星命定軌",
       "description": "",
-      "icon": "/assets/images/Mona_elemental_burst_1753588885498.png",
+      "icon": "/assets/images/Mona_elemental_burst_1754193893485.png",
       "levelData": [
         {
           "tableIndex": 1,
@@ -2225,15 +2225,15 @@
     "passiveTalents": [
       {
         "name": "「おばば、私を捕まえられますか～」",
-        "icon": "/assets/images/Mona_passive_1_1753588885498.png"
+        "icon": "/assets/images/Mona_passive_1_1754193893486.png"
       },
       {
         "name": "「運命の流れに任せましょう！」",
-        "icon": "/assets/images/Mona_passive_2_1753588885499.png"
+        "icon": "/assets/images/Mona_passive_2_1754193893486.png"
       },
       {
         "name": "運行原理",
-        "icon": "/assets/images/Mona_passive_3_1753588885499.png"
+        "icon": "/assets/images/Mona_passive_3_1754193893486.png"
       }
     ],
     "completeTableData": [
@@ -5475,32 +5475,32 @@
       {
         "level": null,
         "name": "沈没の預言",
-        "icon": "/assets/images/Mona_constellation_cNaN_1753588885499.png"
+        "icon": "/assets/images/Mona_constellation_cNaN_1754193893486.png"
       },
       {
         "level": null,
         "name": "星月の連珠",
-        "icon": "/assets/images/Mona_constellation_cNaN_1753588885499.png"
+        "icon": "/assets/images/Mona_constellation_cNaN_1754193893486.png"
       },
       {
         "level": null,
         "name": "果てしない天象",
-        "icon": "/assets/images/Mona_constellation_cNaN_1753588885499.png"
+        "icon": "/assets/images/Mona_constellation_cNaN_1754193893486.png"
       },
       {
         "level": null,
         "name": "絶滅の預言",
-        "icon": "/assets/images/Mona_constellation_cNaN_1753588885499.png"
+        "icon": "/assets/images/Mona_constellation_cNaN_1754193893486.png"
       },
       {
         "level": null,
         "name": "運命の愚弄",
-        "icon": "/assets/images/Mona_constellation_cNaN_1753588885499.png"
+        "icon": "/assets/images/Mona_constellation_cNaN_1754193893486.png"
       },
       {
         "level": null,
         "name": "災厄の修辞",
-        "icon": "/assets/images/Mona_constellation_cNaN_1753588885499.png"
+        "icon": "/assets/images/Mona_constellation_cNaN_1754193893486.png"
       }
     ]
   },
@@ -5518,21 +5518,21 @@
       "isDefault": false,
       "rank": 4,
       "storyId": 340008,
-      "icon": "/assets/images/Mona_costume_2_1753588885500.png"
+      "icon": "/assets/images/Mona_costume_2_1754193893486.png"
     }
   ],
   "nameCard": {
     "id": 210015,
     "name": "モナ·天星",
     "description": "モナ·天星",
-    "icon": "/assets/images/Mona_namecard_1753588885738.png"
+    "icon": "/assets/images/Mona_icon_1754193893485.png"
   },
   "specialFood": {
     "id": 108114,
     "name": "最高の知恵·生活",
     "rank": 2,
-    "icon": "/assets/images/Mona_special_food_1753588885502.png",
-    "effectIcon": "/assets/images/Diluc_food_effect_1753588845425.png"
+    "icon": "/assets/images/Mona_special_food_1754193893487.png",
+    "effectIcon": "/assets/images/Diluc_food_effect_1754193860502.png"
   },
   "levelProgression": [
     {
@@ -5732,98 +5732,98 @@
     {
       "statType": "FIGHT_PROP_BASE_DEFENSE",
       "values": [
-        50.855,
-        51.889194754689264,
-        52.944421045916265,
-        54.021106574099264,
-        55.119687737435086,
-        56.24060980877843,
-        57.3843271161182,
-        58.55130322672408,
-        59.7420111350379,
-        60.95693345438592,
-        62.19656261259,
-        63.46140105155653,
-        64.75196143092437,
-        66.06876683585413,
-        67.41235098904318,
-        68.78325846705204,
-        70.18204492103023,
-        71.60927730193073,
-        73.06553409030445,
-        74.5514055307678,
-        76.0674938712384,
-        77.6144136070361,
-        79.1927917299479,
-        80.80326798235792,
-        82.44649511654542,
-        84.12313915925598,
-        85.83387968165293,
-        87.57941007475874,
-        89.3604378304975,
-        91.17768482845321,
-        93.03188762845905,
-        94.92379776913732,
-        96.85418207251017,
-        98.82382295480511,
-        100.83351874358104,
-        102.88408400130344,
-        104.97634985549983,
-        107.11116433562927,
-        109.28939271680258,
-        111.51191787049233,
-        113.77964062237518,
-        116.09348011745121,
-        118.45437419258815,
-        120.86327975664231,
-        123.32117317830901,
-        125.82905068186095,
-        128.387928750934,
-        130.99884454052471,
-        133.662856297366,
-        136.38104378885203,
-        139.15450874068523,
-        141.98437528342393,
-        144.87179040811077,
-        147.81792443116674,
-        150.82397146873961,
-        153.89114992069858,
-        157.02070296447175,
-        160.21389905892613,
-        163.47203245849465,
-        166.7964237377586,
-        170.18842032669812,
-        173.64939705682735,
-        177.1807567184363,
-        180.78393062916447,
-        184.46037921413728,
-        188.2115925979,
-        192.03909120838983,
-        195.9444263931899,
-        199.92918104831594,
-        203.9949702597895,
-        208.14344195825905,
-        212.37627758693273,
-        216.69519278309508,
-        221.10193807348261,
-        225.5982995838007,
-        230.1860997626697,
-        234.86719812029298,
-        239.6434919821467,
-        244.5169172579968,
-        249.48944922655457,
-        254.56310333608982,
-        259.7399360213245,
-        265.02204553693906,
-        270.4115728080298,
-        275.91070229786044,
-        281.5216628932607,
-        287.24672880803035,
-        293.0882205047153,
-        299.04850563512895,
-        305.13
+        50.8555,
+        51.88970492276276,
+        52.94494158884269,
+        54.021637702863146,
+        55.12022966731157,
+        56.24116275942054,
+        57.384891311645845,
+        58.5518788958149,
+        59.742598511019956,
+        60.95753277533228,
+        62.197174121415216,
+        63.4620249961151,
+        64.75259806411118,
+        66.06941641570701,
+        67.41301377884741,
+        68.78393473544715,
+        70.18273494211883,
+        71.6099813553896,
+        73.06625246149795,
+        74.55213851086347,
+        76.06824175732503,
+        77.61517670224411,
+        79.19357034357223,
+        80.80406242998336,
+        82.44730572017453,
+        84.12396624743965,
+        85.83472358962347,
+        87.5802711445658,
+        89.36131641114672,
+        91.17858127604762,
+        93.03280230634351,
+        94.92473104804569,
+        96.85513433071559,
+        98.82479457827336,
+        100.83451012612694,
+        102.88509554475051,
+        104.97738196984312,
+        107.11221743920154,
+        109.29046723644389,
+        111.51301424172298,
+        113.78075928957234,
+        116.0946215340289,
+        118.45553882118114,
+        120.86446806929355,
+        123.32238565666098,
+        125.8302878173509,
+        128.3891910449931,
+        131.00013250478133,
+        133.66417045385305,
+        136.38238467021856,
+        139.15587689041232,
+        141.98577125604496,
+        144.8732147694362,
+        147.81937775851344,
+        150.82545435116484,
+        153.89266295923875,
+        157.02224677238607,
+        160.2154742619451,
+        163.47363969507373,
+        166.798063659337,
+        170.19009359796277,
+        173.65110435598237,
+        177.18249873747789,
+        180.7857080741613,
+        184.46219280551682,
+        188.2134430707404,
+        192.04097931271792,
+        195.94635289428513,
+        199.93114672702058,
+        203.9969759128252,
+        208.14548839854967,
+        212.37836564393388,
+        216.69732330313033,
+        221.10411192008644,
+        225.60051763806857,
+        230.1883629236152,
+        234.8695073052121,
+        239.64584812698973,
+        244.51932131774763,
+        249.49190217561787,
+        254.5656061686858,
+        259.74248975189204,
+        265.0246512005467,
+        270.41423146079563,
+        275.9134150173797,
+        281.5244307790428,
+        287.2495529819445,
+        293.09110211144525,
+        299.05144584263695,
+        305.133
       ],
-      "initValue": 50.855,
+      "initValue": 50.8555,
       "growthType": "GROW_CURVE_HP_S5"
     }
   ],
@@ -5848,7 +5848,7 @@
             "name": "慕風のマッシュルーム",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Barbara_material_100025_1753588841536.png",
+            "icon": "/assets/images/Barbara_material_100025_1754193857188.png",
             "description": "爽やかな風を浴びて育ったマッシュルーム、風のように果てしなく命を育む。",
             "type": "モンド地域の特産"
           },
@@ -5857,7 +5857,7 @@
             "name": "澄明なラピスラズリ·砕屑",
             "count": 1,
             "rank": 2,
-            "icon": "/assets/images/Barbara_material_104121_1753588841349.png",
+            "icon": "/assets/images/Barbara_material_104121_1754193857211.png",
             "description": "キャラクターの突破用アイテム。",
             "type": "キャラクター突破素材"
           },
@@ -5866,7 +5866,7 @@
             "name": "トリックフラワーの蜜",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Ganyu_material_112038_1753588880296.png",
+            "icon": "/assets/images/Ganyu_material_112038_1754193889049.png",
             "description": "花蕊から抽出された花蜜、少量の元素が含まれている。\\nスイートフラワーの味と微妙に似ている。",
             "type": "キャラと武器育成素材"
           }
@@ -5874,7 +5874,7 @@
         "statBonus": [
           {
             "statType": "FIGHT_PROP_BASE_HP",
-            "value": 694.778
+            "value": 694.77783
           },
           {
             "statType": "FIGHT_PROP_BASE_DEFENSE",
@@ -5882,7 +5882,7 @@
           },
           {
             "statType": "FIGHT_PROP_BASE_ATTACK",
-            "value": 19.157
+            "value": 19.15656
           }
         ]
       },
@@ -5897,7 +5897,7 @@
             "name": "慕風のマッシュルーム",
             "count": 10,
             "rank": 1,
-            "icon": "/assets/images/Barbara_material_100025_1753588841536.png",
+            "icon": "/assets/images/Barbara_material_100025_1754193857188.png",
             "description": "爽やかな風を浴びて育ったマッシュルーム、風のように果てしなく命を育む。",
             "type": "モンド地域の特産"
           },
@@ -5906,7 +5906,7 @@
             "name": "澄明なラピスラズリ·欠片",
             "count": 3,
             "rank": 3,
-            "icon": "/assets/images/Barbara_material_104122_1753588841481.png",
+            "icon": "/assets/images/Barbara_material_104122_1754193857241.png",
             "description": "キャラクターの突破用アイテム。\\n「僕の理想には一片の穢れも無い。」",
             "type": "キャラクター突破素材"
           },
@@ -5915,7 +5915,7 @@
             "name": "トリックフラワーの蜜",
             "count": 15,
             "rank": 1,
-            "icon": "/assets/images/Ganyu_material_112038_1753588880296.png",
+            "icon": "/assets/images/Ganyu_material_112038_1754193889049.png",
             "description": "花蕊から抽出された花蜜、少量の元素が含まれている。\\nスイートフラワーの味と微妙に似ている。",
             "type": "キャラと武器育成素材"
           },
@@ -5924,7 +5924,7 @@
             "name": "浄水の心",
             "count": 2,
             "rank": 4,
-            "icon": "/assets/images/Barbara_material_113012_1753588841643.png",
+            "icon": "/assets/images/Barbara_material_113012_1754193857062.png",
             "description": "純水精霊が残した永遠に透き通る一掬の涙。\\n湖に溶いても希釈されないだろう。でもこんな高貴な純水精霊はなぜ浄水で変身してまで地上の生き物になろうとしているのかな？呼吸も、食事もする必要がないのに…",
             "type": "キャラクター育成素材"
           }
@@ -5932,15 +5932,15 @@
         "statBonus": [
           {
             "statType": "FIGHT_PROP_BASE_HP",
-            "value": 1188.436
+            "value": 1188.4358
           },
           {
             "statType": "FIGHT_PROP_BASE_DEFENSE",
-            "value": 74.588
+            "value": 74.5875
           },
           {
             "statType": "FIGHT_PROP_BASE_ATTACK",
-            "value": 32.768
+            "value": 32.7678
           },
           {
             "statType": "チャージ効率",
@@ -5959,7 +5959,7 @@
             "name": "慕風のマッシュルーム",
             "count": 20,
             "rank": 1,
-            "icon": "/assets/images/Barbara_material_100025_1753588841536.png",
+            "icon": "/assets/images/Barbara_material_100025_1754193857188.png",
             "description": "爽やかな風を浴びて育ったマッシュルーム、風のように果てしなく命を育む。",
             "type": "モンド地域の特産"
           },
@@ -5968,7 +5968,7 @@
             "name": "澄明なラピスラズリ·欠片",
             "count": 6,
             "rank": 3,
-            "icon": "/assets/images/Barbara_material_104122_1753588841481.png",
+            "icon": "/assets/images/Barbara_material_104122_1754193857241.png",
             "description": "キャラクターの突破用アイテム。\\n「僕の理想には一片の穢れも無い。」",
             "type": "キャラクター突破素材"
           },
@@ -5977,7 +5977,7 @@
             "name": "微光花の蜜",
             "count": 12,
             "rank": 2,
-            "icon": "/assets/images/Ganyu_material_112039_1753588880326.png",
+            "icon": "/assets/images/Ganyu_material_112039_1754193889145.png",
             "description": "元素純度がやや高めの花蜜。\\n学界の見解によるとトリックフラワーは元素植物の高等生命形態である。だがトリックフラワーの食性は未だ解明されていない。",
             "type": "キャラと武器育成素材"
           },
@@ -5986,7 +5986,7 @@
             "name": "浄水の心",
             "count": 4,
             "rank": 4,
-            "icon": "/assets/images/Barbara_material_113012_1753588841643.png",
+            "icon": "/assets/images/Barbara_material_113012_1754193857062.png",
             "description": "純水精霊が残した永遠に透き通る一掬の涙。\\n湖に溶いても希釈されないだろう。でもこんな高貴な純水精霊はなぜ浄水で変身してまで地上の生き物になろうとしているのかな？呼吸も、食事もする必要がないのに…",
             "type": "キャラクター育成素材"
           }
@@ -5994,15 +5994,15 @@
         "statBonus": [
           {
             "statType": "FIGHT_PROP_BASE_HP",
-            "value": 1846.646
+            "value": 1846.6464
           },
           {
             "statType": "FIGHT_PROP_BASE_DEFENSE",
-            "value": 115.897
+            "value": 115.8975
           },
           {
             "statType": "FIGHT_PROP_BASE_ATTACK",
-            "value": 50.916
+            "value": 50.91612
           },
           {
             "statType": "チャージ効率",
@@ -6021,7 +6021,7 @@
             "name": "慕風のマッシュルーム",
             "count": 30,
             "rank": 1,
-            "icon": "/assets/images/Barbara_material_100025_1753588841536.png",
+            "icon": "/assets/images/Barbara_material_100025_1754193857188.png",
             "description": "爽やかな風を浴びて育ったマッシュルーム、風のように果てしなく命を育む。",
             "type": "モンド地域の特産"
           },
@@ -6030,7 +6030,7 @@
             "name": "澄明なラピスラズリ·塊",
             "count": 3,
             "rank": 4,
-            "icon": "/assets/images/Barbara_material_104123_1753588841660.png",
+            "icon": "/assets/images/Barbara_material_104123_1754193857114.png",
             "description": "キャラクターの突破用アイテム。\\n「僕の理想には一片の穢れも無い。」\\n「訂正させてもらおう。ここでは、人が神の裁きを受けることはない…」",
             "type": "キャラクター突破素材"
           },
@@ -6039,7 +6039,7 @@
             "name": "微光花の蜜",
             "count": 18,
             "rank": 2,
-            "icon": "/assets/images/Ganyu_material_112039_1753588880326.png",
+            "icon": "/assets/images/Ganyu_material_112039_1754193889145.png",
             "description": "元素純度がやや高めの花蜜。\\n学界の見解によるとトリックフラワーは元素植物の高等生命形態である。だがトリックフラワーの食性は未だ解明されていない。",
             "type": "キャラと武器育成素材"
           },
@@ -6048,7 +6048,7 @@
             "name": "浄水の心",
             "count": 8,
             "rank": 4,
-            "icon": "/assets/images/Barbara_material_113012_1753588841643.png",
+            "icon": "/assets/images/Barbara_material_113012_1754193857062.png",
             "description": "純水精霊が残した永遠に透き通る一掬の涙。\\n湖に溶いても希釈されないだろう。でもこんな高貴な純水精霊はなぜ浄水で変身してまで地上の生き物になろうとしているのかな？呼吸も、食事もする必要がないのに…",
             "type": "キャラクター育成素材"
           }
@@ -6056,7 +6056,7 @@
         "statBonus": [
           {
             "statType": "FIGHT_PROP_BASE_HP",
-            "value": 2340.304
+            "value": 2340.3042
           },
           {
             "statType": "FIGHT_PROP_BASE_DEFENSE",
@@ -6064,7 +6064,7 @@
           },
           {
             "statType": "FIGHT_PROP_BASE_ATTACK",
-            "value": 64.527
+            "value": 64.52736
           },
           {
             "statType": "チャージ効率",
@@ -6083,7 +6083,7 @@
             "name": "慕風のマッシュルーム",
             "count": 45,
             "rank": 1,
-            "icon": "/assets/images/Barbara_material_100025_1753588841536.png",
+            "icon": "/assets/images/Barbara_material_100025_1754193857188.png",
             "description": "爽やかな風を浴びて育ったマッシュルーム、風のように果てしなく命を育む。",
             "type": "モンド地域の特産"
           },
@@ -6092,7 +6092,7 @@
             "name": "澄明なラピスラズリ·塊",
             "count": 6,
             "rank": 4,
-            "icon": "/assets/images/Barbara_material_104123_1753588841660.png",
+            "icon": "/assets/images/Barbara_material_104123_1754193857114.png",
             "description": "キャラクターの突破用アイテム。\\n「僕の理想には一片の穢れも無い。」\\n「訂正させてもらおう。ここでは、人が神の裁きを受けることはない…」",
             "type": "キャラクター突破素材"
           },
@@ -6101,7 +6101,7 @@
             "name": "原素花の蜜",
             "count": 12,
             "rank": 3,
-            "icon": "/assets/images/Ganyu_material_112040_1753588880391.png",
+            "icon": "/assets/images/Ganyu_material_112040_1754193889172.png",
             "description": "エネルギーに満ちたネバネバの花蜜。\\nトリックフラワーが獲物を騙しているのは狩るためである。そして捕食しているのはより強くてより純粋な姿へと進化するためであろう…",
             "type": "キャラと武器育成素材"
           },
@@ -6110,7 +6110,7 @@
             "name": "浄水の心",
             "count": 12,
             "rank": 4,
-            "icon": "/assets/images/Barbara_material_113012_1753588841643.png",
+            "icon": "/assets/images/Barbara_material_113012_1754193857062.png",
             "description": "純水精霊が残した永遠に透き通る一掬の涙。\\n湖に溶いても希釈されないだろう。でもこんな高貴な純水精霊はなぜ浄水で変身してまで地上の生き物になろうとしているのかな？呼吸も、食事もする必要がないのに…",
             "type": "キャラクター育成素材"
           }
@@ -6118,15 +6118,15 @@
         "statBonus": [
           {
             "statType": "FIGHT_PROP_BASE_HP",
-            "value": 2833.962
+            "value": 2833.9622
           },
           {
             "statType": "FIGHT_PROP_BASE_DEFENSE",
-            "value": 177.863
+            "value": 177.8625
           },
           {
             "statType": "FIGHT_PROP_BASE_ATTACK",
-            "value": 78.139
+            "value": 78.1386
           },
           {
             "statType": "チャージ効率",
@@ -6145,7 +6145,7 @@
             "name": "慕風のマッシュルーム",
             "count": 60,
             "rank": 1,
-            "icon": "/assets/images/Barbara_material_100025_1753588841536.png",
+            "icon": "/assets/images/Barbara_material_100025_1754193857188.png",
             "description": "爽やかな風を浴びて育ったマッシュルーム、風のように果てしなく命を育む。",
             "type": "モンド地域の特産"
           },
@@ -6154,7 +6154,7 @@
             "name": "澄明なラピスラズリ",
             "count": 6,
             "rank": 5,
-            "icon": "/assets/images/Barbara_material_104124_1753588841613.png",
+            "icon": "/assets/images/Barbara_material_104124_1754193857162.png",
             "description": "キャラクターの突破用アイテム。\\n「僕の理想には一片の穢れも無い。」\\n「訂正させてもらおう。ここでは、人が神の裁きを受けることはない。裁きを下せるのは、ただ法と法廷のみ。」\\n「この僕でさえ、断罪され得るのだからね。さあ、僕の崇高と純潔を讃えてくれたまえ。」",
             "type": "キャラクター突破素材"
           },
@@ -6163,7 +6163,7 @@
             "name": "原素花の蜜",
             "count": 24,
             "rank": 3,
-            "icon": "/assets/images/Ganyu_material_112040_1753588880391.png",
+            "icon": "/assets/images/Ganyu_material_112040_1754193889172.png",
             "description": "エネルギーに満ちたネバネバの花蜜。\\nトリックフラワーが獲物を騙しているのは狩るためである。そして捕食しているのはより強くてより純粋な姿へと進化するためであろう…",
             "type": "キャラと武器育成素材"
           },
@@ -6172,7 +6172,7 @@
             "name": "浄水の心",
             "count": 20,
             "rank": 4,
-            "icon": "/assets/images/Barbara_material_113012_1753588841643.png",
+            "icon": "/assets/images/Barbara_material_113012_1754193857062.png",
             "description": "純水精霊が残した永遠に透き通る一掬の涙。\\n湖に溶いても希釈されないだろう。でもこんな高貴な純水精霊はなぜ浄水で変身してまで地上の生き物になろうとしているのかな？呼吸も、食事もする必要がないのに…",
             "type": "キャラクター育成素材"
           }
@@ -6188,7 +6188,7 @@
           },
           {
             "statType": "FIGHT_PROP_BASE_ATTACK",
-            "value": 91.75
+            "value": 91.74984
           },
           {
             "statType": "チャージ効率",
@@ -6202,7 +6202,7 @@
     "EN": "Felecia Angelle",
     "CHS": "陈婷婷",
     "JP": "小原好美",
-    "KR": "우���신"
+    "KR": "우정신"
   },
   "birthday": "8/31",
   "nativeTitle": "モンド城",

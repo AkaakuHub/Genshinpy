@@ -8,11 +8,11 @@
   "region": "Liyue",
   "constellation": "仙麟座",
   "description": "月海亭の秘書。その身には仙獣「麒麟」の血が流れている。",
-  "icon": "/assets/images/Ganyu_icon_1753588879903.png",
+  "icon": "/assets/images/Ganyu_icon_1754193888905.png",
   "profile": {
     "baseHp": 762.656,
     "baseAtk": 26.068,
-    "baseDef": 49.061,
+    "baseDef": 49.0606,
     "bonusStat": {
       "name": "会心ダメージ",
       "value": "38.4%"
@@ -23,7 +23,7 @@
       "id": "流天射術",
       "name": "流天射術",
       "description": "",
-      "icon": "/assets/images/Amber_normal_attack_1753588849513.png",
+      "icon": "/assets/images/Amber_normal_attack_1754193864101.png",
       "skillType": "normal",
       "params": {
         "1": [],
@@ -47,7 +47,7 @@
       "id": "山沢麟跡",
       "name": "山沢麟跡",
       "description": "",
-      "icon": "/assets/images/Ganyu_elemental_skill_1753588879904.png",
+      "icon": "/assets/images/Ganyu_elemental_skill_1754193888905.png",
       "levelData": [
         {
           "tableIndex": 1,
@@ -950,7 +950,7 @@
           ],
           "description": [
             "HP継承|{param1:P}",
-            "スキルダメ��ジ|{param2:P}",
+            "スキルダメージ|{param2:P}",
             "継続時間|{param3:F1}秒",
             "クールタイム|{param4:F1}秒",
             "",
@@ -1136,21 +1136,21 @@
     "elementalBurst": {
       "name": "唯一の心",
       "description": "",
-      "icon": "/assets/images/Ganyu_elemental_burst_1753588879904.png",
+      "icon": "/assets/images/Ganyu_elemental_burst_1754193888905.png",
       "levelData": []
     },
     "passiveTalents": [
       {
         "name": "唯一の心",
-        "icon": "/assets/images/Ganyu_passive_1_1753588879904.png"
+        "icon": "/assets/images/Ganyu_passive_1_1754193888905.png"
       },
       {
         "name": "天地安泰",
-        "icon": "/assets/images/Ganyu_passive_2_1753588879904.png"
+        "icon": "/assets/images/Ganyu_passive_2_1754193888905.png"
       },
       {
         "name": "弓蔵待命",
-        "icon": "/assets/images/Ganyu_passive_3_1753588879904.png"
+        "icon": "/assets/images/Ganyu_passive_3_1754193888905.png"
       }
     ],
     "completeTableData": [
@@ -1329,7 +1329,7 @@
               "5段ダメージ|{param5:F1P}",
               "6段ダメージ|{param6:F1P}",
               "狙い撃ち|{param7:F1P}",
-              "1段チャージ狙��撃ち|{param8:P}",
+              "1段チャージ狙い撃ち|{param8:P}",
               "霜華の矢の命中ダメージ|{param9:P}",
               "霜華の矢·霜華満開ダメージ|{param10:P}",
               "落下期間のダメージ|{param11:F1P}",
@@ -3067,7 +3067,7 @@
             ],
             "description": [
               "HP継承|{param1:P}",
-              "スキルダメ��ジ|{param2:P}",
+              "スキルダメージ|{param2:P}",
               "継続時間|{param3:F1}秒",
               "クールタイム|{param4:F1}秒",
               "",
@@ -3766,7 +3766,7 @@
               "氷柱ダメージ|{param1:P}",
               "継続時間|{param2:F1}秒",
               "クールタイム|{param3:F1}秒",
-              "元��エネルギー|{param4:I}",
+              "元素エネルギー|{param4:I}",
               "",
               "",
               "",
@@ -4317,32 +4317,32 @@
       {
         "level": null,
         "name": "飲露",
-        "icon": "/assets/images/Ganyu_constellation_cNaN_1753588879904.png"
+        "icon": "/assets/images/Ganyu_constellation_cNaN_1754193888905.png"
       },
       {
         "level": null,
         "name": "獲麟",
-        "icon": "/assets/images/Ganyu_constellation_cNaN_1753588879904.png"
+        "icon": "/assets/images/Ganyu_constellation_cNaN_1754193888905.png"
       },
       {
         "level": null,
         "name": "雲行",
-        "icon": "/assets/images/Ganyu_constellation_cNaN_1753588879904.png"
+        "icon": "/assets/images/Ganyu_constellation_cNaN_1754193888906.png"
       },
       {
         "level": null,
         "name": "西狩",
-        "icon": "/assets/images/Ganyu_constellation_cNaN_1753588879905.png"
+        "icon": "/assets/images/Ganyu_constellation_cNaN_1754193888906.png"
       },
       {
         "level": null,
         "name": "折草",
-        "icon": "/assets/images/Ganyu_constellation_cNaN_1753588879905.png"
+        "icon": "/assets/images/Ganyu_constellation_cNaN_1754193888906.png"
       },
       {
         "level": null,
         "name": "履虫",
-        "icon": "/assets/images/Ganyu_constellation_cNaN_1753588879905.png"
+        "icon": "/assets/images/Ganyu_constellation_cNaN_1754193888906.png"
       }
     ]
   },
@@ -4360,21 +4360,21 @@
       "isDefault": false,
       "rank": 4,
       "storyId": 340015,
-      "icon": "/assets/images/Ganyu_costume_2_1753588879905.png"
+      "icon": "/assets/images/Ganyu_costume_2_1754193888906.png"
     }
   ],
   "nameCard": {
     "id": 210053,
     "name": "甘雨·麒麟の跡",
     "description": "甘雨·麒麟の跡",
-    "icon": "/assets/images/Ganyu_icon_1753588879903.png"
+    "icon": "/assets/images/Ganyu_icon_1754193888905.png"
   },
   "specialFood": {
     "id": 108213,
     "name": "盛世太平",
     "rank": 3,
-    "icon": "/assets/images/Ganyu_special_food_1753588879905.png",
-    "effectIcon": "/assets/images/Kaeya_food_effect_1753588843548.png"
+    "icon": "/assets/images/Ganyu_special_food_1754193888906.png",
+    "effectIcon": "/assets/images/Kaeya_food_effect_1754193858741.png"
   },
   "levelProgression": [
     {
@@ -4574,98 +4574,98 @@
     {
       "statType": "FIGHT_PROP_BASE_DEFENSE",
       "values": [
-        49.061,
-        50.058711707006395,
-        51.07671302593055,
-        52.11541656930261,
-        53.17524334060177,
-        54.25662290489585,
-        55.35999356295104,
-        56.48580252888232,
-        57.63450611141666,
-        58.80656989884235,
-        60.00246894771956,
-        61.22268797542848,
-        62.46772155663319,
-        63.73807432374083,
-        65.03426117143736,
-        66.35680746538276,
-        67.70624925515021,
-        69.0831334914959,
-        70.48801824804694,
-        71.92147294749778,
-        73.3840785924064,
-        74.87642800068427,
-        76.39912604587502,
-        77.95278990231958,
-        79.53804929530695,
-        81.15554675631223,
-        82.80593788342493,
-        84.48989160707382,
-        86.20809046115502,
-        87.96123085967443,
-        89.75002337901543,
-        91.57519304594723,
-        93.43747963148996,
-        95.33763795075595,
-        97.27643816888859,
-        99.25466611322285,
-        101.27312359179388,
-        103.33262871832284,
-        105.43401624381185,
-        107.578137894882,
-        109.76586271899222,
-        111.99807743667827,
-        114.27568680095503,
-        116.59961396402771,
-        118.9708008514604,
-        121.39020854395399,
-        123.85881766688769,
-        126.37762878778257,
-        128.94766282184787,
-        131.56996144577465,
-        134.24558751994414,
-        136.97562551922252,
-        139.76118197251643,
-        142.6033859112668,
-        145.5033893270639,
-        148.46236763856834,
-        151.4815201679274,
-        154.56207062687986,
-        157.70526761274616,
-        160.91238511450547,
-        164.18472302916402,
-        167.52360768862465,
-        170.93039239727077,
-        174.40645798048251,
-        177.95321334430812,
-        181.572096046516,
-        185.26457287926092,
-        189.0321404635983,
-        192.87632585608944,
-        196.79868716774226,
-        200.80081419553923,
-        204.8843290668077,
-        209.0508868966951,
-        213.30217645901348,
-        217.63992087072748,
-        222.0658782903616,
-        226.58184263061048,
-        231.18964428544098,
-        235.89115087198076,
-        240.68826798749373,
-        245.58293998175014,
-        250.5771507451028,
-        255.67292451259007,
-        260.8723266843919,
-        266.1774646629699,
-        271.5904887072316,
-        277.113592804066,
-        282.74901555760175,
-        288.49904109655023,
-        294.366
+        49.0606,
+        50.0583035725476,
+        51.07629659158942,
+        52.11499166629151,
+        53.17480979670058,
+        54.25618054438217,
+        55.35954220652893,
+        56.48534199360967,
+        57.63403621063102,
+        58.806090442085264,
+        60.00197974065939,
+        61.22218881978162,
+        62.46721225008373,
+        63.73755465985853,
+        65.03373093959398,
+        66.35626645066667,
+        67.70569723827934,
+        69.0825702487288,
+        70.48744355109216,
+        71.92088656342123,
+        73.38348028353708,
+        74.87581752451786,
+        76.39850315497556,
+        77.95215434421924,
+        79.53740081240366,
+        81.15488508576532,
+        82.80526275704852,
+        84.48920275122818,
+        86.20738759663566,
+        87.96051370159888,
+        89.74929163670787,
+        91.57444642282054,
+        93.43671782492564,
+        95.33686065198135,
+        97.27564506285188,
+        99.2538568784652,
+        101.27229790031926,
+        103.33178623546503,
+        105.43315662809881,
+        107.57726079789748,
+        109.7649677852345,
+        111.99716430341613,
+        114.27475509808063,
+        116.59866331390673,
+        118.96983086877883,
+        121.38921883556203,
+        123.85780783164041,
+        126.37659841637728,
+        128.94661149665825,
+        131.56888874068144,
+        134.24449300016246,
+        136.97450874112573,
+        139.76004248345612,
+        142.60222324938945,
+        145.50220302112373,
+        148.4611572077362,
+        151.48028512159598,
+        154.5608104644647,
+        157.7039818234829,
+        160.91107317724277,
+        164.18338441215232,
+        167.52224184930066,
+        170.9289987820375,
+        174.40503602448504,
+        177.9517624712045,
+        181.5706156682437,
+        185.26306239579847,
+        189.03059926272212,
+        192.87475331312575,
+        196.79708264531374,
+        200.79917704330674,
+        204.88265862120682,
+        209.0491824806669,
+        213.30043738173043,
+        217.63814642731322,
+        222.06406776160523,
+        226.5799952826752,
+        231.18775936956658,
+        235.88922762418008,
+        240.68630562824313,
+        245.58093771567337,
+        250.57510776064882,
+        255.67083998170392,
+        260.8701997621793,
+        266.1752944873545,
+        271.58827439860596,
+        277.1113334649347,
+        282.7467102722178,
+        288.4966889305439,
+        294.3636
       ],
-      "initValue": 49.061,
+      "initValue": 49.0606,
       "growthType": "GROW_CURVE_HP_S5"
     }
   ],
@@ -4690,7 +4690,7 @@
             "name": "清心",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Xiao_material_100031_1753588860371.png",
+            "icon": "/assets/images/Xiao_material_100031_1754193872914.png",
             "description": "断崖絶壁にしか咲かない透き通る白い花。平原の温もりと潤いよりも冷たい高い場所を選ぶ花。",
             "type": "璃月地域の特産"
           },
@@ -4699,7 +4699,7 @@
             "name": "哀切なアイスクリスタル·砕屑",
             "count": 1,
             "rank": 2,
-            "icon": "/assets/images/Kamisato Ayaka_material_104161_1753588834679.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104161_1754193851399.png",
             "description": "キャラクターの突破用アイテム。",
             "type": "キャラクター突破素材"
           },
@@ -4708,7 +4708,7 @@
             "name": "トリックフラワーの蜜",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Ganyu_material_112038_1753588880296.png",
+            "icon": "/assets/images/Ganyu_material_112038_1754193889049.png",
             "description": "花蕊から抽出された花蜜、少量の元素が含まれている。\\nスイートフラワーの味と微妙に似ている。",
             "type": "キャラと武器育成素材"
           }
@@ -4716,7 +4716,7 @@
         "statBonus": [
           {
             "statType": "FIGHT_PROP_BASE_HP",
-            "value": 653.909
+            "value": 653.90857
           },
           {
             "statType": "FIGHT_PROP_BASE_DEFENSE",
@@ -4724,7 +4724,7 @@
           },
           {
             "statType": "FIGHT_PROP_BASE_ATTACK",
-            "value": 22.349
+            "value": 22.34932
           }
         ]
       },
@@ -4739,7 +4739,7 @@
             "name": "清心",
             "count": 10,
             "rank": 1,
-            "icon": "/assets/images/Xiao_material_100031_1753588860371.png",
+            "icon": "/assets/images/Xiao_material_100031_1754193872914.png",
             "description": "断崖絶壁にしか咲かない透き通る白い花。平原の温もりと潤いよりも冷たい高い場所を選ぶ花。",
             "type": "璃月地域の特産"
           },
@@ -4748,7 +4748,7 @@
             "name": "哀切なアイスクリスタル·欠片",
             "count": 3,
             "rank": 3,
-            "icon": "/assets/images/Kamisato Ayaka_material_104162_1753588834829.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104162_1754193851297.png",
             "description": "キャラクターの突破用アイテム。\\n「…すみません…」",
             "type": "キャラクター突破素材"
           },
@@ -4757,7 +4757,7 @@
             "name": "トリックフラワーの蜜",
             "count": 15,
             "rank": 1,
-            "icon": "/assets/images/Ganyu_material_112038_1753588880296.png",
+            "icon": "/assets/images/Ganyu_material_112038_1754193889049.png",
             "description": "花蕊から抽出された花蜜、少量の元素が含まれている。\\nスイートフラワーの味と微妙に似ている。",
             "type": "キャラと武器育成素材"
           },
@@ -4766,7 +4766,7 @@
             "name": "極寒のコア",
             "count": 2,
             "rank": 4,
-            "icon": "/assets/images/Kaeya_material_113010_1753588843876.png",
+            "icon": "/assets/images/Kaeya_material_113010_1754193859014.png",
             "description": "急凍樹を倒した後に現れるコア。\\n今にも大地の深淵のエネルギーと思念が噴出しようとしている。哀悼のように静寂な氷霜もいずれ地上の生物に宿る。たとえ生き物を狩らないはずのツル植物でも、強く凶暴になるであろう。",
             "type": "キャラクター育成素材"
           }
@@ -4774,7 +4774,7 @@
         "statBonus": [
           {
             "statType": "FIGHT_PROP_BASE_HP",
-            "value": 1118.528
+            "value": 1118.5278
           },
           {
             "statType": "FIGHT_PROP_BASE_DEFENSE",
@@ -4782,7 +4782,7 @@
           },
           {
             "statType": "FIGHT_PROP_BASE_ATTACK",
-            "value": 38.229
+            "value": 38.2291
           },
           {
             "statType": "会心ダメージ",
@@ -4801,7 +4801,7 @@
             "name": "清心",
             "count": 20,
             "rank": 1,
-            "icon": "/assets/images/Xiao_material_100031_1753588860371.png",
+            "icon": "/assets/images/Xiao_material_100031_1754193872914.png",
             "description": "断崖絶壁にしか咲かない透き通る白い花。平原の温もりと潤いよりも冷たい高い場所を選ぶ花。",
             "type": "璃月地域の特産"
           },
@@ -4810,7 +4810,7 @@
             "name": "哀切なアイスクリスタル·欠片",
             "count": 6,
             "rank": 3,
-            "icon": "/assets/images/Kamisato Ayaka_material_104162_1753588834829.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104162_1754193851297.png",
             "description": "キャラクターの突破用アイテム。\\n「…すみません…」",
             "type": "キャラクター突破素材"
           },
@@ -4819,7 +4819,7 @@
             "name": "微光花の蜜",
             "count": 12,
             "rank": 2,
-            "icon": "/assets/images/Ganyu_material_112039_1753588880326.png",
+            "icon": "/assets/images/Ganyu_material_112039_1754193889145.png",
             "description": "元素純度がやや高めの花蜜。\\n学界の見解によるとトリックフラワーは元素植物の高等生命形態である。だがトリックフラワーの食性は未だ解明されていない。",
             "type": "キャラと武器育成素材"
           },
@@ -4828,7 +4828,7 @@
             "name": "極寒のコア",
             "count": 4,
             "rank": 4,
-            "icon": "/assets/images/Kaeya_material_113010_1753588843876.png",
+            "icon": "/assets/images/Kaeya_material_113010_1754193859014.png",
             "description": "急凍樹を倒した後に現れるコア。\\n今にも大地の深淵のエネルギーと思念が噴出しようとしている。哀悼のように静寂な氷霜もいずれ地上の生物に宿る。たとえ生き物を狩らないはずのツル植物でも、強く凶暴になるであろう。",
             "type": "キャラクター育成素材"
           }
@@ -4836,7 +4836,7 @@
         "statBonus": [
           {
             "statType": "FIGHT_PROP_BASE_HP",
-            "value": 1738.02
+            "value": 1738.0201
           },
           {
             "statType": "FIGHT_PROP_BASE_DEFENSE",
@@ -4844,7 +4844,7 @@
           },
           {
             "statType": "FIGHT_PROP_BASE_ATTACK",
-            "value": 59.402
+            "value": 59.40214
           },
           {
             "statType": "会心ダメージ",
@@ -4863,7 +4863,7 @@
             "name": "清心",
             "count": 30,
             "rank": 1,
-            "icon": "/assets/images/Xiao_material_100031_1753588860371.png",
+            "icon": "/assets/images/Xiao_material_100031_1754193872914.png",
             "description": "断崖絶壁にしか咲かない透き通る白い花。平原の温もりと潤いよりも冷たい高い場所を選ぶ花。",
             "type": "璃月地域の特産"
           },
@@ -4872,7 +4872,7 @@
             "name": "哀切なアイスクリスタル·塊",
             "count": 3,
             "rank": 4,
-            "icon": "/assets/images/Kamisato Ayaka_material_104163_1753588834651.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104163_1754193851475.png",
             "description": "キャラクターの突破用アイテム。\\n「…すみません…」\\n「あなた達まで、わたしと一緒にこの世界の悲しみを背負わせるなんて…」",
             "type": "キャラクター突破素材"
           },
@@ -4881,7 +4881,7 @@
             "name": "微光花の蜜",
             "count": 18,
             "rank": 2,
-            "icon": "/assets/images/Ganyu_material_112039_1753588880326.png",
+            "icon": "/assets/images/Ganyu_material_112039_1754193889145.png",
             "description": "元素純度がやや高めの花蜜。\\n学界の見解によるとトリックフラワーは元素植物の高等生命形態である。だがトリックフラワーの食性は未だ解明されていない。",
             "type": "キャラと武器育成素材"
           },
@@ -4890,7 +4890,7 @@
             "name": "極寒のコア",
             "count": 8,
             "rank": 4,
-            "icon": "/assets/images/Kaeya_material_113010_1753588843876.png",
+            "icon": "/assets/images/Kaeya_material_113010_1754193859014.png",
             "description": "急凍樹を倒した後に現れるコア。\\n今にも大地の深淵のエネルギーと思念が噴出しようとしている。哀悼のように静寂な氷霜もいずれ地上の生物に宿る。たとえ生き物を狩らないはずのツル植物でも、強く凶暴になるであろう。",
             "type": "キャラクター育成素材"
           }
@@ -4898,7 +4898,7 @@
         "statBonus": [
           {
             "statType": "FIGHT_PROP_BASE_HP",
-            "value": 2202.639
+            "value": 2202.6394
           },
           {
             "statType": "FIGHT_PROP_BASE_DEFENSE",
@@ -4906,7 +4906,7 @@
           },
           {
             "statType": "FIGHT_PROP_BASE_ATTACK",
-            "value": 75.282
+            "value": 75.28192
           },
           {
             "statType": "会心ダメージ",
@@ -4925,7 +4925,7 @@
             "name": "清心",
             "count": 45,
             "rank": 1,
-            "icon": "/assets/images/Xiao_material_100031_1753588860371.png",
+            "icon": "/assets/images/Xiao_material_100031_1754193872914.png",
             "description": "断崖絶壁にしか咲かない透き通る白い花。平原の温もりと潤いよりも冷たい高い場所を選ぶ花。",
             "type": "璃月地域の特産"
           },
@@ -4934,7 +4934,7 @@
             "name": "哀切なアイスクリスタル·塊",
             "count": 6,
             "rank": 4,
-            "icon": "/assets/images/Kamisato Ayaka_material_104163_1753588834651.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104163_1754193851475.png",
             "description": "キャラクターの突破用アイテム。\\n「…すみません…」\\n「あなた達まで、わたしと一緒にこの世界の悲しみを背負わせるなんて…」",
             "type": "キャラクター突破素材"
           },
@@ -4943,7 +4943,7 @@
             "name": "原素花の蜜",
             "count": 12,
             "rank": 3,
-            "icon": "/assets/images/Ganyu_material_112040_1753588880391.png",
+            "icon": "/assets/images/Ganyu_material_112040_1754193889172.png",
             "description": "エネルギーに満ちたネバネバの花蜜。\\nトリックフラワーが獲物を騙しているのは狩るためである。そして捕食しているのはより強くてより純粋な姿へと進化するためであろう…",
             "type": "キャラと武器育成素材"
           },
@@ -4952,7 +4952,7 @@
             "name": "極寒のコア",
             "count": 12,
             "rank": 4,
-            "icon": "/assets/images/Kaeya_material_113010_1753588843876.png",
+            "icon": "/assets/images/Kaeya_material_113010_1754193859014.png",
             "description": "急凍樹を倒した後に現れるコア。\\n今にも大地の深淵のエネルギーと思念が噴出しようとしている。哀悼のように静寂な氷霜もいずれ地上の生物に宿る。たとえ生き物を狩らないはずのツル植物でも、強く凶暴になるであろう。",
             "type": "キャラクター育成素材"
           }
@@ -4960,7 +4960,7 @@
         "statBonus": [
           {
             "statType": "FIGHT_PROP_BASE_HP",
-            "value": 2667.258
+            "value": 2667.2585
           },
           {
             "statType": "FIGHT_PROP_BASE_DEFENSE",
@@ -4968,7 +4968,7 @@
           },
           {
             "statType": "FIGHT_PROP_BASE_ATTACK",
-            "value": 91.162
+            "value": 91.1617
           },
           {
             "statType": "会心ダメージ",
@@ -4987,7 +4987,7 @@
             "name": "清心",
             "count": 60,
             "rank": 1,
-            "icon": "/assets/images/Xiao_material_100031_1753588860371.png",
+            "icon": "/assets/images/Xiao_material_100031_1754193872914.png",
             "description": "断崖絶壁にしか咲かない透き通る白い花。平原の温もりと潤いよりも冷たい高い場所を選ぶ花。",
             "type": "璃月地域の特産"
           },
@@ -4996,7 +4996,7 @@
             "name": "哀切なアイスクリスタル",
             "count": 6,
             "rank": 5,
-            "icon": "/assets/images/Kamisato Ayaka_material_104164_1753588834705.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104164_1754193851327.png",
             "description": "キャラクターの突破用アイテム。\\n「…すみません、あなた達まで、わたしと一緒にこの世界の悲しみを背負わせるなんて…」\\n「わたしの寒さを耐えられる者は、きっと心の中に熱い欲望を持っているだろう？」\\n「なら、わたしの代わりに、旧世界を焼き尽くそう。」",
             "type": "キャラクター突破素材"
           },
@@ -5005,7 +5005,7 @@
             "name": "原素花の蜜",
             "count": 24,
             "rank": 3,
-            "icon": "/assets/images/Ganyu_material_112040_1753588880391.png",
+            "icon": "/assets/images/Ganyu_material_112040_1754193889172.png",
             "description": "エネルギーに満ちたネバネバの花蜜。\\nトリックフラワーが獲物を騙しているのは狩るためである。そして捕食しているのはより強くてより純粋な姿へと進化するためであろう…",
             "type": "キャラと武器育成素材"
           },
@@ -5014,7 +5014,7 @@
             "name": "極寒のコア",
             "count": 20,
             "rank": 4,
-            "icon": "/assets/images/Kaeya_material_113010_1753588843876.png",
+            "icon": "/assets/images/Kaeya_material_113010_1754193859014.png",
             "description": "急凍樹を倒した後に現れるコア。\\n今にも大地の深淵のエネルギーと思念が噴出しようとしている。哀悼のように静寂な氷霜もいずれ地上の生物に宿る。たとえ生き物を狩らないはずのツル植物でも、強く凶暴になるであろう。",
             "type": "キャラクター育成素材"
           }
@@ -5030,7 +5030,7 @@
           },
           {
             "statType": "FIGHT_PROP_BASE_ATTACK",
-            "value": 107.041
+            "value": 107.04148
           },
           {
             "statType": "会心ダメージ",

@@ -8,9 +8,9 @@
   "region": "Mondstadt",
   "constellation": "子猫座",
   "description": "稀な「非人類」の血統を引いている少女、「キャッツテール」の超人気バーテンダー。",
-  "icon": "/assets/images/Diona_icon_1753588883866.png",
+  "icon": "/assets/images/Diona_icon_1754193891932.png",
   "profile": {
-    "baseHp": 802.376,
+    "baseHp": 802.3761,
     "baseAtk": 17.808,
     "baseDef": 50.358,
     "bonusStat": {
@@ -23,7 +23,7 @@
       "id": "狩人の射術",
       "name": "狩人の射術",
       "description": "",
-      "icon": "/assets/images/Amber_normal_attack_1753588849513.png",
+      "icon": "/assets/images/Amber_normal_attack_1754193864101.png",
       "skillType": "normal",
       "params": {
         "1": [],
@@ -47,7 +47,7 @@
       "id": "フリーズキャッツクロー",
       "name": "フリーズキャッツクロー",
       "description": "",
-      "icon": "/assets/images/Diona_elemental_skill_1753588883866.png",
+      "icon": "/assets/images/Diona_elemental_skill_1754193891932.png",
       "levelData": [
         {
           "tableIndex": 1,
@@ -297,7 +297,7 @@
             "シールド基礎吸収量|HP上限{param2:F1P}+{param3:I}",
             "継続時間|キャッツクロー1つにつき{param6:F1}秒",
             "一回押しクールタイム|{param4:F1}秒",
-            "長押しクールタイム|{param5:F1}秒",
+            "長押しクールタイム|{param5:F1}���",
             "",
             "",
             "",
@@ -736,7 +736,7 @@
           "description": [
             "キャッツクローダメージ|1つにつき{param1:F1P}",
             "シールド基礎吸収量|HP上限{param2:F1P}+{param3:I}",
-            "継続時間|キャッツクロー1つにつき{param6:F1}秒",
+            "継��時間|キャッツクロー1つにつき{param6:F1}秒",
             "一回押しクールタイム|{param4:F1}秒",
             "長押しクールタイム|{param5:F1}秒",
             "",
@@ -1136,21 +1136,21 @@
     "elementalBurst": {
       "name": "キャッツテールの裏メニュー",
       "description": "",
-      "icon": "/assets/images/Diona_elemental_burst_1753588883867.png",
+      "icon": "/assets/images/Diona_elemental_burst_1754193891932.png",
       "levelData": []
     },
     "passiveTalents": [
       {
         "name": "キャッツテールの裏メニュー",
-        "icon": "/assets/images/Diona_passive_1_1753588883867.png"
+        "icon": "/assets/images/Diona_passive_1_1754193891932.png"
       },
       {
         "name": "滑稽な酔態",
-        "icon": "/assets/images/Diona_passive_2_1753588883867.png"
+        "icon": "/assets/images/Diona_passive_2_1754193891932.png"
       },
       {
         "name": "おまけのおつまみ",
-        "icon": "/assets/images/Jean_passive_3_1753588836758.png"
+        "icon": "/assets/images/Jean_passive_3_1754193853089.png"
       }
     ],
     "completeTableData": [
@@ -1398,7 +1398,7 @@
               "4段ダメージ|{param4:F1P}",
               "5段ダメージ|{param5:F1P}",
               "狙い撃ち|{param7:F1P}",
-              "フルチャージ狙い撃ち|{param8:P}",
+              "フルチャー���狙い撃ち|{param8:P}",
               "落下期間のダメージ|{param9:F1P}",
               "低空/高空落下攻撃ダメージ|{param10:P}/{param11:P}",
               "",
@@ -2441,7 +2441,7 @@
               "シールド基礎吸収量|HP上限{param2:F1P}+{param3:I}",
               "継続時間|キャッツクロー1つにつき{param6:F1}秒",
               "一回押しクールタイム|{param4:F1}秒",
-              "長押しクールタイム|{param5:F1}秒",
+              "長押しクールタイム|{param5:F1}���",
               "",
               "",
               "",
@@ -2862,7 +2862,7 @@
             "description": [
               "キャッツクローダメージ|1つにつき{param1:F1P}",
               "シールド基礎吸収量|HP上限{param2:F1P}+{param3:I}",
-              "継続時間|キャッツクロー1つにつき{param6:F1}秒",
+              "継��時間|キャッツクロー1つにつき{param6:F1}秒",
               "一回押しクールタイム|{param4:F1}秒",
               "長押しクールタイム|{param5:F1}秒",
               "",
@@ -4178,7 +4178,7 @@
               0
             ],
             "description": [
-              "スキルダメージ|{param1:P}",
+              "スキル���メージ|{param1:P}",
               "エリアの継続ダメージ|{param2:F1P}",
               "継続回復量|HP上限{param3:F2P}+{param4:I}",
               "継続時間|{param7:F1}秒",
@@ -4317,32 +4317,32 @@
       {
         "level": null,
         "name": "特製の余韻",
-        "icon": "/assets/images/Diona_constellation_cNaN_1753588883867.png"
+        "icon": "/assets/images/Diona_constellation_cNaN_1754193891933.png"
       },
       {
         "level": null,
         "name": "クールキャッツクロー",
-        "icon": "/assets/images/Diona_constellation_cNaN_1753588883867.png"
+        "icon": "/assets/images/Diona_constellation_cNaN_1754193891933.png"
       },
       {
         "level": null,
         "name": "お、おかわり？",
-        "icon": "/assets/images/Diona_constellation_cNaN_1753588883867.png"
+        "icon": "/assets/images/Diona_constellation_cNaN_1754193891933.png"
       },
       {
         "level": null,
         "name": "「酒造業キラー」",
-        "icon": "/assets/images/Diona_constellation_cNaN_1753588883867.png"
+        "icon": "/assets/images/Diona_constellation_cNaN_1754193891933.png"
       },
       {
         "level": null,
         "name": "エクストラアイス",
-        "icon": "/assets/images/Diona_constellation_cNaN_1753588883867.png"
+        "icon": "/assets/images/Diona_constellation_cNaN_1754193891933.png"
       },
       {
         "level": null,
         "name": "キャッツテールが閉店の時",
-        "icon": "/assets/images/Diona_constellation_cNaN_1753588883867.png"
+        "icon": "/assets/images/Diona_constellation_cNaN_1754193891933.png"
       }
     ]
   },
@@ -4359,111 +4359,111 @@
     "id": 210043,
     "name": "ディオナ·にゃん",
     "description": "ディオナ·にゃん",
-    "icon": "/assets/images/Diona_icon_1753588883866.png"
+    "icon": "/assets/images/Diona_namecard_1754193892159.png"
   },
   "specialFood": {
     "id": 108134,
     "name": "絶対オツマミじゃない",
     "rank": 1,
-    "icon": "/assets/images/Diona_special_food_1753588883867.png",
-    "effectIcon": "/assets/images/Kamisato Ayaka_food_effect_1753588834293.png"
+    "icon": "/assets/images/Diona_special_food_1754193891933.png",
+    "effectIcon": "/assets/images/Kamisato Ayaka_food_effect_1754193851048.png"
   },
   "levelProgression": [
     {
       "statType": "FIGHT_PROP_BASE_HP",
       "values": [
-        802.376,
-        817.8932271100176,
-        833.7105433767196,
-        849.833752253347,
-        866.2687694266842,
-        883.021624987555,
-        900.0984656432934,
-        917.5055569730008,
-        935.2492857264199,
-        953.3361621672636,
-        971.7728224618662,
-        990.5660311140239,
-        1009.7226834469266,
-        1029.2498081330866,
-        1049.1545697731942,
-        1069.4442715248465,
-        1090.1263577821103,
-        1111.2084169069112,
-        1132.69818401324,
-        1154.6035438052052,
-        1176.9325334699715,
-        1199.6933456266436,
-        1222.89433133218,
-        1246.544003145438,
-        1270.6510382504737,
-        1295.2242816402465,
-        1320.2727493618895,
-        1345.8056318247448,
-        1371.8322971723687,
-        1398.3622947197541,
-        1425.4053584570192,
-        1452.9714106208596,
-        1481.0705653350665,
-        1509.7131323214498,
-        1538.9096206825277,
-        1568.6707427573676,
-        1599.007418052,
-        1629.930777245839,
-        1661.4521662755847,
-        1693.5831504981052,
-        1726.3355189338236,
-        1759.7212885921715,
-        1793.7527088806862,
-        1828.4422660993855,
-        1863.802688022049,
-        1899.8469485661076,
-        1936.588272552835,
-        1974.0401405596035,
-        2012.216293865977,
-        2051.1307394954524,
-        2090.797755354712,
-        2131.231895472256,
-        2172.447995338349,
-        2214.461177348239,
-        2257.286856350639,
-        2300.940745303512,
-        2345.4388610392366,
-        2390.797530141262,
-        2437.0333949344154,
-        2484.1634195910533,
-        2532.204896355304,
-        2581.175451887678,
-        2631.0930537323784,
-        2681.9760169096853,
-        2733.8430106358283,
-        2786.7130651728166,
-        2840.605578810737,
-        2895.540324985086,
-        2951.537459531742,
-        3008.617528082245,
-        3066.8014736020914,
-        3126.110644074812,
-        3186.566800334661,
-        3248.1921240507677,
-        3311.00922586571,
-        3375.0411536914694,
-        3440.3114011658295,
-        3506.843916272305,
-        3574.6631101267826,
-        3643.7938659340834,
-        3714.2615481177336,
-        3786.092011626299,
-        3859.3116114196987,
-        3933.947212138971,
-        4010.026197963049,
-        4087.5764826561535,
-        4166.626519809486,
-        4247.205313281007,
-        4329.342427837095,
-        4413.068
+        802.3761,
+        817.8933290439272,
+        833.710647281939,
+        849.8338581679996,
+        866.2688773896305,
+        883.0217350384071,
+        900.0985778224295,
+        917.5056713215802,
+        935.2494022863974,
+        953.3362809814059,
+        971.7729435737667,
+        990.5661545681191,
+        1009.7228092885124,
+        1029.249936408335,
+        1049.1547005291702,
+        1069.4444048095247,
+        1090.126493644394,
+        1111.2085553966488,
+        1132.698325181244,
+        1154.603687703271,
+        1176.9326801508957,
+        1199.6934951442445,
+        1222.8944837413162,
+        1246.5441585020292,
+        1270.651196611521,
+        1295.2244430638536,
+        1320.2729139072835,
+        1345.805799552298,
+        1371.832468143621,
+        1398.3624689974363,
+        1425.4055361050741,
+        1452.9715917044675,
+        1481.0707499206678,
+        1509.7133204767701,
+        1538.9098124766017,
+        1568.6709382605661,
+        1599.0076173360537,
+        1629.9309803838662,
+        1661.4523733421179,
+        1693.583361569118,
+        1726.3357340867592,
+        1759.7215079059704,
+        1793.752932435816,
+        1828.4424939778696,
+        1863.8029203074973,
+        1899.8471853437466,
+        1936.5885139095394,
+        1974.040386583929,
+        2012.2165446481904,
+        2051.1309951275675,
+        2090.7980159305216,
+        2131.232161087366,
+        2172.4482660902154,
+        2214.461453336202,
+        2257.28713767596,
+        2300.94103206941,
+        2345.4391533509283,
+        2390.7978281059977,
+        2437.03369866152,
+        2484.163729191966,
+        2532.2052119436185,
+        2581.1757735791853,
+        2631.093381645109,
+        2681.976351163952,
+        2733.843351354271,
+        2786.713412480446,
+        2840.605932834982,
+        2895.5406858558404,
+        2951.537827381411,
+        3008.6179030457943,
+        3066.801855817097,
+        3126.111033681511,
+        3186.567197476001,
+        3248.192528872463,
+        3311.009638516291,
+        3375.04157432234,
+        3440.311829931321,
+        3506.8443533297336,
+        3574.6635556365077,
+        3643.7943200595637,
+        3714.2620110255907,
+        3786.0924834863763,
+        3859.312092405123,
+        3933.947702426219,
+        4010.0266977320102,
+        4087.576992090195,
+        4166.6270390955215,
+        4247.2058426095655,
+        4329.342967402389,
+        4413.06855
       ],
-      "initValue": 802.376,
+      "initValue": 802.3761,
       "growthType": "GROW_CURVE_HP_S4"
     },
     {
@@ -4682,7 +4682,7 @@
             "name": "ドドリアン",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Kaeya_material_100056_1753588843753.png",
+            "icon": "/assets/images/Kaeya_material_100056_1754193858860.png",
             "description": "水辺に育つ花。花びらを料理すると、爽やかな口当たりで、ほろ苦い。",
             "type": "モンド地域の特産"
           },
@@ -4691,7 +4691,7 @@
             "name": "哀切なアイスクリスタル·砕屑",
             "count": 1,
             "rank": 2,
-            "icon": "/assets/images/Kamisato Ayaka_material_104161_1753588834679.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104161_1754193851399.png",
             "description": "キャラクターの突破用アイテム。",
             "type": "キャラクター突破素材"
           },
@@ -4700,7 +4700,7 @@
             "name": "牢固な矢先",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Amber_material_112011_1753588849717.png",
+            "icon": "/assets/images/Amber_material_112011_1754193864379.png",
             "description": "粗末な矢先。それでもその威力はなめてはいけない。弓弩は危険な武器である。たとえ騎士のような人でも後ろからの矢に撃たれる可能性があるから。",
             "type": "キャラと武器育成素材"
           }
@@ -4716,7 +4716,7 @@
           },
           {
             "statType": "FIGHT_PROP_BASE_ATTACK",
-            "value": 13.304
+            "value": 13.3038
           }
         ]
       },
@@ -4731,7 +4731,7 @@
             "name": "ドドリアン",
             "count": 10,
             "rank": 1,
-            "icon": "/assets/images/Kaeya_material_100056_1753588843753.png",
+            "icon": "/assets/images/Kaeya_material_100056_1754193858860.png",
             "description": "水辺に育つ花。花びらを料理すると、爽やかな口当たりで、ほろ苦い。",
             "type": "モンド地域の特産"
           },
@@ -4740,7 +4740,7 @@
             "name": "哀切なアイスクリスタル·欠片",
             "count": 3,
             "rank": 3,
-            "icon": "/assets/images/Kamisato Ayaka_material_104162_1753588834829.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104162_1754193851297.png",
             "description": "キャラクターの突破用アイテム。\\n「…すみません…」",
             "type": "キャラクター突破素材"
           },
@@ -4749,7 +4749,7 @@
             "name": "牢固な矢先",
             "count": 15,
             "rank": 1,
-            "icon": "/assets/images/Amber_material_112011_1753588849717.png",
+            "icon": "/assets/images/Amber_material_112011_1754193864379.png",
             "description": "粗末な矢先。それでもその威力はなめてはいけない。弓弩は危険な武器である。たとえ騎士のような人でも後ろからの矢に撃たれる可能性があるから。",
             "type": "キャラと武器育成素材"
           },
@@ -4758,7 +4758,7 @@
             "name": "極寒のコア",
             "count": 2,
             "rank": 4,
-            "icon": "/assets/images/Kaeya_material_113010_1753588843876.png",
+            "icon": "/assets/images/Kaeya_material_113010_1754193859014.png",
             "description": "急凍樹を倒した後に現れるコア。\\n今にも大地の深淵のエネルギーと思念が噴出しようとしている。哀悼のように静寂な氷霜もいずれ地上の生物に宿る。たとえ生き物を狩らないはずのツル植物でも、強く凶暴になるであろう。",
             "type": "キャラクター育成素材"
           }
@@ -4766,7 +4766,7 @@
         "statBonus": [
           {
             "statType": "FIGHT_PROP_BASE_HP",
-            "value": 1025.317
+            "value": 1025.3169
           },
           {
             "statType": "FIGHT_PROP_BASE_DEFENSE",
@@ -4774,7 +4774,7 @@
           },
           {
             "statType": "FIGHT_PROP_BASE_ATTACK",
-            "value": 22.756
+            "value": 22.7565
           },
           {
             "statType": "FIGHT_PROP_ICE_ADD_HURT",
@@ -4793,7 +4793,7 @@
             "name": "ドドリアン",
             "count": 20,
             "rank": 1,
-            "icon": "/assets/images/Kaeya_material_100056_1753588843753.png",
+            "icon": "/assets/images/Kaeya_material_100056_1754193858860.png",
             "description": "水辺に育つ花。花びらを料理すると、爽やかな口当たりで、ほろ苦い。",
             "type": "モンド地域の特産"
           },
@@ -4802,7 +4802,7 @@
             "name": "哀切なアイスクリスタル·欠片",
             "count": 6,
             "rank": 3,
-            "icon": "/assets/images/Kamisato Ayaka_material_104162_1753588834829.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104162_1754193851297.png",
             "description": "キャラクターの突破用アイテム。\\n「…すみません…」",
             "type": "キャラクター突破素材"
           },
@@ -4811,7 +4811,7 @@
             "name": "鋭利な矢先",
             "count": 12,
             "rank": 2,
-            "icon": "/assets/images/Amber_material_112012_1753588849690.png",
+            "icon": "/assets/images/Amber_material_112012_1754193864327.png",
             "description": "精良に作られた矢先。鋭利な先端は石を水に投げるように簡単に敵の鎧を貫くことができる。",
             "type": "キャラと武器育成素材"
           },
@@ -4820,7 +4820,7 @@
             "name": "極寒のコア",
             "count": 4,
             "rank": 4,
-            "icon": "/assets/images/Kaeya_material_113010_1753588843876.png",
+            "icon": "/assets/images/Kaeya_material_113010_1754193859014.png",
             "description": "急凍樹を倒した後に現れるコア。\\n今にも大地の深淵のエネルギーと思念が噴出しようとしている。哀悼のように静寂な氷霜もいずれ地上の生物に宿る。たとえ生き物を狩らないはずのツル植物でも、強く凶暴になるであろう。",
             "type": "キャラクター育成素材"
           }
@@ -4828,7 +4828,7 @@
         "statBonus": [
           {
             "statType": "FIGHT_PROP_BASE_HP",
-            "value": 1593.185
+            "value": 1593.1847
           },
           {
             "statType": "FIGHT_PROP_BASE_DEFENSE",
@@ -4836,7 +4836,7 @@
           },
           {
             "statType": "FIGHT_PROP_BASE_ATTACK",
-            "value": 35.36
+            "value": 35.3601
           },
           {
             "statType": "FIGHT_PROP_ICE_ADD_HURT",
@@ -4855,7 +4855,7 @@
             "name": "ドドリアン",
             "count": 30,
             "rank": 1,
-            "icon": "/assets/images/Kaeya_material_100056_1753588843753.png",
+            "icon": "/assets/images/Kaeya_material_100056_1754193858860.png",
             "description": "水辺に育つ花。花びらを料理すると、爽やかな口当たりで、ほろ苦い。",
             "type": "モンド地域の特産"
           },
@@ -4864,7 +4864,7 @@
             "name": "哀切なアイスクリスタル·塊",
             "count": 3,
             "rank": 4,
-            "icon": "/assets/images/Kamisato Ayaka_material_104163_1753588834651.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104163_1754193851475.png",
             "description": "キャラクターの突破用アイテム。\\n「…すみません…」\\n「あなた達まで、わたしと一緒にこの世界の悲しみを背負わせるなんて…」",
             "type": "キャラクター突破素材"
           },
@@ -4873,7 +4873,7 @@
             "name": "鋭利な矢先",
             "count": 18,
             "rank": 2,
-            "icon": "/assets/images/Amber_material_112012_1753588849690.png",
+            "icon": "/assets/images/Amber_material_112012_1754193864327.png",
             "description": "精良に作られた矢先。鋭利な先端は石を水に投げるように簡単に敵の鎧を貫くことができる。",
             "type": "キャラと武器育成素材"
           },
@@ -4882,7 +4882,7 @@
             "name": "極寒のコア",
             "count": 8,
             "rank": 4,
-            "icon": "/assets/images/Kaeya_material_113010_1753588843876.png",
+            "icon": "/assets/images/Kaeya_material_113010_1754193859014.png",
             "description": "急凍樹を倒した後に現れるコア。\\n今にも大地の深淵のエネルギーと思念が噴出しようとしている。哀悼のように静寂な氷霜もいずれ地上の生物に宿る。たとえ生き物を狩らないはずのツル植物でも、強く凶暴になるであろう。",
             "type": "キャラクター育成素材"
           }
@@ -4890,7 +4890,7 @@
         "statBonus": [
           {
             "statType": "FIGHT_PROP_BASE_HP",
-            "value": 2019.085
+            "value": 2019.0854
           },
           {
             "statType": "FIGHT_PROP_BASE_DEFENSE",
@@ -4898,7 +4898,7 @@
           },
           {
             "statType": "FIGHT_PROP_BASE_ATTACK",
-            "value": 44.813
+            "value": 44.8128
           },
           {
             "statType": "FIGHT_PROP_ICE_ADD_HURT",
@@ -4917,7 +4917,7 @@
             "name": "ドドリアン",
             "count": 45,
             "rank": 1,
-            "icon": "/assets/images/Kaeya_material_100056_1753588843753.png",
+            "icon": "/assets/images/Kaeya_material_100056_1754193858860.png",
             "description": "水辺に育つ花。花びらを料理すると、爽やかな口当たりで、ほろ苦い。",
             "type": "モンド地域の特産"
           },
@@ -4926,7 +4926,7 @@
             "name": "哀切なアイスクリスタル·塊",
             "count": 6,
             "rank": 4,
-            "icon": "/assets/images/Kamisato Ayaka_material_104163_1753588834651.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104163_1754193851475.png",
             "description": "キャラクターの突破用アイテム。\\n「…すみません…」\\n「あなた達まで、わたしと一緒にこの世界の悲しみを背負わせるなんて…」",
             "type": "キャラクター突破素材"
           },
@@ -4935,7 +4935,7 @@
             "name": "歴戦の矢先",
             "count": 12,
             "rank": 3,
-            "icon": "/assets/images/Amber_material_112013_1753588849961.png",
+            "icon": "/assets/images/Amber_material_112013_1754193864353.png",
             "description": "古く、乾いた血がたくさんついた矢先。何度も使用されたため、その鋭さは失われ、武器としては使えなくなったが、狩人の誇りの象徴としてお守りや表彰として使用されている。",
             "type": "キャラと武器育成素材"
           },
@@ -4944,7 +4944,7 @@
             "name": "極寒のコア",
             "count": 12,
             "rank": 4,
-            "icon": "/assets/images/Kaeya_material_113010_1753588843876.png",
+            "icon": "/assets/images/Kaeya_material_113010_1754193859014.png",
             "description": "急凍樹を倒した後に現れるコア。\\n今にも大地の深淵のエネルギーと思念が噴出しようとしている。哀悼のように静寂な氷霜もいずれ地上の生物に宿る。たとえ生き物を狩らないはずのツル植物でも、強く凶暴になるであろう。",
             "type": "キャラクター育成素材"
           }
@@ -4952,7 +4952,7 @@
         "statBonus": [
           {
             "statType": "FIGHT_PROP_BASE_HP",
-            "value": 2444.986
+            "value": 2444.9863
           },
           {
             "statType": "FIGHT_PROP_BASE_DEFENSE",
@@ -4960,7 +4960,7 @@
           },
           {
             "statType": "FIGHT_PROP_BASE_ATTACK",
-            "value": 54.266
+            "value": 54.2655
           },
           {
             "statType": "FIGHT_PROP_ICE_ADD_HURT",
@@ -4979,7 +4979,7 @@
             "name": "ドドリアン",
             "count": 60,
             "rank": 1,
-            "icon": "/assets/images/Kaeya_material_100056_1753588843753.png",
+            "icon": "/assets/images/Kaeya_material_100056_1754193858860.png",
             "description": "水辺に育つ花。花びらを料理すると、爽やかな口当たりで、ほろ苦い。",
             "type": "モンド地域の特産"
           },
@@ -4988,7 +4988,7 @@
             "name": "哀切なアイスクリスタル",
             "count": 6,
             "rank": 5,
-            "icon": "/assets/images/Kamisato Ayaka_material_104164_1753588834705.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104164_1754193851327.png",
             "description": "キャラクターの突破用アイテム。\\n「…すみません、あなた達まで、わたしと一緒にこの世界の悲しみを背負わせるなんて…」\\n「わたしの寒さを耐えられる者は、きっと心の中に熱い欲望を持っているだろう？」\\n「なら、わたしの代わりに、旧世界を焼き尽くそう。」",
             "type": "キャラクター突破素材"
           },
@@ -4997,7 +4997,7 @@
             "name": "歴戦の矢先",
             "count": 24,
             "rank": 3,
-            "icon": "/assets/images/Amber_material_112013_1753588849961.png",
+            "icon": "/assets/images/Amber_material_112013_1754193864353.png",
             "description": "古く、乾いた血がたくさんついた矢先。何度も使用されたため、その鋭さは失われ、武器としては使えなくなったが、狩人の誇りの象徴としてお守りや表彰として使用されている。",
             "type": "キャラと武器育成素材"
           },
@@ -5006,7 +5006,7 @@
             "name": "極寒のコア",
             "count": 20,
             "rank": 4,
-            "icon": "/assets/images/Kaeya_material_113010_1753588843876.png",
+            "icon": "/assets/images/Kaeya_material_113010_1754193859014.png",
             "description": "急凍樹を倒した後に現れるコア。\\n今にも大地の深淵のエネルギーと思念が噴出しようとしている。哀悼のように静寂な氷霜もいずれ地上の生物に宿る。たとえ生き物を狩らないはずのツル植物でも、強く凶暴になるであろう。",
             "type": "キャラクター育成素材"
           }
@@ -5014,7 +5014,7 @@
         "statBonus": [
           {
             "statType": "FIGHT_PROP_BASE_HP",
-            "value": 2870.887
+            "value": 2870.8872
           },
           {
             "statType": "FIGHT_PROP_BASE_DEFENSE",
@@ -5022,7 +5022,7 @@
           },
           {
             "statType": "FIGHT_PROP_BASE_ATTACK",
-            "value": 63.718
+            "value": 63.7182
           },
           {
             "statType": "FIGHT_PROP_ICE_ADD_HURT",
