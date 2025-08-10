@@ -8,7 +8,7 @@
   "region": "Liyue",
   "constellation": "璣衡儀座",
   "description": "「璃月七星」の一人、「天権」。富の多さで有名であり、全大陸で彼女に匹敵する者はまずいない。",
-  "icon": "/assets/images/Ningguang_icon_1754193874358.png",
+  "icon": "/assets/images/Ningguang_icon_1754798307534.png",
   "profile": {
     "baseHp": 820.6119,
     "baseAtk": 17.808,
@@ -23,7 +23,7 @@
       "id": "千金擲",
       "name": "千金擲",
       "description": "",
-      "icon": "/assets/images/Lisa_normal_attack_1754193854966.png",
+      "icon": "/assets/images/Lisa_normal_attack_1754798289357.png",
       "skillType": "normal",
       "params": {
         "1": [],
@@ -47,7 +47,7 @@
       "id": "璇璣屏",
       "name": "璇璣屏",
       "description": "",
-      "icon": "/assets/images/Ningguang_elemental_skill_1754193874358.png",
+      "icon": "/assets/images/Ningguang_elemental_skill_1754798307534.png",
       "levelData": [
         {
           "tableIndex": 1,
@@ -1136,21 +1136,21 @@
     "elementalBurst": {
       "name": "物換星移",
       "description": "",
-      "icon": "/assets/images/Ningguang_elemental_burst_1754193874358.png",
+      "icon": "/assets/images/Ningguang_elemental_burst_1754798307534.png",
       "levelData": []
     },
     "passiveTalents": [
       {
         "name": "物換星移",
-        "icon": "/assets/images/Ningguang_passive_1_1754193874359.png"
+        "icon": "/assets/images/Ningguang_passive_1_1754798307534.png"
       },
       {
         "name": "備えあれば憂いなし",
-        "icon": "/assets/images/Ningguang_passive_2_1754193874359.png"
+        "icon": "/assets/images/Ningguang_passive_2_1754798307534.png"
       },
       {
         "name": "奇石宝物録",
-        "icon": "/assets/images/Ningguang_passive_3_1754193874359.png"
+        "icon": "/assets/images/Ningguang_passive_3_1754798307535.png"
       }
     ],
     "completeTableData": [
@@ -1602,7 +1602,7 @@
               0
             ],
             "description": [
-              "通常攻���ダメージ|{param1:F1P}",
+              "通���攻撃ダメージ|{param1:F1P}",
               "重撃ダメージ|{param2:P}",
               "星璇ダメージ|1つにつき{param3:F1P}",
               "重撃スタミナ消費|{param4:F1}",
@@ -4111,7 +4111,7 @@
               0
             ],
             "description": [
-              "宝石ダメージ|1つに��き{param1:P}",
+              "宝石ダメージ|1��につき{param1:P}",
               "クールタイム|{param2:F1}秒",
               "元素エネルギー|{param3:I}",
               "",
@@ -4317,32 +4317,32 @@
       {
         "level": null,
         "name": "散る星の破片",
-        "icon": "/assets/images/Ningguang_constellation_cNaN_1754193874359.png"
+        "icon": "/assets/images/Ningguang_constellation_cNaN_1754798307535.png"
       },
       {
         "level": null,
         "name": "璇璣、崑崙を鎮める",
-        "icon": "/assets/images/Ningguang_constellation_cNaN_1754193874359.png"
+        "icon": "/assets/images/Ningguang_constellation_cNaN_1754798307535.png"
       },
       {
         "level": null,
         "name": "森羅星列の囲い",
-        "icon": "/assets/images/Ningguang_constellation_cNaN_1754193874359.png"
+        "icon": "/assets/images/Ningguang_constellation_cNaN_1754798307535.png"
       },
       {
         "level": null,
         "name": "神機妙道の陣組み",
-        "icon": "/assets/images/Ningguang_constellation_cNaN_1754193874359.png"
+        "icon": "/assets/images/Ningguang_constellation_cNaN_1754798307535.png"
       },
       {
         "level": null,
         "name": "瓊屏と千扇の守り",
-        "icon": "/assets/images/Ningguang_constellation_cNaN_1754193874359.png"
+        "icon": "/assets/images/Ningguang_constellation_cNaN_1754798307536.png"
       },
       {
         "level": null,
         "name": "燦々たる七星",
-        "icon": "/assets/images/Ningguang_constellation_cNaN_1754193874359.png"
+        "icon": "/assets/images/Ningguang_constellation_cNaN_1754798307536.png"
       }
     ]
   },
@@ -4360,21 +4360,21 @@
       "isDefault": false,
       "rank": 4,
       "storyId": 340002,
-      "icon": "/assets/images/Ningguang_costume_2_1754193874359.png"
+      "icon": "/assets/images/Ningguang_costume_2_1754798307536.png"
     }
   ],
   "nameCard": {
     "id": 210038,
     "name": "凝光·鳳儀",
     "description": "凝光·鳳儀",
-    "icon": "/assets/images/Ningguang_icon_1754193874358.png"
+    "icon": "/assets/images/Ningguang_icon_1754798307534.png"
   },
   "specialFood": {
     "id": 108139,
     "name": "乾坤モラミート",
     "rank": 1,
-    "icon": "/assets/images/Ningguang_special_food_1754193874359.png",
-    "effectIcon": "/assets/images/Kamisato Ayaka_food_effect_1754193851048.png"
+    "icon": "/assets/images/Ningguang_special_food_1754798307536.png",
+    "effectIcon": "/assets/images/Kamisato Ayaka_food_effect_1754798285657.png"
   },
   "levelProgression": [
     {
@@ -4690,7 +4690,7 @@
             "name": "琉璃百合",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Ningguang_material_100030_1754193874588.png",
+            "icon": "/assets/images/Ningguang_material_100030_1754798307552.png",
             "description": "極めて古い花。かつて璃月の至るところにあり、大地の記憶を花の香りに変えられるらしい。",
             "type": "璃月地域の特産"
           },
@@ -4699,7 +4699,7 @@
             "name": "堅牢なトパーズ·砕屑",
             "count": 1,
             "rank": 2,
-            "icon": "/assets/images/Ningguang_material_104171_1754193874635.png",
+            "icon": "/assets/images/Ningguang_material_104171_1754798307776.png",
             "description": "キャラクターの突破用アイテム。",
             "type": "キャラクター突破素材"
           },
@@ -4708,7 +4708,7 @@
             "name": "新兵の記章",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Diluc_material_112032_1754193860624.png",
+            "icon": "/assets/images/Diluc_material_112032_1754798294786.png",
             "description": "新兵の身分を記した記章。かつてこれをつけた人は、どんな気持ちでファデュイの戦争兵器になったのだろうか。",
             "type": "キャラと武器育成素材"
           }
@@ -4739,7 +4739,7 @@
             "name": "琉璃百合",
             "count": 10,
             "rank": 1,
-            "icon": "/assets/images/Ningguang_material_100030_1754193874588.png",
+            "icon": "/assets/images/Ningguang_material_100030_1754798307552.png",
             "description": "極めて古い花。かつて璃月の至るところにあり、大地の記憶を花の香りに変えられるらしい。",
             "type": "璃月地域の特産"
           },
@@ -4748,7 +4748,7 @@
             "name": "堅牢なトパーズ·欠片",
             "count": 3,
             "rank": 3,
-            "icon": "/assets/images/Ningguang_material_104172_1754193874662.png",
+            "icon": "/assets/images/Ningguang_material_104172_1754798307802.png",
             "description": "キャラクターの突破用アイテム。\\n「この大陸の全ての金銭は俺の血肉。」",
             "type": "キャラクター突破素材"
           },
@@ -4757,7 +4757,7 @@
             "name": "新兵の記章",
             "count": 15,
             "rank": 1,
-            "icon": "/assets/images/Diluc_material_112032_1754193860624.png",
+            "icon": "/assets/images/Diluc_material_112032_1754798294786.png",
             "description": "新兵の身分を記した記章。かつてこれをつけた人は、どんな気持ちでファデュイの戦争兵器になったのだろうか。",
             "type": "キャラと武器育成素材"
           },
@@ -4766,7 +4766,7 @@
             "name": "玄岩の塔",
             "count": 2,
             "rank": 4,
-            "icon": "/assets/images/Ningguang_material_113009_1754193874482.png",
+            "icon": "/assets/images/Ningguang_material_113009_1754798307671.png",
             "description": "無相の岩の外殻によって構成された石柱、純粋な岩元素が高度に濃縮されたものである。\\n岩元素は最も重い元素だ。無相の岩が、外殻を高くそびえ立つ岩の柱にし、自身を高いところに上げたのは、敵から身を守るためではなく、無縁だった天空により近づくためなのかもしれない。",
             "type": "キャラクター育成素材"
           }
@@ -4801,7 +4801,7 @@
             "name": "琉璃百合",
             "count": 20,
             "rank": 1,
-            "icon": "/assets/images/Ningguang_material_100030_1754193874588.png",
+            "icon": "/assets/images/Ningguang_material_100030_1754798307552.png",
             "description": "極めて古い花。かつて璃月の至るところにあり、大地の記憶を花の香りに変えられるらしい。",
             "type": "璃月地域の特産"
           },
@@ -4810,7 +4810,7 @@
             "name": "堅牢なトパーズ·欠片",
             "count": 6,
             "rank": 3,
-            "icon": "/assets/images/Ningguang_material_104172_1754193874662.png",
+            "icon": "/assets/images/Ningguang_material_104172_1754798307802.png",
             "description": "キャラクターの突破用アイテム。\\n「この大陸の全ての金銭は俺の血肉。」",
             "type": "キャラクター突破素材"
           },
@@ -4819,7 +4819,7 @@
             "name": "士官の記章",
             "count": 12,
             "rank": 2,
-            "icon": "/assets/images/Diluc_material_112033_1754193860834.png",
+            "icon": "/assets/images/Diluc_material_112033_1754798294993.png",
             "description": "士官の身分を記した記章、一般兵士とは異なる独特なデザインがあるのは、その複雑な気持ちが含まれたからだろうか。",
             "type": "キャラと武器育成素材"
           },
@@ -4828,7 +4828,7 @@
             "name": "玄岩の塔",
             "count": 4,
             "rank": 4,
-            "icon": "/assets/images/Ningguang_material_113009_1754193874482.png",
+            "icon": "/assets/images/Ningguang_material_113009_1754798307671.png",
             "description": "無相の岩の外殻によって構成された石柱、純粋な岩元素が高度に濃縮されたものである。\\n岩元素は最も重い元素だ。無相の岩が、外殻を高くそびえ立つ岩の柱にし、自身を高いところに上げたのは、敵から身を守るためではなく、無縁だった天空により近づくためなのかもしれない。",
             "type": "キャラクター育成素材"
           }
@@ -4863,7 +4863,7 @@
             "name": "琉璃百合",
             "count": 30,
             "rank": 1,
-            "icon": "/assets/images/Ningguang_material_100030_1754193874588.png",
+            "icon": "/assets/images/Ningguang_material_100030_1754798307552.png",
             "description": "極めて古い花。かつて璃月の至るところにあり、大地の記憶を花の香りに変えられるらしい。",
             "type": "璃月地域の特産"
           },
@@ -4872,7 +4872,7 @@
             "name": "堅牢なトパーズ·塊",
             "count": 3,
             "rank": 4,
-            "icon": "/assets/images/Ningguang_material_104173_1754193874612.png",
+            "icon": "/assets/images/Ningguang_material_104173_1754798307826.png",
             "description": "キャラクターの突破用アイテム。\\n「この大陸の全ての金銭は俺の血肉。」\\n「こんな形で俺は、人間の労働、知恵、未来を保証する。」",
             "type": "キャラクター突破素材"
           },
@@ -4881,7 +4881,7 @@
             "name": "士官の記章",
             "count": 18,
             "rank": 2,
-            "icon": "/assets/images/Diluc_material_112033_1754193860834.png",
+            "icon": "/assets/images/Diluc_material_112033_1754798294993.png",
             "description": "士官の身分を記した記章、一般兵士とは異なる独特なデザインがあるのは、その複雑な気持ちが含まれたからだろうか。",
             "type": "キャラと武器育成素材"
           },
@@ -4890,7 +4890,7 @@
             "name": "玄岩の塔",
             "count": 8,
             "rank": 4,
-            "icon": "/assets/images/Ningguang_material_113009_1754193874482.png",
+            "icon": "/assets/images/Ningguang_material_113009_1754798307671.png",
             "description": "無相の岩の外殻によって構成された石柱、純粋な岩元素が高度に濃縮されたものである。\\n岩元素は最も重い元素だ。無相の岩が、外殻を高くそびえ立つ岩の柱にし、自身を高いところに上げたのは、敵から身を守るためではなく、無縁だった天空により近づくためなのかもしれない。",
             "type": "キャラクター育成素材"
           }
@@ -4925,7 +4925,7 @@
             "name": "琉璃百合",
             "count": 45,
             "rank": 1,
-            "icon": "/assets/images/Ningguang_material_100030_1754193874588.png",
+            "icon": "/assets/images/Ningguang_material_100030_1754798307552.png",
             "description": "極めて古い花。かつて璃月の至るところにあり、大地の記憶を花の香りに変えられるらしい。",
             "type": "璃月地域の特産"
           },
@@ -4934,7 +4934,7 @@
             "name": "堅牢なトパーズ·塊",
             "count": 6,
             "rank": 4,
-            "icon": "/assets/images/Ningguang_material_104173_1754193874612.png",
+            "icon": "/assets/images/Ningguang_material_104173_1754798307826.png",
             "description": "キャラクターの突破用アイテム。\\n「この大陸の全ての金銭は俺の血肉。」\\n「こんな形で俺は、人間の労働、知恵、未来を保証する。」",
             "type": "キャラクター突破素材"
           },
@@ -4943,7 +4943,7 @@
             "name": "尉官の記章",
             "count": 12,
             "rank": 3,
-            "icon": "/assets/images/Diluc_material_112034_1754193860805.png",
+            "icon": "/assets/images/Diluc_material_112034_1754798294701.png",
             "description": "尉官の身分を記した記章。ファデュイには膨大な軍隊があり、その中で尉官になれる人はきっと優れた能力があるだろう。",
             "type": "キャラと武器育成素材"
           },
@@ -4952,7 +4952,7 @@
             "name": "玄岩の塔",
             "count": 12,
             "rank": 4,
-            "icon": "/assets/images/Ningguang_material_113009_1754193874482.png",
+            "icon": "/assets/images/Ningguang_material_113009_1754798307671.png",
             "description": "無相の岩の外殻によって構成された石柱、純粋な岩元素が高度に濃縮されたものである。\\n岩元素は最も重い元素だ。無相の岩が、外殻を高くそびえ立つ岩の柱にし、自身を高いところに上げたのは、敵から身を守るためではなく、無縁だった天空により近づくためなのかもしれない。",
             "type": "キャラクター育成素材"
           }
@@ -4987,7 +4987,7 @@
             "name": "琉璃百合",
             "count": 60,
             "rank": 1,
-            "icon": "/assets/images/Ningguang_material_100030_1754193874588.png",
+            "icon": "/assets/images/Ningguang_material_100030_1754798307552.png",
             "description": "極めて古い花。かつて璃月の至るところにあり、大地の記憶を花の香りに変えられるらしい。",
             "type": "璃月地域の特産"
           },
@@ -4996,7 +4996,7 @@
             "name": "堅牢なトパーズ",
             "count": 6,
             "rank": 5,
-            "icon": "/assets/images/Ningguang_material_104174_1754193874687.png",
+            "icon": "/assets/images/Ningguang_material_104174_1754798307554.png",
             "description": "キャラクターの突破用アイテム。\\n「この大陸の全ての金銭は俺の血肉。」\\n「こんな形で俺は、人間の労働、知恵、未来を保証する。」\\n「これが俺の人間への信頼。金銭に背くことは、俺の血を汚すと同然だ。」",
             "type": "キャラクター突破素材"
           },
@@ -5005,7 +5005,7 @@
             "name": "尉官の記章",
             "count": 24,
             "rank": 3,
-            "icon": "/assets/images/Diluc_material_112034_1754193860805.png",
+            "icon": "/assets/images/Diluc_material_112034_1754798294701.png",
             "description": "尉官の身分を記した記章。ファデュイには膨大な軍隊があり、その中で尉官になれる人はきっと優れた能力があるだろう。",
             "type": "キャラと武器育成素材"
           },
@@ -5014,7 +5014,7 @@
             "name": "玄岩の塔",
             "count": 20,
             "rank": 4,
-            "icon": "/assets/images/Ningguang_material_113009_1754193874482.png",
+            "icon": "/assets/images/Ningguang_material_113009_1754798307671.png",
             "description": "無相の岩の外殻によって構成された石柱、純粋な岩元素が高度に濃縮されたものである。\\n岩元素は最も重い元素だ。無相の岩が、外殻を高くそびえ立つ岩の柱にし、自身を高いところに上げたのは、敵から身を守るためではなく、無縁だった天空により近づくためなのかもしれない。",
             "type": "キャラクター育成素材"
           }

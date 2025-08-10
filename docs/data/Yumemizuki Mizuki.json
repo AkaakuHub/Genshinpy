@@ -8,7 +8,7 @@
   "region": "Inazuma",
   "constellation": "獏枕座",
   "description": "「秋沙銭湯」の大株主で、夢喰い獏の心理療法士。人々の悪夢を追い払って安らぎを与えるために奮闘している。",
-  "icon": "/assets/images/Yumemizuki Mizuki_icon_1754194002520.png",
+  "icon": "/assets/images/Yumemizuki Mizuki_icon_1754798431156.png",
   "profile": {
     "baseHp": 991.4528,
     "baseAtk": 16.758,
@@ -23,7 +23,7 @@
       "id": "夢我夢心",
       "name": "夢我夢心",
       "description": "",
-      "icon": "/assets/images/Lisa_normal_attack_1754193854966.png",
+      "icon": "/assets/images/Lisa_normal_attack_1754798289357.png",
       "skillType": "normal",
       "params": {
         "1": [],
@@ -47,7 +47,7 @@
       "id": "秋沙歌枕巡り",
       "name": "秋沙歌枕巡り",
       "description": "",
-      "icon": "/assets/images/Yumemizuki Mizuki_elemental_skill_1754194002520.png",
+      "icon": "/assets/images/Yumemizuki Mizuki_elemental_skill_1754798431156.png",
       "levelData": [
         {
           "tableIndex": 1,
@@ -77,7 +77,7 @@
             0
           ],
           "description": [
-            "スキルダメージ|{param4:F1P}",
+            "スキルダメー��|{param4:F1P}",
             "継続攻撃ダメージ|{param1:F1P}",
             "夢浮かみ状態の継続時間|{param5:F1}秒",
             "元素熟知1ごとにアップする拡散反応ダメージ|{param2:F2P}",
@@ -1136,21 +1136,21 @@
     "elementalBurst": {
       "name": "名月浮声",
       "description": "",
-      "icon": "/assets/images/Yumemizuki Mizuki_elemental_burst_1754194002520.png",
+      "icon": "/assets/images/Yumemizuki Mizuki_elemental_burst_1754798431156.png",
       "levelData": []
     },
     "passiveTalents": [
       {
         "name": "名月浮声",
-        "icon": "/assets/images/Yumemizuki Mizuki_passive_1_1754194002520.png"
+        "icon": "/assets/images/Yumemizuki Mizuki_passive_1_1754798431156.png"
       },
       {
         "name": "昼想夜夢",
-        "icon": "/assets/images/Yumemizuki Mizuki_passive_2_1754194002520.png"
+        "icon": "/assets/images/Yumemizuki Mizuki_passive_2_1754798431157.png"
       },
       {
         "name": "諸病無病",
-        "icon": "/assets/images/Yumemizuki Mizuki_passive_3_1754194002520.png"
+        "icon": "/assets/images/Yumemizuki Mizuki_passive_3_1754798431157.png"
       }
     ],
     "completeTableData": [
@@ -1398,7 +1398,7 @@
               "重撃ダメージ|{param4:F1P}",
               "重撃スタミナ消費|{param5:F1}",
               "落下期間のダメージ|{param6:F1P}",
-              "低空/高空落下攻撃ダメージ|{param7:P}/{param8:P}",
+              "低空/高空落下攻���ダメージ|{param7:P}/{param8:P}",
               "",
               "",
               "",
@@ -2025,7 +2025,7 @@
               "2段ダメージ|{param2:F1P}",
               "3段ダメージ|{param3:F1P}",
               "重撃ダメージ|{param4:F1P}",
-              "重撃��タミナ消費|{param5:F1}",
+              "重撃スタミナ消費|{param5:F1}",
               "落下期間のダメージ|{param6:F1P}",
               "低空/高空落下攻撃ダメージ|{param7:P}/{param8:P}",
               "",
@@ -2230,7 +2230,7 @@
               0
             ],
             "description": [
-              "スキルダメージ|{param4:F1P}",
+              "スキルダメー��|{param4:F1P}",
               "継続攻撃ダメージ|{param1:F1P}",
               "夢浮かみ状態の継続時間|{param5:F1}秒",
               "元素熟知1ごとにアップする拡散反応ダメージ|{param2:F2P}",
@@ -3907,7 +3907,7 @@
             "description": [
               "スキルダメージ|{param1:F1P}",
               "夢念の衝撃波ダメージ|{param2:F1P}",
-              "お菓子を拾うとHP回復|元素熟知{param3:F1P}+{param7:I}",
+              "お菓子を��うとHP回復|元素熟知{param3:F1P}+{param7:I}",
               "継続時間|{param6:F1}秒",
               "クールタイム|{param4:F1}秒",
               "元素エネルギー|{param5:I}",
@@ -4317,32 +4317,32 @@
       {
         "level": null,
         "name": "瑞枝さす",
-        "icon": "/assets/images/Yumemizuki Mizuki_constellation_cNaN_1754194002520.png"
+        "icon": "/assets/images/Yumemizuki Mizuki_constellation_cNaN_1754798431157.png"
       },
       {
         "level": null,
         "name": "希なる朝の",
-        "icon": "/assets/images/Yumemizuki Mizuki_constellation_cNaN_1754194002520.png"
+        "icon": "/assets/images/Yumemizuki Mizuki_constellation_cNaN_1754798431157.png"
       },
       {
         "level": null,
         "name": "なみだ月",
-        "icon": "/assets/images/Yumemizuki Mizuki_constellation_cNaN_1754194002521.png"
+        "icon": "/assets/images/Yumemizuki Mizuki_constellation_cNaN_1754798431157.png"
       },
       {
         "level": null,
         "name": "夢見草",
-        "icon": "/assets/images/Yumemizuki Mizuki_constellation_cNaN_1754194002521.png"
+        "icon": "/assets/images/Yumemizuki Mizuki_constellation_cNaN_1754798431157.png"
       },
       {
         "level": null,
         "name": "恋ふる夜空に",
-        "icon": "/assets/images/Yumemizuki Mizuki_constellation_cNaN_1754194002521.png"
+        "icon": "/assets/images/Yumemizuki Mizuki_constellation_cNaN_1754798431157.png"
       },
       {
         "level": null,
         "name": "煙る月",
-        "icon": "/assets/images/Yumemizuki Mizuki_constellation_cNaN_1754194002521.png"
+        "icon": "/assets/images/Yumemizuki Mizuki_constellation_cNaN_1754798431157.png"
       }
     ]
   },
@@ -4359,14 +4359,14 @@
     "id": 210233,
     "name": "夢見月瑞希・悪夢喰",
     "description": "夢見月瑞希・悪夢喰",
-    "icon": "/assets/images/Yumemizuki Mizuki_namecard_1754194002643.png"
+    "icon": "/assets/images/Yumemizuki Mizuki_namecard_1754798431277.png"
   },
   "specialFood": {
     "id": 108793,
     "name": "「夢一夜の癒し」",
     "rank": 3,
-    "icon": "/assets/images/Yumemizuki Mizuki_special_food_1754194002521.png",
-    "effectIcon": "/assets/images/Chongyun_food_effect_1754193887443.png"
+    "icon": "/assets/images/Yumemizuki Mizuki_special_food_1754798431157.png",
+    "effectIcon": "/assets/images/Chongyun_food_effect_1754798320555.png"
   },
   "levelProgression": [
     {
@@ -4682,7 +4682,7 @@
             "name": "ウミレイシ",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Kaedehara Kazuha_material_101206_1754193903203.png",
+            "icon": "/assets/images/Kaedehara Kazuha_material_101206_1754798335367.png",
             "description": "特定の海域や島でしか育たない特殊な品種。キノコ類のように見えるが、実際は軟体動物の分泌と増殖から生まれたものである。",
             "type": "稲妻地域の特産"
           },
@@ -4691,7 +4691,7 @@
             "name": "自由のターコイズ·砕屑",
             "count": 1,
             "rank": 2,
-            "icon": "/assets/images/Jean_material_104151_1754193853486.png",
+            "icon": "/assets/images/Jean_material_104151_1754798287584.png",
             "description": "キャラクターの突破用アイテム。",
             "type": "キャラクター突破素材"
           },
@@ -4700,7 +4700,7 @@
             "name": "古びた鍔",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Kamisato Ayaka_material_112044_1754193851447.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_112044_1754798286078.png",
             "description": "稲妻の刀についている防具。多くの戦いを経験している。\\n剣術の達人にとって、鍔は相手の刃から手を守ってくれる物。新人にとっては、誤って手が柄から刀身へと滑らないよう守ってくれる物だ。",
             "type": "キャラと武器育成素材"
           }
@@ -4731,7 +4731,7 @@
             "name": "ウミレイシ",
             "count": 10,
             "rank": 1,
-            "icon": "/assets/images/Kaedehara Kazuha_material_101206_1754193903203.png",
+            "icon": "/assets/images/Kaedehara Kazuha_material_101206_1754798335367.png",
             "description": "特定の海域や島でしか育たない特殊な品種。キノコ類のように見えるが、実際は軟体動物の分泌と増殖から生まれたものである。",
             "type": "稲妻地域の特産"
           },
@@ -4740,7 +4740,7 @@
             "name": "自由のターコイズ·欠片",
             "count": 3,
             "rank": 3,
-            "icon": "/assets/images/Jean_material_104152_1754193853340.png",
+            "icon": "/assets/images/Jean_material_104152_1754798287889.png",
             "description": "キャラクターの突破用アイテム。\\n「風向きは変わるもの。」",
             "type": "キャラクター突破素材"
           },
@@ -4749,7 +4749,7 @@
             "name": "古びた鍔",
             "count": 15,
             "rank": 1,
-            "icon": "/assets/images/Kamisato Ayaka_material_112044_1754193851447.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_112044_1754798286078.png",
             "description": "稲妻の刀についている防具。多くの戦いを経験している。\\n剣術の達人にとって、鍔は相手の刃から手を守ってくれる物。新人にとっては、誤って手が柄から刀身へと滑らないよう守ってくれる物だ。",
             "type": "キャラと武器育成素材"
           },
@@ -4758,8 +4758,8 @@
             "name": "謎土の護符",
             "count": 2,
             "rank": 4,
-            "icon": "/assets/images/Citlali_material_113071_1754193999624.png",
-            "description": "迷える霊覚の修験者の試練を乗り越えた後、いつの間にかバッグに入っていた護符。\\n「謎煙の主」の記録によると、「霊覚」の強い祭司は瞑想することで、黒曜石に反射する光と影の中を通り、死者のみが踏み入ることを許された地下の謎土に意識を飛ばすことができるのだという。ただし、この行為には危険が伴うため、祭司たちがこれを行う時には魂が謎土で迷わないように似たような護符を身に着けていたそうだ。とはいえ、この護符は実用的な意味合いより象徴的な意味の方が強い。このひっそりと修行する祭司が試練を乗り越えた勇士にこれを託すのも、単なる祝福なのかもしれない。",
+            "icon": "/assets/images/Citlali_material_113071_1754798428467.png",
+            "description": "迷える霊覚の修験者の試練を乗り越えた後、いつの間にかバッグに入っていた護符。\\n「謎煙の主」の記録によると、「霊覚」の強い祭司は瞑想することで、黒曜石に反射する光と影の中を通り、死者のみが踏み入ることを許された地下の謎土に意識を飛ばすことができるのだという。ただし、この行為には危険が伴うため、祭司たちがこれを行う時には魂が謎土で迷わないように似たような護符を身に着けていたそうだ。と���いえ、この護符は実用的な意味合いより象徴的な意味の方が強い。このひっそりと修行する祭司が試練を乗り越えた勇士にこれを託すのも、単なる祝福なのかもしれない。",
             "type": "キャラクター育成素材"
           }
         ],
@@ -4793,7 +4793,7 @@
             "name": "ウミレイシ",
             "count": 20,
             "rank": 1,
-            "icon": "/assets/images/Kaedehara Kazuha_material_101206_1754193903203.png",
+            "icon": "/assets/images/Kaedehara Kazuha_material_101206_1754798335367.png",
             "description": "特定の海域や島でしか育たない特殊な品種。キノコ類のように見えるが、実際は軟体動物の分泌と増殖から生まれたものである。",
             "type": "稲妻地域の特産"
           },
@@ -4802,7 +4802,7 @@
             "name": "自由のターコイズ·欠片",
             "count": 6,
             "rank": 3,
-            "icon": "/assets/images/Jean_material_104152_1754193853340.png",
+            "icon": "/assets/images/Jean_material_104152_1754798287889.png",
             "description": "キャラクターの突破用アイテム。\\n「風向きは変わるもの。」",
             "type": "キャラクター突破素材"
           },
@@ -4811,7 +4811,7 @@
             "name": "影打の鍔",
             "count": 12,
             "rank": 2,
-            "icon": "/assets/images/Kamisato Ayaka_material_112045_1754193851352.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_112045_1754798285948.png",
             "description": "優れた刀に使われる防具。\\n稲妻には、刀鍛冶の長き伝統がある。刀工が刀を鍛える時、必ず何本か刀を打ち、その中で一番出来の良い物を「真打」として選び、残りは「影打」と呼ぶ。",
             "type": "キャラと武器育成素材"
           },
@@ -4820,8 +4820,8 @@
             "name": "謎土の護符",
             "count": 4,
             "rank": 4,
-            "icon": "/assets/images/Citlali_material_113071_1754193999624.png",
-            "description": "迷える霊覚の修験者の試練を乗り越えた後、いつの間にかバッグに入っていた護符。\\n「謎煙の主」の記録によると、「霊覚」の強い祭司は瞑想することで、黒曜石に反射する光と影の中を通り、死者のみが踏み入ることを許された地下の謎土に意識を飛ばすことができるのだという。ただし、この行為には危険が伴うため、祭司たちがこれを行う時には魂が謎土で迷わないように似たような護符を身に着けていたそうだ。とはいえ、この護符は実用的な意味合いより象徴的な意味の方が強い。このひっそりと修行する祭司が試練を乗り越えた勇士にこれを託すのも、単なる祝福なのかもしれない。",
+            "icon": "/assets/images/Citlali_material_113071_1754798428467.png",
+            "description": "迷える霊覚の修験者の試練を乗り越えた後、いつの間にかバッグに入っていた護符。\\n「謎煙の主」の記録によると、「霊覚」の強い祭司は瞑想することで、黒曜石に反射する光と影の中を通り、死者のみが踏み入ることを許された地下の謎土に意識を飛ばすことができるのだという。ただし、この行為には危険が伴うため、祭司たちがこれを行う時には魂が謎土で迷わないように似たような護符を身に着けていたそうだ。と���いえ、この護符は実用的な意味合いより象徴的な意味の方が強い。このひっそりと修行する祭司が試練を乗り越えた勇士にこれを託すのも、単なる祝福なのかもしれない。",
             "type": "キャラクター育成素材"
           }
         ],
@@ -4855,7 +4855,7 @@
             "name": "ウミレイシ",
             "count": 30,
             "rank": 1,
-            "icon": "/assets/images/Kaedehara Kazuha_material_101206_1754193903203.png",
+            "icon": "/assets/images/Kaedehara Kazuha_material_101206_1754798335367.png",
             "description": "特定の海域や島でしか育たない特殊な品種。キノコ類のように見えるが、実際は軟体動物の分泌と増殖から生まれたものである。",
             "type": "稲妻地域の特産"
           },
@@ -4864,7 +4864,7 @@
             "name": "自由のターコイズ·塊",
             "count": 3,
             "rank": 4,
-            "icon": "/assets/images/Jean_material_104153_1754193853361.png",
+            "icon": "/assets/images/Jean_material_104153_1754798287838.png",
             "description": "キャラクターの突破用アイテム。\\n「風向きは変わるもの。」\\n「いつか、光射す方へと吹いてくる。」",
             "type": "キャラクター突破素材"
           },
@@ -4873,7 +4873,7 @@
             "name": "影打の鍔",
             "count": 18,
             "rank": 2,
-            "icon": "/assets/images/Kamisato Ayaka_material_112045_1754193851352.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_112045_1754798285948.png",
             "description": "優れた刀に使われる防具。\\n稲妻には、刀鍛冶の長き伝統がある。刀工が刀を鍛える時、必ず何本か刀を打ち、その中で一番出来の良い物を「真打」として選び、残りは「影打」と呼ぶ。",
             "type": "キャラと武器育成素材"
           },
@@ -4882,8 +4882,8 @@
             "name": "謎土の護符",
             "count": 8,
             "rank": 4,
-            "icon": "/assets/images/Citlali_material_113071_1754193999624.png",
-            "description": "迷える霊覚の修験者の試練を乗り越えた後、いつの間にかバッグに入っていた護符。\\n「謎煙の主」の記録によると、「霊覚」の強い祭司は瞑想することで、黒曜石に反射する光と影の中を通り、死者のみが踏み入ることを許された地下の謎土に意識を飛ばすことができるのだという。ただし、この行為には危険が伴うため、祭司たちがこれを行う時には魂が謎土で迷わないように似たような護符を身に着けていたそうだ。とはいえ、この護符は実用的な意味合いより象徴的な意味の方が強い。このひっそりと修行する祭司が試練を乗り越えた勇士にこれを託すのも、単なる祝福なのかもしれない。",
+            "icon": "/assets/images/Citlali_material_113071_1754798428467.png",
+            "description": "迷える霊覚の修験者の試練を乗り越えた後、いつの間にかバッグに入っていた護符。\\n「謎煙の主」の記録によると、「霊覚」の強い祭司は瞑想することで、黒曜石に反射する光と影の中を通り、死者のみが踏み入ることを許された地下の謎土に意識を飛ばすことができるのだという。ただし、この行為には危険が伴うため、祭司たちがこれを行う時には魂が謎土で迷わないように似たような護符を身に着けていたそうだ。と���いえ、この護符は実用的な意味合いより象徴的な意味の方が強い。このひっそりと修行する祭司が試練を乗り越えた勇士にこれを託すのも、単なる祝福なのかもしれない。",
             "type": "キャラクター育成素材"
           }
         ],
@@ -4917,7 +4917,7 @@
             "name": "ウミレイシ",
             "count": 45,
             "rank": 1,
-            "icon": "/assets/images/Kaedehara Kazuha_material_101206_1754193903203.png",
+            "icon": "/assets/images/Kaedehara Kazuha_material_101206_1754798335367.png",
             "description": "特定の海域や島でしか育たない特殊な品種。キノコ類のように見えるが、実際は軟体動物の分泌と増殖から生まれたものである。",
             "type": "稲妻地域の特産"
           },
@@ -4926,7 +4926,7 @@
             "name": "自由のターコイズ·塊",
             "count": 6,
             "rank": 4,
-            "icon": "/assets/images/Jean_material_104153_1754193853361.png",
+            "icon": "/assets/images/Jean_material_104153_1754798287838.png",
             "description": "キャラクターの突破用アイテム。\\n「風向きは変わるもの。」\\n「いつか、光射す方へと吹いてくる。」",
             "type": "キャラクター突破素材"
           },
@@ -4935,7 +4935,7 @@
             "name": "名刀の鍔",
             "count": 12,
             "rank": 3,
-            "icon": "/assets/images/Kamisato Ayaka_material_112046_1754193851375.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_112046_1754798285924.png",
             "description": "名刀に取り付けられた美しい防具。\\n刀には魂が宿り、命が存在すると人々は信じている。刀に名前を付けるのも、そのためである。刀を大切にする者は、刀にも報われる。しかし、刀と親友に、ひいては恋人にまでなった者は、その感情は殺伐を伴うことを肝に銘じておかなければならない。血を浴び、常に刀と踊ってきた者の熱血は、いずれ無情の鋼鉄によって冷めてしまう。",
             "type": "キャラと武器育成素材"
           },
@@ -4944,8 +4944,8 @@
             "name": "謎土の護符",
             "count": 12,
             "rank": 4,
-            "icon": "/assets/images/Citlali_material_113071_1754193999624.png",
-            "description": "迷える霊覚の修験者の試練を乗り越えた後、いつの間にかバッグに入っていた護符。\\n「謎煙の主」の記録によると、「霊覚」の強い祭司は瞑想することで、黒曜石に反射する光と影の中を通り、死者のみが踏み入ることを許された地下の謎土に意識を飛ばすことができるのだという。ただし、この行為には危険が伴うため、祭司たちがこれを行う時には魂が謎土で迷わないように似たような護符を身に着けていたそうだ。とはいえ、この護符は実用的な意味合いより象徴的な意味の方が強い。このひっそりと修行する祭司が試練を乗り越えた勇士にこれを託すのも、単なる祝福なのかもしれない。",
+            "icon": "/assets/images/Citlali_material_113071_1754798428467.png",
+            "description": "迷える霊覚の修験者の試練を乗り越えた後、いつの間にかバッグに入っていた護符。\\n「謎煙の主」の記録によると、「霊覚」の強い祭司は瞑想することで、黒曜石に反射する光と影の中を通り、死者のみが踏み入ることを許された地下の謎土に意識を飛ばすことができるのだという。ただし、この行為には危険が伴うため、祭司たちがこれを行う時には魂が謎土で迷わないように似たような護符を身に着けていたそうだ。と���いえ、この護符は実用的な意味合いより象徴的な意味の方が強い。このひっそりと修行する祭司が試練を乗り越えた勇士にこれを託すのも、単なる祝福なのかもしれない。",
             "type": "キャラクター育成素材"
           }
         ],
@@ -4979,7 +4979,7 @@
             "name": "ウミレイシ",
             "count": 60,
             "rank": 1,
-            "icon": "/assets/images/Kaedehara Kazuha_material_101206_1754193903203.png",
+            "icon": "/assets/images/Kaedehara Kazuha_material_101206_1754798335367.png",
             "description": "特定の海域や島でしか育たない特殊な品種。キノコ類のように見えるが、実際は軟体動物の分泌と増殖から生まれたものである。",
             "type": "稲妻地域の特産"
           },
@@ -4988,7 +4988,7 @@
             "name": "自由のターコイズ",
             "count": 6,
             "rank": 5,
-            "icon": "/assets/images/Jean_material_104154_1754193853390.png",
+            "icon": "/assets/images/Jean_material_104154_1754798287581.png",
             "description": "キャラクターの突破用アイテム。\\n「風向きは変わるもの。」\\n「いつか、光射す方へと吹いてくる。」\\n「これからは、ボクの祝福と共に、もっと自由に生きていこう。」",
             "type": "キャラクター突破素材"
           },
@@ -4997,7 +4997,7 @@
             "name": "名刀の鍔",
             "count": 24,
             "rank": 3,
-            "icon": "/assets/images/Kamisato Ayaka_material_112046_1754193851375.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_112046_1754798285924.png",
             "description": "名刀に取り付けられた美しい防具。\\n刀には魂が宿り、命が存在すると人々は信じている。刀に名前を付けるのも、そのためである。刀を大切にする者は、刀にも報われる。しかし、刀と親友に、ひいては恋人にまでなった者は、その感情は殺伐を伴うことを肝に銘じておかなければならない。血を浴び、常に刀と踊ってきた者の熱血は、いずれ無情の鋼鉄によって冷めてしまう。",
             "type": "キャラと武器育成素材"
           },
@@ -5006,8 +5006,8 @@
             "name": "謎土の護符",
             "count": 20,
             "rank": 4,
-            "icon": "/assets/images/Citlali_material_113071_1754193999624.png",
-            "description": "迷える霊覚の修験者の試練を乗り越えた後、いつの間にかバッグに入っていた護符。\\n「謎煙の主」の記録によると、「霊覚」の強い祭司は瞑想することで、黒曜石に反射する光と影の中を通り、死者のみが踏み入ることを許された地下の謎土に意識を飛ばすことができるのだという。ただし、この行為には危険が伴うため、祭司たちがこれを行う時には魂が謎土で迷わないように似たような護符を身に着けていたそうだ。とはいえ、この護符は実用的な意味合いより象徴的な意味の方が強い。このひっそりと修行する祭司が試練を乗り越えた勇士にこれを託すのも、単なる祝福なのかもしれない。",
+            "icon": "/assets/images/Citlali_material_113071_1754798428467.png",
+            "description": "迷える霊覚の修験者の試練を乗り越えた後、いつの間にかバッグに入っていた護符。\\n「謎煙の主」の記録によると、「霊覚」の強い祭司は瞑想することで、黒曜石に反射する光と影の中を通り、死者のみが踏み入ることを許された地下の謎土に意識を飛ばすことができるのだという。ただし、この行為には危険が伴うため、祭司たちがこれを行う時には魂が謎土で迷わないように似たような護符を身に着けていたそうだ。と���いえ、この護符は実用的な意味合いより象徴的な意味の方が強い。このひっそりと修行する祭司が試練を乗り越えた勇士にこれを託すのも、単なる祝福なのかもしれない。",
             "type": "キャラクター育成素材"
           }
         ],

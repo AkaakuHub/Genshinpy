@@ -8,7 +8,7 @@
   "region": "Fontaine",
   "constellation": "ピエス・モンテ座",
   "description": "フォンテーヌに名を馳せる「元ホテル・ドゥボールのシェフ」。「カーネル・デセール」の肩書きを持つ「科学料理」の先駆者でもある。料理に関する要求が非常に高い。",
-  "icon": "/assets/images/Escoffier_icon_1754194007219.png",
+  "icon": "/assets/images/Escoffier_icon_1754798435569.png",
   "profile": {
     "baseHp": 1039.1188,
     "baseAtk": 26.999,
@@ -23,7 +23,7 @@
       "id": "キッチンスキル",
       "name": "キッチンスキル",
       "description": "",
-      "icon": "/assets/images/Xiangling_normal_attack_1754193867386.png",
+      "icon": "/assets/images/Xiangling_normal_attack_1754798301025.png",
       "skillType": "normal",
       "params": {
         "1": [],
@@ -47,7 +47,7 @@
       "id": "ミ・キュイ",
       "name": "ミ・キュイ",
       "description": "",
-      "icon": "/assets/images/Escoffier_elemental_skill_1754194007219.png",
+      "icon": "/assets/images/Escoffier_elemental_skill_1754798435569.png",
       "levelData": [
         {
           "tableIndex": 1,
@@ -590,7 +590,7 @@
             "フローズン・パフェのダメージ|{param2:F1P}",
             "チルドモードの継続時間|{param3:F1}秒",
             "迸発の刃のダメージ|{param4:F1P}",
-            "迸発の刃の間隔|{param5:F1}秒",
+            "迸���の刃の間隔|{param5:F1}秒",
             "一回押しクールタイム|{param6:F1}秒",
             "長押しクールタイム|{param7:F1}秒",
             "",
@@ -1136,21 +1136,21 @@
     "elementalBurst": {
       "name": "美食は良薬に勝る",
       "description": "",
-      "icon": "/assets/images/Escoffier_elemental_burst_1754194007219.png",
+      "icon": "/assets/images/Escoffier_elemental_burst_1754798435570.png",
       "levelData": []
     },
     "passiveTalents": [
       {
         "name": "美食は良薬に勝る",
-        "icon": "/assets/images/Escoffier_passive_1_1754194007219.png"
+        "icon": "/assets/images/Escoffier_passive_1_1754798435570.png"
       },
       {
         "name": "シーズニングの中の閃き",
-        "icon": "/assets/images/Escoffier_passive_2_1754194007219.png"
+        "icon": "/assets/images/Escoffier_passive_2_1754798435570.png"
       },
       {
         "name": "アドリブ・キュイジーヌ",
-        "icon": "/assets/images/Escoffier_passive_3_1754194007219.png"
+        "icon": "/assets/images/Escoffier_passive_3_1754798435570.png"
       }
     ],
     "completeTableData": [
@@ -1394,7 +1394,7 @@
             "description": [
               "1段ダメージ|{param1:F1P}",
               "2段ダメージ|{param2:F1P}",
-              "3段ダメージ|{param3:F1P}+{param4:F1P}",
+              "3段ダメ��ジ|{param3:F1P}+{param4:F1P}",
               "重撃ダメージ|{param5:F1P}",
               "重撃スタミナ消費|{param6:F1}",
               "落下期間のダメージ|{param7:F1P}",
@@ -1750,7 +1750,7 @@
               "重撃ダメージ|{param5:F1P}",
               "重撃スタミナ消費|{param6:F1}",
               "落下期間のダメージ|{param7:F1P}",
-              "低空/高空落��攻撃ダメージ|{param8:P}/{param9:P}",
+              "低空/高空落下攻撃ダ��ージ|{param8:P}/{param9:P}",
               "",
               "",
               "",
@@ -1957,7 +1957,7 @@
               "1段ダメージ|{param1:F1P}",
               "2段ダメージ|{param2:F1P}",
               "3段ダメージ|{param3:F1P}+{param4:F1P}",
-              "重撃ダメージ|{param5:F1P}",
+              "重撃ダ���ージ|{param5:F1P}",
               "重撃スタミナ消費|{param6:F1}",
               "落下期間のダメージ|{param7:F1P}",
               "低空/高空落下攻撃ダメージ|{param8:P}/{param9:P}",
@@ -2155,7 +2155,7 @@
               0
             ],
             "description": [
-              "1段ダメ��ジ|{param1:F1P}",
+              "1段ダメージ|{param1:F1P}",
               "2段ダメージ|{param2:F1P}",
               "3段ダメージ|{param3:F1P}+{param4:F1P}",
               "重撃ダメージ|{param5:F1P}",
@@ -2722,7 +2722,7 @@
               "フローズン・パフェのダメージ|{param2:F1P}",
               "チルドモードの継続時間|{param3:F1}秒",
               "迸発の刃のダメージ|{param4:F1P}",
-              "迸発の刃の間隔|{param5:F1}秒",
+              "迸���の刃の間隔|{param5:F1}秒",
               "一回押しクールタイム|{param6:F1}秒",
               "長押しクールタイム|{param7:F1}秒",
               "",
@@ -4317,32 +4317,32 @@
       {
         "level": null,
         "name": "味覚咲かす オードブルの円舞",
-        "icon": "/assets/images/Escoffier_constellation_cNaN_1754194007219.png"
+        "icon": "/assets/images/Escoffier_constellation_cNaN_1754798435570.png"
       },
       {
         "level": null,
         "name": "濃厚ポトフの芸術",
-        "icon": "/assets/images/Escoffier_constellation_cNaN_1754194007219.png"
+        "icon": "/assets/images/Escoffier_constellation_cNaN_1754798435570.png"
       },
       {
         "level": null,
         "name": "魔法のキャラメリゼ",
-        "icon": "/assets/images/Escoffier_constellation_cNaN_1754194007219.png"
+        "icon": "/assets/images/Escoffier_constellation_cNaN_1754798435570.png"
       },
       {
         "level": null,
         "name": "ローズマリーの秘伝配合",
-        "icon": "/assets/images/Escoffier_constellation_cNaN_1754194007219.png"
+        "icon": "/assets/images/Escoffier_constellation_cNaN_1754798435570.png"
       },
       {
         "level": null,
         "name": "サウザンドソース・ シンフォニー",
-        "icon": "/assets/images/Escoffier_constellation_cNaN_1754194007219.png"
+        "icon": "/assets/images/Escoffier_constellation_cNaN_1754798435570.png"
       },
       {
         "level": null,
         "name": "虹色パティスリーの茶話",
-        "icon": "/assets/images/Escoffier_constellation_cNaN_1754194007219.png"
+        "icon": "/assets/images/Escoffier_constellation_cNaN_1754798435570.png"
       }
     ]
   },
@@ -4359,14 +4359,14 @@
     "id": 210241,
     "name": "エスコフィエ・余韻",
     "description": "エスコフィエ・余韻",
-    "icon": "/assets/images/Escoffier_icon_1754194007219.png"
+    "icon": "/assets/images/Escoffier_icon_1754798435569.png"
   },
   "specialFood": {
     "id": 108820,
     "name": "ドゥボールケーキ・デラックス",
     "rank": 4,
-    "icon": "/assets/images/Escoffier_special_food_1754194007220.png",
-    "effectIcon": "/assets/images/Xiao_food_effect_1754193872657.png"
+    "icon": "/assets/images/Escoffier_special_food_1754798435570.png",
+    "effectIcon": "/assets/images/Xiao_food_effect_1754798305832.png"
   },
   "levelProgression": [
     {
@@ -4682,7 +4682,7 @@
             "name": "蒼晶螺",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Charlotte_material_101232_1754193969425.png",
+            "icon": "/assets/images/Charlotte_material_101232_1754798398815.png",
             "description": "薄暗い光を放つ貝の形をした構造物。生物の甲羅ではなく、より原始的な元素エネルギーが集まって出来た産物のようだ。",
             "type": "フォンテーヌ地域の特産"
           },
@@ -4691,7 +4691,7 @@
             "name": "哀切なアイスクリスタル·砕屑",
             "count": 1,
             "rank": 2,
-            "icon": "/assets/images/Kamisato Ayaka_material_104161_1754193851399.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104161_1754798286052.png",
             "description": "キャラクターの突破用アイテム。",
             "type": "キャラクター突破素材"
           },
@@ -4700,7 +4700,7 @@
             "name": "整合の歯車",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Lynette_material_112083_1754193960928.png",
+            "icon": "/assets/images/Lynette_material_112083_1754798390553.png",
             "description": "クロックワーク·マシナリーの歯車。\\n動力伝達のための重要な部品。この部品がないと、対応のモジュールは機能しなくなる。",
             "type": "キャラと武器育成素材"
           }
@@ -4731,7 +4731,7 @@
             "name": "蒼晶螺",
             "count": 10,
             "rank": 1,
-            "icon": "/assets/images/Charlotte_material_101232_1754193969425.png",
+            "icon": "/assets/images/Charlotte_material_101232_1754798398815.png",
             "description": "薄暗い光を放つ貝の形をした構造物。生物の甲羅ではなく、より原始的な元素エネルギーが集まって出来た産物のようだ。",
             "type": "フォンテーヌ地域の特産"
           },
@@ -4740,7 +4740,7 @@
             "name": "哀切なアイスクリスタル·欠片",
             "count": 3,
             "rank": 3,
-            "icon": "/assets/images/Kamisato Ayaka_material_104162_1754193851297.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104162_1754798286007.png",
             "description": "キャラクターの突破用アイテム。\\n「…すみません…」",
             "type": "キャラクター突破素材"
           },
@@ -4749,7 +4749,7 @@
             "name": "整合の歯車",
             "count": 15,
             "rank": 1,
-            "icon": "/assets/images/Lynette_material_112083_1754193960928.png",
+            "icon": "/assets/images/Lynette_material_112083_1754798390553.png",
             "description": "クロックワーク·マシナリーの歯車。\\n動力伝達のための重要な部品。この部品がないと、対応のモジュールは機能しなくなる。",
             "type": "キャラと武器育成素材"
           },
@@ -4758,7 +4758,7 @@
             "name": "秘源の蓄圧機",
             "count": 2,
             "rank": 4,
-            "icon": "/assets/images/Escoffier_material_113076_1754194007436.png",
+            "icon": "/assets/images/Escoffier_material_113076_1754798435796.png",
             "description": "活動を停止した龍の頭部のような秘源機兵から取り外された特殊な構造体。\\nどうやらこの元々は、様々な物体を星の束縛から解放するために設計されたものらしく、試験的に各種秘源装置に導入されたようだ。もし全てがうまくいっていれば、この技術はもっと重要なものに応用されていたのかもしれない…",
             "type": "キャラクター育成素材"
           }
@@ -4793,7 +4793,7 @@
             "name": "蒼晶螺",
             "count": 20,
             "rank": 1,
-            "icon": "/assets/images/Charlotte_material_101232_1754193969425.png",
+            "icon": "/assets/images/Charlotte_material_101232_1754798398815.png",
             "description": "薄暗い光を放つ貝の形をした構造物。生物の甲羅ではなく、より原始的な元素エネルギーが集まって出来た産物のようだ。",
             "type": "フォンテーヌ地域の特産"
           },
@@ -4802,7 +4802,7 @@
             "name": "哀切なアイスクリスタル·欠片",
             "count": 6,
             "rank": 3,
-            "icon": "/assets/images/Kamisato Ayaka_material_104162_1754193851297.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104162_1754798286007.png",
             "description": "キャラクターの突破用アイテム。\\n「…すみません…」",
             "type": "キャラクター突破素材"
           },
@@ -4811,7 +4811,7 @@
             "name": "機構の平歯車",
             "count": 12,
             "rank": 2,
-            "icon": "/assets/images/Lynette_material_112084_1754193960978.png",
+            "icon": "/assets/images/Lynette_material_112084_1754798390550.png",
             "description": "クロックワーク·マシナリーの歯車。\\nクロックワーク·マシナリーは運動学において数々の画期的な進歩を遂げてきたが、動力学においては、400年以上も前に、アラン·ギヨタンが築き上げた基礎と枠を未だに突破できていない。",
             "type": "キャラと武器育成素材"
           },
@@ -4820,7 +4820,7 @@
             "name": "秘源の蓄圧機",
             "count": 4,
             "rank": 4,
-            "icon": "/assets/images/Escoffier_material_113076_1754194007436.png",
+            "icon": "/assets/images/Escoffier_material_113076_1754798435796.png",
             "description": "活動を停止した龍の頭部のような秘源機兵から取り外された特殊な構造体。\\nどうやらこの元々は、様々な物体を星の束縛から解放するために設計されたものらしく、試験的に各種秘源装置に導入されたようだ。もし全てがうまくいっていれば、この技術はもっと重要なものに応用されていたのかもしれない…",
             "type": "キャラクター育成素材"
           }
@@ -4855,7 +4855,7 @@
             "name": "蒼晶螺",
             "count": 30,
             "rank": 1,
-            "icon": "/assets/images/Charlotte_material_101232_1754193969425.png",
+            "icon": "/assets/images/Charlotte_material_101232_1754798398815.png",
             "description": "薄暗い光を放つ貝の形をした構造物。生物の甲羅ではなく、より原始的な元素エネルギーが集まって出来た産物のようだ。",
             "type": "フォンテーヌ地域の特産"
           },
@@ -4864,7 +4864,7 @@
             "name": "哀切なアイスクリスタル·塊",
             "count": 3,
             "rank": 4,
-            "icon": "/assets/images/Kamisato Ayaka_material_104163_1754193851475.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104163_1754798285980.png",
             "description": "キャラクターの突破用アイテム。\\n「…すみません…」\\n「あなた達まで、わたしと一緒にこの世界の悲しみを背負わせるなんて…」",
             "type": "キャラクター突破素材"
           },
@@ -4873,7 +4873,7 @@
             "name": "機構の平歯車",
             "count": 18,
             "rank": 2,
-            "icon": "/assets/images/Lynette_material_112084_1754193960978.png",
+            "icon": "/assets/images/Lynette_material_112084_1754798390550.png",
             "description": "クロックワーク·マシナリーの歯車。\\nクロックワーク·マシナリーは運動学において数々の画期的な進歩を遂げてきたが、動力学においては、400年以上も前に、アラン·ギヨタンが築き上げた基礎と枠を未だに突破できていない。",
             "type": "キャラと武器育成素材"
           },
@@ -4882,7 +4882,7 @@
             "name": "秘源の蓄圧機",
             "count": 8,
             "rank": 4,
-            "icon": "/assets/images/Escoffier_material_113076_1754194007436.png",
+            "icon": "/assets/images/Escoffier_material_113076_1754798435796.png",
             "description": "活動を停止した龍の頭部のような秘源機兵から取り外された特殊な構造体。\\nどうやらこの元々は、様々な物体を星の束縛から解放するために設計されたものらしく、試験的に各種秘源装置に導入されたようだ。もし全てがうまくいっていれば、この技術はもっと重要なものに応用されていたのかもしれない…",
             "type": "キャラクター育成素材"
           }
@@ -4917,7 +4917,7 @@
             "name": "蒼晶螺",
             "count": 45,
             "rank": 1,
-            "icon": "/assets/images/Charlotte_material_101232_1754193969425.png",
+            "icon": "/assets/images/Charlotte_material_101232_1754798398815.png",
             "description": "薄暗い光を放つ貝の形をした構造物。生物の甲羅ではなく、より原始的な元素エネルギーが集まって出来た産物のようだ。",
             "type": "フォンテーヌ地域の特産"
           },
@@ -4926,7 +4926,7 @@
             "name": "哀切なアイスクリスタル·塊",
             "count": 6,
             "rank": 4,
-            "icon": "/assets/images/Kamisato Ayaka_material_104163_1754193851475.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104163_1754798285980.png",
             "description": "キャラクターの突破用アイテム。\\n「…すみません…」\\n「あなた達まで、わたしと一緒にこの世界の悲しみを背負わせるなんて…」",
             "type": "キャラクター突破素材"
           },
@@ -4935,7 +4935,7 @@
             "name": "奇械のコア歯車",
             "count": 12,
             "rank": 3,
-            "icon": "/assets/images/Lynette_material_112085_1754193960954.png",
+            "icon": "/assets/images/Lynette_material_112085_1754798390546.png",
             "description": "クロックワーク·マシナリーの歯車。\\n加工の精度および材料学の進歩はフォンテーヌのクロックワーク·マシナリーの発展のカギとなる。先進的設備の力を借りれば、どのエンジニアだって「奇械公」ギヨタンの時代を凌駕する機械を作り出せる可能性がある。",
             "type": "キャラと武器育成素材"
           },
@@ -4944,7 +4944,7 @@
             "name": "秘源の蓄圧機",
             "count": 12,
             "rank": 4,
-            "icon": "/assets/images/Escoffier_material_113076_1754194007436.png",
+            "icon": "/assets/images/Escoffier_material_113076_1754798435796.png",
             "description": "活動を停止した龍の頭部のような秘源機兵から取り外された特殊な構造体。\\nどうやらこの元々は、様々な物体を星の束縛から解放するために設計されたものらしく、試験的に各種秘源装置に導入されたようだ。もし全てがうまくいっていれば、この技術はもっと重要なものに応用されていたのかもしれない…",
             "type": "キャラクター育成素材"
           }
@@ -4979,7 +4979,7 @@
             "name": "蒼晶螺",
             "count": 60,
             "rank": 1,
-            "icon": "/assets/images/Charlotte_material_101232_1754193969425.png",
+            "icon": "/assets/images/Charlotte_material_101232_1754798398815.png",
             "description": "薄暗い光を放つ貝の形をした構造物。生物の甲羅ではなく、より原始的な元素エネルギーが集まって出来た産物のようだ。",
             "type": "フォンテーヌ地域の特産"
           },
@@ -4988,7 +4988,7 @@
             "name": "哀切なアイスクリスタル",
             "count": 6,
             "rank": 5,
-            "icon": "/assets/images/Kamisato Ayaka_material_104164_1754193851327.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104164_1754798285703.png",
             "description": "キャラクターの突破用アイテム。\\n「…すみません、あなた達まで、わたしと一緒にこの世界の悲しみを背負わせるなんて…」\\n「わたしの寒さを耐えられる者は、きっと心の中に熱い欲望を持っているだろう？」\\n「なら、わたしの代わりに、旧世界を焼き尽くそう。」",
             "type": "キャラクター突破素材"
           },
@@ -4997,7 +4997,7 @@
             "name": "奇械のコア歯車",
             "count": 24,
             "rank": 3,
-            "icon": "/assets/images/Lynette_material_112085_1754193960954.png",
+            "icon": "/assets/images/Lynette_material_112085_1754798390546.png",
             "description": "クロックワーク·マシナリーの歯車。\\n加工の精度および材料学の進歩はフォンテーヌのクロックワーク·マシナリーの発展のカギとなる。先進的設備の力を借りれば、どのエンジニアだって「奇械公」ギヨタンの時代を凌駕する機械を作り出せる可能性がある。",
             "type": "キャラと武器育成素材"
           },
@@ -5006,7 +5006,7 @@
             "name": "秘源の蓄圧機",
             "count": 20,
             "rank": 4,
-            "icon": "/assets/images/Escoffier_material_113076_1754194007436.png",
+            "icon": "/assets/images/Escoffier_material_113076_1754798435796.png",
             "description": "活動を停止した龍の頭部のような秘源機兵から取り外された特殊な構造体。\\nどうやらこの元々は、様々な物体を星の束縛から解放するために設計されたものらしく、試験的に各種秘源装置に導入されたようだ。もし全てがうまくいっていれば、この技術はもっと重要なものに応用されていたのかもしれない…",
             "type": "キャラクター育成素材"
           }
@@ -5039,6 +5039,6 @@
     "KR": "손정민"
   },
   "birthday": "6/8",
-  "nativeTitle": "フ��ンテーヌ",
+  "nativeTitle": "フォンテー��",
   "furnitureId": 368198
 }
