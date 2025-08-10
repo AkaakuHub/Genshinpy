@@ -8,7 +8,7 @@
   "region": "Natlan",
   "constellation": "ナミアザラシ座",
   "description": "ナタ中に名を馳せるガイドであり、マリングッズ店の経営者でもある、さまざまな水上スポーツに精通した波追い人。",
-  "icon": "/assets/images/Mualani_icon_1754193991455.png",
+  "icon": "/assets/images/Mualani_icon_1754798420288.png",
   "profile": {
     "baseHp": 1182.1168,
     "baseAtk": 14.1512,
@@ -23,7 +23,7 @@
       "id": "クーリングトリートメント",
       "name": "クーリングトリートメント",
       "description": "",
-      "icon": "/assets/images/Lisa_normal_attack_1754193854966.png",
+      "icon": "/assets/images/Lisa_normal_attack_1754798289357.png",
       "skillType": "normal",
       "params": {
         "1": [],
@@ -47,7 +47,7 @@
       "id": "サメサメウェーブブレイカー",
       "name": "サメサメウェーブブレイカー",
       "description": "",
-      "icon": "/assets/images/Mualani_elemental_skill_1754193991455.png",
+      "icon": "/assets/images/Mualani_elemental_skill_1754798420288.png",
       "levelData": [
         {
           "tableIndex": 1,
@@ -1136,25 +1136,25 @@
     "elementalBurst": {
       "name": "耐熱型淡水プクフグ",
       "description": "",
-      "icon": "/assets/images/Mualani_elemental_burst_1754193991455.png",
+      "icon": "/assets/images/Mualani_elemental_burst_1754798420288.png",
       "levelData": []
     },
     "passiveTalents": [
       {
         "name": "耐熱型淡水プクフグ",
-        "icon": "/assets/images/Mualani_passive_1_1754193991455.png"
+        "icon": "/assets/images/Mualani_passive_1_1754798420288.png"
       },
       {
         "name": "ナタのナンバーワンガイド",
-        "icon": "/assets/images/Mualani_passive_2_1754193991455.png"
+        "icon": "/assets/images/Mualani_passive_2_1754798420288.png"
       },
       {
         "name": "夜域の賜物·逆巻く怒濤",
-        "icon": "/assets/images/Mualani_passive_3_1754193991455.png"
+        "icon": "/assets/images/Mualani_passive_3_1754798420288.png"
       },
       {
         "name": "笑顔が秘訣！",
-        "icon": "/assets/images/Kachina_passive_4_1754193988062.png"
+        "icon": "/assets/images/Kachina_passive_4_1754798416947.png"
       }
     ],
     "completeTableData": [
@@ -1396,7 +1396,7 @@
               0
             ],
             "description": [
-              "1段ダメージ|{param1:F1P}",
+              "1��ダメージ|{param1:F1P}",
               "2段ダメージ|{param2:F1P}",
               "3段ダメージ|{param3:F1P}",
               "重撃ダメージ|{param4:P}",
@@ -4328,32 +4328,32 @@
       {
         "level": null,
         "name": "のどかなメツトリ",
-        "icon": "/assets/images/Mualani_constellation_cNaN_1754193991455.png"
+        "icon": "/assets/images/Mualani_constellation_cNaN_1754798420288.png"
       },
       {
         "level": null,
         "name": "ムアラニ、 全力で行っきまーす！",
-        "icon": "/assets/images/Mualani_constellation_cNaN_1754193991455.png"
+        "icon": "/assets/images/Mualani_constellation_cNaN_1754798420288.png"
       },
       {
         "level": null,
         "name": "喜びの波に乗ろう！",
-        "icon": "/assets/images/Mualani_constellation_cNaN_1754193991455.png"
+        "icon": "/assets/images/Mualani_constellation_cNaN_1754798420288.png"
       },
       {
         "level": null,
         "name": "サメくんの主食は プクフグだよ",
-        "icon": "/assets/images/Mualani_constellation_cNaN_1754193991455.png"
+        "icon": "/assets/images/Mualani_constellation_cNaN_1754798420288.png"
       },
       {
         "level": null,
         "name": "おんなじサーフボード、 販売中！",
-        "icon": "/assets/images/Mualani_constellation_cNaN_1754193991455.png"
+        "icon": "/assets/images/Mualani_constellation_cNaN_1754798420289.png"
       },
       {
         "level": null,
         "name": "「流泉の衆」の精神",
-        "icon": "/assets/images/Mualani_constellation_cNaN_1754193991455.png"
+        "icon": "/assets/images/Mualani_constellation_cNaN_1754798420289.png"
       }
     ]
   },
@@ -4370,14 +4370,14 @@
     "id": 210209,
     "name": "ムアラニ·サメくん",
     "description": "ムアラニ·サメくん",
-    "icon": "/assets/images/Mualani_icon_1754193991455.png"
+    "icon": "/assets/images/Mualani_icon_1754798420288.png"
   },
   "specialFood": {
     "id": 108746,
     "name": "幸運のおすそわけ",
     "rank": 3,
-    "icon": "/assets/images/Mualani_special_food_1754193991456.png",
-    "effectIcon": "/assets/images/Klee_food_effect_1754193876140.png"
+    "icon": "/assets/images/Mualani_special_food_1754798420289.png",
+    "effectIcon": "/assets/images/Klee_food_effect_1754798309292.png"
   },
   "levelProgression": [
     {
@@ -4693,7 +4693,7 @@
             "name": "波しぶきのエラ",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Mualani_material_101247_1754193991568.png",
+            "icon": "/assets/images/Mualani_material_101247_1754798420406.png",
             "description": "海辺に生息する、羽根のような形をした特殊な生き物。水草のようにも見えるが、実際は特殊な形態をした水生の軟体珊瑚である。",
             "type": "ナタ地域の特産"
           },
@@ -4702,7 +4702,7 @@
             "name": "澄明なラピスラズリ·砕屑",
             "count": 1,
             "rank": 2,
-            "icon": "/assets/images/Barbara_material_104121_1754193857211.png",
+            "icon": "/assets/images/Barbara_material_104121_1754798291405.png",
             "description": "キャラクターの突破用アイテム。",
             "type": "キャラクター突破素材"
           },
@@ -4711,7 +4711,7 @@
             "name": "従戦士の木笛",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Kachina_material_112104_1754193988380.png",
+            "icon": "/assets/images/Kachina_material_112104_1754798416984.png",
             "description": "ナタの部族の従戦士のシンボル。\\n最初から戦士になれる者などおらず、真の戦士から戦い方を学ぶ必要がある。故に、部族には「従戦士」という位が設けられた。",
             "type": "キャラと武器育成素材"
           }
@@ -4742,7 +4742,7 @@
             "name": "波しぶきのエラ",
             "count": 10,
             "rank": 1,
-            "icon": "/assets/images/Mualani_material_101247_1754193991568.png",
+            "icon": "/assets/images/Mualani_material_101247_1754798420406.png",
             "description": "海辺に生息する、羽根のような形をした特殊な生き物。水草のようにも見えるが、実際は特殊な形態をした水生の軟体珊瑚である。",
             "type": "ナタ地域の特産"
           },
@@ -4751,7 +4751,7 @@
             "name": "澄明なラピスラズリ·欠片",
             "count": 3,
             "rank": 3,
-            "icon": "/assets/images/Barbara_material_104122_1754193857241.png",
+            "icon": "/assets/images/Barbara_material_104122_1754798291154.png",
             "description": "キャラクターの突破用アイテム。\\n「僕の理想には一片の穢れも無い。」",
             "type": "キャラクター突破素材"
           },
@@ -4760,7 +4760,7 @@
             "name": "従戦士の木笛",
             "count": 15,
             "rank": 1,
-            "icon": "/assets/images/Kachina_material_112104_1754193988380.png",
+            "icon": "/assets/images/Kachina_material_112104_1754798416984.png",
             "description": "ナタの部族の従戦士のシンボル。\\n最初から戦士になれる者などおらず、真の戦士から戦い方を学ぶ必要がある。故に、部族には「従戦士」という位が設けられた。",
             "type": "キャラと武器育成素材"
           },
@@ -4769,7 +4769,7 @@
             "name": "祝福の縛印",
             "count": 2,
             "rank": 4,
-            "icon": "/assets/images/Mualani_material_113064_1754193991677.png",
+            "icon": "/assets/images/Mualani_material_113064_1754798420304.png",
             "description": "暴君·金焔のクク竜を倒した後、手に入れた角の欠片。\\n角に広がる奇妙な印は「焔の主の祝福」と呼ばれ、それを授かった竜は偉大なる太古の力を得ることができる。しかし、その力は今の竜の体では耐えられず、多くの災いの原因でもある。往々にして制御できない力は悲劇の引き金となるのだ。",
             "type": "キャラクター育成素材"
           }
@@ -4804,7 +4804,7 @@
             "name": "波しぶきのエラ",
             "count": 20,
             "rank": 1,
-            "icon": "/assets/images/Mualani_material_101247_1754193991568.png",
+            "icon": "/assets/images/Mualani_material_101247_1754798420406.png",
             "description": "海辺に生息する、羽根のような形をした特殊な生き物。水草のようにも見えるが、実際は特殊な形態をした水生の軟体珊瑚である。",
             "type": "ナタ地域の特産"
           },
@@ -4813,7 +4813,7 @@
             "name": "澄明なラピスラズリ·欠片",
             "count": 6,
             "rank": 3,
-            "icon": "/assets/images/Barbara_material_104122_1754193857241.png",
+            "icon": "/assets/images/Barbara_material_104122_1754798291154.png",
             "description": "キャラクターの突破用アイテム。\\n「僕の理想には一片の穢れも無い。」",
             "type": "キャラクター突破素材"
           },
@@ -4822,7 +4822,7 @@
             "name": "戦士の鉄笛",
             "count": 12,
             "rank": 2,
-            "icon": "/assets/images/Kachina_material_112105_1754193988298.png",
+            "icon": "/assets/images/Kachina_material_112105_1754798417209.png",
             "description": "ナタの部族の戦士のシンボル。\\n部族の正式な戦士になったらもらえる鉄笛。部族の周辺を巡回している際、危機を察知したら笛の音で知らせ合うことは「戦士」の責務である。",
             "type": "キャラと武器育成素材"
           },
@@ -4831,7 +4831,7 @@
             "name": "祝福の縛印",
             "count": 4,
             "rank": 4,
-            "icon": "/assets/images/Mualani_material_113064_1754193991677.png",
+            "icon": "/assets/images/Mualani_material_113064_1754798420304.png",
             "description": "暴君·金焔のクク竜を倒した後、手に入れた角の欠片。\\n角に広がる奇妙な印は「焔の主の祝福」と呼ばれ、それを授かった竜は偉大なる太古の力を得ることができる。しかし、その力は今の竜の体では耐えられず、多くの災いの原因でもある。往々にして制御できない力は悲劇の引き金となるのだ。",
             "type": "キャラクター育成素材"
           }
@@ -4866,7 +4866,7 @@
             "name": "波しぶきのエラ",
             "count": 30,
             "rank": 1,
-            "icon": "/assets/images/Mualani_material_101247_1754193991568.png",
+            "icon": "/assets/images/Mualani_material_101247_1754798420406.png",
             "description": "海辺に生息する、羽根のような形をした特殊な生き物。水草のようにも見えるが、実際は特殊な形態をした水生の軟体珊瑚である。",
             "type": "ナタ地域の特産"
           },
@@ -4875,7 +4875,7 @@
             "name": "澄明なラピスラズリ·塊",
             "count": 3,
             "rank": 4,
-            "icon": "/assets/images/Barbara_material_104123_1754193857114.png",
+            "icon": "/assets/images/Barbara_material_104123_1754798291383.png",
             "description": "キャラクターの突破用アイテム。\\n「僕の理想には一片の穢れも無い。」\\n「訂正させてもらおう。ここでは、人が神の裁きを受けることはない…」",
             "type": "キャラクター突破素材"
           },
@@ -4884,7 +4884,7 @@
             "name": "戦士の鉄笛",
             "count": 18,
             "rank": 2,
-            "icon": "/assets/images/Kachina_material_112105_1754193988298.png",
+            "icon": "/assets/images/Kachina_material_112105_1754798417209.png",
             "description": "ナタの部族の戦士のシンボル。\\n部族の正式な戦士になったらもらえる鉄笛。部族の周辺を巡回している際、危機を察知したら笛の音で知らせ合うことは「戦士」の責務である。",
             "type": "キャラと武器育成素材"
           },
@@ -4893,7 +4893,7 @@
             "name": "祝福の縛印",
             "count": 8,
             "rank": 4,
-            "icon": "/assets/images/Mualani_material_113064_1754193991677.png",
+            "icon": "/assets/images/Mualani_material_113064_1754798420304.png",
             "description": "暴君·金焔のクク竜を倒した後、手に入れた角の欠片。\\n角に広がる奇妙な印は「焔の主の祝福」と呼ばれ、それを授かった竜は偉大なる太古の力を得ることができる。しかし、その力は今の竜の体では耐えられず、多くの災いの原因でもある。往々にして制御できない力は悲劇の引き金となるのだ。",
             "type": "キャラクター育成素材"
           }
@@ -4928,7 +4928,7 @@
             "name": "波しぶきのエラ",
             "count": 45,
             "rank": 1,
-            "icon": "/assets/images/Mualani_material_101247_1754193991568.png",
+            "icon": "/assets/images/Mualani_material_101247_1754798420406.png",
             "description": "海辺に生息する、羽根のような形をした特殊な生き物。水草のようにも見えるが、実際は特殊な形態をした水生の軟体珊瑚である。",
             "type": "ナタ地域の特産"
           },
@@ -4937,7 +4937,7 @@
             "name": "澄明なラピスラズリ·塊",
             "count": 6,
             "rank": 4,
-            "icon": "/assets/images/Barbara_material_104123_1754193857114.png",
+            "icon": "/assets/images/Barbara_material_104123_1754798291383.png",
             "description": "キャラクターの突破用アイテム。\\n「僕の理想には一片の穢れも無い。」\\n「訂正させてもらおう。ここでは、人が神の裁きを受けることはない…」",
             "type": "キャラクター突破素材"
           },
@@ -4946,7 +4946,7 @@
             "name": "竜冠戦士の金笛",
             "count": 12,
             "rank": 3,
-            "icon": "/assets/images/Kachina_material_112106_1754193988207.png",
+            "icon": "/assets/images/Kachina_material_112106_1754798417084.png",
             "description": "ナタの部族で竜冠を授かった強き戦士のシンボル。\\n部族のために栄誉の功績を築き、その武勇を認められた者だけが、この金笛を手に入れることができる。しかしこれはもはや、笛よりも装飾としての意味合いのほうが強い——竜冠を授かるほどの戦士なら、ほとんどの危機を自力で解決できるからだ。",
             "type": "キャラと武器育成素材"
           },
@@ -4955,7 +4955,7 @@
             "name": "祝福の縛印",
             "count": 12,
             "rank": 4,
-            "icon": "/assets/images/Mualani_material_113064_1754193991677.png",
+            "icon": "/assets/images/Mualani_material_113064_1754798420304.png",
             "description": "暴君·金焔のクク竜を倒した後、手に入れた角の欠片。\\n角に広がる奇妙な印は「焔の主の祝福」と呼ばれ、それを授かった竜は偉大なる太古の力を得ることができる。しかし、その力は今の竜の体では耐えられず、多くの災いの原因でもある。往々にして制御できない力は悲劇の引き金となるのだ。",
             "type": "キャラクター育成素材"
           }
@@ -4990,7 +4990,7 @@
             "name": "波しぶきのエラ",
             "count": 60,
             "rank": 1,
-            "icon": "/assets/images/Mualani_material_101247_1754193991568.png",
+            "icon": "/assets/images/Mualani_material_101247_1754798420406.png",
             "description": "海辺に生息する、羽根のような形をした特殊な生き物。水草のようにも見えるが、実際は特殊な形態をした水生の軟体珊瑚である。",
             "type": "ナタ地域の特産"
           },
@@ -4999,7 +4999,7 @@
             "name": "澄明なラピスラズリ",
             "count": 6,
             "rank": 5,
-            "icon": "/assets/images/Barbara_material_104124_1754193857162.png",
+            "icon": "/assets/images/Barbara_material_104124_1754798291146.png",
             "description": "キャラクターの突破用アイテム。\\n「僕の理想には一片の穢れも無い。」\\n「訂正させてもらおう。ここでは、人が神の裁きを受けることはない。裁きを下せるのは、ただ法と法廷のみ。」\\n「この僕でさえ、断罪され得るのだからね。さあ、僕の崇高と純潔を讃えてくれたまえ。」",
             "type": "キャラクター突破素材"
           },
@@ -5008,7 +5008,7 @@
             "name": "竜冠戦士の金笛",
             "count": 24,
             "rank": 3,
-            "icon": "/assets/images/Kachina_material_112106_1754193988207.png",
+            "icon": "/assets/images/Kachina_material_112106_1754798417084.png",
             "description": "ナタの部族で竜冠を授かった強き戦士のシンボル。\\n部族のために栄誉の功績を築き、その武勇を認められた者だけが、この金笛を手に入れることができる。しかしこれはもはや、笛よりも装飾としての意味合いのほうが強い——竜冠を授かるほどの戦士なら、ほとんどの危機を自力で解決できるからだ。",
             "type": "キャラと武器育成素材"
           },
@@ -5017,7 +5017,7 @@
             "name": "祝福の縛印",
             "count": 20,
             "rank": 4,
-            "icon": "/assets/images/Mualani_material_113064_1754193991677.png",
+            "icon": "/assets/images/Mualani_material_113064_1754798420304.png",
             "description": "暴君·金焔のクク竜を倒した後、手に入れた角の欠片。\\n角に広がる奇妙な印は「焔の主の祝福」と呼ばれ、それを授かった竜は偉大なる太古の力を得ることができる。しかし、その力は今の竜の体では耐えられず、多くの災いの原因でもある。往々にして制御できない力は悲劇の引き金となるのだ。",
             "type": "キャラクター育成素材"
           }

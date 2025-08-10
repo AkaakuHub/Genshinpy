@@ -8,7 +8,7 @@
   "region": "Liyue",
   "constellation": "懸壺座",
   "description": "薬舗「不卜廬」の店主。「長生」という名の白蛇を体に乗せている。薬に精通しており、いつも深く考えを巡らせているが、他人が彼の思考を読み取ることは難しい。",
-  "icon": "/assets/images/Baizhu_icon_1754193959175.png",
+  "icon": "/assets/images/Baizhu_icon_1754798389172.png",
   "profile": {
     "baseHp": 1039.1188,
     "baseAtk": 14.9891,
@@ -23,7 +23,7 @@
       "id": "金匱鍼解",
       "name": "金匱鍼解",
       "description": "",
-      "icon": "/assets/images/Lisa_normal_attack_1754193854966.png",
+      "icon": "/assets/images/Lisa_normal_attack_1754798289357.png",
       "skillType": "normal",
       "params": {
         "1": [],
@@ -47,7 +47,7 @@
       "id": "太素診要",
       "name": "太素診要",
       "description": "",
-      "icon": "/assets/images/Baizhu_elemental_skill_1754193959175.png",
+      "icon": "/assets/images/Baizhu_elemental_skill_1754798389172.png",
       "levelData": [
         {
           "tableIndex": 1,
@@ -1136,21 +1136,21 @@
     "elementalBurst": {
       "name": "五運終天",
       "description": "",
-      "icon": "/assets/images/Baizhu_elemental_burst_1754193959175.png",
+      "icon": "/assets/images/Baizhu_elemental_burst_1754798389172.png",
       "levelData": []
     },
     "passiveTalents": [
       {
         "name": "五運終天",
-        "icon": "/assets/images/Baizhu_passive_1_1754193959175.png"
+        "icon": "/assets/images/Baizhu_passive_1_1754798389172.png"
       },
       {
         "name": "地に在りて形を成す",
-        "icon": "/assets/images/Baizhu_passive_2_1754193959175.png"
+        "icon": "/assets/images/Baizhu_passive_2_1754798389172.png"
       },
       {
         "name": "草木の滋養",
-        "icon": "/assets/images/Baizhu_passive_3_1754193959175.png"
+        "icon": "/assets/images/Baizhu_passive_3_1754798389172.png"
       }
     ],
     "completeTableData": [
@@ -3275,7 +3275,7 @@
               0
             ],
             "description": [
-              "無隙シールド吸収量|HP上限{param1:F2P}+{param2:I}",
+              "無隙シールド吸収��|HP上限{param1:F2P}+{param2:I}",
               "無隙シールドの継続時間|{param3:F1}秒",
               "無隙シールド回復量|HP上限{param5:F2P}+{param6:I}",
               "霊気脈のスキルダメージ|{param7:F1P}",
@@ -3418,7 +3418,7 @@
               "霊気脈のスキルダメージ|{param7:F1P}",
               "脈象宣明の継続時間|{param8:F1}秒",
               "クールタイム|{param9:F1}秒",
-              "元素エネルギー|{param10:I}",
+              "元素���ネルギー|{param10:I}",
               "",
               "",
               "",
@@ -4317,32 +4317,32 @@
       {
         "level": null,
         "name": "至微呻吟",
-        "icon": "/assets/images/Baizhu_constellation_cNaN_1754193959175.png"
+        "icon": "/assets/images/Baizhu_constellation_cNaN_1754798389172.png"
       },
       {
         "level": null,
         "name": "脈絡明哲",
-        "icon": "/assets/images/Baizhu_constellation_cNaN_1754193959175.png"
+        "icon": "/assets/images/Baizhu_constellation_cNaN_1754798389172.png"
       },
       {
         "level": null,
         "name": "八正之気",
-        "icon": "/assets/images/Baizhu_constellation_cNaN_1754193959175.png"
+        "icon": "/assets/images/Baizhu_constellation_cNaN_1754798389173.png"
       },
       {
         "level": null,
         "name": "古法故視",
-        "icon": "/assets/images/Baizhu_constellation_cNaN_1754193959176.png"
+        "icon": "/assets/images/Baizhu_constellation_cNaN_1754798389173.png"
       },
       {
         "level": null,
         "name": "盈虚蔵象",
-        "icon": "/assets/images/Baizhu_constellation_cNaN_1754193959176.png"
+        "icon": "/assets/images/Baizhu_constellation_cNaN_1754798389173.png"
       },
       {
         "level": null,
         "name": "真邪離合",
-        "icon": "/assets/images/Baizhu_constellation_cNaN_1754193959176.png"
+        "icon": "/assets/images/Baizhu_constellation_cNaN_1754798389173.png"
       }
     ]
   },
@@ -4359,14 +4359,14 @@
     "id": 210155,
     "name": "白朮·去風",
     "description": "白朮·去風",
-    "icon": "/assets/images/Baizhu_icon_1754193959175.png"
+    "icon": "/assets/images/Baizhu_icon_1754798389172.png"
   },
   "specialFood": {
     "id": 108510,
     "name": "清熱降火湯",
     "rank": 3,
-    "icon": "/assets/images/Baizhu_special_food_1754193959176.png",
-    "effectIcon": "/assets/images/Klee_food_effect_1754193876140.png"
+    "icon": "/assets/images/Baizhu_special_food_1754798389173.png",
+    "effectIcon": "/assets/images/Klee_food_effect_1754798309292.png"
   },
   "levelProgression": [
     {
@@ -4682,7 +4682,7 @@
             "name": "琉璃袋",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Qiqi_material_100034_1754193885994.png",
+            "icon": "/assets/images/Qiqi_material_100034_1754798319108.png",
             "description": "生命力旺盛な花。地面に向ける咲き方は自らの香りを守るためらしい。",
             "type": "璃月地域の特産"
           },
@@ -4691,7 +4691,7 @@
             "name": "成長のエメラルド·砕屑",
             "count": 1,
             "rank": 2,
-            "icon": "/assets/images/Kirara_material_104131_1754193925711.png",
+            "icon": "/assets/images/Kirara_material_104131_1754798356648.png",
             "description": "キャラクターの突破用アイテム。",
             "type": "キャラクター突破素材"
           },
@@ -4700,7 +4700,7 @@
             "name": "キノコンの胞子",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Tighnari_material_112059_1754193938674.png",
+            "icon": "/assets/images/Tighnari_material_112059_1754798369134.png",
             "description": "キノコンが残した胞子。微かな光を放っている。くしゃみ一つで跡形もなく吹き飛ばされそうだ。",
             "type": "キャラと武器育成素材"
           }
@@ -4731,7 +4731,7 @@
             "name": "琉璃袋",
             "count": 10,
             "rank": 1,
-            "icon": "/assets/images/Qiqi_material_100034_1754193885994.png",
+            "icon": "/assets/images/Qiqi_material_100034_1754798319108.png",
             "description": "生命力旺盛な花。地面に向ける咲き方は自らの香りを守るためらしい。",
             "type": "璃月地域の特産"
           },
@@ -4740,7 +4740,7 @@
             "name": "成長のエメラルド·欠片",
             "count": 3,
             "rank": 3,
-            "icon": "/assets/images/Kirara_material_104132_1754193925635.png",
+            "icon": "/assets/images/Kirara_material_104132_1754798356616.png",
             "description": "キャラクターの突破用アイテム。\\n「長い長い夢を見ていたわ…」",
             "type": "キャラクター突破素材"
           },
@@ -4749,7 +4749,7 @@
             "name": "キノコンの胞子",
             "count": 15,
             "rank": 1,
-            "icon": "/assets/images/Tighnari_material_112059_1754193938674.png",
+            "icon": "/assets/images/Tighnari_material_112059_1754798369134.png",
             "description": "キノコンが残した胞子。微かな光を放っている。くしゃみ一つで跡形もなく吹き飛ばされそうだ。",
             "type": "キャラと武器育成素材"
           },
@@ -4758,7 +4758,7 @@
             "name": "常闇の輪",
             "count": 2,
             "rank": 4,
-            "icon": "/assets/images/Kirara_material_113045_1754193925683.png",
+            "icon": "/assets/images/Kirara_material_113045_1754798356539.png",
             "description": "闇の福音を囁く四本の腕を持つ使者を倒した後、手に入れた円環状の法器。\\n円環とは通路の形を模したものである。ゆえに様々な不思議な力を持つ法器は、往々にして円環の形をしている。この円環状の法器は、宇宙を招致するための通路なのかもしれない。",
             "type": "キャラクター育成素材"
           }
@@ -4793,7 +4793,7 @@
             "name": "琉璃袋",
             "count": 20,
             "rank": 1,
-            "icon": "/assets/images/Qiqi_material_100034_1754193885994.png",
+            "icon": "/assets/images/Qiqi_material_100034_1754798319108.png",
             "description": "生命力旺盛な花。地面に向ける咲き方は自らの香りを守るためらしい。",
             "type": "璃月地域の特産"
           },
@@ -4802,7 +4802,7 @@
             "name": "成長のエメラルド·欠片",
             "count": 6,
             "rank": 3,
-            "icon": "/assets/images/Kirara_material_104132_1754193925635.png",
+            "icon": "/assets/images/Kirara_material_104132_1754798356616.png",
             "description": "キャラクターの突破用アイテム。\\n「長い長い夢を見ていたわ…」",
             "type": "キャラクター突破素材"
           },
@@ -4811,7 +4811,7 @@
             "name": "キノコンの蛍胞子",
             "count": 12,
             "rank": 2,
-            "icon": "/assets/images/Tighnari_material_112060_1754193938700.png",
+            "icon": "/assets/images/Tighnari_material_112060_1754798369108.png",
             "description": "光を発するキノコンの胞子。雨林の広がる国では薬とされており、商人が紙に包んで売る姿をよく見かける。",
             "type": "キャラと武器育成素材"
           },
@@ -4820,7 +4820,7 @@
             "name": "常闇の輪",
             "count": 4,
             "rank": 4,
-            "icon": "/assets/images/Kirara_material_113045_1754193925683.png",
+            "icon": "/assets/images/Kirara_material_113045_1754798356539.png",
             "description": "闇の福音を囁く四本の腕を持つ使者を倒した後、手に入れた円環状の法器。\\n円環とは通路の形を模したものである。ゆえに様々な不思議な力を持つ法器は、往々にして円環の形をしている。この円環状の法器は、宇宙を招致するための通路なのかもしれない。",
             "type": "キャラクター育成素材"
           }
@@ -4855,7 +4855,7 @@
             "name": "琉璃袋",
             "count": 30,
             "rank": 1,
-            "icon": "/assets/images/Qiqi_material_100034_1754193885994.png",
+            "icon": "/assets/images/Qiqi_material_100034_1754798319108.png",
             "description": "生命力旺盛な花。地面に向ける咲き方は自らの香りを守るためらしい。",
             "type": "璃月地域の特産"
           },
@@ -4864,7 +4864,7 @@
             "name": "成長のエメラルド·塊",
             "count": 3,
             "rank": 4,
-            "icon": "/assets/images/Kirara_material_104133_1754193925661.png",
+            "icon": "/assets/images/Kirara_material_104133_1754798356511.png",
             "description": "キャラクターの突破用アイテム。\\n「長い長い夢を見ていたわ…」\\n「人々は手をつなぎ、円を描くようにくるくると回っていた。賢者と愚者、舞人と勇士、人形と神像…」",
             "type": "キャラクター突破素材"
           },
@@ -4873,7 +4873,7 @@
             "name": "キノコンの蛍胞子",
             "count": 18,
             "rank": 2,
-            "icon": "/assets/images/Tighnari_material_112060_1754193938700.png",
+            "icon": "/assets/images/Tighnari_material_112060_1754798369108.png",
             "description": "光を発するキノコンの胞子。雨林の広がる国では薬とされており、商人が紙に包んで売る姿をよく見かける。",
             "type": "キャラと武器育成素材"
           },
@@ -4882,7 +4882,7 @@
             "name": "常闇の輪",
             "count": 8,
             "rank": 4,
-            "icon": "/assets/images/Kirara_material_113045_1754193925683.png",
+            "icon": "/assets/images/Kirara_material_113045_1754798356539.png",
             "description": "闇の福音を囁く四本の腕を持つ使者を倒した後、手に入れた円環状の法器。\\n円環とは通路の形を模したものである。ゆえに様々な不思議な力を持つ法器は、往々にして円環の形をしている。この円環状の法器は、宇宙を招致するための通路なのかもしれない。",
             "type": "キャラクター育成素材"
           }
@@ -4917,7 +4917,7 @@
             "name": "琉璃袋",
             "count": 45,
             "rank": 1,
-            "icon": "/assets/images/Qiqi_material_100034_1754193885994.png",
+            "icon": "/assets/images/Qiqi_material_100034_1754798319108.png",
             "description": "生命力旺盛な花。地面に向ける咲き方は自らの香りを守るためらしい。",
             "type": "璃月地域の特産"
           },
@@ -4926,7 +4926,7 @@
             "name": "成長のエメラルド·塊",
             "count": 6,
             "rank": 4,
-            "icon": "/assets/images/Kirara_material_104133_1754193925661.png",
+            "icon": "/assets/images/Kirara_material_104133_1754798356511.png",
             "description": "キャラクターの突破用アイテム。\\n「長い長い夢を見ていたわ…」\\n「人々は手をつなぎ、円を描くようにくるくると回っていた。賢者と愚者、舞人と勇士、人形と神像…」",
             "type": "キャラクター突破素材"
           },
@@ -4935,7 +4935,7 @@
             "name": "キノコンの晶胞子",
             "count": 12,
             "rank": 3,
-            "icon": "/assets/images/Tighnari_material_112061_1754193938568.png",
+            "icon": "/assets/images/Tighnari_material_112061_1754798368898.png",
             "description": "傷一つない胞子嚢から丁寧に採取した大量の胞子。適切な環境さえあれば、大量のキノコンを繁殖させられるだろう…",
             "type": "キャラと武器育成素材"
           },
@@ -4944,7 +4944,7 @@
             "name": "常闇の輪",
             "count": 12,
             "rank": 4,
-            "icon": "/assets/images/Kirara_material_113045_1754193925683.png",
+            "icon": "/assets/images/Kirara_material_113045_1754798356539.png",
             "description": "闇の福音を囁く四本の腕を持つ使者を倒した後、手に入れた円環状の法器。\\n円環とは通路の形を模したものである。ゆえに様々な不思議な力を持つ法器は、往々にして円環の形をしている。この円環状の法器は、宇宙を招致するための通路なのかもしれない。",
             "type": "キャラクター育成素材"
           }
@@ -4979,7 +4979,7 @@
             "name": "琉璃袋",
             "count": 60,
             "rank": 1,
-            "icon": "/assets/images/Qiqi_material_100034_1754193885994.png",
+            "icon": "/assets/images/Qiqi_material_100034_1754798319108.png",
             "description": "生命力旺盛な花。地面に向ける咲き方は自らの香りを守るためらしい。",
             "type": "璃月地域の特産"
           },
@@ -4988,7 +4988,7 @@
             "name": "成長のエメラルド",
             "count": 6,
             "rank": 5,
-            "icon": "/assets/images/Kirara_material_104134_1754193925535.png",
+            "icon": "/assets/images/Kirara_material_104134_1754798356403.png",
             "description": "キャラクターの突破用アイテム。\\n「長い長い夢を見ていたわ…」\\n「人々は手をつなぎ、円を描くようにくるくると回っていた。賢者と愚者、舞人と勇士、人形と神像…」\\n「みんなの喜びの踊りの中には、宇宙のすべてが秘められている。『命』はいつも目的で、『知恵』こそが手段なの。」",
             "type": "キャラクター突破素材"
           },
@@ -4997,7 +4997,7 @@
             "name": "キノコンの晶胞子",
             "count": 24,
             "rank": 3,
-            "icon": "/assets/images/Tighnari_material_112061_1754193938568.png",
+            "icon": "/assets/images/Tighnari_material_112061_1754798368898.png",
             "description": "傷一つない胞子嚢から丁寧に採取した大量の胞子。適切な環境さえあれば、大量のキノコンを繁殖させられるだろう…",
             "type": "キャラと武器育成素材"
           },
@@ -5006,7 +5006,7 @@
             "name": "常闇の輪",
             "count": 20,
             "rank": 4,
-            "icon": "/assets/images/Kirara_material_113045_1754193925683.png",
+            "icon": "/assets/images/Kirara_material_113045_1754798356539.png",
             "description": "闇の福音を囁く四本の腕を持つ使者を倒した後、手に入れた円環状の法器。\\n円環とは通路の形を模したものである。ゆえに様々な不思議な力を持つ法器は、往々にして円環の形をしている。この円環状の法器は、宇宙を招致するための通路なのかもしれない。",
             "type": "キャラクター育成素材"
           }

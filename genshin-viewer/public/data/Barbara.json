@@ -8,7 +8,7 @@
   "region": "Mondstadt",
   "constellation": "金杯座",
   "description": "モンド城のみんなはバーバラが大好き。ちなみに「アイドル」という言葉は彼女が雑誌で見たものらしい。",
-  "icon": "/assets/images/Barbara_icon_1754193856839.png",
+  "icon": "/assets/images/Barbara_icon_1754798291135.png",
   "profile": {
     "baseHp": 820.6119,
     "baseAtk": 13.356,
@@ -23,7 +23,7 @@
       "id": "水の囁き",
       "name": "水の囁き",
       "description": "",
-      "icon": "/assets/images/Lisa_normal_attack_1754193854966.png",
+      "icon": "/assets/images/Lisa_normal_attack_1754798289357.png",
       "skillType": "normal",
       "params": {
         "1": [],
@@ -47,7 +47,7 @@
       "id": "公演、開始♪",
       "name": "公演、開始♪",
       "description": "",
-      "icon": "/assets/images/Barbara_elemental_skill_1754193856839.png",
+      "icon": "/assets/images/Barbara_elemental_skill_1754798291135.png",
       "levelData": [
         {
           "tableIndex": 1,
@@ -440,7 +440,7 @@
           ],
           "description": [
             "命中回復量|HP上限{param3:F2P}+{param4:I}",
-            "継続回���量|HP上限{param1:F2P}+{param2:I}",
+            "継続回復量|HP上限{param1:F2P}+{param2:I}",
             "水玉ダメージ|{param5:F1P}",
             "継続時間|{param6:F1}秒",
             "クールタイム|{param7:F1}秒",
@@ -1136,21 +1136,21 @@
     "elementalBurst": {
       "name": "輝く季節",
       "description": "",
-      "icon": "/assets/images/Barbara_elemental_burst_1754193856839.png",
+      "icon": "/assets/images/Barbara_elemental_burst_1754798291135.png",
       "levelData": []
     },
     "passiveTalents": [
       {
         "name": "輝く季節",
-        "icon": "/assets/images/Barbara_passive_1_1754193856839.png"
+        "icon": "/assets/images/Barbara_passive_1_1754798291135.png"
       },
       {
         "name": "アンコール",
-        "icon": "/assets/images/Barbara_passive_2_1754193856840.png"
+        "icon": "/assets/images/Barbara_passive_2_1754798291135.png"
       },
       {
         "name": "気持ち♪注入",
-        "icon": "/assets/images/Jean_passive_3_1754193853089.png"
+        "icon": "/assets/images/Jean_passive_3_1754798287569.png"
       }
     ],
     "completeTableData": [
@@ -1191,7 +1191,7 @@
               "4段ダメージ|{param4:F1P}",
               "重撃ダメージ|{param5:P}",
               "重撃スタミナ消費|{param6:F1}",
-              "���下期間のダメージ|{param7:F1P}",
+              "落下期間のダメージ|{param7:F1P}",
               "低空/高空落下攻撃ダメージ|{param8:P}/{param9:P}",
               "",
               "",
@@ -1393,7 +1393,7 @@
             ],
             "description": [
               "1段ダメージ|{param1:F1P}",
-              "2���ダメージ|{param2:F1P}",
+              "2段ダメージ|{param2:F1P}",
               "3段ダメージ|{param3:F1P}",
               "4段ダメージ|{param4:F1P}",
               "重撃ダメージ|{param5:P}",
@@ -2578,7 +2578,7 @@
             ],
             "description": [
               "命中回復量|HP上限{param3:F2P}+{param4:I}",
-              "継続回���量|HP上限{param1:F2P}+{param2:I}",
+              "継続回復量|HP上限{param1:F2P}+{param2:I}",
               "水玉ダメージ|{param5:F1P}",
               "継続時間|{param6:F1}秒",
               "クールタイム|{param7:F1}秒",
@@ -4317,32 +4317,32 @@
       {
         "level": null,
         "name": "虹色の歌",
-        "icon": "/assets/images/Barbara_constellation_cNaN_1754193856840.png"
+        "icon": "/assets/images/Barbara_constellation_cNaN_1754798291135.png"
       },
       {
         "level": null,
         "name": "元気溌剌",
-        "icon": "/assets/images/Barbara_constellation_cNaN_1754193856840.png"
+        "icon": "/assets/images/Barbara_constellation_cNaN_1754798291135.png"
       },
       {
         "level": null,
         "name": "明日の星",
-        "icon": "/assets/images/Barbara_constellation_cNaN_1754193856840.png"
+        "icon": "/assets/images/Barbara_constellation_cNaN_1754798291135.png"
       },
       {
         "level": null,
         "name": "努力が魔法なの",
-        "icon": "/assets/images/Barbara_constellation_cNaN_1754193856840.png"
+        "icon": "/assets/images/Barbara_constellation_cNaN_1754798291135.png"
       },
       {
         "level": null,
         "name": "純真な絆",
-        "icon": "/assets/images/Barbara_constellation_cNaN_1754193856840.png"
+        "icon": "/assets/images/Barbara_constellation_cNaN_1754798291135.png"
       },
       {
         "level": null,
         "name": "美しいものをあなたに",
-        "icon": "/assets/images/Barbara_constellation_cNaN_1754193856840.png"
+        "icon": "/assets/images/Barbara_constellation_cNaN_1754798291135.png"
       }
     ]
   },
@@ -4360,21 +4360,21 @@
       "isDefault": false,
       "rank": 4,
       "storyId": 340000,
-      "icon": "/assets/images/Barbara_costume_2_1754193856840.png"
+      "icon": "/assets/images/Barbara_costume_2_1754798291136.png"
     }
   ],
   "nameCard": {
     "id": 210009,
     "name": "バーバラ·流れ",
     "description": "バーバラ·流れ",
-    "icon": "/assets/images/Barbara_icon_1754193856839.png"
+    "icon": "/assets/images/Barbara_icon_1754798291135.png"
   },
   "specialFood": {
     "id": 108040,
     "name": "スパイシーポトフ",
     "rank": 2,
-    "icon": "/assets/images/Barbara_special_food_1754193856840.png",
-    "effectIcon": "/assets/images/Barbara_food_effect_1754193856840.png"
+    "icon": "/assets/images/Barbara_special_food_1754798291136.png",
+    "effectIcon": "/assets/images/Barbara_food_effect_1754798291136.png"
   },
   "levelProgression": [
     {
@@ -4690,7 +4690,7 @@
             "name": "慕風のマッシュルーム",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Barbara_material_100025_1754193857188.png",
+            "icon": "/assets/images/Barbara_material_100025_1754798291433.png",
             "description": "爽やかな風を浴びて育ったマッシュルーム、風のように果てしなく命を育む。",
             "type": "モンド地域の特産"
           },
@@ -4699,7 +4699,7 @@
             "name": "澄明なラピスラズリ·砕屑",
             "count": 1,
             "rank": 2,
-            "icon": "/assets/images/Barbara_material_104121_1754193857211.png",
+            "icon": "/assets/images/Barbara_material_104121_1754798291405.png",
             "description": "キャラクターの突破用アイテム。",
             "type": "キャラクター突破素材"
           },
@@ -4708,7 +4708,7 @@
             "name": "占いの絵巻",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Barbara_material_112008_1754193857089.png",
+            "icon": "/assets/images/Barbara_material_112008_1754798291354.png",
             "description": "ある、魔法に関する絵巻の断片だと考えられる。異様で不吉な暖かさがある。",
             "type": "キャラと武器育成素材"
           }
@@ -4739,7 +4739,7 @@
             "name": "慕風のマッシュルーム",
             "count": 10,
             "rank": 1,
-            "icon": "/assets/images/Barbara_material_100025_1754193857188.png",
+            "icon": "/assets/images/Barbara_material_100025_1754798291433.png",
             "description": "爽やかな風を浴びて育ったマッシュルーム、風のように果てしなく命を育む。",
             "type": "モンド地域の特産"
           },
@@ -4748,7 +4748,7 @@
             "name": "澄明なラピスラズリ·欠片",
             "count": 3,
             "rank": 3,
-            "icon": "/assets/images/Barbara_material_104122_1754193857241.png",
+            "icon": "/assets/images/Barbara_material_104122_1754798291154.png",
             "description": "キャラクターの突破用アイテム。\\n「僕の理想には一片の穢れも無い。」",
             "type": "キャラクター突破素材"
           },
@@ -4757,7 +4757,7 @@
             "name": "占いの絵巻",
             "count": 15,
             "rank": 1,
-            "icon": "/assets/images/Barbara_material_112008_1754193857089.png",
+            "icon": "/assets/images/Barbara_material_112008_1754798291354.png",
             "description": "ある、魔法に関する絵巻の断片だと考えられる。異様で不吉な暖かさがある。",
             "type": "キャラと武器育成素材"
           },
@@ -4766,7 +4766,7 @@
             "name": "浄水の心",
             "count": 2,
             "rank": 4,
-            "icon": "/assets/images/Barbara_material_113012_1754193857062.png",
+            "icon": "/assets/images/Barbara_material_113012_1754798291145.png",
             "description": "純水精霊が残した永遠に透き通る一掬の涙。\\n湖に溶いても希釈されないだろう。でもこんな高貴な純水精霊はなぜ浄水で変身してまで地上の生き物になろうとしているのかな？呼吸も、食事もする必要がないのに…",
             "type": "キャラクター育成素材"
           }
@@ -4801,7 +4801,7 @@
             "name": "慕風のマッシュルーム",
             "count": 20,
             "rank": 1,
-            "icon": "/assets/images/Barbara_material_100025_1754193857188.png",
+            "icon": "/assets/images/Barbara_material_100025_1754798291433.png",
             "description": "爽やかな風を浴びて育ったマッシュルーム、風のように果てしなく命を育む。",
             "type": "モンド地域の特産"
           },
@@ -4810,7 +4810,7 @@
             "name": "澄明なラピスラズリ·欠片",
             "count": 6,
             "rank": 3,
-            "icon": "/assets/images/Barbara_material_104122_1754193857241.png",
+            "icon": "/assets/images/Barbara_material_104122_1754798291154.png",
             "description": "キャラクターの突破用アイテム。\\n「僕の理想には一片の穢れも無い。」",
             "type": "キャラクター突破素材"
           },
@@ -4819,7 +4819,7 @@
             "name": "封魔の絵巻",
             "count": 12,
             "rank": 2,
-            "icon": "/assets/images/Barbara_material_112009_1754193857140.png",
+            "icon": "/assets/images/Barbara_material_112009_1754798291460.png",
             "description": "解読が難しい絵がある古書の断章。中の人物を真似することで、魔物も魔法を再現できるようになる。",
             "type": "キャラと武器育成素材"
           },
@@ -4828,7 +4828,7 @@
             "name": "浄水の心",
             "count": 4,
             "rank": 4,
-            "icon": "/assets/images/Barbara_material_113012_1754193857062.png",
+            "icon": "/assets/images/Barbara_material_113012_1754798291145.png",
             "description": "純水精霊が残した永遠に透き通る一掬の涙。\\n湖に溶いても希釈されないだろう。でもこんな高貴な純水精霊はなぜ浄水で変身してまで地上の生き物になろうとしているのかな？呼吸も、食事もする必要がないのに…",
             "type": "キャラクター育成素材"
           }
@@ -4863,7 +4863,7 @@
             "name": "慕風のマッシュルーム",
             "count": 30,
             "rank": 1,
-            "icon": "/assets/images/Barbara_material_100025_1754193857188.png",
+            "icon": "/assets/images/Barbara_material_100025_1754798291433.png",
             "description": "爽やかな風を浴びて育ったマッシュルーム、風のように果てしなく命を育む。",
             "type": "モンド地域の特産"
           },
@@ -4872,7 +4872,7 @@
             "name": "澄明なラピスラズリ·塊",
             "count": 3,
             "rank": 4,
-            "icon": "/assets/images/Barbara_material_104123_1754193857114.png",
+            "icon": "/assets/images/Barbara_material_104123_1754798291383.png",
             "description": "キャラクターの突破用アイテム。\\n「僕の理想には一片の穢れも無い。」\\n「訂正させてもらおう。ここでは、人が神の裁きを受けることはない…」",
             "type": "キャラクター突破素材"
           },
@@ -4881,7 +4881,7 @@
             "name": "封魔の絵巻",
             "count": 18,
             "rank": 2,
-            "icon": "/assets/images/Barbara_material_112009_1754193857140.png",
+            "icon": "/assets/images/Barbara_material_112009_1754798291460.png",
             "description": "解読が難しい絵がある古書の断章。中の人物を真似することで、魔物も魔法を再現できるようになる。",
             "type": "キャラと武器育成素材"
           },
@@ -4890,7 +4890,7 @@
             "name": "浄水の心",
             "count": 8,
             "rank": 4,
-            "icon": "/assets/images/Barbara_material_113012_1754193857062.png",
+            "icon": "/assets/images/Barbara_material_113012_1754798291145.png",
             "description": "純水精霊が残した永遠に透き通る一掬の涙。\\n湖に溶いても希釈されないだろう。でもこんな高貴な純水精霊はなぜ浄水で変身してまで地上の生き物になろうとしているのかな？呼吸も、食事もする必要がないのに…",
             "type": "キャラクター育成素材"
           }
@@ -4925,7 +4925,7 @@
             "name": "慕風のマッシュルーム",
             "count": 45,
             "rank": 1,
-            "icon": "/assets/images/Barbara_material_100025_1754193857188.png",
+            "icon": "/assets/images/Barbara_material_100025_1754798291433.png",
             "description": "爽やかな風を浴びて育ったマッシュルーム、風のように果てしなく命を育む。",
             "type": "モンド地域の特産"
           },
@@ -4934,7 +4934,7 @@
             "name": "澄明なラピスラズリ·塊",
             "count": 6,
             "rank": 4,
-            "icon": "/assets/images/Barbara_material_104123_1754193857114.png",
+            "icon": "/assets/images/Barbara_material_104123_1754798291383.png",
             "description": "キャラクターの突破用アイテム。\\n「僕の理想には一片の穢れも無い。」\\n「訂正させてもらおう。ここでは、人が神の裁きを受けることはない…」",
             "type": "キャラクター突破素材"
           },
@@ -4943,7 +4943,7 @@
             "name": "禁呪の絵巻",
             "count": 12,
             "rank": 3,
-            "icon": "/assets/images/Barbara_material_112010_1754193856962.png",
+            "icon": "/assets/images/Barbara_material_112010_1754798291148.png",
             "description": "古代の絵が描かれている古い写本。その意味を解読できる人は少ないが、本当の意味を理解した学者はみんな狂ってしまったという噂がある。",
             "type": "キャラと武器育成素材"
           },
@@ -4952,7 +4952,7 @@
             "name": "浄水の心",
             "count": 12,
             "rank": 4,
-            "icon": "/assets/images/Barbara_material_113012_1754193857062.png",
+            "icon": "/assets/images/Barbara_material_113012_1754798291145.png",
             "description": "純水精霊が残した永遠に透き通る一掬の涙。\\n湖に溶いても希釈されないだろう。でもこんな高貴な純水精霊はなぜ浄水で変身してまで地上の生き物になろうとしているのかな？呼吸も、食事もする必要がないのに…",
             "type": "キャラクター育成素材"
           }
@@ -4987,7 +4987,7 @@
             "name": "慕風のマッシュルーム",
             "count": 60,
             "rank": 1,
-            "icon": "/assets/images/Barbara_material_100025_1754193857188.png",
+            "icon": "/assets/images/Barbara_material_100025_1754798291433.png",
             "description": "爽やかな風を浴びて育ったマッシュルーム、風のように果てしなく命を育む。",
             "type": "モンド地域の特産"
           },
@@ -4996,7 +4996,7 @@
             "name": "澄明なラピスラズリ",
             "count": 6,
             "rank": 5,
-            "icon": "/assets/images/Barbara_material_104124_1754193857162.png",
+            "icon": "/assets/images/Barbara_material_104124_1754798291146.png",
             "description": "キャラクターの突破用アイテム。\\n「僕の理想には一片の穢れも無い。」\\n「訂正させてもらおう。ここでは、人が神の裁きを受けることはない。裁きを下せるのは、ただ法と法廷のみ。」\\n「この僕でさえ、断罪され得るのだからね。さあ、僕の崇高と純潔を讃えてくれたまえ。」",
             "type": "キャラクター突破素材"
           },
@@ -5005,7 +5005,7 @@
             "name": "禁呪の絵巻",
             "count": 24,
             "rank": 3,
-            "icon": "/assets/images/Barbara_material_112010_1754193856962.png",
+            "icon": "/assets/images/Barbara_material_112010_1754798291148.png",
             "description": "古代の絵が描かれている古い写本。その意味を解読できる人は少ないが、本当の意味を理解した学者はみんな狂ってしまったという噂がある。",
             "type": "キャラと武器育成素材"
           },
@@ -5014,7 +5014,7 @@
             "name": "浄水の心",
             "count": 20,
             "rank": 4,
-            "icon": "/assets/images/Barbara_material_113012_1754193857062.png",
+            "icon": "/assets/images/Barbara_material_113012_1754798291145.png",
             "description": "純水精霊が残した永遠に透き通る一掬の涙。\\n湖に溶いても希釈されないだろう。でもこんな高貴な純水精霊はなぜ浄水で変身してまで地上の生き物になろうとしているのかな？呼吸も、食事もする必要がないのに…",
             "type": "キャラクター育成素材"
           }
