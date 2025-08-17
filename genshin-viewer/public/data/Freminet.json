@@ -8,7 +8,7 @@
   "region": "Fontaine",
   "constellation": "オートマタ座",
   "description": "潜水の道を極めた寡黙な少年。氷のように近づきがたい外見の下に、一点の瑕もない純粋な心を秘めている。",
-  "icon": "/assets/images/Freminet_icon_1754798393899.png",
+  "icon": "/assets/images/Freminet_icon_1755402604139.png",
   "profile": {
     "baseHp": 1012.088,
     "baseAtk": 21.3696,
@@ -23,7 +23,7 @@
       "id": "潜流の剣",
       "name": "潜流の剣",
       "description": "",
-      "icon": "/assets/images/Diluc_normal_attack_1754798294670.png",
+      "icon": "/assets/images/Diluc_normal_attack_1755402505791.png",
       "skillType": "normal",
       "params": {
         "1": [],
@@ -47,7 +47,7 @@
       "id": "プレッシャー·フロウ",
       "name": "プレッシャー·フロウ",
       "description": "",
-      "icon": "/assets/images/Freminet_elemental_skill_1754798393899.png",
+      "icon": "/assets/images/Freminet_elemental_skill_1755402604140.png",
       "levelData": [
         {
           "tableIndex": 1,
@@ -1136,21 +1136,21 @@
     "elementalBurst": {
       "name": "飽和潜水",
       "description": "",
-      "icon": "/assets/images/Freminet_elemental_burst_1754798393899.png",
+      "icon": "/assets/images/Freminet_elemental_burst_1755402604140.png",
       "levelData": []
     },
     "passiveTalents": [
       {
         "name": "飽和潜水",
-        "icon": "/assets/images/Freminet_passive_1_1754798393899.png"
+        "icon": "/assets/images/Freminet_passive_1_1755402604140.png"
       },
       {
         "name": "並流式冷却装置",
-        "icon": "/assets/images/Freminet_passive_2_1754798393899.png"
+        "icon": "/assets/images/Freminet_passive_2_1755402604140.png"
       },
       {
         "name": "深海ナビゲート",
-        "icon": "/assets/images/Freminet_passive_3_1754798393900.png"
+        "icon": "/assets/images/Freminet_passive_3_1755402604140.png"
       }
     ],
     "completeTableData": [
@@ -4317,32 +4317,32 @@
       {
         "level": null,
         "name": "深海と泡沫の夢",
-        "icon": "/assets/images/Freminet_constellation_cNaN_1754798393900.png"
+        "icon": "/assets/images/Freminet_constellation_cNaN_1755402604140.png"
       },
       {
         "level": null,
         "name": "ペンギンと豊穣の国",
-        "icon": "/assets/images/Freminet_constellation_cNaN_1754798393900.png"
+        "icon": "/assets/images/Freminet_constellation_cNaN_1755402604140.png"
       },
       {
         "level": null,
         "name": "潜流と白い砂の歌",
-        "icon": "/assets/images/Freminet_constellation_cNaN_1754798393900.png"
+        "icon": "/assets/images/Freminet_constellation_cNaN_1755402604140.png"
       },
       {
         "level": null,
         "name": "雪の月とあし笛の舞",
-        "icon": "/assets/images/Freminet_constellation_cNaN_1754798393900.png"
+        "icon": "/assets/images/Freminet_constellation_cNaN_1755402604140.png"
       },
       {
         "level": null,
         "name": "暖炉と談笑の夜",
-        "icon": "/assets/images/Freminet_constellation_cNaN_1754798393900.png"
+        "icon": "/assets/images/Freminet_constellation_cNaN_1755402604140.png"
       },
       {
         "level": null,
         "name": "目覚めと決意の刻",
-        "icon": "/assets/images/Freminet_constellation_cNaN_1754798393900.png"
+        "icon": "/assets/images/Freminet_constellation_cNaN_1755402604140.png"
       }
     ]
   },
@@ -4359,14 +4359,14 @@
     "id": 210167,
     "name": "フレミネ·行進",
     "description": "フレミネ·行進",
-    "icon": "/assets/images/Freminet_icon_1754798393899.png"
+    "icon": "/assets/images/Freminet_icon_1755402604139.png"
   },
   "specialFood": {
     "id": 108563,
     "name": "「海鳥の一休み」",
     "rank": 3,
-    "icon": "/assets/images/Freminet_special_food_1754798393900.png",
-    "effectIcon": "/assets/images/Jean_food_effect_1754798287570.png"
+    "icon": "/assets/images/Freminet_special_food_1755402604141.png",
+    "effectIcon": "/assets/images/Jean_food_effect_1755402498695.png"
   },
   "levelProgression": [
     {
@@ -4682,7 +4682,7 @@
             "name": "ロマリタイムフラワー",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Freminet_material_101233_1754798393911.png",
+            "icon": "/assets/images/Freminet_material_101233_1755402604266.png",
             "description": "淡い青色が高貴な花。柔らかい花蕊は吸水性に優れ、弾力があるため、多くの日用品の原材料として使われている。",
             "type": "フォンテーヌ地域の特産"
           },
@@ -4691,7 +4691,7 @@
             "name": "哀切なアイスクリスタル·砕屑",
             "count": 1,
             "rank": 2,
-            "icon": "/assets/images/Kamisato Ayaka_material_104161_1754798286052.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104161_1755402497216.png",
             "description": "キャラクターの突破用アイテム。",
             "type": "キャラクター突破素材"
           },
@@ -4700,7 +4700,7 @@
             "name": "異海の露",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Freminet_material_112080_1754798393925.png",
+            "icon": "/assets/images/Freminet_material_112080_1755402604153.png",
             "description": "原海アベラントを倒した後、その体内から得た小さな結晶。\\nフォンテーヌの「海」に生まれた原海アベラントは、水中の不思議なエネルギーによってその独特な形の生命体が形成されたと推測されている。",
             "type": "キャラと武器育成素材"
           }
@@ -4731,7 +4731,7 @@
             "name": "ロマリタイムフラワー",
             "count": 10,
             "rank": 1,
-            "icon": "/assets/images/Freminet_material_101233_1754798393911.png",
+            "icon": "/assets/images/Freminet_material_101233_1755402604266.png",
             "description": "淡い青色が高貴な花。柔らかい花蕊は吸水性に優れ、弾力があるため、多くの日用品の原材料として使われている。",
             "type": "フォンテーヌ地域の特産"
           },
@@ -4740,7 +4740,7 @@
             "name": "哀切なアイスクリスタル·欠片",
             "count": 3,
             "rank": 3,
-            "icon": "/assets/images/Kamisato Ayaka_material_104162_1754798286007.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104162_1755402497417.png",
             "description": "キャラクターの突破用アイテム。\\n「…すみません…」",
             "type": "キャラクター突破素材"
           },
@@ -4749,7 +4749,7 @@
             "name": "異海の露",
             "count": 15,
             "rank": 1,
-            "icon": "/assets/images/Freminet_material_112080_1754798393925.png",
+            "icon": "/assets/images/Freminet_material_112080_1755402604153.png",
             "description": "原海アベラントを倒した後、その体内から得た小さな結晶。\\nフォンテーヌの「海」に生まれた原海アベラントは、水中の不思議なエネルギーによってその独特な形の生命体が形成されたと推測されている。",
             "type": "キャラと武器育成素材"
           },
@@ -4758,7 +4758,7 @@
             "name": "奇械部品·コペリウス",
             "count": 2,
             "rank": 4,
-            "icon": "/assets/images/Freminet_material_113050_1754798394129.png",
+            "icon": "/assets/images/Freminet_material_113050_1755402604154.png",
             "description": "コペリウスの奇械部品。奇械ダンサーにエネルギーを供給できる。\\n奇械ダンサーは白金の音節を踏みながら、昼夜を問わず観客のために氷風の輪舞を披露する。弔いの鐘が鳴るまで、コぺリウスのステップが止まることはない。",
             "type": "キャラクター育成素材"
           }
@@ -4793,7 +4793,7 @@
             "name": "ロマリタイムフラワー",
             "count": 20,
             "rank": 1,
-            "icon": "/assets/images/Freminet_material_101233_1754798393911.png",
+            "icon": "/assets/images/Freminet_material_101233_1755402604266.png",
             "description": "淡い青色が高貴な花。柔らかい花蕊は吸水性に優れ、弾力があるため、多くの日用品の原材料として使われている。",
             "type": "フォンテーヌ地域の特産"
           },
@@ -4802,7 +4802,7 @@
             "name": "哀切なアイスクリスタル·欠片",
             "count": 6,
             "rank": 3,
-            "icon": "/assets/images/Kamisato Ayaka_material_104162_1754798286007.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104162_1755402497417.png",
             "description": "キャラクターの突破用アイテム。\\n「…すみません…」",
             "type": "キャラクター突破素材"
           },
@@ -4811,7 +4811,7 @@
             "name": "異海の塊",
             "count": 12,
             "rank": 2,
-            "icon": "/assets/images/Freminet_material_112081_1754798393931.png",
+            "icon": "/assets/images/Freminet_material_112081_1755402604173.png",
             "description": "原海アベラントを倒した後、その体内から得られる結晶体。\\n微かに不思議なエネルギーを放っている。\\n航路や人間の足ではたどり着けない遠海には、偉大なる生命が存在すると言われているが、普通の海は取り立てて言うほどの特徴もなく、その生命力はフォンテーヌの「海」に遥かに及ばない。",
             "type": "キャラと武器育成素材"
           },
@@ -4820,7 +4820,7 @@
             "name": "奇械部品·コペリウス",
             "count": 4,
             "rank": 4,
-            "icon": "/assets/images/Freminet_material_113050_1754798394129.png",
+            "icon": "/assets/images/Freminet_material_113050_1755402604154.png",
             "description": "コペリウスの奇械部品。奇械ダンサーにエネルギーを供給できる。\\n奇械ダンサーは白金の音節を踏みながら、昼夜を問わず観客のために氷風の輪舞を披露する。弔いの鐘が鳴るまで、コぺリウスのステップが止まることはない。",
             "type": "キャラクター育成素材"
           }
@@ -4855,7 +4855,7 @@
             "name": "ロマリタイムフラワー",
             "count": 30,
             "rank": 1,
-            "icon": "/assets/images/Freminet_material_101233_1754798393911.png",
+            "icon": "/assets/images/Freminet_material_101233_1755402604266.png",
             "description": "淡い青色が高貴な花。柔らかい花蕊は吸水性に優れ、弾力があるため、多くの日用品の原材料として使われている。",
             "type": "フォンテーヌ地域の特産"
           },
@@ -4864,7 +4864,7 @@
             "name": "哀切なアイスクリスタル·塊",
             "count": 3,
             "rank": 4,
-            "icon": "/assets/images/Kamisato Ayaka_material_104163_1754798285980.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104163_1755402497349.png",
             "description": "キャラクターの突破用アイテム。\\n「…すみません…」\\n「あなた達まで、わたしと一緒にこの世界の悲しみを背負わせるなんて…」",
             "type": "キャラクター突破素材"
           },
@@ -4873,7 +4873,7 @@
             "name": "異海の塊",
             "count": 18,
             "rank": 2,
-            "icon": "/assets/images/Freminet_material_112081_1754798393931.png",
+            "icon": "/assets/images/Freminet_material_112081_1755402604173.png",
             "description": "原海アベラントを倒した後、その体内から得られる結晶体。\\n微かに不思議なエネルギーを放っている。\\n航路や人間の足ではたどり着けない遠海には、偉大なる生命が存在すると言われているが、普通の海は取り立てて言うほどの特徴もなく、その生命力はフォンテーヌの「海」に遥かに及ばない。",
             "type": "キャラと武器育成素材"
           },
@@ -4882,7 +4882,7 @@
             "name": "奇械部品·コペリウス",
             "count": 8,
             "rank": 4,
-            "icon": "/assets/images/Freminet_material_113050_1754798394129.png",
+            "icon": "/assets/images/Freminet_material_113050_1755402604154.png",
             "description": "コペリウスの奇械部品。奇械ダンサーにエネルギーを供給できる。\\n奇械ダンサーは白金の音節を踏みながら、昼夜を問わず観客のために氷風の輪舞を披露する。弔いの鐘が鳴るまで、コぺリウスのステップが止まることはない。",
             "type": "キャラクター育成素材"
           }
@@ -4917,7 +4917,7 @@
             "name": "ロマリタイムフラワー",
             "count": 45,
             "rank": 1,
-            "icon": "/assets/images/Freminet_material_101233_1754798393911.png",
+            "icon": "/assets/images/Freminet_material_101233_1755402604266.png",
             "description": "淡い青色が高貴な花。柔らかい花蕊は吸水性に優れ、弾力があるため、多くの日用品の原材料として使われている。",
             "type": "フォンテーヌ地域の特産"
           },
@@ -4926,7 +4926,7 @@
             "name": "哀切なアイスクリスタル·塊",
             "count": 6,
             "rank": 4,
-            "icon": "/assets/images/Kamisato Ayaka_material_104163_1754798285980.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104163_1755402497349.png",
             "description": "キャラクターの突破用アイテム。\\n「…すみません…」\\n「あなた達まで、わたしと一緒にこの世界の悲しみを背負わせるなんて…」",
             "type": "キャラクター突破素材"
           },
@@ -4935,7 +4935,7 @@
             "name": "色変わりの結晶",
             "count": 12,
             "rank": 3,
-            "icon": "/assets/images/Freminet_material_112082_1754798394155.png",
+            "icon": "/assets/images/Freminet_material_112082_1755402604388.png",
             "description": "原海アベラントを倒した後、その体内から得た大きな結晶。\\n不思議なエネルギーを秘めている。\\n万水の源であるフォンテーヌの水だが、異国へ流れるとその独特の性質が失われてしまう。",
             "type": "キャラと武器育成素材"
           },
@@ -4944,7 +4944,7 @@
             "name": "奇械部品·コペリウス",
             "count": 12,
             "rank": 4,
-            "icon": "/assets/images/Freminet_material_113050_1754798394129.png",
+            "icon": "/assets/images/Freminet_material_113050_1755402604154.png",
             "description": "コペリウスの奇械部品。奇械ダンサーにエネルギーを供給できる。\\n奇械ダンサーは白金の音節を踏みながら、昼夜を問わず観客のために氷風の輪舞を披露する。弔いの鐘が鳴るまで、コぺリウスのステップが止まることはない。",
             "type": "キャラクター育成素材"
           }
@@ -4979,7 +4979,7 @@
             "name": "ロマリタイムフラワー",
             "count": 60,
             "rank": 1,
-            "icon": "/assets/images/Freminet_material_101233_1754798393911.png",
+            "icon": "/assets/images/Freminet_material_101233_1755402604266.png",
             "description": "淡い青色が高貴な花。柔らかい花蕊は吸水性に優れ、弾力があるため、多くの日用品の原材料として使われている。",
             "type": "フォンテーヌ地域の特産"
           },
@@ -4988,7 +4988,7 @@
             "name": "哀切なアイスクリスタル",
             "count": 6,
             "rank": 5,
-            "icon": "/assets/images/Kamisato Ayaka_material_104164_1754798285703.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104164_1755402497393.png",
             "description": "キャラクターの突破用アイテム。\\n「…すみません、あなた達まで、わたしと一緒にこの世界の悲しみを背負わせるなんて…」\\n「わたしの寒さを耐えられる者は、きっと心の中に熱い欲望を持っているだろう？」\\n「なら、わたしの代わりに、旧世界を焼き尽くそう。」",
             "type": "キャラクター突破素材"
           },
@@ -4997,7 +4997,7 @@
             "name": "色変わりの結晶",
             "count": 24,
             "rank": 3,
-            "icon": "/assets/images/Freminet_material_112082_1754798394155.png",
+            "icon": "/assets/images/Freminet_material_112082_1755402604388.png",
             "description": "原海アベラントを倒した後、その体内から得た大きな結晶。\\n不思議なエネルギーを秘めている。\\n万水の源であるフォンテーヌの水だが、異国へ流れるとその独特の性質が失われてしまう。",
             "type": "キャラと武器育成素材"
           },
@@ -5006,7 +5006,7 @@
             "name": "奇械部品·コペリウス",
             "count": 20,
             "rank": 4,
-            "icon": "/assets/images/Freminet_material_113050_1754798394129.png",
+            "icon": "/assets/images/Freminet_material_113050_1755402604154.png",
             "description": "コペリウスの奇械部品。奇械ダンサーにエネルギーを供給できる。\\n奇械ダンサーは白金の音節を踏みながら、昼夜を問わず観客のために氷風の輪舞を披露する。弔いの鐘が鳴るまで、コぺリウスのステップが止まることはない。",
             "type": "キャラクター育成素材"
           }

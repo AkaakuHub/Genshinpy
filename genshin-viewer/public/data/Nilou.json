@@ -8,7 +8,7 @@
   "region": "Sumeru",
   "constellation": "睡蓮座",
   "description": "「ズバイルシアター」の噂に名高い踊り子。そのダンスはしなやかで美しく、彼女自身も優しく純粋な心で人と接する。",
-  "icon": "/assets/images/Nilou_icon_1754798370651.png",
+  "icon": "/assets/images/Nilou_icon_1755402580735.png",
   "profile": {
     "baseHp": 1182.1168,
     "baseAtk": 17.8752,
@@ -23,7 +23,7 @@
       "id": "弦月のダンス",
       "name": "弦月のダンス",
       "description": "",
-      "icon": "/assets/images/Kamisato Ayaka_normal_attack_1754798285639.png",
+      "icon": "/assets/images/Kamisato Ayaka_normal_attack_1755402496950.png",
       "skillType": "normal",
       "params": {
         "1": [],
@@ -47,7 +47,7 @@
       "id": "七域のダンス",
       "name": "七域のダンス",
       "description": "",
-      "icon": "/assets/images/Nilou_elemental_skill_1754798370651.png",
+      "icon": "/assets/images/Nilou_elemental_skill_1755402580735.png",
       "levelData": [
         {
           "tableIndex": 1,
@@ -1136,21 +1136,21 @@
     "elementalBurst": {
       "name": "落花廻旋の庭",
       "description": "",
-      "icon": "/assets/images/Nilou_elemental_burst_1754798370651.png",
+      "icon": "/assets/images/Nilou_elemental_burst_1755402580735.png",
       "levelData": []
     },
     "passiveTalents": [
       {
         "name": "落花廻旋の庭",
-        "icon": "/assets/images/Nilou_passive_1_1754798370652.png"
+        "icon": "/assets/images/Nilou_passive_1_1755402580735.png"
       },
       {
         "name": "軽やかに舞う永世の夢",
-        "icon": "/assets/images/Nilou_passive_2_1754798370652.png"
+        "icon": "/assets/images/Nilou_passive_2_1755402580735.png"
       },
       {
         "name": "白き玉蓮の盃",
-        "icon": "/assets/images/Yun Jin_passive_3_1754798360797.png"
+        "icon": "/assets/images/Yun Jin_passive_3_1755402571597.png"
       }
     ],
     "completeTableData": [
@@ -4317,32 +4317,32 @@
       {
         "level": null,
         "name": "却月の舞踊",
-        "icon": "/assets/images/Nilou_constellation_cNaN_1754798370652.png"
+        "icon": "/assets/images/Nilou_constellation_cNaN_1755402580735.png"
       },
       {
         "level": null,
         "name": "星天の花雨",
-        "icon": "/assets/images/Nilou_constellation_cNaN_1754798370652.png"
+        "icon": "/assets/images/Nilou_constellation_cNaN_1755402580736.png"
       },
       {
         "level": null,
         "name": "朝影の蓮歩",
-        "icon": "/assets/images/Nilou_constellation_cNaN_1754798370652.png"
+        "icon": "/assets/images/Nilou_constellation_cNaN_1755402580736.png"
       },
       {
         "level": null,
         "name": "清漣の音節",
-        "icon": "/assets/images/Nilou_constellation_cNaN_1754798370652.png"
+        "icon": "/assets/images/Nilou_constellation_cNaN_1755402580736.png"
       },
       {
         "level": null,
         "name": "旋舞の流光",
-        "icon": "/assets/images/Nilou_constellation_cNaN_1754798370652.png"
+        "icon": "/assets/images/Nilou_constellation_cNaN_1755402580736.png"
       },
       {
         "level": null,
         "name": "霜絶の弦歌",
-        "icon": "/assets/images/Nilou_constellation_cNaN_1754798370652.png"
+        "icon": "/assets/images/Nilou_constellation_cNaN_1755402580736.png"
       }
     ]
   },
@@ -4360,21 +4360,21 @@
       "isDefault": false,
       "rank": 4,
       "storyId": 340017,
-      "icon": "/assets/images/Nilou_costume_2_1754798370652.png"
+      "icon": "/assets/images/Nilou_costume_2_1755402580736.png"
     }
   ],
   "nameCard": {
     "id": 210136,
     "name": "ニィロウ·蓮舞",
     "description": "ニィロウ·蓮舞",
-    "icon": "/assets/images/Nilou_icon_1754798370651.png"
+    "icon": "/assets/images/Nilou_icon_1755402580735.png"
   },
   "specialFood": {
     "id": 108466,
     "name": "ひらめく踊り",
     "rank": 3,
-    "icon": "/assets/images/Nilou_special_food_1754798370652.png",
-    "effectIcon": "/assets/images/Barbara_food_effect_1754798291136.png"
+    "icon": "/assets/images/Nilou_special_food_1755402580736.png",
+    "effectIcon": "/assets/images/Barbara_food_effect_1755402502348.png"
   },
   "levelProgression": [
     {
@@ -4690,7 +4690,7 @@
             "name": "パティサラ",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Nilou_material_101214_1754798370872.png",
+            "icon": "/assets/images/Nilou_material_101214_1755402580963.png",
             "description": "神聖かつ純潔な、気高い花。成長には厳しい生育条件を必要とする。花蕊を加工すると、貴重な香料が出来上がる。",
             "type": "スメール地域の特産"
           },
@@ -4699,7 +4699,7 @@
             "name": "澄明なラピスラズリ·砕屑",
             "count": 1,
             "rank": 2,
-            "icon": "/assets/images/Barbara_material_104121_1754798291405.png",
+            "icon": "/assets/images/Barbara_material_104121_1755402502617.png",
             "description": "キャラクターの突破用アイテム。",
             "type": "キャラクター突破素材"
           },
@@ -4708,7 +4708,7 @@
             "name": "キノコンの胞子",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Tighnari_material_112059_1754798369134.png",
+            "icon": "/assets/images/Tighnari_material_112059_1755402579494.png",
             "description": "キノコンが残した胞子。微かな光を放っている。くしゃみ一つで跡形もなく吹き飛ばされそうだ。",
             "type": "キャラと武器育成素材"
           }
@@ -4739,7 +4739,7 @@
             "name": "パティサラ",
             "count": 10,
             "rank": 1,
-            "icon": "/assets/images/Nilou_material_101214_1754798370872.png",
+            "icon": "/assets/images/Nilou_material_101214_1755402580963.png",
             "description": "神聖かつ純潔な、気高い花。成長には厳しい生育条件を必要とする。花蕊を加工すると、貴重な香料が出来上がる。",
             "type": "スメール地域の特産"
           },
@@ -4748,7 +4748,7 @@
             "name": "澄明なラピスラズリ·欠片",
             "count": 3,
             "rank": 3,
-            "icon": "/assets/images/Barbara_material_104122_1754798291154.png",
+            "icon": "/assets/images/Barbara_material_104122_1755402502696.png",
             "description": "キャラクターの突破用アイテム。\\n「僕の理想には一片の穢れも無い。」",
             "type": "キャラクター突破素材"
           },
@@ -4757,7 +4757,7 @@
             "name": "キノコンの胞子",
             "count": 15,
             "rank": 1,
-            "icon": "/assets/images/Tighnari_material_112059_1754798369134.png",
+            "icon": "/assets/images/Tighnari_material_112059_1755402579494.png",
             "description": "キノコンが残した胞子。微かな光を放っている。くしゃみ一つで跡形もなく吹き飛ばされそうだ。",
             "type": "キャラと武器育成素材"
           },
@@ -4766,7 +4766,7 @@
             "name": "永続コア",
             "count": 2,
             "rank": 4,
-            "icon": "/assets/images/Nilou_material_113038_1754798370666.png",
+            "icon": "/assets/images/Nilou_material_113038_1755402580748.png",
             "description": "謎めいた遺跡機械からとれた駆動装置。\\n動かすべき機体が壊れたにもかかわらず、回り続けている。\\n地上に際限なく出力できるエネルギー源など存在しないはずであり、「永久運動」に関する研究成果も大多数が反証されてしまった。それを踏まえてこのコアを見てみると、既に滅亡したこの文明はかつて、人が触れてはならない領域にまで達していたことがわかる。",
             "type": "キャラクター育成素材"
           }
@@ -4801,7 +4801,7 @@
             "name": "パティサラ",
             "count": 20,
             "rank": 1,
-            "icon": "/assets/images/Nilou_material_101214_1754798370872.png",
+            "icon": "/assets/images/Nilou_material_101214_1755402580963.png",
             "description": "神聖かつ純潔な、気高い花。成長には厳しい生育条件を必要とする。花蕊を加工すると、貴重な香料が出来上がる。",
             "type": "スメール地域の特産"
           },
@@ -4810,7 +4810,7 @@
             "name": "澄明なラピスラズリ·欠片",
             "count": 6,
             "rank": 3,
-            "icon": "/assets/images/Barbara_material_104122_1754798291154.png",
+            "icon": "/assets/images/Barbara_material_104122_1755402502696.png",
             "description": "キャラクターの突破用アイテム。\\n「僕の理想には一片の穢れも無い。」",
             "type": "キャラクター突破素材"
           },
@@ -4819,7 +4819,7 @@
             "name": "キノコンの蛍胞子",
             "count": 12,
             "rank": 2,
-            "icon": "/assets/images/Tighnari_material_112060_1754798369108.png",
+            "icon": "/assets/images/Tighnari_material_112060_1755402579470.png",
             "description": "光を発するキノコンの胞子。雨林の広がる国では薬とされており、商人が紙に包んで売る姿をよく見かける。",
             "type": "キャラと武器育成素材"
           },
@@ -4828,7 +4828,7 @@
             "name": "永続コア",
             "count": 4,
             "rank": 4,
-            "icon": "/assets/images/Nilou_material_113038_1754798370666.png",
+            "icon": "/assets/images/Nilou_material_113038_1755402580748.png",
             "description": "謎めいた遺跡機械からとれた駆動装置。\\n動かすべき機体が壊れたにもかかわらず、回り続けている。\\n地上に際限なく出力できるエネルギー源など存在しないはずであり、「永久運動」に関する研究成果も大多数が反証されてしまった。それを踏まえてこのコアを見てみると、既に滅亡したこの文明はかつて、人が触れてはならない領域にまで達していたことがわかる。",
             "type": "キャラクター育成素材"
           }
@@ -4863,7 +4863,7 @@
             "name": "パティサラ",
             "count": 30,
             "rank": 1,
-            "icon": "/assets/images/Nilou_material_101214_1754798370872.png",
+            "icon": "/assets/images/Nilou_material_101214_1755402580963.png",
             "description": "神聖かつ純潔な、気高い花。成長には厳しい生育条件を必要とする。花蕊を加工すると、貴重な香料が出来上がる。",
             "type": "スメール地域の特産"
           },
@@ -4872,7 +4872,7 @@
             "name": "澄明なラピスラズリ·塊",
             "count": 3,
             "rank": 4,
-            "icon": "/assets/images/Barbara_material_104123_1754798291383.png",
+            "icon": "/assets/images/Barbara_material_104123_1755402502358.png",
             "description": "キャラクターの突破用アイテム。\\n「僕の理想には一片の穢れも無い。」\\n「訂正させてもらおう。ここでは、人が神の裁きを受けることはない…」",
             "type": "キャラクター突破素材"
           },
@@ -4881,7 +4881,7 @@
             "name": "キノコンの蛍胞子",
             "count": 18,
             "rank": 2,
-            "icon": "/assets/images/Tighnari_material_112060_1754798369108.png",
+            "icon": "/assets/images/Tighnari_material_112060_1755402579470.png",
             "description": "光を発するキノコンの胞子。雨林の広がる国では薬とされており、商人が紙に包んで売る姿をよく見かける。",
             "type": "キャラと武器育成素材"
           },
@@ -4890,7 +4890,7 @@
             "name": "永続コア",
             "count": 8,
             "rank": 4,
-            "icon": "/assets/images/Nilou_material_113038_1754798370666.png",
+            "icon": "/assets/images/Nilou_material_113038_1755402580748.png",
             "description": "謎めいた遺跡機械からとれた駆動装置。\\n動かすべき機体が壊れたにもかかわらず、回り続けている。\\n地上に際限なく出力できるエネルギー源など存在しないはずであり、「永久運動」に関する研究成果も大多数が反証されてしまった。それを踏まえてこのコアを見てみると、既に滅亡したこの文明はかつて、人が触れてはならない領域にまで達していたことがわかる。",
             "type": "キャラクター育成素材"
           }
@@ -4925,7 +4925,7 @@
             "name": "パティサラ",
             "count": 45,
             "rank": 1,
-            "icon": "/assets/images/Nilou_material_101214_1754798370872.png",
+            "icon": "/assets/images/Nilou_material_101214_1755402580963.png",
             "description": "神聖かつ純潔な、気高い花。成長には厳しい生育条件を必要とする。花蕊を加工すると、貴重な香料が出来上がる。",
             "type": "スメール地域の特産"
           },
@@ -4934,7 +4934,7 @@
             "name": "澄明なラピスラズリ·塊",
             "count": 6,
             "rank": 4,
-            "icon": "/assets/images/Barbara_material_104123_1754798291383.png",
+            "icon": "/assets/images/Barbara_material_104123_1755402502358.png",
             "description": "キャラクターの突破用アイテム。\\n「僕の理想には一片の穢れも無い。」\\n「訂正させてもらおう。ここでは、人が神の裁きを受けることはない…」",
             "type": "キャラクター突破素材"
           },
@@ -4943,7 +4943,7 @@
             "name": "キノコンの晶胞子",
             "count": 12,
             "rank": 3,
-            "icon": "/assets/images/Tighnari_material_112061_1754798368898.png",
+            "icon": "/assets/images/Tighnari_material_112061_1755402579361.png",
             "description": "傷一つない胞子嚢から丁寧に採取した大量の胞子。適切な環境さえあれば、大量のキノコンを繁殖させられるだろう…",
             "type": "キャラと武器育成素材"
           },
@@ -4952,7 +4952,7 @@
             "name": "永続コア",
             "count": 12,
             "rank": 4,
-            "icon": "/assets/images/Nilou_material_113038_1754798370666.png",
+            "icon": "/assets/images/Nilou_material_113038_1755402580748.png",
             "description": "謎めいた遺跡機械からとれた駆動装置。\\n動かすべき機体が壊れたにもかかわらず、回り続けている。\\n地上に際限なく出力できるエネルギー源など存在しないはずであり、「永久運動」に関する研究成果も大多数が反証されてしまった。それを踏まえてこのコアを見てみると、既に滅亡したこの文明はかつて、人が触れてはならない領域にまで達していたことがわかる。",
             "type": "キャラクター育成素材"
           }
@@ -4987,7 +4987,7 @@
             "name": "パティサラ",
             "count": 60,
             "rank": 1,
-            "icon": "/assets/images/Nilou_material_101214_1754798370872.png",
+            "icon": "/assets/images/Nilou_material_101214_1755402580963.png",
             "description": "神聖かつ純潔な、気高い花。成長には厳しい生育条件を必要とする。花蕊を加工すると、貴重な香料が出来上がる。",
             "type": "スメール地域の特産"
           },
@@ -4996,7 +4996,7 @@
             "name": "澄明なラピスラズリ",
             "count": 6,
             "rank": 5,
-            "icon": "/assets/images/Barbara_material_104124_1754798291146.png",
+            "icon": "/assets/images/Barbara_material_104124_1755402502720.png",
             "description": "キャラクターの突破用アイテム。\\n「僕の理想には一片の穢れも無い。」\\n「訂正させてもらおう。ここでは、人が神の裁きを受けることはない。裁きを下せるのは、ただ法と法廷のみ。」\\n「この僕でさえ、断罪され得るのだからね。さあ、僕の崇高と純潔を讃えてくれたまえ。」",
             "type": "キャラクター突破素材"
           },
@@ -5005,7 +5005,7 @@
             "name": "キノコンの晶胞子",
             "count": 24,
             "rank": 3,
-            "icon": "/assets/images/Tighnari_material_112061_1754798368898.png",
+            "icon": "/assets/images/Tighnari_material_112061_1755402579361.png",
             "description": "傷一つない胞子嚢から丁寧に採取した大量の胞子。適切な環境さえあれば、大量のキノコンを繁殖させられるだろう…",
             "type": "キャラと武器育成素材"
           },
@@ -5014,7 +5014,7 @@
             "name": "永続コア",
             "count": 20,
             "rank": 4,
-            "icon": "/assets/images/Nilou_material_113038_1754798370666.png",
+            "icon": "/assets/images/Nilou_material_113038_1755402580748.png",
             "description": "謎めいた遺跡機械からとれた駆動装置。\\n動かすべき機体が壊れたにもかかわらず、回り続けている。\\n地上に際限なく出力できるエネルギー源など存在しないはずであり、「永久運動」に関する研究成果も大多数が反証されてしまった。それを踏まえてこのコアを見てみると、既に滅亡したこの文明はかつて、人が触れてはならない領域にまで達していたことがわかる。",
             "type": "キャラクター育成素材"
           }

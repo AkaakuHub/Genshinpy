@@ -8,7 +8,7 @@
   "region": "Sumeru",
   "constellation": "極楽鳥座",
   "description": "スメールの著名建築デザイナー。多くの物事に対し、行き過ぎた思いやりの心を持つ。唯美主義者だが、現実に悩まされている。",
-  "icon": "/assets/images/Kaveh_icon_1754798387678.png",
+  "icon": "/assets/images/Kaveh_icon_1755402597694.png",
   "profile": {
     "baseHp": 1002.9701,
     "baseAtk": 19.5888,
@@ -23,7 +23,7 @@
       "id": "円規定則",
       "name": "円規定則",
       "description": "",
-      "icon": "/assets/images/Diluc_normal_attack_1754798294670.png",
+      "icon": "/assets/images/Diluc_normal_attack_1755402505791.png",
       "skillType": "normal",
       "params": {
         "1": [],
@@ -47,7 +47,7 @@
       "id": "精緻なる絵図",
       "name": "精緻なる絵図",
       "description": "",
-      "icon": "/assets/images/Kaveh_elemental_skill_1754798387678.png",
+      "icon": "/assets/images/Kaveh_elemental_skill_1755402597695.png",
       "levelData": [
         {
           "tableIndex": 1,
@@ -1136,21 +1136,21 @@
     "elementalBurst": {
       "name": "創造者の役目",
       "description": "",
-      "icon": "/assets/images/Kaveh_elemental_burst_1754798387678.png",
+      "icon": "/assets/images/Kaveh_elemental_burst_1755402597695.png",
       "levelData": []
     },
     "passiveTalents": [
       {
         "name": "創造者の役目",
-        "icon": "/assets/images/Kaveh_passive_1_1754798387678.png"
+        "icon": "/assets/images/Kaveh_passive_1_1755402597695.png"
       },
       {
         "name": "芸術家の奇想",
-        "icon": "/assets/images/Kaveh_passive_2_1754798387678.png"
+        "icon": "/assets/images/Kaveh_passive_2_1755402597695.png"
       },
       {
         "name": "積算士の技巧",
-        "icon": "/assets/images/Yoimiya_passive_3_1754798337959.png"
+        "icon": "/assets/images/Yoimiya_passive_3_1755402548578.png"
       }
     ],
     "completeTableData": [
@@ -1397,7 +1397,7 @@
               "3段ダメージ|{param3:F1P}",
               "4段ダメージ|{param4:F1P}",
               "連続重撃ダメージ|{param5:F1P}",
-              "重撃終���ダメージ|{param6:P}",
+              "重撃終了ダメージ|{param6:P}",
               "重撃スタミナ消費|毎秒{param7:F1}",
               "最大継続時間|{param8:F1}秒",
               "落下期間のダメージ|{param9:F1P}",
@@ -4317,32 +4317,32 @@
       {
         "level": null,
         "name": "イーワーンにて謁見",
-        "icon": "/assets/images/Kaveh_constellation_cNaN_1754798387678.png"
+        "icon": "/assets/images/Kaveh_constellation_cNaN_1755402597695.png"
       },
       {
         "level": null,
         "name": "キャラバンサライの轍",
-        "icon": "/assets/images/Kaveh_constellation_cNaN_1754798387678.png"
+        "icon": "/assets/images/Kaveh_constellation_cNaN_1755402597695.png"
       },
       {
         "level": null,
         "name": "ジッグラトへの供物",
-        "icon": "/assets/images/Kaveh_constellation_cNaN_1754798387679.png"
+        "icon": "/assets/images/Kaveh_constellation_cNaN_1755402597695.png"
       },
       {
         "level": null,
         "name": "アパダーナの饗宴",
-        "icon": "/assets/images/Kaveh_constellation_cNaN_1754798387679.png"
+        "icon": "/assets/images/Kaveh_constellation_cNaN_1755402597695.png"
       },
       {
         "level": null,
         "name": "聖なるカーバ",
-        "icon": "/assets/images/Kaveh_constellation_cNaN_1754798387679.png"
+        "icon": "/assets/images/Kaveh_constellation_cNaN_1755402597695.png"
       },
       {
         "level": null,
         "name": "パイリダエーザの理想",
-        "icon": "/assets/images/Kaveh_constellation_cNaN_1754798387679.png"
+        "icon": "/assets/images/Kaveh_constellation_cNaN_1755402597695.png"
       }
     ]
   },
@@ -4359,14 +4359,14 @@
     "id": 210156,
     "name": "カーヴェ·天穹の庭",
     "description": "カーヴェ·天穹の庭",
-    "icon": "/assets/images/Kaveh_icon_1754798387678.png"
+    "icon": "/assets/images/Kaveh_icon_1755402597694.png"
   },
   "specialFood": {
     "id": 108509,
     "name": "丹精込めた一作",
     "rank": 2,
-    "icon": "/assets/images/Kaveh_special_food_1754798387679.png",
-    "effectIcon": "/assets/images/Kamisato Ayaka_food_effect_1754798285657.png"
+    "icon": "/assets/images/Kaveh_special_food_1755402597696.png",
+    "effectIcon": "/assets/images/Kamisato Ayaka_food_effect_1755402496967.png"
   },
   "levelProgression": [
     {
@@ -4682,7 +4682,7 @@
             "name": "悼霊花",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Kaveh_material_101223_1754798387924.png",
+            "icon": "/assets/images/Kaveh_material_101223_1755402597934.png",
             "description": "古の戦場に咲いた真っ赤な花。荒漠の中でもしたたかに成長している。垂れ下がる花はまるで、ここで犠牲となった英霊を悼んでいるかのようだ。",
             "type": "スメール地域の特産"
           },
@@ -4691,7 +4691,7 @@
             "name": "成長のエメラルド·砕屑",
             "count": 1,
             "rank": 2,
-            "icon": "/assets/images/Kirara_material_104131_1754798356648.png",
+            "icon": "/assets/images/Kirara_material_104131_1755402567127.png",
             "description": "キャラクターの突破用アイテム。",
             "type": "キャラクター突破素材"
           },
@@ -4700,7 +4700,7 @@
             "name": "キノコンの胞子",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Tighnari_material_112059_1754798369134.png",
+            "icon": "/assets/images/Tighnari_material_112059_1755402579494.png",
             "description": "キノコンが残した胞子。微かな光を放っている。くしゃみ一つで跡形もなく吹き飛ばされそうだ。",
             "type": "キャラと武器育成素材"
           }
@@ -4731,7 +4731,7 @@
             "name": "悼霊花",
             "count": 10,
             "rank": 1,
-            "icon": "/assets/images/Kaveh_material_101223_1754798387924.png",
+            "icon": "/assets/images/Kaveh_material_101223_1755402597934.png",
             "description": "古の戦場に咲いた真っ赤な花。荒漠の中でもしたたかに成長している。垂れ下がる花はまるで、ここで犠牲となった英霊を悼んでいるかのようだ。",
             "type": "スメール地域の特産"
           },
@@ -4740,7 +4740,7 @@
             "name": "成長のエメラルド·欠片",
             "count": 3,
             "rank": 3,
-            "icon": "/assets/images/Kirara_material_104132_1754798356616.png",
+            "icon": "/assets/images/Kirara_material_104132_1755402567153.png",
             "description": "キャラクターの突破用アイテム。\\n「長い長い夢を見ていたわ…」",
             "type": "キャラクター突破素材"
           },
@@ -4749,7 +4749,7 @@
             "name": "キノコンの胞子",
             "count": 15,
             "rank": 1,
-            "icon": "/assets/images/Tighnari_material_112059_1754798369134.png",
+            "icon": "/assets/images/Tighnari_material_112059_1755402579494.png",
             "description": "キノコンが残した胞子。微かな光を放っている。くしゃみ一つで跡形もなく吹き飛ばされそうだ。",
             "type": "キャラと武器育成素材"
           },
@@ -4758,8 +4758,8 @@
             "name": "滅諍の蔓",
             "count": 2,
             "rank": 4,
-            "icon": "/assets/images/Nahida_material_113040_1754798375360.png",
-            "description": "無相の草が最終的に凝縮して作った形態。強固なツル草によって囲まれた純粋な元素の結晶である。\\n条理に相反し、すべての命の形態から最もかけ離れた無相元素が、最も生命に調和する草元素と結合された状態で大地に出現するというのは、本来あるべきことではないのだろう。ある一説によると、無相元素には「学習」の知性があり、森の中の多彩と夢を知っているという。そして千年を超える時の中で、このような姿へと変わったのだ。",
+            "icon": "/assets/images/Nahida_material_113040_1755402585239.png",
+            "description": "無相の草が最終的に凝縮して作った形態。強固なツル草によって囲まれた純粋な元素の結晶である。\\n条理に相反し、すべての命の形態から最もかけ離れた無相元素が、最も生命に調和する草元素と結合された状態で大地に出現するというのは、本来あるべきことではないのだろう。ある一説によると、無相元素には「学習」の知性があり、森の中の多彩と夢を知っているという。そして千年を超える時の中で、この��うな姿へと変わったのだ。",
             "type": "キャラクター育成素材"
           }
         ],
@@ -4793,7 +4793,7 @@
             "name": "悼霊花",
             "count": 20,
             "rank": 1,
-            "icon": "/assets/images/Kaveh_material_101223_1754798387924.png",
+            "icon": "/assets/images/Kaveh_material_101223_1755402597934.png",
             "description": "古の戦場に咲いた真っ赤な花。荒漠の中でもしたたかに成長している。垂れ下がる花はまるで、ここで犠牲となった英霊を悼んでいるかのようだ。",
             "type": "スメール地域の特産"
           },
@@ -4802,7 +4802,7 @@
             "name": "成長のエメラルド·欠片",
             "count": 6,
             "rank": 3,
-            "icon": "/assets/images/Kirara_material_104132_1754798356616.png",
+            "icon": "/assets/images/Kirara_material_104132_1755402567153.png",
             "description": "キャラクターの突破用アイテム。\\n「長い長い夢を見ていたわ…」",
             "type": "キャラクター突破素材"
           },
@@ -4811,7 +4811,7 @@
             "name": "キノコンの蛍胞子",
             "count": 12,
             "rank": 2,
-            "icon": "/assets/images/Tighnari_material_112060_1754798369108.png",
+            "icon": "/assets/images/Tighnari_material_112060_1755402579470.png",
             "description": "光を発するキノコンの胞子。雨林の広がる国では薬とされており、商人が紙に包んで売る姿をよく見かける。",
             "type": "キャラと武器育成素材"
           },
@@ -4820,8 +4820,8 @@
             "name": "滅諍の蔓",
             "count": 4,
             "rank": 4,
-            "icon": "/assets/images/Nahida_material_113040_1754798375360.png",
-            "description": "無相の草が最終的に凝縮して作った形態。強固なツル草によって囲まれた純粋な元素の結晶である。\\n条理に相反し、すべての命の形態から最もかけ離れた無相元素が、最も生命に調和する草元素と結合された状態で大地に出現するというのは、本来あるべきことではないのだろう。ある一説によると、無相元素には「学習」の知性があり、森の中の多彩と夢を知っているという。そして千年を超える時の中で、このような姿へと変わったのだ。",
+            "icon": "/assets/images/Nahida_material_113040_1755402585239.png",
+            "description": "無相の草が最終的に凝縮して作った形態。強固なツル草によって囲まれた純粋な元素の結晶である。\\n条理に相反し、すべての命の形態から最もかけ離れた無相元素が、最も生命に調和する草元素と結合された状態で大地に出現するというのは、本来あるべきことではないのだろう。ある一説によると、無相元素には「学習」の知性があり、森の中の多彩と夢を知っているという。そして千年を超える時の中で、この��うな姿へと変わったのだ。",
             "type": "キャラクター育成素材"
           }
         ],
@@ -4855,7 +4855,7 @@
             "name": "悼霊花",
             "count": 30,
             "rank": 1,
-            "icon": "/assets/images/Kaveh_material_101223_1754798387924.png",
+            "icon": "/assets/images/Kaveh_material_101223_1755402597934.png",
             "description": "古の戦場に咲いた真っ赤な花。荒漠の中でもしたたかに成長している。垂れ下がる花はまるで、ここで犠牲となった英霊を悼んでいるかのようだ。",
             "type": "スメール地域の特産"
           },
@@ -4864,7 +4864,7 @@
             "name": "成長のエメラルド·塊",
             "count": 3,
             "rank": 4,
-            "icon": "/assets/images/Kirara_material_104133_1754798356511.png",
+            "icon": "/assets/images/Kirara_material_104133_1755402567004.png",
             "description": "キャラクターの突破用アイテム。\\n「長い長い夢を見ていたわ…」\\n「人々は手をつなぎ、円を描くようにくるくると回っていた。賢者と愚者、舞人と勇士、人形と神像…」",
             "type": "キャラクター突破素材"
           },
@@ -4873,7 +4873,7 @@
             "name": "キノコンの蛍胞子",
             "count": 18,
             "rank": 2,
-            "icon": "/assets/images/Tighnari_material_112060_1754798369108.png",
+            "icon": "/assets/images/Tighnari_material_112060_1755402579470.png",
             "description": "光を発するキノコンの胞子。雨林の広がる国では薬とされており、商人が紙に包んで売る姿をよく見かける。",
             "type": "キャラと武器育成素材"
           },
@@ -4882,8 +4882,8 @@
             "name": "滅諍の蔓",
             "count": 8,
             "rank": 4,
-            "icon": "/assets/images/Nahida_material_113040_1754798375360.png",
-            "description": "無相の草が最終的に凝縮して作った形態。強固なツル草によって囲まれた純粋な元素の結晶である。\\n条理に相反し、すべての命の形態から最もかけ離れた無相元素が、最も生命に調和する草元素と結合された状態で大地に出現するというのは、本来あるべきことではないのだろう。ある一説によると、無相元素には「学習」の知性があり、森の中の多彩と夢を知っているという。そして千年を超える時の中で、このような姿へと変わったのだ。",
+            "icon": "/assets/images/Nahida_material_113040_1755402585239.png",
+            "description": "無相の草が最終的に凝縮して作った形態。強固なツル草によって囲まれた純粋な元素の結晶である。\\n条理に相反し、すべての命の形態から最もかけ離れた無相元素が、最も生命に調和する草元素と結合された状態で大地に出現するというのは、本来あるべきことではないのだろう。ある一説によると、無相元素には「学習」の知性があり、森の中の多彩と夢を知っているという。そして千年を超える時の中で、この��うな姿へと変わったのだ。",
             "type": "キャラクター育成素材"
           }
         ],
@@ -4917,7 +4917,7 @@
             "name": "悼霊花",
             "count": 45,
             "rank": 1,
-            "icon": "/assets/images/Kaveh_material_101223_1754798387924.png",
+            "icon": "/assets/images/Kaveh_material_101223_1755402597934.png",
             "description": "古の戦場に咲いた真っ赤な花。荒漠の中でもしたたかに成長している。垂れ下がる花はまるで、ここで犠牲となった英霊を悼んでいるかのようだ。",
             "type": "スメール地域の特産"
           },
@@ -4926,7 +4926,7 @@
             "name": "成長のエメラルド·塊",
             "count": 6,
             "rank": 4,
-            "icon": "/assets/images/Kirara_material_104133_1754798356511.png",
+            "icon": "/assets/images/Kirara_material_104133_1755402567004.png",
             "description": "キャラクターの突破用アイテム。\\n「長い長い夢を見ていたわ…」\\n「人々は手をつなぎ、円を描くようにくるくると回っていた。賢者と愚者、舞人と勇士、人形と神像…」",
             "type": "キャラクター突破素材"
           },
@@ -4935,7 +4935,7 @@
             "name": "キノコンの晶胞子",
             "count": 12,
             "rank": 3,
-            "icon": "/assets/images/Tighnari_material_112061_1754798368898.png",
+            "icon": "/assets/images/Tighnari_material_112061_1755402579361.png",
             "description": "傷一つない胞子嚢から丁寧に採取した大量の胞子。適切な環境さえあれば、大量のキノコンを繁殖させられるだろう…",
             "type": "キャラと武器育成素材"
           },
@@ -4944,8 +4944,8 @@
             "name": "滅諍の蔓",
             "count": 12,
             "rank": 4,
-            "icon": "/assets/images/Nahida_material_113040_1754798375360.png",
-            "description": "無相の草が最終的に凝縮して作った形態。強固なツル草によって囲まれた純粋な元素の結晶である。\\n条理に相反し、すべての命の形態から最もかけ離れた無相元素が、最も生命に調和する草元素と結合された状態で大地に出現するというのは、本来あるべきことではないのだろう。ある一説によると、無相元素には「学習」の知性があり、森の中の多彩と夢を知っているという。そして千年を超える時の中で、このような姿へと変わったのだ。",
+            "icon": "/assets/images/Nahida_material_113040_1755402585239.png",
+            "description": "無相の草が最終的に凝縮して作った形態。強固なツル草によって囲まれた純粋な元素の結晶である。\\n条理に相反し、すべての命の形態から最もかけ離れた無相元素が、最も生命に調和する草元素と結合された状態で大地に出現するというのは、本来あるべきことではないのだろう。ある一説によると、無相元素には「学習」の知性があり、森の中の多彩と夢を知っているという。そして千年を超える時の中で、この��うな姿へと変わったのだ。",
             "type": "キャラクター育成素材"
           }
         ],
@@ -4979,7 +4979,7 @@
             "name": "悼霊花",
             "count": 60,
             "rank": 1,
-            "icon": "/assets/images/Kaveh_material_101223_1754798387924.png",
+            "icon": "/assets/images/Kaveh_material_101223_1755402597934.png",
             "description": "古の戦場に咲いた真っ赤な花。荒漠の中でもしたたかに成長している。垂れ下がる花はまるで、ここで犠牲となった英霊を悼んでいるかのようだ。",
             "type": "スメール地域の特産"
           },
@@ -4988,7 +4988,7 @@
             "name": "成長のエメラルド",
             "count": 6,
             "rank": 5,
-            "icon": "/assets/images/Kirara_material_104134_1754798356403.png",
+            "icon": "/assets/images/Kirara_material_104134_1755402567099.png",
             "description": "キャラクターの突破用アイテム。\\n「長い長い夢を見ていたわ…」\\n「人々は手をつなぎ、円を描くようにくるくると回っていた。賢者と愚者、舞人と勇士、人形と神像…」\\n「みんなの喜びの踊りの中には、宇宙のすべてが秘められている。『命』はいつも目的で、『知恵』こそが手段なの。」",
             "type": "キャラクター突破素材"
           },
@@ -4997,7 +4997,7 @@
             "name": "キノコンの晶胞子",
             "count": 24,
             "rank": 3,
-            "icon": "/assets/images/Tighnari_material_112061_1754798368898.png",
+            "icon": "/assets/images/Tighnari_material_112061_1755402579361.png",
             "description": "傷一つない胞子嚢から丁寧に採取した大量の胞子。適切な環境さえあれば、大量のキノコンを繁殖させられるだろう…",
             "type": "キャラと武器育成素材"
           },
@@ -5006,8 +5006,8 @@
             "name": "滅諍の蔓",
             "count": 20,
             "rank": 4,
-            "icon": "/assets/images/Nahida_material_113040_1754798375360.png",
-            "description": "無相の草が最終的に凝縮して作った形態。強固なツル草によって囲まれた純粋な元素の結晶である。\\n条理に相反し、すべての命の形態から最もかけ離れた無相元素が、最も生命に調和する草元素と結合された状態で大地に出現するというのは、本来あるべきことではないのだろう。ある一説によると、無相元素には「学習」の知性があり、森の中の多彩と夢を知っているという。そして千年を超える時の中で、このような姿へと変わったのだ。",
+            "icon": "/assets/images/Nahida_material_113040_1755402585239.png",
+            "description": "無相の草が最終的に凝縮して作った形態。強固なツル草によって囲まれた純粋な元素の結晶である。\\n条理に相反し、すべての命の形態から最もかけ離れた無相元素が、最も生命に調和する草元素と結合された状態で大地に出現するというのは、本来あるべきことではないのだろう。ある一説によると、無相元素には「学習」の知性があり、森の中の多彩と夢を知っているという。そして千年を超える時の中で、この��うな姿へと変わったのだ。",
             "type": "キャラクター育成素材"
           }
         ],

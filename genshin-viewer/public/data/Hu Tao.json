@@ -8,7 +8,7 @@
   "region": "Liyue",
   "constellation": "彼岸蝶座",
   "description": "「往生堂」七十七代目堂主。若くして璃月の葬儀を仕切り、責任を持ってそれを執り行っている。",
-  "icon": "/assets/images/Hu Tao_icon_1754798333587.png",
+  "icon": "/assets/images/Hu Tao_icon_1755402544314.png",
   "profile": {
     "baseHp": 1210.7164,
     "baseAtk": 8.2859,
@@ -23,7 +23,7 @@
       "id": "往生秘伝槍法",
       "name": "往生秘伝槍法",
       "description": "",
-      "icon": "/assets/images/Xiangling_normal_attack_1754798301025.png",
+      "icon": "/assets/images/Xiangling_normal_attack_1755402512420.png",
       "skillType": "normal",
       "params": {
         "1": [],
@@ -47,7 +47,7 @@
       "id": "蝶導来世",
       "name": "蝶導来世",
       "description": "",
-      "icon": "/assets/images/Hu Tao_elemental_skill_1754798333588.png",
+      "icon": "/assets/images/Hu Tao_elemental_skill_1755402544314.png",
       "levelData": [
         {
           "tableIndex": 1,
@@ -951,7 +951,7 @@
           "description": [
             "スキル消費|現在HP{param1:P}",
             "攻撃力アップ|HP上限{param2:F2P}",
-            "血梅香ダメージ|{param3:P}",
+            "��梅香ダメージ|{param3:P}",
             "血梅香継続時間|{param4:F1}秒",
             "継続時間|{param5:F1}秒",
             "クールタイム|{param6:F1}秒",
@@ -1136,21 +1136,21 @@
     "elementalBurst": {
       "name": "蝶隠の時",
       "description": "",
-      "icon": "/assets/images/Hu Tao_elemental_burst_1754798333588.png",
+      "icon": "/assets/images/Hu Tao_elemental_burst_1755402544314.png",
       "levelData": []
     },
     "passiveTalents": [
       {
         "name": "蝶隠の時",
-        "icon": "/assets/images/Hu Tao_passive_1_1754798333588.png"
+        "icon": "/assets/images/Hu Tao_passive_1_1755402544315.png"
       },
       {
         "name": "血のかまど",
-        "icon": "/assets/images/Hu Tao_passive_2_1754798333588.png"
+        "icon": "/assets/images/Hu Tao_passive_2_1755402544315.png"
       },
       {
         "name": "多々益善",
-        "icon": "/assets/images/Hu Tao_passive_3_1754798333588.png"
+        "icon": "/assets/images/Hu Tao_passive_3_1755402544315.png"
       }
     ],
     "completeTableData": [
@@ -2158,7 +2158,7 @@
               "1段ダメージ|{param1:F1P}",
               "2段ダメージ|{param2:F1P}",
               "3段ダメージ|{param3:F1P}",
-              "4段ダメージ|{param4:F1P}",
+              "4段ダ��ージ|{param4:F1P}",
               "5段ダメージ|{param5:F1P}+{param6:F1P}",
               "6段ダメージ|{param7:F1P}",
               "重撃ダメージ|{param8:F1P}",
@@ -3068,7 +3068,7 @@
             "description": [
               "スキル消費|現在HP{param1:P}",
               "攻撃力アップ|HP上限{param2:F2P}",
-              "血梅香ダメージ|{param3:P}",
+              "��梅香ダメージ|{param3:P}",
               "血梅香継続時間|{param4:F1}秒",
               "継続時間|{param5:F1}秒",
               "クールタイム|{param6:F1}秒",
@@ -4178,7 +4178,7 @@
               0
             ],
             "description": [
-              "スキ��ダメージ|{param1:P}",
+              "スキルダメージ|{param1:P}",
               "低HP時スキルダメージ|{param2:P}",
               "スキル回復量|HP上限{param3:F2P}",
               "低HP時スキル回復量|HP上限{param4:F2P}",
@@ -4317,32 +4317,32 @@
       {
         "level": null,
         "name": "朱色の花束",
-        "icon": "/assets/images/Hu Tao_constellation_cNaN_1754798333588.png"
+        "icon": "/assets/images/Hu Tao_constellation_cNaN_1755402544315.png"
       },
       {
         "level": null,
         "name": "晴れのち雨",
-        "icon": "/assets/images/Hu Tao_constellation_cNaN_1754798333588.png"
+        "icon": "/assets/images/Hu Tao_constellation_cNaN_1755402544315.png"
       },
       {
         "level": null,
         "name": "血色の儀",
-        "icon": "/assets/images/Hu Tao_constellation_cNaN_1754798333588.png"
+        "icon": "/assets/images/Hu Tao_constellation_cNaN_1755402544315.png"
       },
       {
         "level": null,
         "name": "花室の添い寝",
-        "icon": "/assets/images/Hu Tao_constellation_cNaN_1754798333589.png"
+        "icon": "/assets/images/Hu Tao_constellation_cNaN_1755402544315.png"
       },
       {
         "level": null,
         "name": "漂う花の香り",
-        "icon": "/assets/images/Hu Tao_constellation_cNaN_1754798333589.png"
+        "icon": "/assets/images/Hu Tao_constellation_cNaN_1755402544315.png"
       },
       {
         "level": null,
         "name": "冥蝶の抱擁",
-        "icon": "/assets/images/Hu Tao_constellation_cNaN_1754798333589.png"
+        "icon": "/assets/images/Hu Tao_constellation_cNaN_1755402544315.png"
       }
     ]
   },
@@ -4360,21 +4360,21 @@
       "isDefault": false,
       "rank": 4,
       "storyId": 340019,
-      "icon": "/assets/images/Hu Tao_costume_2_1754798333589.png"
+      "icon": "/assets/images/Hu Tao_costume_2_1755402544315.png"
     }
   ],
   "nameCard": {
     "id": 210059,
     "name": "胡桃·安神",
     "description": "胡桃·安神",
-    "icon": "/assets/images/Hu Tao_namecard_1754798333721.png"
+    "icon": "/assets/images/Hu Tao_namecard_1755402544449.png"
   },
   "specialFood": {
     "id": 108200,
     "name": "幽々大行軍",
     "rank": 2,
-    "icon": "/assets/images/Hu Tao_special_food_1754798333589.png",
-    "effectIcon": "/assets/images/Kamisato Ayaka_food_effect_1754798285657.png"
+    "icon": "/assets/images/Hu Tao_special_food_1755402544316.png",
+    "effectIcon": "/assets/images/Kamisato Ayaka_food_effect_1755402496967.png"
   },
   "levelProgression": [
     {
@@ -4690,7 +4690,7 @@
             "name": "霓裳花",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Xingqiu_material_100029_1754798304516.png",
+            "icon": "/assets/images/Xingqiu_material_100029_1755402515678.png",
             "description": "璃月で霓雲のように咲く赤い花。水のように滑らかな織物の原料である。",
             "type": "璃月地域の特産"
           },
@@ -4699,7 +4699,7 @@
             "name": "炎願のアゲート·砕屑",
             "count": 1,
             "rank": 2,
-            "icon": "/assets/images/Diluc_material_104111_1754798294919.png",
+            "icon": "/assets/images/Diluc_material_104111_1755402506054.png",
             "description": "キャラクターの突破用アイテム。",
             "type": "キャラクター突破素材"
           },
@@ -4708,7 +4708,7 @@
             "name": "トリックフラワーの蜜",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Ganyu_material_112038_1754798322148.png",
+            "icon": "/assets/images/Ganyu_material_112038_1755402532697.png",
             "description": "花蕊から抽出された花蜜、少量の元素が含まれている。\\nスイートフラワーの味と微妙に似ている。",
             "type": "キャラと武器育成素材"
           }
@@ -4739,7 +4739,7 @@
             "name": "霓裳花",
             "count": 10,
             "rank": 1,
-            "icon": "/assets/images/Xingqiu_material_100029_1754798304516.png",
+            "icon": "/assets/images/Xingqiu_material_100029_1755402515678.png",
             "description": "璃月で霓雲のように咲く赤い花。水のように滑らかな織物の原料である。",
             "type": "璃月地域の特産"
           },
@@ -4748,7 +4748,7 @@
             "name": "炎願のアゲート·欠片",
             "count": 3,
             "rank": 3,
-            "icon": "/assets/images/Diluc_material_104112_1754798294693.png",
+            "icon": "/assets/images/Diluc_material_104112_1755402506076.png",
             "description": "キャラクターの突破用アイテム。\\n「人々の願いのため、巡礼の道を歩もう。最強を目指して集い、戦うのだ…」",
             "type": "キャラクター突破素材"
           },
@@ -4757,7 +4757,7 @@
             "name": "トリックフラワーの蜜",
             "count": 15,
             "rank": 1,
-            "icon": "/assets/images/Ganyu_material_112038_1754798322148.png",
+            "icon": "/assets/images/Ganyu_material_112038_1755402532697.png",
             "description": "花蕊から抽出された花蜜、少量の元素が含まれている。\\nスイートフラワーの味と微妙に似ている。",
             "type": "キャラと武器育成素材"
           },
@@ -4766,7 +4766,7 @@
             "name": "未熟の玉石",
             "count": 2,
             "rank": 4,
-            "icon": "/assets/images/Xiao_material_113016_1754798306084.png",
+            "icon": "/assets/images/Xiao_material_113016_1755402517332.png",
             "description": "エンシェントヴィシャップ·岩から取り出した結晶物質。龍になれる可能性を秘めている。\\n山で深く眠るヴィシャップは、このような薄暗い結晶を沈殿させる。璃月の伝説によると、この結晶は時間とともに力が蓄積し、最終的に本来の心臓を取り替え、ヴィシャップも真の龍になり、山を揺るがし、大地を引き裂くという。",
             "type": "キャラクター育成素材"
           }
@@ -4801,7 +4801,7 @@
             "name": "霓裳花",
             "count": 20,
             "rank": 1,
-            "icon": "/assets/images/Xingqiu_material_100029_1754798304516.png",
+            "icon": "/assets/images/Xingqiu_material_100029_1755402515678.png",
             "description": "璃月で霓雲のように咲く赤い花。水のように滑らかな織物の原料である。",
             "type": "璃月地域の特産"
           },
@@ -4810,7 +4810,7 @@
             "name": "炎願のアゲート·欠片",
             "count": 6,
             "rank": 3,
-            "icon": "/assets/images/Diluc_material_104112_1754798294693.png",
+            "icon": "/assets/images/Diluc_material_104112_1755402506076.png",
             "description": "キャラクターの突破用アイテム。\\n「人々の願いのため、巡礼の道を歩もう。最強を目指して集い、戦うのだ…」",
             "type": "キャラクター突破素材"
           },
@@ -4819,7 +4819,7 @@
             "name": "微光花の蜜",
             "count": 12,
             "rank": 2,
-            "icon": "/assets/images/Ganyu_material_112039_1754798322033.png",
+            "icon": "/assets/images/Ganyu_material_112039_1755402532590.png",
             "description": "元素純度がやや高めの花蜜。\\n学界の見解によるとトリックフラワーは元素植物の高等生命形態である。だがトリックフラワーの食性は未だ解明されていない。",
             "type": "キャラと武器育成素材"
           },
@@ -4828,7 +4828,7 @@
             "name": "未熟の玉石",
             "count": 4,
             "rank": 4,
-            "icon": "/assets/images/Xiao_material_113016_1754798306084.png",
+            "icon": "/assets/images/Xiao_material_113016_1755402517332.png",
             "description": "エンシェントヴィシャップ·岩から取り出した結晶物質。龍になれる可能性を秘めている。\\n山で深く眠るヴィシャップは、このような薄暗い結晶を沈殿させる。璃月の伝説によると、この結晶は時間とともに力が蓄積し、最終的に本来の心臓を取り替え、ヴィシャップも真の龍になり、山を揺るがし、大地を引き裂くという。",
             "type": "キャラクター育成素材"
           }
@@ -4863,7 +4863,7 @@
             "name": "霓裳花",
             "count": 30,
             "rank": 1,
-            "icon": "/assets/images/Xingqiu_material_100029_1754798304516.png",
+            "icon": "/assets/images/Xingqiu_material_100029_1755402515678.png",
             "description": "璃月で霓雲のように咲く赤い花。水のように滑らかな織物の原料である。",
             "type": "璃月地域の特産"
           },
@@ -4872,7 +4872,7 @@
             "name": "炎願のアゲート·塊",
             "count": 3,
             "rank": 4,
-            "icon": "/assets/images/Diluc_material_104113_1754798295024.png",
+            "icon": "/assets/images/Diluc_material_104113_1755402505823.png",
             "description": "キャラクターの突破用アイテム。\\n「人々の願いのため、巡礼の道を歩もう。最強を目指して集い、戦うのだ…」\\n「最後は夢のために、劫火の中で燃え尽きる。」",
             "type": "キャラクター突破素材"
           },
@@ -4881,7 +4881,7 @@
             "name": "微光花の蜜",
             "count": 18,
             "rank": 2,
-            "icon": "/assets/images/Ganyu_material_112039_1754798322033.png",
+            "icon": "/assets/images/Ganyu_material_112039_1755402532590.png",
             "description": "元素純度がやや高めの花蜜。\\n学界の見解によるとトリックフラワーは元素植物の高等生命形態である。だがトリックフラワーの食性は未だ解明されていない。",
             "type": "キャラと武器育成素材"
           },
@@ -4890,7 +4890,7 @@
             "name": "未熟の玉石",
             "count": 8,
             "rank": 4,
-            "icon": "/assets/images/Xiao_material_113016_1754798306084.png",
+            "icon": "/assets/images/Xiao_material_113016_1755402517332.png",
             "description": "エンシェントヴィシャップ·岩から取り出した結晶物質。龍になれる可能性を秘めている。\\n山で深く眠るヴィシャップは、このような薄暗い結晶を沈殿させる。璃月の伝説によると、この結晶は時間とともに力が蓄積し、最終的に本来の心臓を取り替え、ヴィシャップも真の龍になり、山を揺るがし、大地を引き裂くという。",
             "type": "キャラクター育成素材"
           }
@@ -4925,7 +4925,7 @@
             "name": "霓裳花",
             "count": 45,
             "rank": 1,
-            "icon": "/assets/images/Xingqiu_material_100029_1754798304516.png",
+            "icon": "/assets/images/Xingqiu_material_100029_1755402515678.png",
             "description": "璃月で霓雲のように咲く赤い花。水のように滑らかな織物の原料である。",
             "type": "璃月地域の特産"
           },
@@ -4934,7 +4934,7 @@
             "name": "炎願のアゲート·塊",
             "count": 6,
             "rank": 4,
-            "icon": "/assets/images/Diluc_material_104113_1754798295024.png",
+            "icon": "/assets/images/Diluc_material_104113_1755402505823.png",
             "description": "キャラクターの突破用アイテム。\\n「人々の願いのため、巡礼の道を歩もう。最強を目指して集い、戦うのだ…」\\n「最後は夢のために、劫火の中で燃え尽きる。」",
             "type": "キャラクター突破素材"
           },
@@ -4943,7 +4943,7 @@
             "name": "原素花の蜜",
             "count": 12,
             "rank": 3,
-            "icon": "/assets/images/Ganyu_material_112040_1754798322254.png",
+            "icon": "/assets/images/Ganyu_material_112040_1755402532802.png",
             "description": "エネルギーに満ちたネバネバの花蜜。\\nトリックフラワーが獲物を騙しているのは狩るためである。そして捕食しているのはより強くてより純粋な姿へと進化するためであろう…",
             "type": "キャラと武器育成素材"
           },
@@ -4952,7 +4952,7 @@
             "name": "未熟の玉石",
             "count": 12,
             "rank": 4,
-            "icon": "/assets/images/Xiao_material_113016_1754798306084.png",
+            "icon": "/assets/images/Xiao_material_113016_1755402517332.png",
             "description": "エンシェントヴィシャップ·岩から取り出した結晶物質。龍になれる可能性を秘めている。\\n山で深く眠るヴィシャップは、このような薄暗い結晶を沈殿させる。璃月の伝説によると、この結晶は時間とともに力が蓄積し、最終的に本来の心臓を取り替え、ヴィシャップも真の龍になり、山を揺るがし、大地を引き裂くという。",
             "type": "キャラクター育成素材"
           }
@@ -4987,7 +4987,7 @@
             "name": "霓裳花",
             "count": 60,
             "rank": 1,
-            "icon": "/assets/images/Xingqiu_material_100029_1754798304516.png",
+            "icon": "/assets/images/Xingqiu_material_100029_1755402515678.png",
             "description": "璃月で霓雲のように咲く赤い花。水のように滑らかな織物の原料である。",
             "type": "璃月地域の特産"
           },
@@ -4996,7 +4996,7 @@
             "name": "炎願のアゲート",
             "count": 6,
             "rank": 5,
-            "icon": "/assets/images/Diluc_material_104114_1754798294966.png",
+            "icon": "/assets/images/Diluc_material_104114_1755402505938.png",
             "description": "キャラクターの突破用アイテム。\\n「人々の願いのため、巡礼の道を歩もう。最強を目指して集い、戦うのだ…」\\n「最後は夢のために、劫火の中で燃え尽きる。」\\n「その灰燼にまだ初心が残っていれば、██の真実に辿り着いたという。」",
             "type": "キャラクター突破素材"
           },
@@ -5005,7 +5005,7 @@
             "name": "原素花の蜜",
             "count": 24,
             "rank": 3,
-            "icon": "/assets/images/Ganyu_material_112040_1754798322254.png",
+            "icon": "/assets/images/Ganyu_material_112040_1755402532802.png",
             "description": "エネルギーに満ちたネバネバの花蜜。\\nトリックフラワーが獲物を騙しているのは狩るためである。そして捕食しているのはより強くてより純粋な姿へと進化するためであろう…",
             "type": "キャラと武器育成素材"
           },
@@ -5014,7 +5014,7 @@
             "name": "未熟の玉石",
             "count": 20,
             "rank": 4,
-            "icon": "/assets/images/Xiao_material_113016_1754798306084.png",
+            "icon": "/assets/images/Xiao_material_113016_1755402517332.png",
             "description": "エンシェントヴィシャップ·岩から取り出した結晶物質。龍になれる可能性を秘めている。\\n山で深く眠るヴィシャップは、このような薄暗い結晶を沈殿させる。璃月の伝説によると、この結晶は時間とともに力が蓄積し、最終的に本来の心臓を取り替え、ヴィシャップも真の龍になり、山を揺るがし、大地を引き裂くという。",
             "type": "キャラクター育成素材"
           }

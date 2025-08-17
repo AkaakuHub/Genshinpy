@@ -8,7 +8,7 @@
   "region": "Inazuma",
   "constellation": "子貉座",
   "description": "「終末番」に所属する忍。小柄で、いつも眠たそうにしている。",
-  "icon": "/assets/images/Sayu_icon_1754798343724.png",
+  "icon": "/assets/images/Sayu_icon_1755402554255.png",
   "profile": {
     "baseHp": 993.8522,
     "baseAtk": 20.4792,
@@ -23,7 +23,7 @@
       "id": "忍刀・終末番",
       "name": "忍刀・終末番",
       "description": "",
-      "icon": "/assets/images/Diluc_normal_attack_1754798294670.png",
+      "icon": "/assets/images/Diluc_normal_attack_1755402505791.png",
       "skillType": "normal",
       "params": {
         "1": [],
@@ -47,7 +47,7 @@
       "id": "嗚呼流·風隠急進",
       "name": "嗚呼流·風隠急進",
       "description": "",
-      "icon": "/assets/images/Sayu_elemental_skill_1754798343724.png",
+      "icon": "/assets/images/Sayu_elemental_skill_1755402554256.png",
       "levelData": [
         {
           "tableIndex": 1,
@@ -150,7 +150,7 @@
             "風々輪ダメージ|{param1:F1P}",
             "風々輪·旋舞蹴一回押しダメージ|{param3:F1P}",
             "風々輪·旋舞蹴長押しダメージ|{param4:F1P}",
-            "風々輪追加元素ダメ���ジ|{param2:F1P}",
+            "風々輪追加元素ダメージ|{param2:F1P}",
             "風々輪·旋舞蹴長押し追加元素ダメージ|{param5:F1P}",
             "長押し最大継続時間|{param6:F1}秒",
             "クールタイム|{param7:F1}~{param8:F1}秒",
@@ -1136,21 +1136,21 @@
     "elementalBurst": {
       "name": "適任の人を探そう",
       "description": "",
-      "icon": "/assets/images/Sayu_elemental_burst_1754798343725.png",
+      "icon": "/assets/images/Sayu_elemental_burst_1755402554256.png",
       "levelData": []
     },
     "passiveTalents": [
       {
         "name": "適任の人を探そう",
-        "icon": "/assets/images/Sayu_passive_1_1754798343725.png"
+        "icon": "/assets/images/Sayu_passive_1_1755402554257.png"
       },
       {
         "name": "仕事をサボるのだ",
-        "icon": "/assets/images/Sayu_passive_2_1754798343725.png"
+        "icon": "/assets/images/Sayu_passive_2_1755402554257.png"
       },
       {
         "name": "嗚呼流·屏息秘伝",
-        "icon": "/assets/images/Sayu_passive_3_1754798343725.png"
+        "icon": "/assets/images/Sayu_passive_3_1755402554257.png"
       }
     ],
     "completeTableData": [
@@ -1397,7 +1397,7 @@
               "3段ダメージ|{param3:F1P}+{param4:F1P}",
               "4段ダメージ|{param5:F1P}",
               "連続重撃ダメージ|{param6:F1P}",
-              "重撃終了���メージ|{param7:P}",
+              "重撃終了ダメージ|{param7:P}",
               "重撃スタミナ消費|毎秒{param8:F1}",
               "最大継続時間|{param9:F1}秒",
               "落下期間のダメージ|{param10:F1P}",
@@ -1540,7 +1540,7 @@
               "重撃終了ダメージ|{param7:P}",
               "重撃スタミナ消費|毎秒{param8:F1}",
               "最大継続時間|{param9:F1}秒",
-              "落下期間のダメー���|{param10:F1P}",
+              "落下期間のダメージ|{param10:F1P}",
               "低空/高空落下攻撃ダメージ|{param11:P}/{param12:P}",
               "",
               "",
@@ -2300,7 +2300,7 @@
               "風々輪ダメージ|{param1:F1P}",
               "風々輪·旋舞蹴一回押しダメージ|{param3:F1P}",
               "風々輪·旋舞蹴長押しダメージ|{param4:F1P}",
-              "風々輪追加元素ダメ���ジ|{param2:F1P}",
+              "風々輪追加元素ダメージ|{param2:F1P}",
               "風々輪·旋舞蹴長押し追加元素ダメージ|{param5:F1P}",
               "長押し最大継続時間|{param6:F1}秒",
               "クールタイム|{param7:F1}~{param8:F1}秒",
@@ -4317,32 +4317,32 @@
       {
         "level": null,
         "name": "一心二用の術",
-        "icon": "/assets/images/Sayu_constellation_cNaN_1754798343725.png"
+        "icon": "/assets/images/Sayu_constellation_cNaN_1755402554257.png"
       },
       {
         "level": null,
         "name": "逃げ道確保",
-        "icon": "/assets/images/Sayu_constellation_cNaN_1754798343725.png"
+        "icon": "/assets/images/Sayu_constellation_cNaN_1755402554257.png"
       },
       {
         "level": null,
         "name": "分身に任せる",
-        "icon": "/assets/images/Sayu_constellation_cNaN_1754798343725.png"
+        "icon": "/assets/images/Sayu_constellation_cNaN_1755402554257.png"
       },
       {
         "level": null,
         "name": "新しいサボる方法",
-        "icon": "/assets/images/Sayu_constellation_cNaN_1754798343725.png"
+        "icon": "/assets/images/Sayu_constellation_cNaN_1755402554257.png"
       },
       {
         "level": null,
         "name": "素早さ最優先",
-        "icon": "/assets/images/Sayu_constellation_cNaN_1754798343725.png"
+        "icon": "/assets/images/Sayu_constellation_cNaN_1755402554257.png"
       },
       {
         "level": null,
         "name": "ぐーたら寝る時間",
-        "icon": "/assets/images/Sayu_constellation_cNaN_1754798343725.png"
+        "icon": "/assets/images/Sayu_constellation_cNaN_1755402554257.png"
       }
     ]
   },
@@ -4359,14 +4359,14 @@
     "id": 210083,
     "name": "早柚·むじむじだるま",
     "description": "早柚·むじむじだるま",
-    "icon": "/assets/images/Sayu_icon_1754798343724.png"
+    "icon": "/assets/images/Sayu_icon_1755402554255.png"
   },
   "specialFood": {
     "id": 108303,
     "name": "眩暈回避術·改",
     "rank": 2,
-    "icon": "/assets/images/Sayu_special_food_1754798343725.png",
-    "effectIcon": "/assets/images/Jean_food_effect_1754798287570.png"
+    "icon": "/assets/images/Sayu_special_food_1755402554257.png",
+    "effectIcon": "/assets/images/Jean_food_effect_1755402498695.png"
   },
   "levelProgression": [
     {
@@ -4682,7 +4682,7 @@
             "name": "晶化骨髄",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Sayu_material_101203_1754798343966.png",
+            "icon": "/assets/images/Sayu_material_101203_1755402554506.png",
             "description": "「祟り神」の力を宿した結晶体。鍛冶時にこの物質を加えると、鋼鉄製品の強度と靭性を大幅に向上させることができる。",
             "type": "稲妻地域の特産"
           },
@@ -4691,7 +4691,7 @@
             "name": "自由のターコイズ·砕屑",
             "count": 1,
             "rank": 2,
-            "icon": "/assets/images/Jean_material_104151_1754798287584.png",
+            "icon": "/assets/images/Jean_material_104151_1755402498946.png",
             "description": "キャラクターの突破用アイテム。",
             "type": "キャラクター突破素材"
           },
@@ -4700,7 +4700,7 @@
             "name": "トリックフラワーの蜜",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Ganyu_material_112038_1754798322148.png",
+            "icon": "/assets/images/Ganyu_material_112038_1755402532697.png",
             "description": "花蕊から抽出された花蜜、少量の元素が含まれている。\\nスイートフラワーの味と微妙に似ている。",
             "type": "キャラと武器育成素材"
           }
@@ -4731,7 +4731,7 @@
             "name": "晶化骨髄",
             "count": 10,
             "rank": 1,
-            "icon": "/assets/images/Sayu_material_101203_1754798343966.png",
+            "icon": "/assets/images/Sayu_material_101203_1755402554506.png",
             "description": "「祟り神」の力を宿した結晶体。鍛冶時にこの物質を加えると、鋼鉄製品の強度と靭性を大幅に向上させることができる。",
             "type": "稲妻地域の特産"
           },
@@ -4740,7 +4740,7 @@
             "name": "自由のターコイズ·欠片",
             "count": 3,
             "rank": 3,
-            "icon": "/assets/images/Jean_material_104152_1754798287889.png",
+            "icon": "/assets/images/Jean_material_104152_1755402498970.png",
             "description": "キャラクターの突破用アイテム。\\n「風向きは変わるもの。」",
             "type": "キャラクター突破素材"
           },
@@ -4749,7 +4749,7 @@
             "name": "トリックフラワーの蜜",
             "count": 15,
             "rank": 1,
-            "icon": "/assets/images/Ganyu_material_112038_1754798322148.png",
+            "icon": "/assets/images/Ganyu_material_112038_1755402532697.png",
             "description": "花蕊から抽出された花蜜、少量の元素が含まれている。\\nスイートフラワーの味と微妙に似ている。",
             "type": "キャラと武器育成素材"
           },
@@ -4758,7 +4758,7 @@
             "name": "魔偶の芯",
             "count": 2,
             "rank": 4,
-            "icon": "/assets/images/Kaedehara Kazuha_material_113022_1754798335171.png",
+            "icon": "/assets/images/Kaedehara Kazuha_material_113022_1755402545792.png",
             "description": "無機化合物である魔偶剣鬼を生きているかのように剣を振るわせる芯。\\nどんなに優れた武術も、どんなに美しい思い出も、いずれ肉体と共に消えてしまう。\\n生身の時よりも永遠に近づくためには、手足胴体を全て頑丈なからくりへと変え、心臓を精密な「芯」に置き換えるしかないだろう…",
             "type": "キャラクター育成素材"
           }
@@ -4793,7 +4793,7 @@
             "name": "晶化骨髄",
             "count": 20,
             "rank": 1,
-            "icon": "/assets/images/Sayu_material_101203_1754798343966.png",
+            "icon": "/assets/images/Sayu_material_101203_1755402554506.png",
             "description": "「祟り神」の力を宿した結晶体。鍛冶時にこの物質を加えると、鋼鉄製品の強度と靭性を大幅に向上させることができる。",
             "type": "稲妻地域の特産"
           },
@@ -4802,7 +4802,7 @@
             "name": "自由のターコイズ·欠片",
             "count": 6,
             "rank": 3,
-            "icon": "/assets/images/Jean_material_104152_1754798287889.png",
+            "icon": "/assets/images/Jean_material_104152_1755402498970.png",
             "description": "キャラクターの突破用アイテム。\\n「風向きは変わるもの。」",
             "type": "キャラクター突破素材"
           },
@@ -4811,7 +4811,7 @@
             "name": "微光花の蜜",
             "count": 12,
             "rank": 2,
-            "icon": "/assets/images/Ganyu_material_112039_1754798322033.png",
+            "icon": "/assets/images/Ganyu_material_112039_1755402532590.png",
             "description": "元素純度がやや高めの花蜜。\\n学界の見解によるとトリックフラワーは元素植物の高等生命形態である。だがトリックフラワーの食性は未だ解明されていない。",
             "type": "キャラと武器育成素材"
           },
@@ -4820,7 +4820,7 @@
             "name": "魔偶の芯",
             "count": 4,
             "rank": 4,
-            "icon": "/assets/images/Kaedehara Kazuha_material_113022_1754798335171.png",
+            "icon": "/assets/images/Kaedehara Kazuha_material_113022_1755402545792.png",
             "description": "無機化合物である魔偶剣鬼を生きているかのように剣を振るわせる芯。\\nどんなに優れた武術も、どんなに美しい思い出も、いずれ肉体と共に消えてしまう。\\n生身の時よりも永遠に近づくためには、手足胴体を全て頑丈なからくりへと変え、心臓を精密な「芯」に置き換えるしかないだろう…",
             "type": "キャラクター育成素材"
           }
@@ -4855,7 +4855,7 @@
             "name": "晶化骨髄",
             "count": 30,
             "rank": 1,
-            "icon": "/assets/images/Sayu_material_101203_1754798343966.png",
+            "icon": "/assets/images/Sayu_material_101203_1755402554506.png",
             "description": "「祟り神」の力を宿した結晶体。鍛冶時にこの物質を加えると、鋼鉄製品の強度と靭性を大幅に向上させることができる。",
             "type": "稲妻地域の特産"
           },
@@ -4864,7 +4864,7 @@
             "name": "自由のターコイズ·塊",
             "count": 3,
             "rank": 4,
-            "icon": "/assets/images/Jean_material_104153_1754798287838.png",
+            "icon": "/assets/images/Jean_material_104153_1755402498994.png",
             "description": "キャラクターの突破用アイテム。\\n「風向きは変わるもの。」\\n「いつか、光射す方へと吹いてくる。」",
             "type": "キャラクター突破素材"
           },
@@ -4873,7 +4873,7 @@
             "name": "微光花の蜜",
             "count": 18,
             "rank": 2,
-            "icon": "/assets/images/Ganyu_material_112039_1754798322033.png",
+            "icon": "/assets/images/Ganyu_material_112039_1755402532590.png",
             "description": "元素純度がやや高めの花蜜。\\n学界の見解によるとトリックフラワーは元素植物の高等生命形態である。だがトリックフラワーの食性は未だ解明されていない。",
             "type": "キャラと武器育成素材"
           },
@@ -4882,7 +4882,7 @@
             "name": "魔偶の芯",
             "count": 8,
             "rank": 4,
-            "icon": "/assets/images/Kaedehara Kazuha_material_113022_1754798335171.png",
+            "icon": "/assets/images/Kaedehara Kazuha_material_113022_1755402545792.png",
             "description": "無機化合物である魔偶剣鬼を生きているかのように剣を振るわせる芯。\\nどんなに優れた武術も、どんなに美しい思い出も、いずれ肉体と共に消えてしまう。\\n生身の時よりも永遠に近づくためには、手足胴体を全て頑丈なからくりへと変え、心臓を精密な「芯」に置き換えるしかないだろう…",
             "type": "キャラクター育成素材"
           }
@@ -4917,7 +4917,7 @@
             "name": "晶化骨髄",
             "count": 45,
             "rank": 1,
-            "icon": "/assets/images/Sayu_material_101203_1754798343966.png",
+            "icon": "/assets/images/Sayu_material_101203_1755402554506.png",
             "description": "「祟り神」の力を宿した結晶体。鍛冶時にこの物質を加えると、鋼鉄製品の強度と靭性を大幅に向上させることができる。",
             "type": "稲妻地域の特産"
           },
@@ -4926,7 +4926,7 @@
             "name": "自由のターコイズ·塊",
             "count": 6,
             "rank": 4,
-            "icon": "/assets/images/Jean_material_104153_1754798287838.png",
+            "icon": "/assets/images/Jean_material_104153_1755402498994.png",
             "description": "キャラクターの突破用アイテム。\\n「風向きは変わるもの。」\\n「いつか、光射す方へと吹いてくる。」",
             "type": "キャラクター突破素材"
           },
@@ -4935,7 +4935,7 @@
             "name": "原素花の蜜",
             "count": 12,
             "rank": 3,
-            "icon": "/assets/images/Ganyu_material_112040_1754798322254.png",
+            "icon": "/assets/images/Ganyu_material_112040_1755402532802.png",
             "description": "エネルギーに満ちたネバネバの花蜜。\\nトリックフラワーが獲物を騙しているのは狩るためである。そして捕食しているのはより強くてより純粋な姿へと進化するためであろう…",
             "type": "キャラと武器育成素材"
           },
@@ -4944,7 +4944,7 @@
             "name": "魔偶の芯",
             "count": 12,
             "rank": 4,
-            "icon": "/assets/images/Kaedehara Kazuha_material_113022_1754798335171.png",
+            "icon": "/assets/images/Kaedehara Kazuha_material_113022_1755402545792.png",
             "description": "無機化合物である魔偶剣鬼を生きているかのように剣を振るわせる芯。\\nどんなに優れた武術も、どんなに美しい思い出も、いずれ肉体と共に消えてしまう。\\n生身の時よりも永遠に近づくためには、手足胴体を全て頑丈なからくりへと変え、心臓を精密な「芯」に置き換えるしかないだろう…",
             "type": "キャラクター育成素材"
           }
@@ -4979,7 +4979,7 @@
             "name": "晶化骨髄",
             "count": 60,
             "rank": 1,
-            "icon": "/assets/images/Sayu_material_101203_1754798343966.png",
+            "icon": "/assets/images/Sayu_material_101203_1755402554506.png",
             "description": "「祟り神」の力を宿した結晶体。鍛冶時にこの物質を加えると、鋼鉄製品の強度と靭性を大幅に向上させることができる。",
             "type": "稲妻地域の特産"
           },
@@ -4988,7 +4988,7 @@
             "name": "自由のターコイズ",
             "count": 6,
             "rank": 5,
-            "icon": "/assets/images/Jean_material_104154_1754798287581.png",
+            "icon": "/assets/images/Jean_material_104154_1755402499021.png",
             "description": "キャラクターの突破用アイテム。\\n「風向きは変わるもの。」\\n「いつか、光射す方へと吹いてくる。」\\n「これからは、ボクの祝福と共に、もっと自由に生きていこう。」",
             "type": "キャラクター突破素材"
           },
@@ -4997,7 +4997,7 @@
             "name": "原素花の蜜",
             "count": 24,
             "rank": 3,
-            "icon": "/assets/images/Ganyu_material_112040_1754798322254.png",
+            "icon": "/assets/images/Ganyu_material_112040_1755402532802.png",
             "description": "エネルギーに満ちたネバネバの花蜜。\\nトリックフラワーが獲物を騙しているのは狩るためである。そして捕食しているのはより強くてより純粋な姿へと進化するためであろう…",
             "type": "キャラと武器育成素材"
           },
@@ -5006,7 +5006,7 @@
             "name": "魔偶の芯",
             "count": 20,
             "rank": 4,
-            "icon": "/assets/images/Kaedehara Kazuha_material_113022_1754798335171.png",
+            "icon": "/assets/images/Kaedehara Kazuha_material_113022_1755402545792.png",
             "description": "無機化合物である魔偶剣鬼を生きているかのように剣を振るわせる芯。\\nどんなに優れた武術も、どんなに美しい思い出も、いずれ肉体と共に消えてしまう。\\n生身の時よりも永遠に近づくためには、手足胴体を全て頑丈なからくりへと変え、心臓を精密な「芯」に置き換えるしかないだろう…",
             "type": "キャラクター育成素材"
           }
