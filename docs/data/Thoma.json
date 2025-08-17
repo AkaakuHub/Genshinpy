@@ -8,7 +8,7 @@
   "region": "Inazuma",
   "constellation": "赤楯座",
   "description": "神里家の家司。稲妻で活躍する「顔役」でもある。",
-  "icon": "/assets/images/Thoma_icon_1754798339441.png",
+  "icon": "/assets/images/Thoma_icon_1755402550080.png",
   "profile": {
     "baseHp": 866.2015,
     "baseAtk": 16.9176,
@@ -23,7 +23,7 @@
       "id": "瞬破槍勢",
       "name": "瞬破槍勢",
       "description": "",
-      "icon": "/assets/images/Xiangling_normal_attack_1754798301025.png",
+      "icon": "/assets/images/Xiangling_normal_attack_1755402512420.png",
       "skillType": "normal",
       "params": {
         "1": [],
@@ -47,7 +47,7 @@
       "id": "烈炎侍立",
       "name": "烈炎侍立",
       "description": "",
-      "icon": "/assets/images/Thoma_elemental_skill_1754798339441.png",
+      "icon": "/assets/images/Thoma_elemental_skill_1755402550080.png",
       "levelData": [
         {
           "tableIndex": 1,
@@ -586,7 +586,7 @@
             0
           ],
           "description": [
-            "��キルダメージ|{param1:P}",
+            "スキルダメージ|{param1:P}",
             "シールド吸収量|HP上限{param2:F1P}+{param3:I}",
             "シールド継続時間|{param4:F1}秒",
             "シールド吸収量上限|HP上限{param5:F1P}+{param6:I}",
@@ -810,7 +810,7 @@
           ],
           "description": [
             "スキルダメージ|{param1:P}",
-            "シールド吸収��|HP上限{param2:F1P}+{param3:I}",
+            "シー��ド吸収量|HP上限{param2:F1P}+{param3:I}",
             "シールド継続時間|{param4:F1}秒",
             "シールド吸収量上限|HP上限{param5:F1P}+{param6:I}",
             "クールタイム|{param7:F1}秒",
@@ -1136,21 +1136,21 @@
     "elementalBurst": {
       "name": "重装甲胄",
       "description": "",
-      "icon": "/assets/images/Thoma_elemental_burst_1754798339441.png",
+      "icon": "/assets/images/Thoma_elemental_burst_1755402550080.png",
       "levelData": []
     },
     "passiveTalents": [
       {
         "name": "重装甲胄",
-        "icon": "/assets/images/Thoma_passive_1_1754798339441.png"
+        "icon": "/assets/images/Thoma_passive_1_1755402550080.png"
       },
       {
         "name": "進撃の烈炎",
-        "icon": "/assets/images/Thoma_passive_2_1754798339441.png"
+        "icon": "/assets/images/Thoma_passive_2_1755402550080.png"
       },
       {
         "name": "懸鯛狩り",
-        "icon": "/assets/images/Thoma_passive_3_1754798339441.png"
+        "icon": "/assets/images/Thoma_passive_3_1755402550080.png"
       }
     ],
     "completeTableData": [
@@ -1258,7 +1258,7 @@
               "4段ダメージ|{param4:F1P}",
               "重撃ダメージ|{param5:P}",
               "重撃スタミナ消費|{param6:F1}",
-              "落下��間のダメージ|{param7:F1P}",
+              "落下期間のダメージ|{param7:F1P}",
               "低空/高空落下攻撃ダメージ|{param8:P}/{param9:P}",
               "",
               "",
@@ -2718,7 +2718,7 @@
               0
             ],
             "description": [
-              "��キルダメージ|{param1:P}",
+              "スキルダメージ|{param1:P}",
               "シールド吸収量|HP上限{param2:F1P}+{param3:I}",
               "シールド継続時間|{param4:F1}秒",
               "シールド吸収量上限|HP上限{param5:F1P}+{param6:I}",
@@ -2933,7 +2933,7 @@
             ],
             "description": [
               "スキルダメージ|{param1:P}",
-              "シールド吸収��|HP上限{param2:F1P}+{param3:I}",
+              "シー��ド吸収量|HP上限{param2:F1P}+{param3:I}",
               "シールド継続時間|{param4:F1}秒",
               "シールド吸収量上限|HP上限{param5:F1P}+{param6:I}",
               "クールタイム|{param7:F1}秒",
@@ -3279,7 +3279,7 @@
               "熾炎崩滅ダメージ|{param2:P}",
               "シールド吸収量|HP上限{param3:F1P}+{param4:I}",
               "シールド継続時間|{param5:F1}秒",
-              "熾炎の大鎧継��時間|{param7:F1}秒",
+              "熾炎��大鎧継続時間|{param7:F1}秒",
               "クールタイム|{param8:F1}秒",
               "元素エネルギー|{param9:I}",
               "",
@@ -3485,7 +3485,7 @@
               "スキルダメージ|{param1:P}",
               "熾炎崩滅ダメージ|{param2:P}",
               "シールド吸収量|HP上限{param3:F1P}+{param4:I}",
-              "シ��ルド継続時間|{param5:F1}秒",
+              "シールド継続時間|{param5:F1}秒",
               "熾炎の大鎧継続時間|{param7:F1}秒",
               "クールタイム|{param8:F1}秒",
               "元素エネルギー|{param9:I}",
@@ -4317,32 +4317,32 @@
       {
         "level": null,
         "name": "同袍の義理",
-        "icon": "/assets/images/Thoma_constellation_cNaN_1754798339441.png"
+        "icon": "/assets/images/Thoma_constellation_cNaN_1755402550080.png"
       },
       {
         "level": null,
         "name": "官吏の才知",
-        "icon": "/assets/images/Thoma_constellation_cNaN_1754798339441.png"
+        "icon": "/assets/images/Thoma_constellation_cNaN_1755402550081.png"
       },
       {
         "level": null,
         "name": "揺るがぬ用心",
-        "icon": "/assets/images/Thoma_constellation_cNaN_1754798339442.png"
+        "icon": "/assets/images/Thoma_constellation_cNaN_1755402550081.png"
       },
       {
         "level": null,
         "name": "家臣の方策",
-        "icon": "/assets/images/Thoma_constellation_cNaN_1754798339442.png"
+        "icon": "/assets/images/Thoma_constellation_cNaN_1755402550081.png"
       },
       {
         "level": null,
         "name": "烈々たる野火",
-        "icon": "/assets/images/Thoma_constellation_cNaN_1754798339442.png"
+        "icon": "/assets/images/Thoma_constellation_cNaN_1755402550081.png"
       },
       {
         "level": null,
         "name": "燃え立つ誠心",
-        "icon": "/assets/images/Thoma_constellation_cNaN_1754798339442.png"
+        "icon": "/assets/images/Thoma_constellation_cNaN_1755402550081.png"
       }
     ]
   },
@@ -4359,14 +4359,14 @@
     "id": 210101,
     "name": "トーマ·炎袖",
     "description": "トーマ·炎袖",
-    "icon": "/assets/images/Thoma_icon_1754798339441.png"
+    "icon": "/assets/images/Thoma_namecard_1755402550211.png"
   },
   "specialFood": {
     "id": 108354,
     "name": "「温もり」",
     "rank": 1,
-    "icon": "/assets/images/Thoma_special_food_1754798339442.png",
-    "effectIcon": "/assets/images/Jean_food_effect_1754798287570.png"
+    "icon": "/assets/images/Thoma_special_food_1755402550081.png",
+    "effectIcon": "/assets/images/Jean_food_effect_1755402498695.png"
   },
   "levelProgression": [
     {
@@ -4682,7 +4682,7 @@
             "name": "ユウトウタケ",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Thoma_material_101209_1754798339688.png",
+            "icon": "/assets/images/Thoma_material_101209_1755402550113.png",
             "description": "灯のように微かな光を放っているキノコ。中には不思議な力が秘められている。",
             "type": "稲妻地域の特産"
           },
@@ -4691,7 +4691,7 @@
             "name": "炎願のアゲート·砕屑",
             "count": 1,
             "rank": 2,
-            "icon": "/assets/images/Diluc_material_104111_1754798294919.png",
+            "icon": "/assets/images/Diluc_material_104111_1755402506054.png",
             "description": "キャラクターの突破用アイテム。",
             "type": "キャラクター突破素材"
           },
@@ -4700,7 +4700,7 @@
             "name": "宝探しの鴉マーク",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Kaeya_material_112035_1754798292989.png",
+            "icon": "/assets/images/Kaeya_material_112035_1755402504215.png",
             "description": "宝盗団の誇りであるマーク、彼らの宝物に対する永遠不滅の情熱を示すものである。とはいえ、自分が盗賊ということを誇らしげに示す必要はあるかな…？",
             "type": "キャラと武器育成素材"
           }
@@ -4731,7 +4731,7 @@
             "name": "ユウトウタケ",
             "count": 10,
             "rank": 1,
-            "icon": "/assets/images/Thoma_material_101209_1754798339688.png",
+            "icon": "/assets/images/Thoma_material_101209_1755402550113.png",
             "description": "灯のように微かな光を放っているキノコ。中には不思議な力が秘められている。",
             "type": "稲妻地域の特産"
           },
@@ -4740,7 +4740,7 @@
             "name": "炎願のアゲート·欠片",
             "count": 3,
             "rank": 3,
-            "icon": "/assets/images/Diluc_material_104112_1754798294693.png",
+            "icon": "/assets/images/Diluc_material_104112_1755402506076.png",
             "description": "キャラクターの突破用アイテム。\\n「人々の願いのため、巡礼の道を歩もう。最強を目指して集い、戦うのだ…」",
             "type": "キャラクター突破素材"
           },
@@ -4749,7 +4749,7 @@
             "name": "宝探しの鴉マーク",
             "count": 15,
             "rank": 1,
-            "icon": "/assets/images/Kaeya_material_112035_1754798292989.png",
+            "icon": "/assets/images/Kaeya_material_112035_1755402504215.png",
             "description": "宝盗団の誇りであるマーク、彼らの宝物に対する永遠不滅の情熱を示すものである。とはいえ、自分が盗賊ということを誇らしげに示す必要はあるかな…？",
             "type": "キャラと武器育成素材"
           },
@@ -4758,7 +4758,7 @@
             "name": "陰燃の珠",
             "count": 2,
             "rank": 4,
-            "icon": "/assets/images/Yoimiya_material_113024_1754798338094.png",
+            "icon": "/assets/images/Yoimiya_material_113024_1755402548731.png",
             "description": "無相の炎が凝縮した結晶で、熱を放ち続けている。\\n灼熱の炎はいつか消え、焚火は自分の意志で再び燃え上がる。無相の炎の絶え間ない消滅と再燃、拡散と凝縮もまた、万物の生気と同様に、世界の意志の一部なのだろう。暗黒の運命が訪れ、森羅万象を無と化す日が来るまで。",
             "type": "キャラクター育成素材"
           }
@@ -4793,7 +4793,7 @@
             "name": "ユウトウタケ",
             "count": 20,
             "rank": 1,
-            "icon": "/assets/images/Thoma_material_101209_1754798339688.png",
+            "icon": "/assets/images/Thoma_material_101209_1755402550113.png",
             "description": "灯のように微かな光を放っているキノコ。中には不思議な力が秘められている。",
             "type": "稲妻地域の特産"
           },
@@ -4802,7 +4802,7 @@
             "name": "炎願のアゲート·欠片",
             "count": 6,
             "rank": 3,
-            "icon": "/assets/images/Diluc_material_104112_1754798294693.png",
+            "icon": "/assets/images/Diluc_material_104112_1755402506076.png",
             "description": "キャラクターの突破用アイテム。\\n「人々の願いのため、巡礼の道を歩もう。最強を目指して集い、戦うのだ…」",
             "type": "キャラクター突破素材"
           },
@@ -4811,7 +4811,7 @@
             "name": "シルバーの鴉マーク",
             "count": 12,
             "rank": 2,
-            "icon": "/assets/images/Kaeya_material_112036_1754798293146.png",
+            "icon": "/assets/images/Kaeya_material_112036_1755402504289.png",
             "description": "宝盗団のメンバーが互いの存在を証明する鴉マーク。宝盗団のメンバーは出身を問わず、宝物への貪欲さえあれば、「優秀」なメンバーになれる。",
             "type": "キャラと武器育成素材"
           },
@@ -4820,7 +4820,7 @@
             "name": "陰燃の珠",
             "count": 4,
             "rank": 4,
-            "icon": "/assets/images/Yoimiya_material_113024_1754798338094.png",
+            "icon": "/assets/images/Yoimiya_material_113024_1755402548731.png",
             "description": "無相の炎が凝縮した結晶で、熱を放ち続けている。\\n灼熱の炎はいつか消え、焚火は自分の意志で再び燃え上がる。無相の炎の絶え間ない消滅と再燃、拡散と凝縮もまた、万物の生気と同様に、世界の意志の一部なのだろう。暗黒の運命が訪れ、森羅万象を無と化す日が来るまで。",
             "type": "キャラクター育成素材"
           }
@@ -4855,7 +4855,7 @@
             "name": "ユウトウタケ",
             "count": 30,
             "rank": 1,
-            "icon": "/assets/images/Thoma_material_101209_1754798339688.png",
+            "icon": "/assets/images/Thoma_material_101209_1755402550113.png",
             "description": "灯のように微かな光を放っているキノコ。中には不思議な力が秘められている。",
             "type": "稲妻地域の特産"
           },
@@ -4864,7 +4864,7 @@
             "name": "炎願のアゲート·塊",
             "count": 3,
             "rank": 4,
-            "icon": "/assets/images/Diluc_material_104113_1754798295024.png",
+            "icon": "/assets/images/Diluc_material_104113_1755402505823.png",
             "description": "キャラクターの突破用アイテム。\\n「人々の願いのため、巡礼の道を歩もう。最強を目指して集い、戦うのだ…」\\n「最後は夢のために、劫火の中で燃え尽きる。」",
             "type": "キャラクター突破素材"
           },
@@ -4873,7 +4873,7 @@
             "name": "シルバーの鴉マーク",
             "count": 18,
             "rank": 2,
-            "icon": "/assets/images/Kaeya_material_112036_1754798293146.png",
+            "icon": "/assets/images/Kaeya_material_112036_1755402504289.png",
             "description": "宝盗団のメンバーが互いの存在を証明する鴉マーク。宝盗団のメンバーは出身を問わず、宝物への貪欲さえあれば、「優秀」なメンバーになれる。",
             "type": "キャラと武器育成素材"
           },
@@ -4882,7 +4882,7 @@
             "name": "陰燃の珠",
             "count": 8,
             "rank": 4,
-            "icon": "/assets/images/Yoimiya_material_113024_1754798338094.png",
+            "icon": "/assets/images/Yoimiya_material_113024_1755402548731.png",
             "description": "無相の炎が凝縮した結晶で、熱を放ち続けている。\\n灼熱の炎はいつか消え、焚火は自分の意志で再び燃え上がる。無相の炎の絶え間ない消滅と再燃、拡散と凝縮もまた、万物の生気と同様に、世界の意志の一部なのだろう。暗黒の運命が訪れ、森羅万象を無と化す日が来るまで。",
             "type": "キャラクター育成素材"
           }
@@ -4917,7 +4917,7 @@
             "name": "ユウトウタケ",
             "count": 45,
             "rank": 1,
-            "icon": "/assets/images/Thoma_material_101209_1754798339688.png",
+            "icon": "/assets/images/Thoma_material_101209_1755402550113.png",
             "description": "灯のように微かな光を放っているキノコ。中には不思議な力が秘められている。",
             "type": "稲妻地域の特産"
           },
@@ -4926,7 +4926,7 @@
             "name": "炎願のアゲート·塊",
             "count": 6,
             "rank": 4,
-            "icon": "/assets/images/Diluc_material_104113_1754798295024.png",
+            "icon": "/assets/images/Diluc_material_104113_1755402505823.png",
             "description": "キャラクターの突破用アイテム。\\n「人々の願いのため、巡礼の道を歩もう。最強を目指して集い、戦うのだ…」\\n「最後は夢のために、劫火の中で燃え尽きる。」",
             "type": "キャラクター突破素材"
           },
@@ -4935,7 +4935,7 @@
             "name": "ゴールドの鴉マーク",
             "count": 12,
             "rank": 3,
-            "icon": "/assets/images/Kaeya_material_112037_1754798293091.png",
+            "icon": "/assets/images/Kaeya_material_112037_1755402504262.png",
             "description": "宝盗団の信仰と誇りを示す鴉マーク。この広い大地、幽邃の深淵、未知な海に秘宝が存在していれば、宝盗団の信念は永遠に続く。",
             "type": "キャラと武器育成素材"
           },
@@ -4944,7 +4944,7 @@
             "name": "陰燃の珠",
             "count": 12,
             "rank": 4,
-            "icon": "/assets/images/Yoimiya_material_113024_1754798338094.png",
+            "icon": "/assets/images/Yoimiya_material_113024_1755402548731.png",
             "description": "無相の炎が凝縮した結晶で、熱を放ち続けている。\\n灼熱の炎はいつか消え、焚火は自分の意志で再び燃え上がる。無相の炎の絶え間ない消滅と再燃、拡散と凝縮もまた、万物の生気と同様に、世界の意志の一部なのだろう。暗黒の運命が訪れ、森羅万象を無と化す日が来るまで。",
             "type": "キャラクター育成素材"
           }
@@ -4979,7 +4979,7 @@
             "name": "ユウトウタケ",
             "count": 60,
             "rank": 1,
-            "icon": "/assets/images/Thoma_material_101209_1754798339688.png",
+            "icon": "/assets/images/Thoma_material_101209_1755402550113.png",
             "description": "灯のように微かな光を放っているキノコ。中には不思議な力が秘められている。",
             "type": "稲妻地域の特産"
           },
@@ -4988,7 +4988,7 @@
             "name": "炎願のアゲート",
             "count": 6,
             "rank": 5,
-            "icon": "/assets/images/Diluc_material_104114_1754798294966.png",
+            "icon": "/assets/images/Diluc_material_104114_1755402505938.png",
             "description": "キャラクターの突破用アイテム。\\n「人々の願いのため、巡礼の道を歩もう。最強を目指して集い、戦うのだ…」\\n「最後は夢のために、劫火の中で燃え尽きる。」\\n「その灰燼にまだ初心が残っていれば、██の真実に辿り着いたという。」",
             "type": "キャラクター突破素材"
           },
@@ -4997,7 +4997,7 @@
             "name": "ゴールドの鴉マーク",
             "count": 24,
             "rank": 3,
-            "icon": "/assets/images/Kaeya_material_112037_1754798293091.png",
+            "icon": "/assets/images/Kaeya_material_112037_1755402504262.png",
             "description": "宝盗団の信仰と誇りを示す鴉マーク。この広い大地、幽邃の深淵、未知な海に秘宝が存在していれば、宝盗団の信念は永遠に続く。",
             "type": "キャラと武器育成素材"
           },
@@ -5006,7 +5006,7 @@
             "name": "陰燃の珠",
             "count": 20,
             "rank": 4,
-            "icon": "/assets/images/Yoimiya_material_113024_1754798338094.png",
+            "icon": "/assets/images/Yoimiya_material_113024_1755402548731.png",
             "description": "無相の炎が凝縮した結晶で、熱を放ち続けている。\\n灼熱の炎はいつか消え、焚火は自分の意志で再び燃え上がる。無相の炎の絶え間ない消滅と再燃、拡散と凝縮もまた、万物の生気と同様に、世界の意志の一部なのだろう。暗黒の運命が訪れ、森羅万象を無と化す日が来るまで。",
             "type": "キャラクター育成素材"
           }

@@ -8,7 +8,7 @@
   "region": "Mondstadt",
   "constellation": "仔獅子座",
   "description": "正直で真面目な蒲公英騎士。モンド西風騎士団の代理団長。",
-  "icon": "/assets/images/Jean_icon_1754798287568.png",
+  "icon": "/assets/images/Jean_icon_1755402498693.png",
   "profile": {
     "baseHp": 1143.984,
     "baseAtk": 18.62,
@@ -23,7 +23,7 @@
       "id": "西風剣術",
       "name": "西風剣術",
       "description": "",
-      "icon": "/assets/images/Kamisato Ayaka_normal_attack_1754798285639.png",
+      "icon": "/assets/images/Kamisato Ayaka_normal_attack_1755402496950.png",
       "skillType": "normal",
       "params": {
         "1": [],
@@ -47,7 +47,7 @@
       "id": "風圧剣",
       "name": "風圧剣",
       "description": "",
-      "icon": "/assets/images/Jean_elemental_skill_1754798287569.png",
+      "icon": "/assets/images/Jean_elemental_skill_1755402498693.png",
       "levelData": [
         {
           "tableIndex": 1,
@@ -1136,21 +1136,21 @@
     "elementalBurst": {
       "name": "風の赴くままに",
       "description": "",
-      "icon": "/assets/images/Jean_elemental_burst_1754798287569.png",
+      "icon": "/assets/images/Jean_elemental_burst_1755402498693.png",
       "levelData": []
     },
     "passiveTalents": [
       {
         "name": "風の赴くままに",
-        "icon": "/assets/images/Jean_passive_1_1754798287569.png"
+        "icon": "/assets/images/Jean_passive_1_1755402498693.png"
       },
       {
         "name": "風の導くままに",
-        "icon": "/assets/images/Jean_passive_2_1754798287569.png"
+        "icon": "/assets/images/Jean_passive_2_1755402498693.png"
       },
       {
         "name": "導きの風",
-        "icon": "/assets/images/Jean_passive_3_1754798287569.png"
+        "icon": "/assets/images/Jean_passive_3_1755402498694.png"
       }
     ],
     "completeTableData": [
@@ -1394,7 +1394,7 @@
             "description": [
               "1段ダメージ|{param1:F1P}",
               "2段ダメージ|{param2:F1P}",
-              "3段ダメージ|{param3:F1P}",
+              "3段ダメ��ジ|{param3:F1P}",
               "4段ダメージ|{param4:F1P}",
               "5段ダメージ|{param5:P}",
               "重撃ダメージ|{param6:P}",
@@ -4047,7 +4047,7 @@
               "爆発ダメージ|{param1:P}",
               "エリア出入りダメージ|{param2:P}",
               "エリア内の回復量|攻撃力{param3:P}+{param4:I}",
-              "継続回復|��秒攻撃力{param5:F2P}+{param6:I}",
+              "継続回復|毎秒攻撃力{param5:F2P}+{param6:I}",
               "クールタイム|{param7:F1}秒",
               "元素エネルギー|{param8:I}",
               "",
@@ -4249,7 +4249,7 @@
               "エリア出入りダメージ|{param2:P}",
               "エリア内の回復量|攻撃力{param3:P}+{param4:I}",
               "継続回復|毎秒攻撃力{param5:F2P}+{param6:I}",
-              "クール���イム|{param8:F1}秒",
+              "ク���ルタイム|{param8:F1}秒",
               "元素エネルギー|{param9:I}",
               "",
               "",
@@ -4317,32 +4317,32 @@
       {
         "level": null,
         "name": "剣脊に流れる暴風",
-        "icon": "/assets/images/Jean_constellation_cNaN_1754798287569.png"
+        "icon": "/assets/images/Jean_constellation_cNaN_1755402498694.png"
       },
       {
         "level": null,
         "name": "人々を守る盾",
-        "icon": "/assets/images/Jean_constellation_cNaN_1754798287569.png"
+        "icon": "/assets/images/Jean_constellation_cNaN_1755402498694.png"
       },
       {
         "level": null,
         "name": "西風が吹く時",
-        "icon": "/assets/images/Jean_constellation_cNaN_1754798287569.png"
+        "icon": "/assets/images/Jean_constellation_cNaN_1755402498694.png"
       },
       {
         "level": null,
         "name": "蒲公英の国土",
-        "icon": "/assets/images/Jean_constellation_cNaN_1754798287569.png"
+        "icon": "/assets/images/Jean_constellation_cNaN_1755402498694.png"
       },
       {
         "level": null,
         "name": "しばしの烈風",
-        "icon": "/assets/images/Jean_constellation_cNaN_1754798287569.png"
+        "icon": "/assets/images/Jean_constellation_cNaN_1755402498694.png"
       },
       {
         "level": null,
         "name": "民を眷顧する獅子の牙",
-        "icon": "/assets/images/Jean_constellation_cNaN_1754798287570.png"
+        "icon": "/assets/images/Jean_constellation_cNaN_1755402498694.png"
       }
     ]
   },
@@ -4360,7 +4360,7 @@
       "isDefault": false,
       "rank": 4,
       "storyId": 340001,
-      "icon": "/assets/images/Jean_costume_2_1754798287570.png"
+      "icon": "/assets/images/Jean_costume_2_1755402498694.png"
     },
     {
       "name": "グンヒルドの伝承",
@@ -4368,21 +4368,21 @@
       "isDefault": false,
       "rank": 4,
       "storyId": 340006,
-      "icon": "/assets/images/Jean_costume_3_1754798287570.png"
+      "icon": "/assets/images/Jean_costume_3_1755402498694.png"
     }
   ],
   "nameCard": {
     "id": 210008,
     "name": "ジン·風向き",
     "description": "ジン·風向き",
-    "icon": "/assets/images/Jean_icon_1754798287568.png"
+    "icon": "/assets/images/Jean_icon_1755402498693.png"
   },
   "specialFood": {
     "id": 108044,
     "name": "眠気覚ましピザ",
     "rank": 3,
-    "icon": "/assets/images/Jean_special_food_1754798287570.png",
-    "effectIcon": "/assets/images/Jean_food_effect_1754798287570.png"
+    "icon": "/assets/images/Jean_special_food_1755402498695.png",
+    "effectIcon": "/assets/images/Jean_food_effect_1755402498695.png"
   },
   "levelProgression": [
     {
@@ -4698,7 +4698,7 @@
             "name": "蒲公英の種",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Jean_material_100057_1754798287785.png",
+            "icon": "/assets/images/Jean_material_100057_1755402498704.png",
             "description": "風に乗って移動する小さい種。旅するための羽を抜いても、そこには遠くへの希望が宿っている。",
             "type": "モンド地域の特産"
           },
@@ -4707,7 +4707,7 @@
             "name": "自由のターコイズ·砕屑",
             "count": 1,
             "rank": 2,
-            "icon": "/assets/images/Jean_material_104151_1754798287584.png",
+            "icon": "/assets/images/Jean_material_104151_1755402498946.png",
             "description": "キャラクターの突破用アイテム。",
             "type": "キャラクター突破素材"
           },
@@ -4716,7 +4716,7 @@
             "name": "破損した仮面",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Jean_material_112005_1754798287813.png",
+            "icon": "/assets/images/Jean_material_112005_1755402498708.png",
             "description": "破損した骨の仮面、あるヒルチャールの所持品だった。\\n破損した部分のほうが多く、仮面としての機能は失われている。",
             "type": "キャラと武器育成素材"
           }
@@ -4747,7 +4747,7 @@
             "name": "蒲公英の種",
             "count": 10,
             "rank": 1,
-            "icon": "/assets/images/Jean_material_100057_1754798287785.png",
+            "icon": "/assets/images/Jean_material_100057_1755402498704.png",
             "description": "風に乗って移動する小さい種。旅するための羽を抜いても、そこには遠くへの希望が宿っている。",
             "type": "モンド地域の特産"
           },
@@ -4756,7 +4756,7 @@
             "name": "自由のターコイズ·欠片",
             "count": 3,
             "rank": 3,
-            "icon": "/assets/images/Jean_material_104152_1754798287889.png",
+            "icon": "/assets/images/Jean_material_104152_1755402498970.png",
             "description": "キャラクターの突破用アイテム。\\n「風向きは変わるもの。」",
             "type": "キャラクター突破素材"
           },
@@ -4765,7 +4765,7 @@
             "name": "破損した仮面",
             "count": 15,
             "rank": 1,
-            "icon": "/assets/images/Jean_material_112005_1754798287813.png",
+            "icon": "/assets/images/Jean_material_112005_1755402498708.png",
             "description": "破損した骨の仮面、あるヒルチャールの所持品だった。\\n破損した部分のほうが多く、仮面としての機能は失われている。",
             "type": "キャラと武器育成素材"
           },
@@ -4774,7 +4774,7 @@
             "name": "暴風の種",
             "count": 2,
             "rank": 4,
-            "icon": "/assets/images/Jean_material_113001_1754798287911.png",
+            "icon": "/assets/images/Jean_material_113001_1755402498917.png",
             "description": "無相の風が倒された後の形態、中には純粋な風の力が含まれている。\\n繊細な蝶々の中にも、暴風を引き起こす力がある。この純粋な風によって構成された蝶は、暴風を再び起こす日を待っているはずだ。",
             "type": "キャラクター育成素材"
           }
@@ -4809,7 +4809,7 @@
             "name": "蒲公英の種",
             "count": 20,
             "rank": 1,
-            "icon": "/assets/images/Jean_material_100057_1754798287785.png",
+            "icon": "/assets/images/Jean_material_100057_1755402498704.png",
             "description": "風に乗って移動する小さい種。旅するための羽を抜いても、そこには遠くへの希望が宿っている。",
             "type": "モンド地域の特産"
           },
@@ -4818,7 +4818,7 @@
             "name": "自由のターコイズ·欠片",
             "count": 6,
             "rank": 3,
-            "icon": "/assets/images/Jean_material_104152_1754798287889.png",
+            "icon": "/assets/images/Jean_material_104152_1755402498970.png",
             "description": "キャラクターの突破用アイテム。\\n「風向きは変わるもの。」",
             "type": "キャラクター突破素材"
           },
@@ -4827,7 +4827,7 @@
             "name": "汚れた仮面",
             "count": 12,
             "rank": 2,
-            "icon": "/assets/images/Jean_material_112006_1754798287863.png",
+            "icon": "/assets/images/Jean_material_112006_1755402499047.png",
             "description": "汚れまみれで、何とも言えないにおいがする骨の仮面。\\nそれでも被るのは、ヒルチャールのこだわりだろうか。",
             "type": "キャラと武器育成素材"
           },
@@ -4836,7 +4836,7 @@
             "name": "暴風の種",
             "count": 4,
             "rank": 4,
-            "icon": "/assets/images/Jean_material_113001_1754798287911.png",
+            "icon": "/assets/images/Jean_material_113001_1755402498917.png",
             "description": "無相の風が倒された後の形態、中には純粋な風の力が含まれている。\\n繊細な蝶々の中にも、暴風を引き起こす力がある。この純粋な風によって構成された蝶は、暴風を再び起こす日を待っているはずだ。",
             "type": "キャラクター育成素材"
           }
@@ -4871,7 +4871,7 @@
             "name": "蒲公英の種",
             "count": 30,
             "rank": 1,
-            "icon": "/assets/images/Jean_material_100057_1754798287785.png",
+            "icon": "/assets/images/Jean_material_100057_1755402498704.png",
             "description": "風に乗って移動する小さい種。旅するための羽を抜いても、そこには遠くへの希望が宿っている。",
             "type": "モンド地域の特産"
           },
@@ -4880,7 +4880,7 @@
             "name": "自由のターコイズ·塊",
             "count": 3,
             "rank": 4,
-            "icon": "/assets/images/Jean_material_104153_1754798287838.png",
+            "icon": "/assets/images/Jean_material_104153_1755402498994.png",
             "description": "キャラクターの突破用アイテム。\\n「風向きは変わるもの。」\\n「いつか、光射す方へと吹いてくる。」",
             "type": "キャラクター突破素材"
           },
@@ -4889,7 +4889,7 @@
             "name": "汚れた仮面",
             "count": 18,
             "rank": 2,
-            "icon": "/assets/images/Jean_material_112006_1754798287863.png",
+            "icon": "/assets/images/Jean_material_112006_1755402499047.png",
             "description": "汚れまみれで、何とも言えないにおいがする骨の仮面。\\nそれでも被るのは、ヒルチャールのこだわりだろうか。",
             "type": "キャラと武器育成素材"
           },
@@ -4898,7 +4898,7 @@
             "name": "暴風の種",
             "count": 8,
             "rank": 4,
-            "icon": "/assets/images/Jean_material_113001_1754798287911.png",
+            "icon": "/assets/images/Jean_material_113001_1755402498917.png",
             "description": "無相の風が倒された後の形態、中には純粋な風の力が含まれている。\\n繊細な蝶々の中にも、暴風を引き起こす力がある。この純粋な風によって構成された蝶は、暴風を再び起こす日を待っているはずだ。",
             "type": "キャラクター育成素材"
           }
@@ -4933,7 +4933,7 @@
             "name": "蒲公英の種",
             "count": 45,
             "rank": 1,
-            "icon": "/assets/images/Jean_material_100057_1754798287785.png",
+            "icon": "/assets/images/Jean_material_100057_1755402498704.png",
             "description": "風に乗って移動する小さい種。旅するための羽を抜いても、そこには遠くへの希望が宿っている。",
             "type": "モンド地域の特産"
           },
@@ -4942,7 +4942,7 @@
             "name": "自由のターコイズ·塊",
             "count": 6,
             "rank": 4,
-            "icon": "/assets/images/Jean_material_104153_1754798287838.png",
+            "icon": "/assets/images/Jean_material_104153_1755402498994.png",
             "description": "キャラクターの突破用アイテム。\\n「風向きは変わるもの。」\\n「いつか、光射す方へと吹いてくる。」",
             "type": "キャラクター突破素材"
           },
@@ -4951,7 +4951,7 @@
             "name": "不吉な仮面",
             "count": 12,
             "rank": 3,
-            "icon": "/assets/images/Jean_material_112007_1754798287935.png",
+            "icon": "/assets/images/Jean_material_112007_1755402498706.png",
             "description": "つるりとした骨の仮面の上には、敵を威嚇する絵が描かれている。\\nヒルチャールが仮面に対するこだわりは今でも解明されていない。一説では、水に反射する自分の倒影を見たくないかららしい。",
             "type": "キャラと武器育成素材"
           },
@@ -4960,7 +4960,7 @@
             "name": "暴風の種",
             "count": 12,
             "rank": 4,
-            "icon": "/assets/images/Jean_material_113001_1754798287911.png",
+            "icon": "/assets/images/Jean_material_113001_1755402498917.png",
             "description": "無相の風が倒された後の形態、中には純粋な風の力が含まれている。\\n繊細な蝶々の中にも、暴風を引き起こす力がある。この純粋な風によって構成された蝶は、暴風を再び起こす日を待っているはずだ。",
             "type": "キャラクター育成素材"
           }
@@ -4995,7 +4995,7 @@
             "name": "蒲公英の種",
             "count": 60,
             "rank": 1,
-            "icon": "/assets/images/Jean_material_100057_1754798287785.png",
+            "icon": "/assets/images/Jean_material_100057_1755402498704.png",
             "description": "風に乗って移動する小さい種。旅するための羽を抜いても、そこには遠くへの希望が宿っている。",
             "type": "モンド地域の特産"
           },
@@ -5004,7 +5004,7 @@
             "name": "自由のターコイズ",
             "count": 6,
             "rank": 5,
-            "icon": "/assets/images/Jean_material_104154_1754798287581.png",
+            "icon": "/assets/images/Jean_material_104154_1755402499021.png",
             "description": "キャラクターの突破用アイテム。\\n「風向きは変わるもの。」\\n「いつか、光射す方へと吹いてくる。」\\n「これからは、ボクの祝福と共に、もっと自由に生きていこう。」",
             "type": "キャラクター突破素材"
           },
@@ -5013,7 +5013,7 @@
             "name": "不吉な仮面",
             "count": 24,
             "rank": 3,
-            "icon": "/assets/images/Jean_material_112007_1754798287935.png",
+            "icon": "/assets/images/Jean_material_112007_1755402498706.png",
             "description": "つるりとした骨の仮面の上には、敵を威嚇する絵が描かれている。\\nヒルチャールが仮面に対するこだわりは今でも解明されていない。一説では、水に反射する自分の倒影を見たくないかららしい。",
             "type": "キャラと武器育成素材"
           },
@@ -5022,7 +5022,7 @@
             "name": "暴風の種",
             "count": 20,
             "rank": 4,
-            "icon": "/assets/images/Jean_material_113001_1754798287911.png",
+            "icon": "/assets/images/Jean_material_113001_1755402498917.png",
             "description": "無相の風が倒された後の形態、中には純粋な風の力が含まれている。\\n繊細な蝶々の中にも、暴風を引き起こす力がある。この純粋な風によって構成された蝶は、暴風を再び起こす日を待っているはずだ。",
             "type": "キャラクター育成素材"
           }
