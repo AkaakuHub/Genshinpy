@@ -8,7 +8,7 @@
   "region": "Natlan",
   "constellation": "チスイコウモリ座",
   "description": "謎煙の主出身だが、無数の命と共に、集落の外で生きる若者。",
-  "icon": "/assets/images/Ororon_icon_1755402634948.png",
+  "icon": "/assets/images/Ororon_icon_1756007031319.png",
   "profile": {
     "baseHp": 775.02234,
     "baseAtk": 20.4792,
@@ -23,7 +23,7 @@
       "id": "憑霊の閃矢",
       "name": "憑霊の閃矢",
       "description": "",
-      "icon": "/assets/images/Amber_normal_attack_1755402509240.png",
+      "icon": "/assets/images/Amber_normal_attack_1756006874478.png",
       "skillType": "normal",
       "params": {
         "1": [],
@@ -47,7 +47,7 @@
       "id": "冥色のタイトロープ",
       "name": "冥色のタイトロープ",
       "description": "",
-      "icon": "/assets/images/Ororon_elemental_skill_1755402634949.png",
+      "icon": "/assets/images/Ororon_elemental_skill_1756007031319.png",
       "levelData": [
         {
           "tableIndex": 1,
@@ -1136,7 +1136,7 @@
     "elementalBurst": {
       "name": "闇声の残響",
       "description": "",
-      "icon": "/assets/images/Ororon_elemental_burst_1755402634949.png",
+      "icon": "/assets/images/Ororon_elemental_burst_1756007031319.png",
       "levelData": [
         {
           "tableIndex": 1,
@@ -1750,7 +1750,7 @@
           ],
           "description": [
             "秘儀のダメージ|{param1:F1P}",
-            "音波衝突ダメージ|{param2:F1P}",
+            "音波衝突ダメー��|{param2:F1P}",
             "継続時間|{param3:F1}秒",
             "クールタイム|{param4:F1}秒",
             "元素エネルギー|{param5:I}",
@@ -2225,19 +2225,19 @@
     "passiveTalents": [
       {
         "name": "夜陰のシナスタジア",
-        "icon": "/assets/images/Ororon_passive_1_1755402634949.png"
+        "icon": "/assets/images/Ororon_passive_1_1756007031319.png"
       },
       {
         "name": "霊相のカタリスト",
-        "icon": "/assets/images/Ororon_passive_2_1755402634949.png"
+        "icon": "/assets/images/Ororon_passive_2_1756007031319.png"
       },
       {
         "name": "夜域の賜物・流霧躍影",
-        "icon": "/assets/images/Ororon_passive_3_1755402634949.png"
+        "icon": "/assets/images/Ororon_passive_3_1756007031319.png"
       },
       {
         "name": "獣の姿を借る者の妙技",
-        "icon": "/assets/images/Ororon_passive_4_1755402634949.png"
+        "icon": "/assets/images/Ororon_passive_4_1756007031319.png"
       }
     ],
     "completeTableData": [
@@ -2554,7 +2554,7 @@
               "3段ダメージ|{param3:F1P}",
               "狙い撃ち|{param4:F1P}",
               "フルチャージ狙い撃ち|{param5:P}",
-              "落下期間のダメージ|{param6:F1P}",
+              "落下期間のダ���ージ|{param6:F1P}",
               "低空/高空落下攻撃ダメージ|{param7:P}/{param8:P}",
               "",
               "",
@@ -4929,7 +4929,7 @@
             ],
             "description": [
               "秘儀のダメージ|{param1:F1P}",
-              "音波衝突ダメージ|{param2:F1P}",
+              "音波衝突ダメー��|{param2:F1P}",
               "継続時間|{param3:F1}秒",
               "クールタイム|{param4:F1}秒",
               "元素エネルギー|{param5:I}",
@@ -5418,32 +5418,32 @@
       {
         "level": null,
         "name": "霧立つ林中の痕跡",
-        "icon": "/assets/images/Ororon_constellation_cNaN_1755402634949.png"
+        "icon": "/assets/images/Ororon_constellation_cNaN_1756007031319.png"
       },
       {
         "level": null,
         "name": "蜜酒を隠す王蜂",
-        "icon": "/assets/images/Ororon_constellation_cNaN_1755402634949.png"
+        "icon": "/assets/images/Ororon_constellation_cNaN_1756007031319.png"
       },
       {
         "level": null,
         "name": "蝙蝠が棲む霊籠",
-        "icon": "/assets/images/Ororon_constellation_cNaN_1755402634949.png"
+        "icon": "/assets/images/Ororon_constellation_cNaN_1756007031319.png"
       },
       {
         "level": null,
         "name": "夜風の如き謎煙",
-        "icon": "/assets/images/Ororon_constellation_cNaN_1755402634949.png"
+        "icon": "/assets/images/Ororon_constellation_cNaN_1756007031319.png"
       },
       {
         "level": null,
         "name": "心魂に捧ぐ贈物",
-        "icon": "/assets/images/Ororon_constellation_cNaN_1755402634949.png"
+        "icon": "/assets/images/Ororon_constellation_cNaN_1756007031320.png"
       },
       {
         "level": null,
         "name": "深泉に贈る礼讃",
-        "icon": "/assets/images/Ororon_constellation_cNaN_1755402634949.png"
+        "icon": "/assets/images/Ororon_constellation_cNaN_1756007031320.png"
       }
     ]
   },
@@ -5460,14 +5460,14 @@
     "id": 210222,
     "name": "オロルン・夜陰",
     "description": "オロルン・夜陰",
-    "icon": "/assets/images/Ororon_icon_1755402634948.png"
+    "icon": "/assets/images/Ororon_namecard_1756007031649.png"
   },
   "specialFood": {
     "id": 108776,
     "name": "ハニーセビチェ",
     "rank": 2,
-    "icon": "/assets/images/Ororon_special_food_1755402634949.png",
-    "effectIcon": "/assets/images/Xiao_food_effect_1755402517103.png"
+    "icon": "/assets/images/Ororon_special_food_1756007031320.png",
+    "effectIcon": "/assets/images/Xiao_food_effect_1756006884011.png"
   },
   "levelProgression": [
     {
@@ -5783,7 +5783,7 @@
             "name": "蛍光ツノキノコ",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Ororon_material_101252_1755402635175.png",
+            "icon": "/assets/images/Ororon_material_101252_1756007031484.png",
             "description": "暗闇の中でかすかに光るキノコ。イクトミ竜の角の形に似ていることから、ツノキノコと呼ばれるようになった。",
             "type": "ナタ地域の特産"
           },
@@ -5792,7 +5792,7 @@
             "name": "最勝のアメシスト·砕屑",
             "count": 1,
             "rank": 2,
-            "icon": "/assets/images/Lisa_material_104141_1755402500836.png",
+            "icon": "/assets/images/Lisa_material_104141_1756006864353.png",
             "description": "キャラクターの突破用アイテム。",
             "type": "キャラクター突破素材"
           },
@@ -5801,7 +5801,7 @@
             "name": "未熟な牙",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Kinich_material_112101_1755402628746.png",
+            "icon": "/assets/images/Kinich_material_112101_1756007023425.png",
             "description": "ナタの竜が落とした牙。\\nまだ育ち切っていないようだ。もし牙から年齢を推定する方法があるなら、この牙の主はあまり長い年月を過ごしていないと結論づけられるかもしれない。",
             "type": "キャラと武器育成素材"
           }
@@ -5832,7 +5832,7 @@
             "name": "蛍光ツノキノコ",
             "count": 10,
             "rank": 1,
-            "icon": "/assets/images/Ororon_material_101252_1755402635175.png",
+            "icon": "/assets/images/Ororon_material_101252_1756007031484.png",
             "description": "暗闇の中でかすかに光るキノコ。イクトミ竜の角の形に似ていることから、ツノキノコと呼ばれるようになった。",
             "type": "ナタ地域の特産"
           },
@@ -5841,7 +5841,7 @@
             "name": "最勝のアメシスト·欠片",
             "count": 3,
             "rank": 3,
-            "icon": "/assets/images/Lisa_material_104142_1755402500864.png",
+            "icon": "/assets/images/Lisa_material_104142_1756006864374.png",
             "description": "キャラクターの突破用アイテム。\\n「此の身こそ、いと尊き存在。」",
             "type": "キャラクター突破素材"
           },
@@ -5850,7 +5850,7 @@
             "name": "未熟な牙",
             "count": 15,
             "rank": 1,
-            "icon": "/assets/images/Kinich_material_112101_1755402628746.png",
+            "icon": "/assets/images/Kinich_material_112101_1756007023425.png",
             "description": "ナタの竜が落とした牙。\\nまだ育ち切っていないようだ。もし牙から年齢を推定する方法があるなら、この牙の主はあまり長い年月を過ごしていないと結論づけられるかもしれない。",
             "type": "キャラと武器育成素材"
           },
@@ -5859,7 +5859,7 @@
             "name": "祝福の縛印",
             "count": 2,
             "rank": 4,
-            "icon": "/assets/images/Mualani_material_113064_1755402630365.png",
+            "icon": "/assets/images/Mualani_material_113064_1756007025667.png",
             "description": "暴君·金焔のクク竜を倒した後、手に入れた角の欠片。\\n角に広がる奇妙な印は「焔の主の祝福」と呼ばれ、それを授かった竜は偉大なる太古の力を得ることができる。しかし、その力は今の竜の体では耐えられず、多くの災いの原因でもある。往々にして制御できない力は悲劇の引き金となるのだ。",
             "type": "キャラクター育成素材"
           }
@@ -5894,7 +5894,7 @@
             "name": "蛍光ツノキノコ",
             "count": 20,
             "rank": 1,
-            "icon": "/assets/images/Ororon_material_101252_1755402635175.png",
+            "icon": "/assets/images/Ororon_material_101252_1756007031484.png",
             "description": "暗闇の中でかすかに光るキノコ。イクトミ竜の角の形に似ていることから、ツノキノコと呼ばれるようになった。",
             "type": "ナタ地域の特産"
           },
@@ -5903,7 +5903,7 @@
             "name": "最勝のアメシスト·欠片",
             "count": 6,
             "rank": 3,
-            "icon": "/assets/images/Lisa_material_104142_1755402500864.png",
+            "icon": "/assets/images/Lisa_material_104142_1756006864374.png",
             "description": "キャラクターの突破用アイテム。\\n「此の身こそ、いと尊き存在。」",
             "type": "キャラクター突破素材"
           },
@@ -5912,7 +5912,7 @@
             "name": "熟練の牙",
             "count": 12,
             "rank": 2,
-            "icon": "/assets/images/Kinich_material_112102_1755402628822.png",
+            "icon": "/assets/images/Kinich_material_112102_1756007023277.png",
             "description": "ナタの竜が落とした堅い牙。\\n牙の摩耗具合から、持ち主が経験したであろう暮らしや戦いが想像できる。竜の中でも、優秀な戦士と呼ばれるにふさわしいだろう。",
             "type": "キャラと武器育成素材"
           },
@@ -5921,7 +5921,7 @@
             "name": "祝福の縛印",
             "count": 4,
             "rank": 4,
-            "icon": "/assets/images/Mualani_material_113064_1755402630365.png",
+            "icon": "/assets/images/Mualani_material_113064_1756007025667.png",
             "description": "暴君·金焔のクク竜を倒した後、手に入れた角の欠片。\\n角に広がる奇妙な印は「焔の主の祝福」と呼ばれ、それを授かった竜は偉大なる太古の力を得ることができる。しかし、その力は今の竜の体では耐えられず、多くの災いの原因でもある。往々にして制御できない力は悲劇の引き金となるのだ。",
             "type": "キャラクター育成素材"
           }
@@ -5956,7 +5956,7 @@
             "name": "蛍光ツノキノコ",
             "count": 30,
             "rank": 1,
-            "icon": "/assets/images/Ororon_material_101252_1755402635175.png",
+            "icon": "/assets/images/Ororon_material_101252_1756007031484.png",
             "description": "暗闇の中でかすかに光るキノコ。イクトミ竜の角の形に似ていることから、ツノキノコと呼ばれるようになった。",
             "type": "ナタ地域の特産"
           },
@@ -5965,7 +5965,7 @@
             "name": "最勝のアメシスト·塊",
             "count": 3,
             "rank": 4,
-            "icon": "/assets/images/Lisa_material_104143_1755402500785.png",
+            "icon": "/assets/images/Lisa_material_104143_1756006864250.png",
             "description": "キャラクターの突破用アイテム。\\n「此の身こそ、いと尊き存在。」\\n「天下を泰平せし者。」",
             "type": "キャラクター突破素材"
           },
@@ -5974,7 +5974,7 @@
             "name": "熟練の牙",
             "count": 18,
             "rank": 2,
-            "icon": "/assets/images/Kinich_material_112102_1755402628822.png",
+            "icon": "/assets/images/Kinich_material_112102_1756007023277.png",
             "description": "ナタの竜が落とした堅い牙。\\n牙の摩耗具合から、持ち主が経験したであろう暮らしや戦いが想像できる。竜の中でも、優秀な戦士と呼ばれるにふさわしいだろう。",
             "type": "キャラと武器育成素材"
           },
@@ -5983,7 +5983,7 @@
             "name": "祝福の縛印",
             "count": 8,
             "rank": 4,
-            "icon": "/assets/images/Mualani_material_113064_1755402630365.png",
+            "icon": "/assets/images/Mualani_material_113064_1756007025667.png",
             "description": "暴君·金焔のクク竜を倒した後、手に入れた角の欠片。\\n角に広がる奇妙な印は「焔の主の祝福」と呼ばれ、それを授かった竜は偉大なる太古の力を得ることができる。しかし、その力は今の竜の体では耐えられず、多くの災いの原因でもある。往々にして制御できない力は悲劇の引き金となるのだ。",
             "type": "キャラクター育成素材"
           }
@@ -6018,7 +6018,7 @@
             "name": "蛍光ツノキノコ",
             "count": 45,
             "rank": 1,
-            "icon": "/assets/images/Ororon_material_101252_1755402635175.png",
+            "icon": "/assets/images/Ororon_material_101252_1756007031484.png",
             "description": "暗闇の中でかすかに光るキノコ。イクトミ竜の角の形に似ていることから、ツノキノコと呼ばれるようになった。",
             "type": "ナタ地域の特産"
           },
@@ -6027,7 +6027,7 @@
             "name": "最勝のアメシスト·塊",
             "count": 6,
             "rank": 4,
-            "icon": "/assets/images/Lisa_material_104143_1755402500785.png",
+            "icon": "/assets/images/Lisa_material_104143_1756006864250.png",
             "description": "キャラクターの突破用アイテム。\\n「此の身こそ、いと尊き存在。」\\n「天下を泰平せし者。」",
             "type": "キャラクター突破素材"
           },
@@ -6036,7 +6036,7 @@
             "name": "覇道の牙",
             "count": 12,
             "rank": 3,
-            "icon": "/assets/images/Kinich_material_112103_1755402628798.png",
+            "icon": "/assets/images/Kinich_material_112103_1756007023248.png",
             "description": "ナタの強い竜が落とした鋭い牙。\\n側面のギザギザや獰猛な形から、持ち主が戦場でいかに勇猛であったかが窺える。「覇者」と言える竜だったのだろう。",
             "type": "キャラと武器育成素材"
           },
@@ -6045,7 +6045,7 @@
             "name": "祝福の縛印",
             "count": 12,
             "rank": 4,
-            "icon": "/assets/images/Mualani_material_113064_1755402630365.png",
+            "icon": "/assets/images/Mualani_material_113064_1756007025667.png",
             "description": "暴君·金焔のクク竜を倒した後、手に入れた角の欠片。\\n角に広がる奇妙な印は「焔の主の祝福」と呼ばれ、それを授かった竜は偉大なる太古の力を得ることができる。しかし、その力は今の竜の体では耐えられず、多くの災いの原因でもある。往々にして制御できない力は悲劇の引き金となるのだ。",
             "type": "キャラクター育成素材"
           }
@@ -6080,7 +6080,7 @@
             "name": "蛍光ツノキノコ",
             "count": 60,
             "rank": 1,
-            "icon": "/assets/images/Ororon_material_101252_1755402635175.png",
+            "icon": "/assets/images/Ororon_material_101252_1756007031484.png",
             "description": "暗闇の中でかすかに光るキノコ。イクトミ竜の角の形に似ていることから、ツノキノコと呼ばれるようになった。",
             "type": "ナタ地域の特産"
           },
@@ -6089,7 +6089,7 @@
             "name": "最勝のアメシスト",
             "count": 6,
             "rank": 5,
-            "icon": "/assets/images/Lisa_material_104144_1755402500888.png",
+            "icon": "/assets/images/Lisa_material_104144_1756006864175.png",
             "description": "キャラクターの突破用アイテム。\\n「此の身こそ、いと尊き存在。」\\n「天下を泰平せし者。」\\n「臣民に夢を与えると誓いましょう。未来永劫、不変の『永遠』を。」",
             "type": "キャラクター突破素材"
           },
@@ -6098,7 +6098,7 @@
             "name": "覇道の牙",
             "count": 24,
             "rank": 3,
-            "icon": "/assets/images/Kinich_material_112103_1755402628798.png",
+            "icon": "/assets/images/Kinich_material_112103_1756007023248.png",
             "description": "ナタの強い竜が落とした鋭い牙。\\n側面のギザギザや獰猛な形から、持ち主が戦場でいかに勇猛であったかが窺える。「覇者」と言える竜だったのだろう。",
             "type": "キャラと武器育成素材"
           },
@@ -6107,7 +6107,7 @@
             "name": "祝福の縛印",
             "count": 20,
             "rank": 4,
-            "icon": "/assets/images/Mualani_material_113064_1755402630365.png",
+            "icon": "/assets/images/Mualani_material_113064_1756007025667.png",
             "description": "暴君·金焔のクク竜を倒した後、手に入れた角の欠片。\\n角に広がる奇妙な印は「焔の主の祝福」と呼ばれ、それを授かった竜は偉大なる太古の力を得ることができる。しかし、その力は今の竜の体では耐えられず、多くの災いの原因でもある。往々にして制御できない力は悲劇の引き金となるのだ。",
             "type": "キャラクター育成素材"
           }

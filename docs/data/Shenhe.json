@@ -8,7 +8,7 @@
   "region": "Liyue",
   "constellation": "愁疏座",
   "description": "仙人の弟子であり、気品溢れる女性。璃月の山奥にひっそりと住み、その気質は仙人のように孤独で淡々としている。",
-  "icon": "/assets/images/Shenhe_icon_1755402570135.png",
+  "icon": "/assets/images/Shenhe_icon_1756006950077.png",
   "profile": {
     "baseHp": 1011.47253,
     "baseAtk": 23.6474,
@@ -23,7 +23,7 @@
       "id": "踏辰摂斗",
       "name": "踏辰摂斗",
       "description": "",
-      "icon": "/assets/images/Xiangling_normal_attack_1755402512420.png",
+      "icon": "/assets/images/Xiangling_normal_attack_1756006878145.png",
       "skillType": "normal",
       "params": {
         "1": [],
@@ -47,7 +47,7 @@
       "id": "仰霊威召将役呪",
       "name": "仰霊威召将役呪",
       "description": "",
-      "icon": "/assets/images/Shenhe_elemental_skill_1755402570135.png",
+      "icon": "/assets/images/Shenhe_elemental_skill_1756006950077.png",
       "levelData": [
         {
           "tableIndex": 1,
@@ -1136,21 +1136,21 @@
     "elementalBurst": {
       "name": "大洞弥羅尊法",
       "description": "",
-      "icon": "/assets/images/Shenhe_elemental_burst_1755402570135.png",
+      "icon": "/assets/images/Shenhe_elemental_burst_1756006950077.png",
       "levelData": []
     },
     "passiveTalents": [
       {
         "name": "大洞弥羅尊法",
-        "icon": "/assets/images/Shenhe_passive_1_1755402570135.png"
+        "icon": "/assets/images/Shenhe_passive_1_1756006950077.png"
       },
       {
         "name": "縛霊通真法印",
-        "icon": "/assets/images/Shenhe_passive_2_1755402570135.png"
+        "icon": "/assets/images/Shenhe_passive_2_1756006950077.png"
       },
       {
         "name": "往来通暁",
-        "icon": "/assets/images/Chongyun_passive_3_1755402531217.png"
+        "icon": "/assets/images/Chongyun_passive_3_1756006901193.png"
       }
     ],
     "completeTableData": [
@@ -1395,7 +1395,7 @@
               "1段ダメージ|{param1:F1P}",
               "2段ダメージ|{param2:F1P}",
               "3段ダメージ|{param3:F1P}",
-              "4段ダメージ|{param4:F1P}+{param5:F1P}",
+              "4���ダメージ|{param4:F1P}+{param5:F1P}",
               "5段ダメージ|{param6:F1P}",
               "重撃ダメージ|{param7:F1P}",
               "重撃スタミナ消費|{param8:F1}",
@@ -4317,32 +4317,32 @@
       {
         "level": null,
         "name": "心斎",
-        "icon": "/assets/images/Shenhe_constellation_cNaN_1755402570136.png"
+        "icon": "/assets/images/Shenhe_constellation_cNaN_1756006950077.png"
       },
       {
         "level": null,
         "name": "定蒙",
-        "icon": "/assets/images/Shenhe_constellation_cNaN_1755402570136.png"
+        "icon": "/assets/images/Shenhe_constellation_cNaN_1756006950078.png"
       },
       {
         "level": null,
         "name": "潜虚",
-        "icon": "/assets/images/Shenhe_constellation_cNaN_1755402570136.png"
+        "icon": "/assets/images/Shenhe_constellation_cNaN_1756006950078.png"
       },
       {
         "level": null,
         "name": "洞観",
-        "icon": "/assets/images/Shenhe_constellation_cNaN_1755402570136.png"
+        "icon": "/assets/images/Shenhe_constellation_cNaN_1756006950078.png"
       },
       {
         "level": null,
         "name": "化神",
-        "icon": "/assets/images/Shenhe_constellation_cNaN_1755402570136.png"
+        "icon": "/assets/images/Shenhe_constellation_cNaN_1756006950078.png"
       },
       {
         "level": null,
         "name": "忘玄",
-        "icon": "/assets/images/Shenhe_constellation_cNaN_1755402570136.png"
+        "icon": "/assets/images/Shenhe_constellation_cNaN_1756006950078.png"
       }
     ]
   },
@@ -4360,21 +4360,21 @@
       "isDefault": false,
       "rank": 4,
       "storyId": 340014,
-      "icon": "/assets/images/Shenhe_costume_2_1755402570136.png"
+      "icon": "/assets/images/Shenhe_costume_2_1756006950078.png"
     }
   ],
   "nameCard": {
     "id": 210107,
     "name": "申鶴·櫛掠",
     "description": "申鶴·櫛掠",
-    "icon": "/assets/images/Shenhe_icon_1755402570135.png"
+    "icon": "/assets/images/Shenhe_namecard_1756006950390.png"
   },
   "specialFood": {
     "id": 108372,
     "name": "連心麺",
     "rank": 3,
-    "icon": "/assets/images/Shenhe_special_food_1755402570136.png",
-    "effectIcon": "/assets/images/Xiao_food_effect_1755402517103.png"
+    "icon": "/assets/images/Shenhe_special_food_1756006950078.png",
+    "effectIcon": "/assets/images/Xiao_food_effect_1756006884011.png"
   },
   "levelProgression": [
     {
@@ -4690,7 +4690,7 @@
             "name": "清心",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Xiao_material_100031_1755402517135.png",
+            "icon": "/assets/images/Xiao_material_100031_1756006884367.png",
             "description": "断崖絶壁にしか咲かない透き通る白い花。平原の温もりと潤いよりも冷たい高い場所を選ぶ花。",
             "type": "璃月地域の特産"
           },
@@ -4699,7 +4699,7 @@
             "name": "哀切なアイスクリスタル·砕屑",
             "count": 1,
             "rank": 2,
-            "icon": "/assets/images/Kamisato Ayaka_material_104161_1755402497216.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104161_1756006859315.png",
             "description": "キャラクターの突破用アイテム。",
             "type": "キャラクター突破素材"
           },
@@ -4708,7 +4708,7 @@
             "name": "トリックフラワーの蜜",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Ganyu_material_112038_1755402532697.png",
+            "icon": "/assets/images/Ganyu_material_112038_1756006903028.png",
             "description": "花蕊から抽出された花蜜、少量の元素が含まれている。\\nスイートフラワーの味と微妙に似ている。",
             "type": "キャラと武器育成素材"
           }
@@ -4739,7 +4739,7 @@
             "name": "清心",
             "count": 10,
             "rank": 1,
-            "icon": "/assets/images/Xiao_material_100031_1755402517135.png",
+            "icon": "/assets/images/Xiao_material_100031_1756006884367.png",
             "description": "断崖絶壁にしか咲かない透き通る白い花。平原の温もりと潤いよりも冷たい高い場所を選ぶ花。",
             "type": "璃月地域の特産"
           },
@@ -4748,7 +4748,7 @@
             "name": "哀切なアイスクリスタル·欠片",
             "count": 3,
             "rank": 3,
-            "icon": "/assets/images/Kamisato Ayaka_material_104162_1755402497417.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104162_1756006859294.png",
             "description": "キャラクターの突破用アイテム。\\n「…すみません…」",
             "type": "キャラクター突破素材"
           },
@@ -4757,7 +4757,7 @@
             "name": "トリックフラワーの蜜",
             "count": 15,
             "rank": 1,
-            "icon": "/assets/images/Ganyu_material_112038_1755402532697.png",
+            "icon": "/assets/images/Ganyu_material_112038_1756006903028.png",
             "description": "花蕊から抽出された花蜜、少量の元素が含まれている。\\nスイートフラワーの味と微妙に似ている。",
             "type": "キャラと武器育成素材"
           },
@@ -4766,7 +4766,7 @@
             "name": "ドラゴエアのニセヒレ",
             "count": 2,
             "rank": 4,
-            "icon": "/assets/images/Yae Miko_material_113031_1755402562285.png",
+            "icon": "/assets/images/Yae Miko_material_113031_1756006940655.png",
             "description": "アビサルヴィシャップを倒すと手に入る生体組織の一部。\\nサメのヒレのように見えるが、実用性はない。\\nかつて、白夜国の民はアビサルヴィシャップについて研究していた。それらが持つ特徴の中でも最も異質なのが、己の意志で自身の特徴を取り除くか継承するかを決められる点。人工的な光を嫌うため、ヴィシャップは成体になると視覚組織の多くが失われる。また戦うために元素の多様性を持ち、適したものへと進化してきた。",
             "type": "キャラクター育成素材"
           }
@@ -4801,7 +4801,7 @@
             "name": "清心",
             "count": 20,
             "rank": 1,
-            "icon": "/assets/images/Xiao_material_100031_1755402517135.png",
+            "icon": "/assets/images/Xiao_material_100031_1756006884367.png",
             "description": "断崖絶壁にしか咲かない透き通る白い花。平原の温もりと潤いよりも冷たい高い場所を選ぶ花。",
             "type": "璃月地域の特産"
           },
@@ -4810,7 +4810,7 @@
             "name": "哀切なアイスクリスタル·欠片",
             "count": 6,
             "rank": 3,
-            "icon": "/assets/images/Kamisato Ayaka_material_104162_1755402497417.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104162_1756006859294.png",
             "description": "キャラクターの突破用アイテム。\\n「…すみません…」",
             "type": "キャラクター突破素材"
           },
@@ -4819,7 +4819,7 @@
             "name": "微光花の蜜",
             "count": 12,
             "rank": 2,
-            "icon": "/assets/images/Ganyu_material_112039_1755402532590.png",
+            "icon": "/assets/images/Ganyu_material_112039_1756006903076.png",
             "description": "元素純度がやや高めの花蜜。\\n学界の見解によるとトリックフラワーは元素植物の高等生命形態である。だがトリックフラワーの食性は未だ解明されていない。",
             "type": "キャラと武器育成素材"
           },
@@ -4828,7 +4828,7 @@
             "name": "ドラゴエアのニセヒレ",
             "count": 4,
             "rank": 4,
-            "icon": "/assets/images/Yae Miko_material_113031_1755402562285.png",
+            "icon": "/assets/images/Yae Miko_material_113031_1756006940655.png",
             "description": "アビサルヴィシャップを倒すと手に入る生体組織の一部。\\nサメのヒレのように見えるが、実用性はない。\\nかつて、白夜国の民はアビサルヴィシャップについて研究していた。それらが持つ特徴の中でも最も異質なのが、己の意志で自身の特徴を取り除くか継承するかを決められる点。人工的な光を嫌うため、ヴィシャップは成体になると視覚組織の多くが失われる。また戦うために元素の多様性を持ち、適したものへと進化してきた。",
             "type": "キャラクター育成素材"
           }
@@ -4863,7 +4863,7 @@
             "name": "清心",
             "count": 30,
             "rank": 1,
-            "icon": "/assets/images/Xiao_material_100031_1755402517135.png",
+            "icon": "/assets/images/Xiao_material_100031_1756006884367.png",
             "description": "断崖絶壁にしか咲かない透き通る白い花。平原の温もりと潤いよりも冷たい高い場所を選ぶ花。",
             "type": "璃月地域の特産"
           },
@@ -4872,7 +4872,7 @@
             "name": "哀切なアイスクリスタル·塊",
             "count": 3,
             "rank": 4,
-            "icon": "/assets/images/Kamisato Ayaka_material_104163_1755402497349.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104163_1756006859394.png",
             "description": "キャラクターの突破用アイテム。\\n「…すみません…」\\n「あなた達まで、わたしと一緒にこの世界の悲しみを背負わせるなんて…」",
             "type": "キャラクター突破素材"
           },
@@ -4881,7 +4881,7 @@
             "name": "微光花の蜜",
             "count": 18,
             "rank": 2,
-            "icon": "/assets/images/Ganyu_material_112039_1755402532590.png",
+            "icon": "/assets/images/Ganyu_material_112039_1756006903076.png",
             "description": "元素純度がやや高めの花蜜。\\n学界の見解によるとトリックフラワーは元素植物の高等生命形態である。だがトリックフラワーの食性は未だ解明されていない。",
             "type": "キャラと武器育成素材"
           },
@@ -4890,7 +4890,7 @@
             "name": "ドラゴエアのニセヒレ",
             "count": 8,
             "rank": 4,
-            "icon": "/assets/images/Yae Miko_material_113031_1755402562285.png",
+            "icon": "/assets/images/Yae Miko_material_113031_1756006940655.png",
             "description": "アビサルヴィシャップを倒すと手に入る生体組織の一部。\\nサメのヒレのように見えるが、実用性はない。\\nかつて、白夜国の民はアビサルヴィシャップについて研究していた。それらが持つ特徴の中でも最も異質なのが、己の意志で自身の特徴を取り除くか継承するかを決められる点。人工的な光を嫌うため、ヴィシャップは成体になると視覚組織の多くが失われる。また戦うために元素の多様性を持ち、適したものへと進化してきた。",
             "type": "キャラクター育成素材"
           }
@@ -4925,7 +4925,7 @@
             "name": "清心",
             "count": 45,
             "rank": 1,
-            "icon": "/assets/images/Xiao_material_100031_1755402517135.png",
+            "icon": "/assets/images/Xiao_material_100031_1756006884367.png",
             "description": "断崖絶壁にしか咲かない透き通る白い花。平原の温もりと潤いよりも冷たい高い場所を選ぶ花。",
             "type": "璃月地域の特産"
           },
@@ -4934,7 +4934,7 @@
             "name": "哀切なアイスクリスタル·塊",
             "count": 6,
             "rank": 4,
-            "icon": "/assets/images/Kamisato Ayaka_material_104163_1755402497349.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104163_1756006859394.png",
             "description": "キャラクターの突破用アイテム。\\n「…すみません…」\\n「あなた達まで、わたしと一緒にこの世界の悲しみを背負わせるなんて…」",
             "type": "キャラクター突破素材"
           },
@@ -4943,7 +4943,7 @@
             "name": "原素花の蜜",
             "count": 12,
             "rank": 3,
-            "icon": "/assets/images/Ganyu_material_112040_1755402532802.png",
+            "icon": "/assets/images/Ganyu_material_112040_1756006903053.png",
             "description": "エネルギーに満ちたネバネバの花蜜。\\nトリックフラワーが獲物を騙しているのは狩るためである。そして捕食しているのはより強くてより純粋な姿へと進化するためであろう…",
             "type": "キャラと武器育成素材"
           },
@@ -4952,7 +4952,7 @@
             "name": "ドラゴエアのニセヒレ",
             "count": 12,
             "rank": 4,
-            "icon": "/assets/images/Yae Miko_material_113031_1755402562285.png",
+            "icon": "/assets/images/Yae Miko_material_113031_1756006940655.png",
             "description": "アビサルヴィシャップを倒すと手に入る生体組織の一部。\\nサメのヒレのように見えるが、実用性はない。\\nかつて、白夜国の民はアビサルヴィシャップについて研究していた。それらが持つ特徴の中でも最も異質なのが、己の意志で自身の特徴を取り除くか継承するかを決められる点。人工的な光を嫌うため、ヴィシャップは成体になると視覚組織の多くが失われる。また戦うために元素の多様性を持ち、適したものへと進化してきた。",
             "type": "キャラクター育成素材"
           }
@@ -4987,7 +4987,7 @@
             "name": "清心",
             "count": 60,
             "rank": 1,
-            "icon": "/assets/images/Xiao_material_100031_1755402517135.png",
+            "icon": "/assets/images/Xiao_material_100031_1756006884367.png",
             "description": "断崖絶壁にしか咲かない透き通る白い花。平原の温もりと潤いよりも冷たい高い場所を選ぶ花。",
             "type": "璃月地域の特産"
           },
@@ -4996,7 +4996,7 @@
             "name": "哀切なアイスクリスタル",
             "count": 6,
             "rank": 5,
-            "icon": "/assets/images/Kamisato Ayaka_material_104164_1755402497393.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104164_1756006859127.png",
             "description": "キャラクターの突破用アイテム。\\n「…すみません、あなた達まで、わたしと一緒にこの世界の悲しみを背負わせるなんて…」\\n「わたしの寒さを耐えられる者は、きっと心の中に熱い欲望を持っているだろう？」\\n「なら、わたしの代わりに、旧世界を焼き尽くそう。」",
             "type": "キャラクター突破素材"
           },
@@ -5005,7 +5005,7 @@
             "name": "原素花の蜜",
             "count": 24,
             "rank": 3,
-            "icon": "/assets/images/Ganyu_material_112040_1755402532802.png",
+            "icon": "/assets/images/Ganyu_material_112040_1756006903053.png",
             "description": "エネルギーに満ちたネバネバの花蜜。\\nトリックフラワーが獲物を騙しているのは狩るためである。そして捕食しているのはより強くてより純粋な姿へと進化するためであろう…",
             "type": "キャラと武器育成素材"
           },
@@ -5014,7 +5014,7 @@
             "name": "ドラゴエアのニセヒレ",
             "count": 20,
             "rank": 4,
-            "icon": "/assets/images/Yae Miko_material_113031_1755402562285.png",
+            "icon": "/assets/images/Yae Miko_material_113031_1756006940655.png",
             "description": "アビサルヴィシャップを倒すと手に入る生体組織の一部。\\nサメのヒレのように見えるが、実用性はない。\\nかつて、白夜国の民はアビサルヴィシャップについて研究していた。それらが持つ特徴の中でも最も異質なのが、己の意志で自身の特徴を取り除くか継承するかを決められる点。人工的な光を嫌うため、ヴィシャップは成体になると視覚組織の多くが失われる。また戦うために元素の多様性を持ち、適したものへと進化してきた。",
             "type": "キャラクター育成素材"
           }

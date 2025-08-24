@@ -8,7 +8,7 @@
   "region": "Natlan",
   "constellation": "オセロット座",
   "description": "ナナツカヤンの名鋳り師。山積みの仕事と快適な暮らしのバランスを取るのが得意。",
-  "icon": "/assets/images/Xilonen_icon_1755402631587.png",
+  "icon": "/assets/images/Xilonen_icon_1756007027351.png",
   "profile": {
     "baseHp": 965.71313,
     "baseAtk": 21.413,
@@ -23,7 +23,7 @@
       "id": "エエカトル・ロアー",
       "name": "エエカトル・ロアー",
       "description": "",
-      "icon": "/assets/images/Kamisato Ayaka_normal_attack_1755402496950.png",
+      "icon": "/assets/images/Kamisato Ayaka_normal_attack_1756006858911.png",
       "skillType": "normal",
       "params": {
         "1": [],
@@ -47,7 +47,7 @@
       "id": "ヨワル・スクラッチ",
       "name": "ヨワル・スクラッチ",
       "description": "",
-      "icon": "/assets/images/Xilonen_elemental_skill_1755402631587.png",
+      "icon": "/assets/images/Xilonen_elemental_skill_1756007027351.png",
       "levelData": [
         {
           "tableIndex": 1,
@@ -1134,27 +1134,27 @@
       ]
     },
     "elementalBurst": {
-      "name": "ネトテ��リズトリの残響",
+      "name": "ネトティリズ���リの残響",
       "description": "",
-      "icon": "/assets/images/Xilonen_elemental_burst_1755402631587.png",
+      "icon": "/assets/images/Xilonen_elemental_burst_1756007027351.png",
       "levelData": []
     },
     "passiveTalents": [
       {
-        "name": "ネトテ��リズトリの残響",
-        "icon": "/assets/images/Xilonen_passive_1_1755402631587.png"
+        "name": "ネトティリズ���リの残響",
+        "icon": "/assets/images/Xilonen_passive_1_1756007027351.png"
       },
       {
         "name": "ポータブル・アーマー",
-        "icon": "/assets/images/Xilonen_passive_2_1755402631587.png"
+        "icon": "/assets/images/Xilonen_passive_2_1756007027352.png"
       },
       {
         "name": "夜域の賜物・鍛火の祝福",
-        "icon": "/assets/images/Xilonen_passive_3_1755402631587.png"
+        "icon": "/assets/images/Xilonen_passive_3_1756007027352.png"
       },
       {
         "name": "山を駆け巡る鐵火",
-        "icon": "/assets/images/Xilonen_passive_4_1755402631587.png"
+        "icon": "/assets/images/Xilonen_passive_4_1756007027352.png"
       }
     ],
     "completeTableData": [
@@ -1401,7 +1401,7 @@
               "3段ダメージ|{param4:F1P}",
               "重撃ダメージ|{param5:F1P}",
               "重撃スタミナ消費|{param6:F1}",
-              "落下期間のダメージ|防御力{param7:F1P}",
+              "落下期間のダメージ|防��力{param7:F1P}",
               "低空/高空落下攻撃ダメージ|防御力{param8:F1P}/防御力{param9:F1P}",
               "ブレードハント1段ダメージ|防御力{param10:F1P}",
               "ブレードハント2段ダメージ|防御力{param11:F1P}",
@@ -1756,7 +1756,7 @@
               "落下期間のダメージ|防御力{param7:F1P}",
               "低空/高空落下攻撃ダメージ|防御力{param8:F1P}/防御力{param9:F1P}",
               "ブレードハント1段ダメージ|防御力{param10:F1P}",
-              "ブレードハント2段ダメージ|防御力{param11:F1P}",
+              "ブレード��ント2段ダメージ|防御力{param11:F1P}",
               "ブレードハント3段ダメージ|防御力{param12:F1P}",
               "ブレードハント4段ダメージ|防御力{param13:F1P}",
               "",
@@ -4296,7 +4296,7 @@
       {
         "talentIndex": 4,
         "talentId": "4",
-        "name": "ネトテ��リズトリの残響",
+        "name": "ネトティリズ���リの残響",
         "type": "2",
         "levelData": []
       },
@@ -4328,32 +4328,32 @@
       {
         "level": null,
         "name": "惰眠ブレイク",
-        "icon": "/assets/images/Xilonen_constellation_cNaN_1755402631587.png"
+        "icon": "/assets/images/Xilonen_constellation_cNaN_1756007027352.png"
       },
       {
         "level": null,
         "name": "燎原リミックス",
-        "icon": "/assets/images/Xilonen_constellation_cNaN_1755402631587.png"
+        "icon": "/assets/images/Xilonen_constellation_cNaN_1756007027352.png"
       },
       {
         "level": null,
         "name": "陽炎ループ",
-        "icon": "/assets/images/Xilonen_constellation_cNaN_1755402631587.png"
+        "icon": "/assets/images/Xilonen_constellation_cNaN_1756007027352.png"
       },
       {
         "level": null,
         "name": "午睡トランス",
-        "icon": "/assets/images/Xilonen_constellation_cNaN_1755402631587.png"
+        "icon": "/assets/images/Xilonen_constellation_cNaN_1756007027352.png"
       },
       {
         "level": null,
         "name": "夕刻モデュレーション",
-        "icon": "/assets/images/Xilonen_constellation_cNaN_1755402631588.png"
+        "icon": "/assets/images/Xilonen_constellation_cNaN_1756007027352.png"
       },
       {
         "level": null,
         "name": "永夜カーニバル",
-        "icon": "/assets/images/Xilonen_constellation_cNaN_1755402631588.png"
+        "icon": "/assets/images/Xilonen_constellation_cNaN_1756007027352.png"
       }
     ]
   },
@@ -4370,14 +4370,14 @@
     "id": 210219,
     "name": "シロネン・律動",
     "description": "シロネン・律動",
-    "icon": "/assets/images/Xilonen_icon_1755402631587.png"
+    "icon": "/assets/images/Xilonen_icon_1756007027351.png"
   },
   "specialFood": {
     "id": 108760,
     "name": "フルーツミルクキャンディ",
     "rank": 3,
-    "icon": "/assets/images/Xilonen_special_food_1755402631588.png",
-    "effectIcon": "/assets/images/Chongyun_food_effect_1755402531218.png"
+    "icon": "/assets/images/Xilonen_special_food_1756007027352.png",
+    "effectIcon": "/assets/images/Chongyun_food_effect_1756006901193.png"
   },
   "levelProgression": [
     {
@@ -4693,7 +4693,7 @@
             "name": "シャクギク",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Xilonen_material_101248_1755402631597.png",
+            "icon": "/assets/images/Xilonen_material_101248_1756007027513.png",
             "description": "羽のような形をした花。風に吹かれると、悠々と花びらが揺れる。",
             "type": "ナタ地域の特産"
           },
@@ -4702,7 +4702,7 @@
             "name": "堅牢なトパーズ·砕屑",
             "count": 1,
             "rank": 2,
-            "icon": "/assets/images/Ningguang_material_104171_1755402519179.png",
+            "icon": "/assets/images/Ningguang_material_104171_1756006886345.png",
             "description": "キャラクターの突破用アイテム。",
             "type": "キャラクター突破素材"
           },
@@ -4711,7 +4711,7 @@
             "name": "従戦士の木笛",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Kachina_material_112104_1755402627283.png",
+            "icon": "/assets/images/Kachina_material_112104_1756007021244.png",
             "description": "ナタの部族の従戦士のシンボル。\\n最初から戦士になれる者などおらず、真の戦士から戦い方を学ぶ必要がある。故に、部族には「従戦士」という位が設けられた。",
             "type": "キャラと武器育成素材"
           }
@@ -4742,7 +4742,7 @@
             "name": "シャクギク",
             "count": 10,
             "rank": 1,
-            "icon": "/assets/images/Xilonen_material_101248_1755402631597.png",
+            "icon": "/assets/images/Xilonen_material_101248_1756007027513.png",
             "description": "羽のような形をした花。風に吹かれると、悠々と花びらが揺れる。",
             "type": "ナタ地域の特産"
           },
@@ -4751,7 +4751,7 @@
             "name": "堅牢なトパーズ·欠片",
             "count": 3,
             "rank": 3,
-            "icon": "/assets/images/Ningguang_material_104172_1755402519123.png",
+            "icon": "/assets/images/Ningguang_material_104172_1756006886528.png",
             "description": "キャラクターの突破用アイテム。\\n「この大陸の全ての金銭は俺の血肉。」",
             "type": "キャラクター突破素材"
           },
@@ -4760,7 +4760,7 @@
             "name": "従戦士の木笛",
             "count": 15,
             "rank": 1,
-            "icon": "/assets/images/Kachina_material_112104_1755402627283.png",
+            "icon": "/assets/images/Kachina_material_112104_1756007021244.png",
             "description": "ナタの部族の従戦士のシンボル。\\n最初から戦士になれる者などおらず、真の戦士から戦い方を学ぶ必要がある。故に、部族には「従戦士」という位が設けられた。",
             "type": "キャラと武器育成素材"
           },
@@ -4769,8 +4769,8 @@
             "name": "金紋の刻まれた源核",
             "count": 2,
             "rank": 4,
-            "icon": "/assets/images/Xilonen_material_113066_1755402631813.png",
-            "description": "秘源機兵・機巧デバイスを倒した後、動力を失ってバラバラになった体の中から見つけたコア。\\n「秘源機兵」を駆動するコアはすべて同じ種類のものであり、違うのはコアに記録されている情報のみだと言われている。コアにある金色の模様の違いも、この説の証拠と言えるかもしれない。当初、回路にコマンドがたくさん組み込まれたのは、単にツールを自動作動させるためだったのだが、そういったコマンドが積み重なることで、結果的に人工知能の雛形ができたのかもしれない。",
+            "icon": "/assets/images/Xilonen_material_113066_1756007027782.png",
+            "description": "秘源機兵・機巧デバイスを倒した後、動力を失ってバラバラになった体の中から見つけたコア。\\n「秘源機兵」を駆動するコアはすべて同じ種類のものであり、違うのはコアに記録されている情報のみだと言われている。コアにある金色の模様の違いも、この説の証拠と言えるかもしれない。当初、回路にコマンドがたくさん組み込まれたのは、単にツールを自動作動させるためだったのだが、そういったコマンドが積��重なることで、結果的に人工知能の雛形ができたのかもしれない。",
             "type": "キャラクター育成素材"
           }
         ],
@@ -4804,7 +4804,7 @@
             "name": "シャクギク",
             "count": 20,
             "rank": 1,
-            "icon": "/assets/images/Xilonen_material_101248_1755402631597.png",
+            "icon": "/assets/images/Xilonen_material_101248_1756007027513.png",
             "description": "羽のような形をした花。風に吹かれると、悠々と花びらが揺れる。",
             "type": "ナタ地域の特産"
           },
@@ -4813,7 +4813,7 @@
             "name": "堅牢なトパーズ·欠片",
             "count": 6,
             "rank": 3,
-            "icon": "/assets/images/Ningguang_material_104172_1755402519123.png",
+            "icon": "/assets/images/Ningguang_material_104172_1756006886528.png",
             "description": "キャラクターの突破用アイテム。\\n「この大陸の全ての金銭は俺の血肉。」",
             "type": "キャラクター突破素材"
           },
@@ -4822,7 +4822,7 @@
             "name": "戦士の鉄笛",
             "count": 12,
             "rank": 2,
-            "icon": "/assets/images/Kachina_material_112105_1755402627025.png",
+            "icon": "/assets/images/Kachina_material_112105_1756007021112.png",
             "description": "ナタの部族の戦士のシンボル。\\n部族の正式な戦士になったらもらえる鉄笛。部族の周辺を巡回している際、危機を察知したら笛の音で知らせ合うことは「戦士」の責務である。",
             "type": "キャラと武器育成素材"
           },
@@ -4831,8 +4831,8 @@
             "name": "金紋の刻まれた源核",
             "count": 4,
             "rank": 4,
-            "icon": "/assets/images/Xilonen_material_113066_1755402631813.png",
-            "description": "秘源機兵・機巧デバイスを倒した後、動力を失ってバラバラになった体の中から見つけたコア。\\n「秘源機兵」を駆動するコアはすべて同じ種類のものであり、違うのはコアに記録されている情報のみだと言われている。コアにある金色の模様の違いも、この説の証拠と言えるかもしれない。当初、回路にコマンドがたくさん組み込まれたのは、単にツールを自動作動させるためだったのだが、そういったコマンドが積み重なることで、結果的に人工知能の雛形ができたのかもしれない。",
+            "icon": "/assets/images/Xilonen_material_113066_1756007027782.png",
+            "description": "秘源機兵・機巧デバイスを倒した後、動力を失ってバラバラになった体の中から見つけたコア。\\n「秘源機兵」を駆動するコアはすべて同じ種類のものであり、違うのはコアに記録されている情報のみだと言われている。コアにある金色の模様の違いも、この説の証拠と言えるかもしれない。当初、回路にコマンドがたくさん組み込まれたのは、単にツールを自動作動させるためだったのだが、そういったコマンドが積��重なることで、結果的に人工知能の雛形ができたのかもしれない。",
             "type": "キャラクター育成素材"
           }
         ],
@@ -4866,7 +4866,7 @@
             "name": "シャクギク",
             "count": 30,
             "rank": 1,
-            "icon": "/assets/images/Xilonen_material_101248_1755402631597.png",
+            "icon": "/assets/images/Xilonen_material_101248_1756007027513.png",
             "description": "羽のような形をした花。風に吹かれると、悠々と花びらが揺れる。",
             "type": "ナタ地域の特産"
           },
@@ -4875,7 +4875,7 @@
             "name": "堅牢なトパーズ·塊",
             "count": 3,
             "rank": 4,
-            "icon": "/assets/images/Ningguang_material_104173_1755402518916.png",
+            "icon": "/assets/images/Ningguang_material_104173_1756006886176.png",
             "description": "キャラクターの突破用アイテム。\\n「この大陸の全ての金銭は俺の血肉。」\\n「こんな形で俺は、人間の労働、知恵、未来を保証する。」",
             "type": "キャラクター突破素材"
           },
@@ -4884,7 +4884,7 @@
             "name": "戦士の鉄笛",
             "count": 18,
             "rank": 2,
-            "icon": "/assets/images/Kachina_material_112105_1755402627025.png",
+            "icon": "/assets/images/Kachina_material_112105_1756007021112.png",
             "description": "ナタの部族の戦士のシンボル。\\n部族の正式な戦士になったらもらえる鉄笛。部族の周辺を巡回している際、危機を察知したら笛の音で知らせ合うことは「戦士」の責務である。",
             "type": "キャラと武器育成素材"
           },
@@ -4893,8 +4893,8 @@
             "name": "金紋の刻まれた源核",
             "count": 8,
             "rank": 4,
-            "icon": "/assets/images/Xilonen_material_113066_1755402631813.png",
-            "description": "秘源機兵・機巧デバイスを倒した後、動力を失ってバラバラになった体の中から見つけたコア。\\n「秘源機兵」を駆動するコアはすべて同じ種類のものであり、違うのはコアに記録されている情報のみだと言われている。コアにある金色の模様の違いも、この説の証拠と言えるかもしれない。当初、回路にコマンドがたくさん組み込まれたのは、単にツールを自動作動させるためだったのだが、そういったコマンドが積み重なることで、結果的に人工知能の雛形ができたのかもしれない。",
+            "icon": "/assets/images/Xilonen_material_113066_1756007027782.png",
+            "description": "秘源機兵・機巧デバイスを倒した後、動力を失ってバラバラになった体の中から見つけたコア。\\n「秘源機兵」を駆動するコアはすべて同じ種類のものであり、違うのはコアに記録されている情報のみだと言われている。コアにある金色の模様の違いも、この説の証拠と言えるかもしれない。当初、回路にコマンドがたくさん組み込まれたのは、単にツールを自動作動させるためだったのだが、そういったコマンドが積��重なることで、結果的に人工知能の雛形ができたのかもしれない。",
             "type": "キャラクター育成素材"
           }
         ],
@@ -4928,7 +4928,7 @@
             "name": "シャクギク",
             "count": 45,
             "rank": 1,
-            "icon": "/assets/images/Xilonen_material_101248_1755402631597.png",
+            "icon": "/assets/images/Xilonen_material_101248_1756007027513.png",
             "description": "羽のような形をした花。風に吹かれると、悠々と花びらが揺れる。",
             "type": "ナタ地域の特産"
           },
@@ -4937,7 +4937,7 @@
             "name": "堅牢なトパーズ·塊",
             "count": 6,
             "rank": 4,
-            "icon": "/assets/images/Ningguang_material_104173_1755402518916.png",
+            "icon": "/assets/images/Ningguang_material_104173_1756006886176.png",
             "description": "キャラクターの突破用アイテム。\\n「この大陸の全ての金銭は俺の血肉。」\\n「こんな形で俺は、人間の労働、知恵、未来を保証する。」",
             "type": "キャラクター突破素材"
           },
@@ -4946,7 +4946,7 @@
             "name": "竜冠戦士の金笛",
             "count": 12,
             "rank": 3,
-            "icon": "/assets/images/Kachina_material_112106_1755402627131.png",
+            "icon": "/assets/images/Kachina_material_112106_1756007020974.png",
             "description": "ナタの部族で竜冠を授かった強き戦士のシンボル。\\n部族のために栄誉の功績を築き、その武勇を認められた者だけが、この金笛を手に入れることができる。しかしこれはもはや、笛よりも装飾としての意味合いのほうが強い——竜冠を授かるほどの戦士なら、ほとんどの危機を自力で解決できるからだ。",
             "type": "キャラと武器育成素材"
           },
@@ -4955,8 +4955,8 @@
             "name": "金紋の刻まれた源核",
             "count": 12,
             "rank": 4,
-            "icon": "/assets/images/Xilonen_material_113066_1755402631813.png",
-            "description": "秘源機兵・機巧デバイスを倒した後、動力を失ってバラバラになった体の中から見つけたコア。\\n「秘源機兵」を駆動するコアはすべて同じ種類のものであり、違うのはコアに記録されている情報のみだと言われている。コアにある金色の模様の違いも、この説の証拠と言えるかもしれない。当初、回路にコマンドがたくさん組み込まれたのは、単にツールを自動作動させるためだったのだが、そういったコマンドが積み重なることで、結果的に人工知能の雛形ができたのかもしれない。",
+            "icon": "/assets/images/Xilonen_material_113066_1756007027782.png",
+            "description": "秘源機兵・機巧デバイスを倒した後、動力を失ってバラバラになった体の中から見つけたコア。\\n「秘源機兵」を駆動するコアはすべて同じ種類のものであり、違うのはコアに記録されている情報のみだと言われている。コアにある金色の模様の違いも、この説の証拠と言えるかもしれない。当初、回路にコマンドがたくさん組み込まれたのは、単にツールを自動作動させるためだったのだが、そういったコマンドが積��重なることで、結果的に人工知能の雛形ができたのかもしれない。",
             "type": "キャラクター育成素材"
           }
         ],
@@ -4990,7 +4990,7 @@
             "name": "シャクギク",
             "count": 60,
             "rank": 1,
-            "icon": "/assets/images/Xilonen_material_101248_1755402631597.png",
+            "icon": "/assets/images/Xilonen_material_101248_1756007027513.png",
             "description": "羽のような形をした花。風に吹かれると、悠々と花びらが揺れる。",
             "type": "ナタ地域の特産"
           },
@@ -4999,7 +4999,7 @@
             "name": "堅牢なトパーズ",
             "count": 6,
             "rank": 5,
-            "icon": "/assets/images/Ningguang_material_104174_1755402519150.png",
+            "icon": "/assets/images/Ningguang_material_104174_1756006886397.png",
             "description": "キャラクターの突破用アイテム。\\n「この大陸の全ての金銭は俺の血肉。」\\n「こんな形で俺は、人間の労働、知恵、未来を保証する。」\\n「これが俺の人間への信頼。金銭に背くことは、俺の血を汚すと同然だ。」",
             "type": "キャラクター突破素材"
           },
@@ -5008,7 +5008,7 @@
             "name": "竜冠戦士の金笛",
             "count": 24,
             "rank": 3,
-            "icon": "/assets/images/Kachina_material_112106_1755402627131.png",
+            "icon": "/assets/images/Kachina_material_112106_1756007020974.png",
             "description": "ナタの部族で竜冠を授かった強き戦士のシンボル。\\n部族のために栄誉の功績を築き、その武勇を認められた者だけが、この金笛を手に入れることができる。しかしこれはもはや、笛よりも装飾としての意味合いのほうが強い——竜冠を授かるほどの戦士なら、ほとんどの危機を自力で解決できるからだ。",
             "type": "キャラと武器育成素材"
           },
@@ -5017,8 +5017,8 @@
             "name": "金紋の刻まれた源核",
             "count": 20,
             "rank": 4,
-            "icon": "/assets/images/Xilonen_material_113066_1755402631813.png",
-            "description": "秘源機兵・機巧デバイスを倒した後、動力を失ってバラバラになった体の中から見つけたコア。\\n「秘源機兵」を駆動するコアはすべて同じ種類のものであり、違うのはコアに記録されている情報のみだと言われている。コアにある金色の模様の違いも、この説の証拠と言えるかもしれない。当初、回路にコマンドがたくさん組み込まれたのは、単にツールを自動作動させるためだったのだが、そういったコマンドが積み重なることで、結果的に人工知能の雛形ができたのかもしれない。",
+            "icon": "/assets/images/Xilonen_material_113066_1756007027782.png",
+            "description": "秘源機兵・機巧デバイスを倒した後、動力を失ってバラバラになった体の中から見つけたコア。\\n「秘源機兵」を駆動するコアはすべて同じ種類のものであり、違うのはコアに記録されている情報のみだと言われている。コアにある金色の模様の違いも、この説の証拠と言えるかもしれない。当初、回路にコマンドがたくさん組み込まれたのは、単にツールを自動作動させるためだったのだが、そういったコマンドが積��重なることで、結果的に人工知能の雛形ができたのかもしれない。",
             "type": "キャラクター育成素材"
           }
         ],

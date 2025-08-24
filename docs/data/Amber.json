@@ -8,7 +8,7 @@
   "region": "Mondstadt",
   "constellation": "小兎座",
   "description": "元気満々な女の子、騎士団で最も優秀で、最後の偵察騎士である。",
-  "icon": "/assets/images/Amber_icon_1755402509239.png",
+  "icon": "/assets/images/Amber_icon_1756006874478.png",
   "profile": {
     "baseHp": 793.2582,
     "baseAtk": 18.6984,
@@ -23,7 +23,7 @@
       "id": "一流射手",
       "name": "一流射手",
       "description": "",
-      "icon": "/assets/images/Amber_normal_attack_1755402509240.png",
+      "icon": "/assets/images/Amber_normal_attack_1756006874478.png",
       "skillType": "normal",
       "params": {
         "1": [],
@@ -47,7 +47,7 @@
       "id": "爆弾人形",
       "name": "爆弾人形",
       "description": "",
-      "icon": "/assets/images/Amber_elemental_skill_1755402509240.png",
+      "icon": "/assets/images/Amber_elemental_skill_1756006874478.png",
       "levelData": [
         {
           "tableIndex": 1,
@@ -1136,21 +1136,21 @@
     "elementalBurst": {
       "name": "百発百中！",
       "description": "",
-      "icon": "/assets/images/Amber_elemental_burst_1755402509240.png",
+      "icon": "/assets/images/Amber_elemental_burst_1756006874479.png",
       "levelData": []
     },
     "passiveTalents": [
       {
         "name": "百発百中！",
-        "icon": "/assets/images/Amber_passive_1_1755402509240.png"
+        "icon": "/assets/images/Amber_passive_1_1756006874479.png"
       },
       {
         "name": "制圧射撃",
-        "icon": "/assets/images/Amber_passive_2_1755402509240.png"
+        "icon": "/assets/images/Amber_passive_2_1756006874479.png"
       },
       {
         "name": "飛行チャンピオン",
-        "icon": "/assets/images/Amber_passive_3_1755402509240.png"
+        "icon": "/assets/images/Amber_passive_3_1756006874479.png"
       }
     ],
     "completeTableData": [
@@ -1962,7 +1962,7 @@
               "狙い撃ち|{param6:F1P}",
               "フルチャージ狙い撃ち|{param7:P}",
               "落下期間のダメージ|{param8:F1P}",
-              "低空/高空落下攻撃ダメー���|{param9:P}/{param10:P}",
+              "低空/高空落下攻撃ダメージ|{param9:P}/{param10:P}",
               "",
               "",
               "",
@@ -4317,32 +4317,32 @@
       {
         "level": null,
         "name": "一挙双擒！",
-        "icon": "/assets/images/Amber_constellation_cNaN_1755402509240.png"
+        "icon": "/assets/images/Amber_constellation_cNaN_1756006874479.png"
       },
       {
         "level": null,
         "name": "一触即発",
-        "icon": "/assets/images/Amber_constellation_cNaN_1755402509240.png"
+        "icon": "/assets/images/Amber_constellation_cNaN_1756006874479.png"
       },
       {
         "level": null,
         "name": "燃やせ！",
-        "icon": "/assets/images/Amber_constellation_cNaN_1755402509240.png"
+        "icon": "/assets/images/Amber_constellation_cNaN_1756006874479.png"
       },
       {
         "level": null,
         "name": "ただの人形じゃない",
-        "icon": "/assets/images/Amber_constellation_cNaN_1755402509240.png"
+        "icon": "/assets/images/Amber_constellation_cNaN_1756006874480.png"
       },
       {
         "level": null,
         "name": "ウサギ伯爵だよ！",
-        "icon": "/assets/images/Amber_constellation_cNaN_1755402509240.png"
+        "icon": "/assets/images/Amber_constellation_cNaN_1756006874480.png"
       },
       {
         "level": null,
         "name": "野火の如く",
-        "icon": "/assets/images/Amber_constellation_cNaN_1755402509241.png"
+        "icon": "/assets/images/Amber_constellation_cNaN_1756006874480.png"
       }
     ]
   },
@@ -4360,21 +4360,21 @@
       "isDefault": false,
       "rank": 4,
       "storyId": 340007,
-      "icon": "/assets/images/Amber_costume_2_1755402509241.png"
+      "icon": "/assets/images/Amber_costume_2_1756006874480.png"
     }
   ],
   "nameCard": {
     "id": 210003,
     "name": "アンバー·ウサギ",
     "description": "アンバー·ウサギ",
-    "icon": "/assets/images/Amber_icon_1755402509239.png"
+    "icon": "/assets/images/Amber_icon_1756006874478.png"
   },
   "specialFood": {
     "id": 108010,
     "name": "偵察騎士ステーキ！",
     "rank": 1,
-    "icon": "/assets/images/Amber_special_food_1755402509241.png",
-    "effectIcon": "/assets/images/Kamisato Ayaka_food_effect_1755402496967.png"
+    "icon": "/assets/images/Amber_special_food_1756006874480.png",
+    "effectIcon": "/assets/images/Kamisato Ayaka_food_effect_1756006858928.png"
   },
   "levelProgression": [
     {
@@ -4690,7 +4690,7 @@
             "name": "イグサ",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Diluc_material_100055_1755402505811.png",
+            "icon": "/assets/images/Diluc_material_100055_1756006870550.png",
             "description": "夜になると微かな光を放つ花。他の食材と一緒に料理にすると旨味アップ。",
             "type": "モンド地域の特産"
           },
@@ -4699,7 +4699,7 @@
             "name": "炎願のアゲート·砕屑",
             "count": 1,
             "rank": 2,
-            "icon": "/assets/images/Diluc_material_104111_1755402506054.png",
+            "icon": "/assets/images/Diluc_material_104111_1756006870655.png",
             "description": "キャラクターの突破用アイテム。",
             "type": "キャラクター突破素材"
           },
@@ -4708,7 +4708,7 @@
             "name": "牢固な矢先",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Amber_material_112011_1755402509252.png",
+            "icon": "/assets/images/Amber_material_112011_1756006874833.png",
             "description": "粗末な矢先。それでもその威力はなめてはいけない。弓弩は危険な武器である。たとえ騎士のような人でも後ろからの矢に撃たれる可能性があるから。",
             "type": "キャラと武器育成素材"
           }
@@ -4739,7 +4739,7 @@
             "name": "イグサ",
             "count": 10,
             "rank": 1,
-            "icon": "/assets/images/Diluc_material_100055_1755402505811.png",
+            "icon": "/assets/images/Diluc_material_100055_1756006870550.png",
             "description": "夜になると微かな光を放つ花。他の食材と一緒に料理にすると旨味アップ。",
             "type": "モンド地域の特産"
           },
@@ -4748,7 +4748,7 @@
             "name": "炎願のアゲート·欠片",
             "count": 3,
             "rank": 3,
-            "icon": "/assets/images/Diluc_material_104112_1755402506076.png",
+            "icon": "/assets/images/Diluc_material_104112_1756006870760.png",
             "description": "キャラクターの突破用アイテム。\\n「人々の願いのため、巡礼の道を歩もう。最強を目指して集い、戦うのだ…」",
             "type": "キャラクター突破素材"
           },
@@ -4757,7 +4757,7 @@
             "name": "牢固な矢先",
             "count": 15,
             "rank": 1,
-            "icon": "/assets/images/Amber_material_112011_1755402509252.png",
+            "icon": "/assets/images/Amber_material_112011_1756006874833.png",
             "description": "粗末な矢先。それでもその威力はなめてはいけない。弓弩は危険な武器である。たとえ騎士のような人でも後ろからの矢に撃たれる可能性があるから。",
             "type": "キャラと武器育成素材"
           },
@@ -4766,7 +4766,7 @@
             "name": "常燃の火種",
             "count": 2,
             "rank": 4,
-            "icon": "/assets/images/Diluc_material_113011_1755402506024.png",
+            "icon": "/assets/images/Diluc_material_113011_1756006870524.png",
             "description": "永遠に燃え続ける爆炎樹のエネルギー源である種。世の中にある全ての草木を焼き尽くすような炎元素の熱量を放っている。\\n大地の深所で湧いているエネルギーは無数の願いを背負っている。烈火と共に植物に纏って永遠に燃えさせて、そして爆裂の炎で全てを浄化させようとしている。いったいどんな願いかな？",
             "type": "キャラクター育成素材"
           }
@@ -4801,7 +4801,7 @@
             "name": "イグサ",
             "count": 20,
             "rank": 1,
-            "icon": "/assets/images/Diluc_material_100055_1755402505811.png",
+            "icon": "/assets/images/Diluc_material_100055_1756006870550.png",
             "description": "夜になると微かな光を放つ花。他の食材と一緒に料理にすると旨味アップ。",
             "type": "モンド地域の特産"
           },
@@ -4810,7 +4810,7 @@
             "name": "炎願のアゲート·欠片",
             "count": 6,
             "rank": 3,
-            "icon": "/assets/images/Diluc_material_104112_1755402506076.png",
+            "icon": "/assets/images/Diluc_material_104112_1756006870760.png",
             "description": "キャラクターの突破用アイテム。\\n「人々の願いのため、巡礼の道を歩もう。最強を目指して集い、戦うのだ…」",
             "type": "キャラクター突破素材"
           },
@@ -4819,7 +4819,7 @@
             "name": "鋭利な矢先",
             "count": 12,
             "rank": 2,
-            "icon": "/assets/images/Amber_material_112012_1755402509493.png",
+            "icon": "/assets/images/Amber_material_112012_1756006874809.png",
             "description": "精良に作られた矢先。鋭利な先端は石を水に投げるように簡単に敵の鎧を貫くことができる。",
             "type": "キャラと武器育成素材"
           },
@@ -4828,7 +4828,7 @@
             "name": "常燃の火種",
             "count": 4,
             "rank": 4,
-            "icon": "/assets/images/Diluc_material_113011_1755402506024.png",
+            "icon": "/assets/images/Diluc_material_113011_1756006870524.png",
             "description": "永遠に燃え続ける爆炎樹のエネルギー源である種。世の中にある全ての草木を焼き尽くすような炎元素の熱量を放っている。\\n大地の深所で湧いているエネルギーは無数の願いを背負っている。烈火と共に植物に纏って永遠に燃えさせて、そして爆裂の炎で全てを浄化させようとしている。いったいどんな願いかな？",
             "type": "キャラクター育成素材"
           }
@@ -4863,7 +4863,7 @@
             "name": "イグサ",
             "count": 30,
             "rank": 1,
-            "icon": "/assets/images/Diluc_material_100055_1755402505811.png",
+            "icon": "/assets/images/Diluc_material_100055_1756006870550.png",
             "description": "夜になると微かな光を放つ花。他の食材と一緒に料理にすると旨味アップ。",
             "type": "モンド地域の特産"
           },
@@ -4872,7 +4872,7 @@
             "name": "炎願のアゲート·塊",
             "count": 3,
             "rank": 4,
-            "icon": "/assets/images/Diluc_material_104113_1755402505823.png",
+            "icon": "/assets/images/Diluc_material_104113_1756006870734.png",
             "description": "キャラクターの突破用アイテム。\\n「人々の願いのため、巡礼の道を歩もう。最強を目指して集い、戦うのだ…」\\n「最後は夢のために、劫火の中で燃え尽きる。」",
             "type": "キャラクター突破素材"
           },
@@ -4881,7 +4881,7 @@
             "name": "鋭利な矢先",
             "count": 18,
             "rank": 2,
-            "icon": "/assets/images/Amber_material_112012_1755402509493.png",
+            "icon": "/assets/images/Amber_material_112012_1756006874809.png",
             "description": "精良に作られた矢先。鋭利な先端は石を水に投げるように簡単に敵の鎧を貫くことができる。",
             "type": "キャラと武器育成素材"
           },
@@ -4890,7 +4890,7 @@
             "name": "常燃の火種",
             "count": 8,
             "rank": 4,
-            "icon": "/assets/images/Diluc_material_113011_1755402506024.png",
+            "icon": "/assets/images/Diluc_material_113011_1756006870524.png",
             "description": "永遠に燃え続ける爆炎樹のエネルギー源である種。世の中にある全ての草木を焼き尽くすような炎元素の熱量を放っている。\\n大地の深所で湧いているエネルギーは無数の願いを背負っている。烈火と共に植物に纏って永遠に燃えさせて、そして爆裂の炎で全てを浄化させようとしている。いったいどんな願いかな？",
             "type": "キャラクター育成素材"
           }
@@ -4925,7 +4925,7 @@
             "name": "イグサ",
             "count": 45,
             "rank": 1,
-            "icon": "/assets/images/Diluc_material_100055_1755402505811.png",
+            "icon": "/assets/images/Diluc_material_100055_1756006870550.png",
             "description": "夜になると微かな光を放つ花。他の食材と一緒に料理にすると旨味アップ。",
             "type": "モンド地域の特産"
           },
@@ -4934,7 +4934,7 @@
             "name": "炎願のアゲート·塊",
             "count": 6,
             "rank": 4,
-            "icon": "/assets/images/Diluc_material_104113_1755402505823.png",
+            "icon": "/assets/images/Diluc_material_104113_1756006870734.png",
             "description": "キャラクターの突破用アイテム。\\n「人々の願いのため、巡礼の道を歩もう。最強を目指して集い、戦うのだ…」\\n「最後は夢のために、劫火の中で燃え尽きる。」",
             "type": "キャラクター突破素材"
           },
@@ -4943,7 +4943,7 @@
             "name": "歴戦の矢先",
             "count": 12,
             "rank": 3,
-            "icon": "/assets/images/Amber_material_112013_1755402509466.png",
+            "icon": "/assets/images/Amber_material_112013_1756006874652.png",
             "description": "古く、乾いた血がたくさんついた矢先。何度も使用されたため、その鋭さは失われ、武器としては使えなくなったが、狩人の誇りの象徴としてお守りや表彰として使用されている。",
             "type": "キャラと武器育成素材"
           },
@@ -4952,7 +4952,7 @@
             "name": "常燃の火種",
             "count": 12,
             "rank": 4,
-            "icon": "/assets/images/Diluc_material_113011_1755402506024.png",
+            "icon": "/assets/images/Diluc_material_113011_1756006870524.png",
             "description": "永遠に燃え続ける爆炎樹のエネルギー源である種。世の中にある全ての草木を焼き尽くすような炎元素の熱量を放っている。\\n大地の深所で湧いているエネルギーは無数の願いを背負っている。烈火と共に植物に纏って永遠に燃えさせて、そして爆裂の炎で全てを浄化させようとしている。いったいどんな願いかな？",
             "type": "キャラクター育成素材"
           }
@@ -4987,7 +4987,7 @@
             "name": "イグサ",
             "count": 60,
             "rank": 1,
-            "icon": "/assets/images/Diluc_material_100055_1755402505811.png",
+            "icon": "/assets/images/Diluc_material_100055_1756006870550.png",
             "description": "夜になると微かな光を放つ花。他の食材と一緒に料理にすると旨味アップ。",
             "type": "モンド地域の特産"
           },
@@ -4996,7 +4996,7 @@
             "name": "炎願のアゲート",
             "count": 6,
             "rank": 5,
-            "icon": "/assets/images/Diluc_material_104114_1755402505938.png",
+            "icon": "/assets/images/Diluc_material_104114_1756006870809.png",
             "description": "キャラクターの突破用アイテム。\\n「人々の願いのため、巡礼の道を歩もう。最強を目指して集い、戦うのだ…」\\n「最後は夢のために、劫火の中で燃え尽きる。」\\n「その灰燼にまだ初心が残っていれば、██の真実に辿り着いたという。」",
             "type": "キャラクター突破素材"
           },
@@ -5005,7 +5005,7 @@
             "name": "歴戦の矢先",
             "count": 24,
             "rank": 3,
-            "icon": "/assets/images/Amber_material_112013_1755402509466.png",
+            "icon": "/assets/images/Amber_material_112013_1756006874652.png",
             "description": "古く、乾いた血がたくさんついた矢先。何度も使用されたため、その鋭さは失われ、武器としては使えなくなったが、狩人の誇りの象徴としてお守りや表彰として使用されている。",
             "type": "キャラと武器育成素材"
           },
@@ -5014,7 +5014,7 @@
             "name": "常燃の火種",
             "count": 20,
             "rank": 4,
-            "icon": "/assets/images/Diluc_material_113011_1755402506024.png",
+            "icon": "/assets/images/Diluc_material_113011_1756006870524.png",
             "description": "永遠に燃え続ける爆炎樹のエネルギー源である種。世の中にある全ての草木を焼き尽くすような炎元素の熱量を放っている。\\n大地の深所で湧いているエネルギーは無数の願いを背負っている。烈火と共に植物に纏って永遠に燃えさせて、そして爆裂の炎で全てを浄化させようとしている。いったいどんな願いかな？",
             "type": "キャラクター育成素材"
           }

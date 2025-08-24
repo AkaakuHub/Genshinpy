@@ -8,7 +8,7 @@
   "region": "Liyue",
   "constellation": "木犀座",
   "description": "歌塵浪市真君のもっとも幼い弟子。優しくて思いやりのある「おませさん」。",
-  "icon": "/assets/images/Yaoyao_icon_1755402591477.png",
+  "icon": "/assets/images/Yaoyao_icon_1756006977590.png",
   "profile": {
     "baseHp": 1030.3239,
     "baseAtk": 17.808,
@@ -23,7 +23,7 @@
       "id": "顛撲連撃槍",
       "name": "顛撲連撃槍",
       "description": "",
-      "icon": "/assets/images/Xiangling_normal_attack_1755402512420.png",
+      "icon": "/assets/images/Xiangling_normal_attack_1756006878145.png",
       "skillType": "normal",
       "params": {
         "1": [],
@@ -47,7 +47,7 @@
       "id": "祥雲団々落清白",
       "name": "祥雲団々落清白",
       "description": "",
-      "icon": "/assets/images/Yaoyao_elemental_skill_1755402591477.png",
+      "icon": "/assets/images/Yaoyao_elemental_skill_1756006977590.png",
       "levelData": [
         {
           "tableIndex": 1,
@@ -660,7 +660,7 @@
             0
           ],
           "description": [
-            "白玉大根のダメージ|{param1:F1P}",
+            "��玉大根のダメージ|{param1:F1P}",
             "白玉大根の回復量|HP上限{param2:F2P}+{param3:I}",
             "月桂·投擲型の継続時間|{param4:F1}秒",
             "白玉大根の継続時間|{param5:F1}秒",
@@ -1136,21 +1136,21 @@
     "elementalBurst": {
       "name": "天星零落",
       "description": "",
-      "icon": "/assets/images/Yaoyao_elemental_burst_1755402591477.png",
+      "icon": "/assets/images/Yaoyao_elemental_burst_1756006977590.png",
       "levelData": []
     },
     "passiveTalents": [
       {
         "name": "天星零落",
-        "icon": "/assets/images/Yaoyao_passive_1_1755402591478.png"
+        "icon": "/assets/images/Yaoyao_passive_1_1756006977591.png"
       },
       {
         "name": "先意承問",
-        "icon": "/assets/images/Yaoyao_passive_2_1755402591478.png"
+        "icon": "/assets/images/Yaoyao_passive_2_1756006977591.png"
       },
       {
         "name": "爪立ち·躡景足跡",
-        "icon": "/assets/images/Yaoyao_passive_3_1755402591478.png"
+        "icon": "/assets/images/Yaoyao_passive_3_1756006977591.png"
       }
     ],
     "completeTableData": [
@@ -1539,7 +1539,7 @@
               "重撃ダメージ|{param6:F1P}",
               "重撃スタミナ消費|{param7:F1}",
               "落下期間のダメージ|{param8:F1P}",
-              "低空/高空落下攻撃ダメージ|{param9:P}/{param10:P}",
+              "低空/高空落下攻��ダメージ|{param9:P}/{param10:P}",
               "",
               "",
               "",
@@ -2789,7 +2789,7 @@
               0
             ],
             "description": [
-              "白玉大根のダメージ|{param1:F1P}",
+              "��玉大根のダメージ|{param1:F1P}",
               "白玉大根の回復量|HP上限{param2:F2P}+{param3:I}",
               "月桂·投擲型の継続時間|{param4:F1}秒",
               "白玉大根の継続時間|{param5:F1}秒",
@@ -4047,7 +4047,7 @@
               "スキルダメージ|{param4:F1P}",
               "桂子仙機白玉大根のダメージ|{param1:F1P}",
               "桂子仙機白玉大根の回復量|HP上限{param2:F2P}+{param3:I}",
-              "草元素耐性アッ���|{param5:P}",
+              "草元素耐性アップ|{param5:P}",
               "桂子仙機の継続時間|{param6:F1}秒",
               "クールタイム|{param7:F1}秒",
               "元素エネルギー|{param8:I}",
@@ -4317,32 +4317,32 @@
       {
         "level": null,
         "name": "瑶閣賜物",
-        "icon": "/assets/images/Yaoyao_constellation_cNaN_1755402591478.png"
+        "icon": "/assets/images/Yaoyao_constellation_cNaN_1756006977591.png"
       },
       {
         "level": null,
         "name": "正思無邪",
-        "icon": "/assets/images/Yaoyao_constellation_cNaN_1755402591478.png"
+        "icon": "/assets/images/Yaoyao_constellation_cNaN_1756006977591.png"
       },
       {
         "level": null,
         "name": "懇々善道",
-        "icon": "/assets/images/Yaoyao_constellation_cNaN_1755402591478.png"
+        "icon": "/assets/images/Yaoyao_constellation_cNaN_1756006977591.png"
       },
       {
         "level": null,
         "name": "愛嬌悠々",
-        "icon": "/assets/images/Yaoyao_constellation_cNaN_1755402591478.png"
+        "icon": "/assets/images/Yaoyao_constellation_cNaN_1756006977591.png"
       },
       {
         "level": null,
         "name": "惻隠本義",
-        "icon": "/assets/images/Yaoyao_constellation_cNaN_1755402591478.png"
+        "icon": "/assets/images/Yaoyao_constellation_cNaN_1756006977591.png"
       },
       {
         "level": null,
         "name": "慈恵仁心",
-        "icon": "/assets/images/Yaoyao_constellation_cNaN_1755402591478.png"
+        "icon": "/assets/images/Yaoyao_constellation_cNaN_1756006977591.png"
       }
     ]
   },
@@ -4359,14 +4359,14 @@
     "id": 210148,
     "name": "ヨォーヨ·月桂",
     "description": "ヨォーヨ·月桂",
-    "icon": "/assets/images/Yaoyao_icon_1755402591477.png"
+    "icon": "/assets/images/Yaoyao_namecard_1756006977798.png"
   },
   "specialFood": {
     "id": 108487,
     "name": "軽策家庭料理",
     "rank": 3,
-    "icon": "/assets/images/Yaoyao_special_food_1755402591480.png",
-    "effectIcon": "/assets/images/Xiao_food_effect_1755402517103.png"
+    "icon": "/assets/images/Yaoyao_special_food_1756006977593.png",
+    "effectIcon": "/assets/images/Xiao_food_effect_1756006884011.png"
   },
   "levelProgression": [
     {
@@ -4682,7 +4682,7 @@
             "name": "絶雲の唐辛子",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Xiangling_material_100027_1755402512432.png",
+            "icon": "/assets/images/Xiangling_material_100027_1756006878320.png",
             "description": "璃月特有の唐辛子。匂いを嗅ぐだけで体が熱くなり、水を欲しがる",
             "type": "璃月地域の特産"
           },
@@ -4691,7 +4691,7 @@
             "name": "成長のエメラルド·砕屑",
             "count": 1,
             "rank": 2,
-            "icon": "/assets/images/Kirara_material_104131_1755402567127.png",
+            "icon": "/assets/images/Kirara_material_104131_1756006946638.png",
             "description": "キャラクターの突破用アイテム。",
             "type": "キャラクター突破素材"
           },
@@ -4700,7 +4700,7 @@
             "name": "スライムの液体",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Lisa_material_112002_1755402500760.png",
+            "icon": "/assets/images/Lisa_material_112002_1756006864228.png",
             "description": "スライムの表面にある液体、各地の元素工房では最もよくある原料である。",
             "type": "キャラと武器育成素材"
           }
@@ -4731,7 +4731,7 @@
             "name": "絶雲の唐辛子",
             "count": 10,
             "rank": 1,
-            "icon": "/assets/images/Xiangling_material_100027_1755402512432.png",
+            "icon": "/assets/images/Xiangling_material_100027_1756006878320.png",
             "description": "璃月特有の唐辛子。匂いを嗅ぐだけで体が熱くなり、水を欲しがる",
             "type": "璃月地域の特産"
           },
@@ -4740,7 +4740,7 @@
             "name": "成長のエメラルド·欠片",
             "count": 3,
             "rank": 3,
-            "icon": "/assets/images/Kirara_material_104132_1755402567153.png",
+            "icon": "/assets/images/Kirara_material_104132_1756006946671.png",
             "description": "キャラクターの突破用アイテム。\\n「長い長い夢を見ていたわ…」",
             "type": "キャラクター突破素材"
           },
@@ -4749,7 +4749,7 @@
             "name": "スライムの液体",
             "count": 15,
             "rank": 1,
-            "icon": "/assets/images/Lisa_material_112002_1755402500760.png",
+            "icon": "/assets/images/Lisa_material_112002_1756006864228.png",
             "description": "スライムの表面にある液体、各地の元素工房では最もよくある原料である。",
             "type": "キャラと武器育成素材"
           },
@@ -4758,8 +4758,8 @@
             "name": "滅諍の蔓",
             "count": 2,
             "rank": 4,
-            "icon": "/assets/images/Nahida_material_113040_1755402585239.png",
-            "description": "無相の草が最終的に凝縮して作った形態。強固なツル草によって囲まれた純粋な元素の結晶である。\\n条理に相反し、すべての命の形態から最もかけ離れた無相元素が、最も生命に調和する草元素と結合された状態で大地に出現するというのは、本来あるべきことではないのだろう。ある一説によると、無相元素には「学習」の知性があり、森の中の多彩と夢を知っているという。そして千年を超える時の中で、この��うな姿へと変わったのだ。",
+            "icon": "/assets/images/Nahida_material_113040_1756006970571.png",
+            "description": "無相の草が最終的に凝縮して作った形態。強固なツル草によって囲まれた純粋な元素の結晶である。\\n条理に相反し、すべての命の形態から最もかけ離れた無相元素が、最も生命に調和する草元素と結合された状態で大地に出現するというのは、本来あるべきことではないのだろう。ある一説によると、無相元素には「学習」の知性があり、森の中の多彩と夢を知っているという。そして千年を超える時の中で、このような姿へと変わったのだ。",
             "type": "キャラクター育成素材"
           }
         ],
@@ -4793,7 +4793,7 @@
             "name": "絶雲の唐辛子",
             "count": 20,
             "rank": 1,
-            "icon": "/assets/images/Xiangling_material_100027_1755402512432.png",
+            "icon": "/assets/images/Xiangling_material_100027_1756006878320.png",
             "description": "璃月特有の唐辛子。匂いを嗅ぐだけで体が熱くなり、水を欲しがる",
             "type": "璃月地域の特産"
           },
@@ -4802,7 +4802,7 @@
             "name": "成長のエメラルド·欠片",
             "count": 6,
             "rank": 3,
-            "icon": "/assets/images/Kirara_material_104132_1755402567153.png",
+            "icon": "/assets/images/Kirara_material_104132_1756006946671.png",
             "description": "キャラクターの突破用アイテム。\\n「長い長い夢を見ていたわ…」",
             "type": "キャラクター突破素材"
           },
@@ -4811,7 +4811,7 @@
             "name": "スライムの分泌物",
             "count": 12,
             "rank": 2,
-            "icon": "/assets/images/Lisa_material_112003_1755402500523.png",
+            "icon": "/assets/images/Lisa_material_112003_1756006864303.png",
             "description": "純化されたスライムの分泌物、皮膚を傷つけるため、直接接触はしないように。",
             "type": "キャラと武器育成素材"
           },
@@ -4820,8 +4820,8 @@
             "name": "滅諍の蔓",
             "count": 4,
             "rank": 4,
-            "icon": "/assets/images/Nahida_material_113040_1755402585239.png",
-            "description": "無相の草が最終的に凝縮して作った形態。強固なツル草によって囲まれた純粋な元素の結晶である。\\n条理に相反し、すべての命の形態から最もかけ離れた無相元素が、最も生命に調和する草元素と結合された状態で大地に出現するというのは、本来あるべきことではないのだろう。ある一説によると、無相元素には「学習」の知性があり、森の中の多彩と夢を知っているという。そして千年を超える時の中で、この��うな姿へと変わったのだ。",
+            "icon": "/assets/images/Nahida_material_113040_1756006970571.png",
+            "description": "無相の草が最終的に凝縮して作った形態。強固なツル草によって囲まれた純粋な元素の結晶である。\\n条理に相反し、すべての命の形態から最もかけ離れた無相元素が、最も生命に調和する草元素と結合された状態で大地に出現するというのは、本来あるべきことではないのだろう。ある一説によると、無相元素には「学習」の知性があり、森の中の多彩と夢を知っているという。そして千年を超える時の中で、このような姿へと変わったのだ。",
             "type": "キャラクター育成素材"
           }
         ],
@@ -4855,7 +4855,7 @@
             "name": "絶雲の唐辛子",
             "count": 30,
             "rank": 1,
-            "icon": "/assets/images/Xiangling_material_100027_1755402512432.png",
+            "icon": "/assets/images/Xiangling_material_100027_1756006878320.png",
             "description": "璃月特有の唐辛子。匂いを嗅ぐだけで体が熱くなり、水を欲しがる",
             "type": "璃月地域の特産"
           },
@@ -4864,7 +4864,7 @@
             "name": "成長のエメラルド·塊",
             "count": 3,
             "rank": 4,
-            "icon": "/assets/images/Kirara_material_104133_1755402567004.png",
+            "icon": "/assets/images/Kirara_material_104133_1756006946538.png",
             "description": "キャラクターの突破用アイテム。\\n「長い長い夢を見ていたわ…」\\n「人々は手をつなぎ、円を描くようにくるくると回っていた。賢者と愚者、舞人と勇士、人形と神像…」",
             "type": "キャラクター突破素材"
           },
@@ -4873,7 +4873,7 @@
             "name": "スライムの分泌物",
             "count": 18,
             "rank": 2,
-            "icon": "/assets/images/Lisa_material_112003_1755402500523.png",
+            "icon": "/assets/images/Lisa_material_112003_1756006864303.png",
             "description": "純化されたスライムの分泌物、皮膚を傷つけるため、直接接触はしないように。",
             "type": "キャラと武器育成素材"
           },
@@ -4882,8 +4882,8 @@
             "name": "滅諍の蔓",
             "count": 8,
             "rank": 4,
-            "icon": "/assets/images/Nahida_material_113040_1755402585239.png",
-            "description": "無相の草が最終的に凝縮して作った形態。強固なツル草によって囲まれた純粋な元素の結晶である。\\n条理に相反し、すべての命の形態から最もかけ離れた無相元素が、最も生命に調和する草元素と結合された状態で大地に出現するというのは、本来あるべきことではないのだろう。ある一説によると、無相元素には「学習」の知性があり、森の中の多彩と夢を知っているという。そして千年を超える時の中で、この��うな姿へと変わったのだ。",
+            "icon": "/assets/images/Nahida_material_113040_1756006970571.png",
+            "description": "無相の草が最終的に凝縮して作った形態。強固なツル草によって囲まれた純粋な元素の結晶である。\\n条理に相反し、すべての命の形態から最もかけ離れた無相元素が、最も生命に調和する草元素と結合された状態で大地に出現するというのは、本来あるべきことではないのだろう。ある一説によると、無相元素には「学習」の知性があり、森の中の多彩と夢を知っているという。そして千年を超える時の中で、このような姿へと変わったのだ。",
             "type": "キャラクター育成素材"
           }
         ],
@@ -4917,7 +4917,7 @@
             "name": "絶雲の唐辛子",
             "count": 45,
             "rank": 1,
-            "icon": "/assets/images/Xiangling_material_100027_1755402512432.png",
+            "icon": "/assets/images/Xiangling_material_100027_1756006878320.png",
             "description": "璃月特有の唐辛子。匂いを嗅ぐだけで体が熱くなり、水を欲しがる",
             "type": "璃月地域の特産"
           },
@@ -4926,7 +4926,7 @@
             "name": "成長のエメラルド·塊",
             "count": 6,
             "rank": 4,
-            "icon": "/assets/images/Kirara_material_104133_1755402567004.png",
+            "icon": "/assets/images/Kirara_material_104133_1756006946538.png",
             "description": "キャラクターの突破用アイテム。\\n「長い長い夢を見ていたわ…」\\n「人々は手をつなぎ、円を描くようにくるくると回っていた。賢者と愚者、舞人と勇士、人形と神像…」",
             "type": "キャラクター突破素材"
           },
@@ -4935,7 +4935,7 @@
             "name": "スライムのピュレ",
             "count": 12,
             "rank": 3,
-            "icon": "/assets/images/Lisa_material_112004_1755402500527.png",
+            "icon": "/assets/images/Lisa_material_112004_1756006864202.png",
             "description": "スライムの濃縮ピュレ、静止した状態では不規則な動きをする。",
             "type": "キャラと武器育成素材"
           },
@@ -4944,8 +4944,8 @@
             "name": "滅諍の蔓",
             "count": 12,
             "rank": 4,
-            "icon": "/assets/images/Nahida_material_113040_1755402585239.png",
-            "description": "無相の草が最終的に凝縮して作った形態。強固なツル草によって囲まれた純粋な元素の結晶である。\\n条理に相反し、すべての命の形態から最もかけ離れた無相元素が、最も生命に調和する草元素と結合された状態で大地に出現するというのは、本来あるべきことではないのだろう。ある一説によると、無相元素には「学習」の知性があり、森の中の多彩と夢を知っているという。そして千年を超える時の中で、この��うな姿へと変わったのだ。",
+            "icon": "/assets/images/Nahida_material_113040_1756006970571.png",
+            "description": "無相の草が最終的に凝縮して作った形態。強固なツル草によって囲まれた純粋な元素の結晶である。\\n条理に相反し、すべての命の形態から最もかけ離れた無相元素が、最も生命に調和する草元素と結合された状態で大地に出現するというのは、本来あるべきことではないのだろう。ある一説によると、無相元素には「学習」の知性があり、森の中の多彩と夢を知っているという。そして千年を超える時の中で、このような姿へと変わったのだ。",
             "type": "キャラクター育成素材"
           }
         ],
@@ -4979,7 +4979,7 @@
             "name": "絶雲の唐辛子",
             "count": 60,
             "rank": 1,
-            "icon": "/assets/images/Xiangling_material_100027_1755402512432.png",
+            "icon": "/assets/images/Xiangling_material_100027_1756006878320.png",
             "description": "璃月特有の唐辛子。匂いを嗅ぐだけで体が熱くなり、水を欲しがる",
             "type": "璃月地域の特産"
           },
@@ -4988,7 +4988,7 @@
             "name": "成長のエメラルド",
             "count": 6,
             "rank": 5,
-            "icon": "/assets/images/Kirara_material_104134_1755402567099.png",
+            "icon": "/assets/images/Kirara_material_104134_1756006946513.png",
             "description": "キャラクターの突破用アイテム。\\n「長い長い夢を見ていたわ…」\\n「人々は手をつなぎ、円を描くようにくるくると回っていた。賢者と愚者、舞人と勇士、人形と神像…」\\n「みんなの喜びの踊りの中には、宇宙のすべてが秘められている。『命』はいつも目的で、『知恵』こそが手段なの。」",
             "type": "キャラクター突破素材"
           },
@@ -4997,7 +4997,7 @@
             "name": "スライムのピュレ",
             "count": 24,
             "rank": 3,
-            "icon": "/assets/images/Lisa_material_112004_1755402500527.png",
+            "icon": "/assets/images/Lisa_material_112004_1756006864202.png",
             "description": "スライムの濃縮ピュレ、静止した状態では不規則な動きをする。",
             "type": "キャラと武器育成素材"
           },
@@ -5006,8 +5006,8 @@
             "name": "滅諍の蔓",
             "count": 20,
             "rank": 4,
-            "icon": "/assets/images/Nahida_material_113040_1755402585239.png",
-            "description": "無相の草が最終的に凝縮して作った形態。強固なツル草によって囲まれた純粋な元素の結晶である。\\n条理に相反し、すべての命の形態から最もかけ離れた無相元素が、最も生命に調和する草元素と結合された状態で大地に出現するというのは、本来あるべきことではないのだろう。ある一説によると、無相元素には「学習」の知性があり、森の中の多彩と夢を知っているという。そして千年を超える時の中で、この��うな姿へと変わったのだ。",
+            "icon": "/assets/images/Nahida_material_113040_1756006970571.png",
+            "description": "無相の草が最終的に凝縮して作った形態。強固なツル草によって囲まれた純粋な元素の結晶である。\\n条理に相反し、すべての命の形態から最もかけ離れた無相元素が、最も生命に調和する草元素と結合された状態で大地に出現するというのは、本来あるべきことではないのだろう。ある一説によると、無相元素には「学習」の知性があり、森の中の多彩と夢を知っているという。そして千年を超える時の中で、このような姿へと変わったのだ。",
             "type": "キャラクター育成素材"
           }
         ],

@@ -8,7 +8,7 @@
   "region": "Fontaine",
   "constellation": "真実明鏡座",
   "description": "元気に満ち溢れるスチームバード新聞の記者。いつも「真相」を求めて駆け回っている。",
-  "icon": "/assets/images/Charlotte_icon_1755402608979.png",
+  "icon": "/assets/images/Charlotte_icon_1756006998435.png",
   "profile": {
     "baseHp": 902.6731,
     "baseAtk": 14.51352,
@@ -23,7 +23,7 @@
       "id": "寒色撮影技法",
       "name": "寒色撮影技法",
       "description": "",
-      "icon": "/assets/images/Lisa_normal_attack_1755402500512.png",
+      "icon": "/assets/images/Lisa_normal_attack_1756006863872.png",
       "skillType": "normal",
       "params": {
         "1": [],
@@ -47,7 +47,7 @@
       "id": "フレーミング·氷点法",
       "name": "フレーミング·氷点法",
       "description": "",
-      "icon": "/assets/images/Charlotte_elemental_skill_1755402608980.png",
+      "icon": "/assets/images/Charlotte_elemental_skill_1756006998436.png",
       "levelData": [
         {
           "tableIndex": 1,
@@ -153,7 +153,7 @@
             "「スナップシルエット」マークの発動間隔|{param4:F1}秒",
             "「スナップシルエット」マークの継続時間|{param5:F1}秒",
             "「フォーカスインプレッション」マークのダメージ|{param6:F1P}",
-            "「フォーカス��ンプレッション」マークの発動間隔|{param7:F1}秒",
+            "「フォーカスインプレッション」マークの発動間隔|{param7:F1}秒",
             "「フォーカスインプレッション」マークの継続時間|{param8:F1}秒",
             "クールタイム|{param9:F1}秒",
             "最大画角で発動時のクールタイム|{param10:F1}秒",
@@ -372,7 +372,7 @@
             "「スナップシルエット」マークの発動間隔|{param4:F1}秒",
             "「スナップシルエット」マークの継続時間|{param5:F1}秒",
             "「フォーカスインプレッション」マークのダメージ|{param6:F1P}",
-            "「フォーカスインプレッション」マークの発動間隔|{param7:F1}秒",
+            "「フォーカスインプレ���ション」マークの発動間隔|{param7:F1}秒",
             "「フォーカスインプレッション」マークの継続時間|{param8:F1}秒",
             "クールタイム|{param9:F1}秒",
             "最大画角で発動時のクールタイム|{param10:F1}秒",
@@ -1136,21 +1136,21 @@
     "elementalBurst": {
       "name": "衝撃的モーメント",
       "description": "",
-      "icon": "/assets/images/Charlotte_elemental_burst_1755402608980.png",
+      "icon": "/assets/images/Charlotte_elemental_burst_1756006998436.png",
       "levelData": []
     },
     "passiveTalents": [
       {
         "name": "衝撃的モーメント",
-        "icon": "/assets/images/Charlotte_passive_1_1755402608980.png"
+        "icon": "/assets/images/Charlotte_passive_1_1756006998436.png"
       },
       {
         "name": "多様性リサーチ",
-        "icon": "/assets/images/Charlotte_passive_2_1755402608980.png"
+        "icon": "/assets/images/Charlotte_passive_2_1756006998436.png"
       },
       {
         "name": "主観シャッター",
-        "icon": "/assets/images/Charlotte_passive_3_1755402608980.png"
+        "icon": "/assets/images/Charlotte_passive_3_1756006998436.png"
       }
     ],
     "completeTableData": [
@@ -1608,7 +1608,7 @@
               "重撃ダメージ|{param4:F1P}",
               "重撃スタミナ消費|{param5:F1}",
               "落下期間のダメージ|{param6:F1P}",
-              "低空/高空落下攻撃ダメージ|{param7:P}/{param8:P}",
+              "低空/高空落下攻��ダメージ|{param7:P}/{param8:P}",
               "霊息の棘のダメージ|{param9:F1P}",
               "霊息の棘のダメージ間隔|{param10:F1}秒",
               "",
@@ -2303,7 +2303,7 @@
               "「スナップシルエット」マークの発動間隔|{param4:F1}秒",
               "「スナップシルエット」マークの継続時間|{param5:F1}秒",
               "「フォーカスインプレッション」マークのダメージ|{param6:F1P}",
-              "「フォーカス��ンプレッション」マークの発動間隔|{param7:F1}秒",
+              "「フォーカスインプレッション」マークの発動間隔|{param7:F1}秒",
               "「フォーカスインプレッション」マークの継続時間|{param8:F1}秒",
               "クールタイム|{param9:F1}秒",
               "最大画角で発動時のクールタイム|{param10:F1}秒",
@@ -2513,7 +2513,7 @@
               "「スナップシルエット」マークの発動間隔|{param4:F1}秒",
               "「スナップシルエット」マークの継続時間|{param5:F1}秒",
               "「フォーカスインプレッション」マークのダメージ|{param6:F1P}",
-              "「フォーカスインプレッション」マークの発動間隔|{param7:F1}秒",
+              "「フォーカスインプレ���ション」マークの発動間隔|{param7:F1}秒",
               "「フォーカスインプレッション」マークの継続時間|{param8:F1}秒",
               "クールタイム|{param9:F1}秒",
               "最大画角で発動時のクールタイム|{param10:F1}秒",
@@ -4317,32 +4317,32 @@
       {
         "level": null,
         "name": "検証を以て制約と為す",
-        "icon": "/assets/images/Charlotte_constellation_cNaN_1755402608980.png"
+        "icon": "/assets/images/Charlotte_constellation_cNaN_1756006998436.png"
       },
       {
         "level": null,
         "name": "求真を以て職責と為す",
-        "icon": "/assets/images/Charlotte_constellation_cNaN_1755402608980.png"
+        "icon": "/assets/images/Charlotte_constellation_cNaN_1756006998436.png"
       },
       {
         "level": null,
         "name": "独立を以て前提と為す",
-        "icon": "/assets/images/Charlotte_constellation_cNaN_1755402608980.png"
+        "icon": "/assets/images/Charlotte_constellation_cNaN_1756006998436.png"
       },
       {
         "level": null,
         "name": "督促を以て義務と為す",
-        "icon": "/assets/images/Charlotte_constellation_cNaN_1755402608980.png"
+        "icon": "/assets/images/Charlotte_constellation_cNaN_1756006998436.png"
       },
       {
         "level": null,
         "name": "良識を以て原則と為す",
-        "icon": "/assets/images/Charlotte_constellation_cNaN_1755402608980.png"
+        "icon": "/assets/images/Charlotte_constellation_cNaN_1756006998436.png"
       },
       {
         "level": null,
         "name": "好奇を以て要義と為す",
-        "icon": "/assets/images/Charlotte_constellation_cNaN_1755402608980.png"
+        "icon": "/assets/images/Charlotte_constellation_cNaN_1756006998436.png"
       }
     ]
   },
@@ -4359,14 +4359,14 @@
     "id": 210181,
     "name": "シャルロット·独占",
     "description": "シャルロット·独占",
-    "icon": "/assets/images/Charlotte_icon_1755402608979.png"
+    "icon": "/assets/images/Charlotte_namecard_1756006998619.png"
   },
   "specialFood": {
     "id": 108612,
     "name": "独占秘話·グルメコラム",
     "rank": 3,
-    "icon": "/assets/images/Charlotte_special_food_1755402608981.png",
-    "effectIcon": "/assets/images/Chongyun_food_effect_1755402531218.png"
+    "icon": "/assets/images/Charlotte_special_food_1756006998437.png",
+    "effectIcon": "/assets/images/Chongyun_food_effect_1756006901193.png"
   },
   "levelProgression": [
     {
@@ -4682,7 +4682,7 @@
             "name": "蒼晶螺",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Charlotte_material_101232_1755402608994.png",
+            "icon": "/assets/images/Charlotte_material_101232_1756006998764.png",
             "description": "薄暗い光を放つ貝の形をした構造物。生物の甲羅ではなく、より原始的な元素エネルギーが集まって出来た産物のようだ。",
             "type": "フォンテーヌ地域の特産"
           },
@@ -4691,7 +4691,7 @@
             "name": "哀切なアイスクリスタル·砕屑",
             "count": 1,
             "rank": 2,
-            "icon": "/assets/images/Kamisato Ayaka_material_104161_1755402497216.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104161_1756006859315.png",
             "description": "キャラクターの突破用アイテム。",
             "type": "キャラクター突破素材"
           },
@@ -4700,7 +4700,7 @@
             "name": "整合の歯車",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Lynette_material_112083_1755402601036.png",
+            "icon": "/assets/images/Lynette_material_112083_1756006988648.png",
             "description": "クロックワーク·マシナリーの歯車。\\n動力伝達のための重要な部品。この部品がないと、対応のモジュールは機能しなくなる。",
             "type": "キャラと武器育成素材"
           }
@@ -4731,7 +4731,7 @@
             "name": "蒼晶螺",
             "count": 10,
             "rank": 1,
-            "icon": "/assets/images/Charlotte_material_101232_1755402608994.png",
+            "icon": "/assets/images/Charlotte_material_101232_1756006998764.png",
             "description": "薄暗い光を放つ貝の形をした構造物。生物の甲羅ではなく、より原始的な元素エネルギーが集まって出来た産物のようだ。",
             "type": "フォンテーヌ地域の特産"
           },
@@ -4740,7 +4740,7 @@
             "name": "哀切なアイスクリスタル·欠片",
             "count": 3,
             "rank": 3,
-            "icon": "/assets/images/Kamisato Ayaka_material_104162_1755402497417.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104162_1756006859294.png",
             "description": "キャラクターの突破用アイテム。\\n「…すみません…」",
             "type": "キャラクター突破素材"
           },
@@ -4749,7 +4749,7 @@
             "name": "整合の歯車",
             "count": 15,
             "rank": 1,
-            "icon": "/assets/images/Lynette_material_112083_1755402601036.png",
+            "icon": "/assets/images/Lynette_material_112083_1756006988648.png",
             "description": "クロックワーク·マシナリーの歯車。\\n動力伝達のための重要な部品。この部品がないと、対応のモジュールは機能しなくなる。",
             "type": "キャラと武器育成素材"
           },
@@ -4758,8 +4758,8 @@
             "name": "「トゥールビヨン装置」",
             "count": 2,
             "rank": 4,
-            "icon": "/assets/images/Wriothesley_material_113052_1755402605968.png",
-            "description": "実験用フィールド生成装置のコアパーツ。\\n肉眼では捉えきれない高速回転によって重力を無効化する、精密に加工された機械パーツ。\\nフォンテーヌ運動エネルギー工学科学研究院はその長い歴史の中で、かつて無数の命を奪い、そして再び大地を覆うであろう洪水と戦いながら、生存の道を模索してきた。\\n巨大なエネルギーを秘めるとともに、大地の束縛から逃れることを可能とするアルケウムは、救済の扉を開く鍵であると考えられていた。",
+            "icon": "/assets/images/Wriothesley_material_113052_1756006994637.png",
+            "description": "実験用フィールド生成装置のコアパーツ。\\n肉眼では捉えきれない高速回転によって重力を無効化する、精密に加工された機械パーツ。\\nフォンテーヌ運動エネルギー工学科学研究院はその長い歴史の中で、かつて無数の命を奪い、そして再び大地を覆うであろう洪水と戦いながら、生存の道を模索してきた。\\n巨大なエネルギーを秘めるとともに、大地の束縛から逃れることを可能とするアルケウムは、救済��扉を開く鍵であると考えられていた。",
             "type": "キャラクター育成素材"
           }
         ],
@@ -4793,7 +4793,7 @@
             "name": "蒼晶螺",
             "count": 20,
             "rank": 1,
-            "icon": "/assets/images/Charlotte_material_101232_1755402608994.png",
+            "icon": "/assets/images/Charlotte_material_101232_1756006998764.png",
             "description": "薄暗い光を放つ貝の形をした構造物。生物の甲羅ではなく、より原始的な元素エネルギーが集まって出来た産物のようだ。",
             "type": "フォンテーヌ地域の特産"
           },
@@ -4802,7 +4802,7 @@
             "name": "哀切なアイスクリスタル·欠片",
             "count": 6,
             "rank": 3,
-            "icon": "/assets/images/Kamisato Ayaka_material_104162_1755402497417.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104162_1756006859294.png",
             "description": "キャラクターの突破用アイテム。\\n「…すみません…」",
             "type": "キャラクター突破素材"
           },
@@ -4811,7 +4811,7 @@
             "name": "機構の平歯車",
             "count": 12,
             "rank": 2,
-            "icon": "/assets/images/Lynette_material_112084_1755402601063.png",
+            "icon": "/assets/images/Lynette_material_112084_1756006988706.png",
             "description": "クロックワーク·マシナリーの歯車。\\nクロックワーク·マシナリーは運動学において数々の画期的な進歩を遂げてきたが、動力学においては、400年以上も前に、アラン·ギヨタンが築き上げた基礎と枠を未だに突破できていない。",
             "type": "キャラと武器育成素材"
           },
@@ -4820,8 +4820,8 @@
             "name": "「トゥールビヨン装置」",
             "count": 4,
             "rank": 4,
-            "icon": "/assets/images/Wriothesley_material_113052_1755402605968.png",
-            "description": "実験用フィールド生成装置のコアパーツ。\\n肉眼では捉えきれない高速回転によって重力を無効化する、精密に加工された機械パーツ。\\nフォンテーヌ運動エネルギー工学科学研究院はその長い歴史の中で、かつて無数の命を奪い、そして再び大地を覆うであろう洪水と戦いながら、生存の道を模索してきた。\\n巨大なエネルギーを秘めるとともに、大地の束縛から逃れることを可能とするアルケウムは、救済の扉を開く鍵であると考えられていた。",
+            "icon": "/assets/images/Wriothesley_material_113052_1756006994637.png",
+            "description": "実験用フィールド生成装置のコアパーツ。\\n肉眼では捉えきれない高速回転によって重力を無効化する、精密に加工された機械パーツ。\\nフォンテーヌ運動エネルギー工学科学研究院はその長い歴史の中で、かつて無数の命を奪い、そして再び大地を覆うであろう洪水と戦いながら、生存の道を模索してきた。\\n巨大なエネルギーを秘めるとともに、大地の束縛から逃れることを可能とするアルケウムは、救済��扉を開く鍵であると考えられていた。",
             "type": "キャラクター育成素材"
           }
         ],
@@ -4855,7 +4855,7 @@
             "name": "蒼晶螺",
             "count": 30,
             "rank": 1,
-            "icon": "/assets/images/Charlotte_material_101232_1755402608994.png",
+            "icon": "/assets/images/Charlotte_material_101232_1756006998764.png",
             "description": "薄暗い光を放つ貝の形をした構造物。生物の甲羅ではなく、より原始的な元素エネルギーが集まって出来た産物のようだ。",
             "type": "フォンテーヌ地域の特産"
           },
@@ -4864,7 +4864,7 @@
             "name": "哀切なアイスクリスタル·塊",
             "count": 3,
             "rank": 4,
-            "icon": "/assets/images/Kamisato Ayaka_material_104163_1755402497349.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104163_1756006859394.png",
             "description": "キャラクターの突破用アイテム。\\n「…すみません…」\\n「あなた達まで、わたしと一緒にこの世界の悲しみを背負わせるなんて…」",
             "type": "キャラクター突破素材"
           },
@@ -4873,7 +4873,7 @@
             "name": "機構の平歯車",
             "count": 18,
             "rank": 2,
-            "icon": "/assets/images/Lynette_material_112084_1755402601063.png",
+            "icon": "/assets/images/Lynette_material_112084_1756006988706.png",
             "description": "クロックワーク·マシナリーの歯車。\\nクロックワーク·マシナリーは運動学において数々の画期的な進歩を遂げてきたが、動力学においては、400年以上も前に、アラン·ギヨタンが築き上げた基礎と枠を未だに突破できていない。",
             "type": "キャラと武器育成素材"
           },
@@ -4882,8 +4882,8 @@
             "name": "「トゥールビヨン装置」",
             "count": 8,
             "rank": 4,
-            "icon": "/assets/images/Wriothesley_material_113052_1755402605968.png",
-            "description": "実験用フィールド生成装置のコアパーツ。\\n肉眼では捉えきれない高速回転によって重力を無効化する、精密に加工された機械パーツ。\\nフォンテーヌ運動エネルギー工学科学研究院はその長い歴史の中で、かつて無数の命を奪い、そして再び大地を覆うであろう洪水と戦いながら、生存の道を模索してきた。\\n巨大なエネルギーを秘めるとともに、大地の束縛から逃れることを可能とするアルケウムは、救済の扉を開く鍵であると考えられていた。",
+            "icon": "/assets/images/Wriothesley_material_113052_1756006994637.png",
+            "description": "実験用フィールド生成装置のコアパーツ。\\n肉眼では捉えきれない高速回転によって重力を無効化する、精密に加工された機械パーツ。\\nフォンテーヌ運動エネルギー工学科学研究院はその長い歴史の中で、かつて無数の命を奪い、そして再び大地を覆うであろう洪水と戦いながら、生存の道を模索してきた。\\n巨大なエネルギーを秘めるとともに、大地の束縛から逃れることを可能とするアルケウムは、救済��扉を開く鍵であると考えられていた。",
             "type": "キャラクター育成素材"
           }
         ],
@@ -4917,7 +4917,7 @@
             "name": "蒼晶螺",
             "count": 45,
             "rank": 1,
-            "icon": "/assets/images/Charlotte_material_101232_1755402608994.png",
+            "icon": "/assets/images/Charlotte_material_101232_1756006998764.png",
             "description": "薄暗い光を放つ貝の形をした構造物。生物の甲羅ではなく、より原始的な元素エネルギーが集まって出来た産物のようだ。",
             "type": "フォンテーヌ地域の特産"
           },
@@ -4926,7 +4926,7 @@
             "name": "哀切なアイスクリスタル·塊",
             "count": 6,
             "rank": 4,
-            "icon": "/assets/images/Kamisato Ayaka_material_104163_1755402497349.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104163_1756006859394.png",
             "description": "キャラクターの突破用アイテム。\\n「…すみません…」\\n「あなた達まで、わたしと一緒にこの世界の悲しみを背負わせるなんて…」",
             "type": "キャラクター突破素材"
           },
@@ -4935,7 +4935,7 @@
             "name": "奇械のコア歯車",
             "count": 12,
             "rank": 3,
-            "icon": "/assets/images/Lynette_material_112085_1755402600779.png",
+            "icon": "/assets/images/Lynette_material_112085_1756006988806.png",
             "description": "クロックワーク·マシナリーの歯車。\\n加工の精度および材料学の進歩はフォンテーヌのクロックワーク·マシナリーの発展のカギとなる。先進的設備の力を借りれば、どのエンジニアだって「奇械公」ギヨタンの時代を凌駕する機械を作り出せる可能性がある。",
             "type": "キャラと武器育成素材"
           },
@@ -4944,8 +4944,8 @@
             "name": "「トゥールビヨン装置」",
             "count": 12,
             "rank": 4,
-            "icon": "/assets/images/Wriothesley_material_113052_1755402605968.png",
-            "description": "実験用フィールド生成装置のコアパーツ。\\n肉眼では捉えきれない高速回転によって重力を無効化する、精密に加工された機械パーツ。\\nフォンテーヌ運動エネルギー工学科学研究院はその長い歴史の中で、かつて無数の命を奪い、そして再び大地を覆うであろう洪水と戦いながら、生存の道を模索してきた。\\n巨大なエネルギーを秘めるとともに、大地の束縛から逃れることを可能とするアルケウムは、救済の扉を開く鍵であると考えられていた。",
+            "icon": "/assets/images/Wriothesley_material_113052_1756006994637.png",
+            "description": "実験用フィールド生成装置のコアパーツ。\\n肉眼では捉えきれない高速回転によって重力を無効化する、精密に加工された機械パーツ。\\nフォンテーヌ運動エネルギー工学科学研究院はその長い歴史の中で、かつて無数の命を奪い、そして再び大地を覆うであろう洪水と戦いながら、生存の道を模索してきた。\\n巨大なエネルギーを秘めるとともに、大地の束縛から逃れることを可能とするアルケウムは、救済��扉を開く鍵であると考えられていた。",
             "type": "キャラクター育成素材"
           }
         ],
@@ -4979,7 +4979,7 @@
             "name": "蒼晶螺",
             "count": 60,
             "rank": 1,
-            "icon": "/assets/images/Charlotte_material_101232_1755402608994.png",
+            "icon": "/assets/images/Charlotte_material_101232_1756006998764.png",
             "description": "薄暗い光を放つ貝の形をした構造物。生物の甲羅ではなく、より原始的な元素エネルギーが集まって出来た産物のようだ。",
             "type": "フォンテーヌ地域の特産"
           },
@@ -4988,7 +4988,7 @@
             "name": "哀切なアイスクリスタル",
             "count": 6,
             "rank": 5,
-            "icon": "/assets/images/Kamisato Ayaka_material_104164_1755402497393.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_104164_1756006859127.png",
             "description": "キャラクターの突破用アイテム。\\n「…すみません、あなた達まで、わたしと一緒にこの世界の悲しみを背負わせるなんて…」\\n「わたしの寒さを耐えられる者は、きっと心の中に熱い欲望を持っているだろう？」\\n「なら、わたしの代わりに、旧世界を焼き尽くそう。」",
             "type": "キャラクター突破素材"
           },
@@ -4997,7 +4997,7 @@
             "name": "奇械のコア歯車",
             "count": 24,
             "rank": 3,
-            "icon": "/assets/images/Lynette_material_112085_1755402600779.png",
+            "icon": "/assets/images/Lynette_material_112085_1756006988806.png",
             "description": "クロックワーク·マシナリーの歯車。\\n加工の精度および材料学の進歩はフォンテーヌのクロックワーク·マシナリーの発展のカギとなる。先進的設備の力を借りれば、どのエンジニアだって「奇械公」ギヨタンの時代を凌駕する機械を作り出せる可能性がある。",
             "type": "キャラと武器育成素材"
           },
@@ -5006,8 +5006,8 @@
             "name": "「トゥールビヨン装置」",
             "count": 20,
             "rank": 4,
-            "icon": "/assets/images/Wriothesley_material_113052_1755402605968.png",
-            "description": "実験用フィールド生成装置のコアパーツ。\\n肉眼では捉えきれない高速回転によって重力を無効化する、精密に加工された機械パーツ。\\nフォンテーヌ運動エネルギー工学科学研究院はその長い歴史の中で、かつて無数の命を奪い、そして再び大地を覆うであろう洪水と戦いながら、生存の道を模索してきた。\\n巨大なエネルギーを秘めるとともに、大地の束縛から逃れることを可能とするアルケウムは、救済の扉を開く鍵であると考えられていた。",
+            "icon": "/assets/images/Wriothesley_material_113052_1756006994637.png",
+            "description": "実験用フィールド生成装置のコアパーツ。\\n肉眼では捉えきれない高速回転によって重力を無効化する、精密に加工された機械パーツ。\\nフォンテーヌ運動エネルギー工学科学研究院はその長い歴史の中で、かつて無数の命を奪い、そして再び大地を覆うであろう洪水と戦いながら、生存の道を模索してきた。\\n巨大なエネルギーを秘めるとともに、大地の束縛から逃れることを可能とするアルケウムは、救済��扉を開く鍵であると考えられていた。",
             "type": "キャラクター育成素材"
           }
         ],

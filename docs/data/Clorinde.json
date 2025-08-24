@@ -8,7 +8,7 @@
   "region": "Fontaine",
   "constellation": "レイピア座",
   "description": "その手に握る剣でフォンテーヌ廷の「正義」を守る、無敗の決闘代理人。",
-  "icon": "/assets/images/Clorinde_icon_1755402623981.png",
+  "icon": "/assets/images/Clorinde_icon_1756007017245.png",
   "profile": {
     "baseHp": 1008.61255,
     "baseAtk": 26.2542,
@@ -23,7 +23,7 @@
       "id": "影追いの誓い",
       "name": "影追いの誓い",
       "description": "",
-      "icon": "/assets/images/Kamisato Ayaka_normal_attack_1755402496950.png",
+      "icon": "/assets/images/Kamisato Ayaka_normal_attack_1756006858911.png",
       "skillType": "normal",
       "params": {
         "1": [],
@@ -47,7 +47,7 @@
       "id": "夜狩の巡回",
       "name": "夜狩の巡回",
       "description": "",
-      "icon": "/assets/images/Clorinde_elemental_skill_1755402623981.png",
+      "icon": "/assets/images/Clorinde_elemental_skill_1756007017245.png",
       "levelData": [
         {
           "tableIndex": 1,
@@ -1136,21 +1136,21 @@
     "elementalBurst": {
       "name": "夜を裂く紫焔",
       "description": "",
-      "icon": "/assets/images/Clorinde_elemental_burst_1755402623981.png",
+      "icon": "/assets/images/Clorinde_elemental_burst_1756007017245.png",
       "levelData": []
     },
     "passiveTalents": [
       {
         "name": "夜を裂く紫焔",
-        "icon": "/assets/images/Clorinde_passive_1_1755402623981.png"
+        "icon": "/assets/images/Clorinde_passive_1_1756007017245.png"
       },
       {
         "name": "契約の報償",
-        "icon": "/assets/images/Clorinde_passive_2_1755402623982.png"
+        "icon": "/assets/images/Clorinde_passive_2_1756007017245.png"
       },
       {
         "name": "夜巡りの収穫",
-        "icon": "/assets/images/Lyney_passive_3_1755402602572.png"
+        "icon": "/assets/images/Lyney_passive_3_1756006990506.png"
       }
     ],
     "completeTableData": [
@@ -4317,32 +4317,32 @@
       {
         "level": null,
         "name": "「ここより、 燭影の帷を通る」",
-        "icon": "/assets/images/Clorinde_constellation_cNaN_1755402623982.png"
+        "icon": "/assets/images/Clorinde_constellation_cNaN_1756007017245.png"
       },
       {
         "level": null,
         "name": "「ここより、 永夜の危険に迫る」",
-        "icon": "/assets/images/Clorinde_constellation_cNaN_1755402623982.png"
+        "icon": "/assets/images/Clorinde_constellation_cNaN_1756007017245.png"
       },
       {
         "level": null,
         "name": "「白昼の誓いを忘れるな」",
-        "icon": "/assets/images/Clorinde_constellation_cNaN_1755402623982.png"
+        "icon": "/assets/images/Clorinde_constellation_cNaN_1756007017246.png"
       },
       {
         "level": null,
         "name": "「涙と命、仁愛を心に刻め」",
-        "icon": "/assets/images/Clorinde_constellation_cNaN_1755402623982.png"
+        "icon": "/assets/images/Clorinde_constellation_cNaN_1756007017246.png"
       },
       {
         "level": null,
         "name": "「やがて夜明けは訪れる」",
-        "icon": "/assets/images/Clorinde_constellation_cNaN_1755402623982.png"
+        "icon": "/assets/images/Clorinde_constellation_cNaN_1756007017246.png"
       },
       {
         "level": null,
         "name": "「故に—— 希望を捨ててはならない」",
-        "icon": "/assets/images/Clorinde_constellation_cNaN_1755402623982.png"
+        "icon": "/assets/images/Clorinde_constellation_cNaN_1756007017246.png"
       }
     ]
   },
@@ -4359,14 +4359,14 @@
     "id": 210200,
     "name": "クロリンデ·ロールプレイ",
     "description": "クロリンデ·ロールプレイ",
-    "icon": "/assets/images/Clorinde_namecard_1755402624102.png"
+    "icon": "/assets/images/Clorinde_icon_1756007017245.png"
   },
   "specialFood": {
     "id": 108678,
     "name": "「狩りの収穫」",
     "rank": 2,
-    "icon": "/assets/images/Clorinde_special_food_1755402623982.png",
-    "effectIcon": "/assets/images/Chongyun_food_effect_1755402531218.png"
+    "icon": "/assets/images/Clorinde_special_food_1756007017246.png",
+    "effectIcon": "/assets/images/Chongyun_food_effect_1756006901193.png"
   },
   "levelProgression": [
     {
@@ -4682,7 +4682,7 @@
             "name": "ルエトワール",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Neuvillette_material_101237_1755402607574.png",
+            "icon": "/assets/images/Neuvillette_material_101237_1756006996644.png",
             "description": "水中で淡い光を放つ軟体動物。多くは水辺や水中にある人工建造物の表面に付着している。",
             "type": "フォンテーヌ地域の特産"
           },
@@ -4691,7 +4691,7 @@
             "name": "最勝のアメシスト·砕屑",
             "count": 1,
             "rank": 2,
-            "icon": "/assets/images/Lisa_material_104141_1755402500836.png",
+            "icon": "/assets/images/Lisa_material_104141_1756006864353.png",
             "description": "キャラクターの突破用アイテム。",
             "type": "キャラクター突破素材"
           },
@@ -4700,7 +4700,7 @@
             "name": "異海の露",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Freminet_material_112080_1755402604153.png",
+            "icon": "/assets/images/Freminet_material_112080_1756006992519.png",
             "description": "原海アベラントを倒した後、その体内から得た小さな結晶。\\nフォンテーヌの「海」に生まれた原海アベラントは、水中の不思議なエネルギーによってその独特な形の生命体が形成されたと推測されている。",
             "type": "キャラと武器育成素材"
           }
@@ -4731,7 +4731,7 @@
             "name": "ルエトワール",
             "count": 10,
             "rank": 1,
-            "icon": "/assets/images/Neuvillette_material_101237_1755402607574.png",
+            "icon": "/assets/images/Neuvillette_material_101237_1756006996644.png",
             "description": "水中で淡い光を放つ軟体動物。多くは水辺や水中にある人工建造物の表面に付着している。",
             "type": "フォンテーヌ地域の特産"
           },
@@ -4740,7 +4740,7 @@
             "name": "最勝のアメシスト·欠片",
             "count": 3,
             "rank": 3,
-            "icon": "/assets/images/Lisa_material_104142_1755402500864.png",
+            "icon": "/assets/images/Lisa_material_104142_1756006864374.png",
             "description": "キャラクターの突破用アイテム。\\n「此の身こそ、いと尊き存在。」",
             "type": "キャラクター突破素材"
           },
@@ -4749,7 +4749,7 @@
             "name": "異海の露",
             "count": 15,
             "rank": 1,
-            "icon": "/assets/images/Freminet_material_112080_1755402604153.png",
+            "icon": "/assets/images/Freminet_material_112080_1756006992519.png",
             "description": "原海アベラントを倒した後、その体内から得た小さな結晶。\\nフォンテーヌの「海」に生まれた原海アベラントは、水中の不思議なエネルギーによってその独特な形の生命体が形成されたと推測されている。",
             "type": "キャラと武器育成素材"
           },
@@ -4758,7 +4758,7 @@
             "name": "原海駿の角",
             "count": 2,
             "rank": 4,
-            "icon": "/assets/images/Neuvillette_material_113053_1755402607541.png",
+            "icon": "/assets/images/Neuvillette_material_113053_1756006996617.png",
             "description": "千年真珠の海駿の放電器官。その偉大なる「超越」を象徴するレガリアでもあるが、挑戦者との戦いで折れてしまった。\\nアワアワタツノコから進化した最上位の捕食者。千年真珠の海駿は他の原海アベラントとはまるで異なる進化の過程を経てきた。種の原型を基礎として、より大きく強靭に進化したというわけではなく、アワアワタツノコにはない肢体や角が生え、骨格や筋肉までもが変化を遂げてきたのだ。その姿は、種の原型よりも、古い伝説の幻獣を彷彿とさせる。詩人や劇作家の想像上では、タツノコでさえ、大地を駆け巡り、躍動する駿馬の姿をしている。",
             "type": "キャラクター育成素材"
           }
@@ -4793,7 +4793,7 @@
             "name": "ルエトワール",
             "count": 20,
             "rank": 1,
-            "icon": "/assets/images/Neuvillette_material_101237_1755402607574.png",
+            "icon": "/assets/images/Neuvillette_material_101237_1756006996644.png",
             "description": "水中で淡い光を放つ軟体動物。多くは水辺や水中にある人工建造物の表面に付着している。",
             "type": "フォンテーヌ地域の特産"
           },
@@ -4802,7 +4802,7 @@
             "name": "最勝のアメシスト·欠片",
             "count": 6,
             "rank": 3,
-            "icon": "/assets/images/Lisa_material_104142_1755402500864.png",
+            "icon": "/assets/images/Lisa_material_104142_1756006864374.png",
             "description": "キャラクターの突破用アイテム。\\n「此の身こそ、いと尊き存在。」",
             "type": "キャラクター突破素材"
           },
@@ -4811,7 +4811,7 @@
             "name": "異海の塊",
             "count": 12,
             "rank": 2,
-            "icon": "/assets/images/Freminet_material_112081_1755402604173.png",
+            "icon": "/assets/images/Freminet_material_112081_1756006992547.png",
             "description": "原海アベラントを倒した後、その体内から得られる結晶体。\\n微かに不思議なエネルギーを放っている。\\n航路や人間の足ではたどり着けない遠海には、偉大なる生命が存在すると言われているが、普通の海は取り立てて言うほどの特徴もなく、その生命力はフォンテーヌの「海」に遥かに及ばない。",
             "type": "キャラと武器育成素材"
           },
@@ -4820,7 +4820,7 @@
             "name": "原海駿の角",
             "count": 4,
             "rank": 4,
-            "icon": "/assets/images/Neuvillette_material_113053_1755402607541.png",
+            "icon": "/assets/images/Neuvillette_material_113053_1756006996617.png",
             "description": "千年真珠の海駿の放電器官。その偉大なる「超越」を象徴するレガリアでもあるが、挑戦者との戦いで折れてしまった。\\nアワアワタツノコから進化した最上位の捕食者。千年真珠の海駿は他の原海アベラントとはまるで異なる進化の過程を経てきた。種の原型を基礎として、より大きく強靭に進化したというわけではなく、アワアワタツノコにはない肢体や角が生え、骨格や筋肉までもが変化を遂げてきたのだ。その姿は、種の原型よりも、古い伝説の幻獣を彷彿とさせる。詩人や劇作家の想像上では、タツノコでさえ、大地を駆け巡り、躍動する駿馬の姿をしている。",
             "type": "キャラクター育成素材"
           }
@@ -4855,7 +4855,7 @@
             "name": "ルエトワール",
             "count": 30,
             "rank": 1,
-            "icon": "/assets/images/Neuvillette_material_101237_1755402607574.png",
+            "icon": "/assets/images/Neuvillette_material_101237_1756006996644.png",
             "description": "水中で淡い光を放つ軟体動物。多くは水辺や水中にある人工建造物の表面に付着している。",
             "type": "フォンテーヌ地域の特産"
           },
@@ -4864,7 +4864,7 @@
             "name": "最勝のアメシスト·塊",
             "count": 3,
             "rank": 4,
-            "icon": "/assets/images/Lisa_material_104143_1755402500785.png",
+            "icon": "/assets/images/Lisa_material_104143_1756006864250.png",
             "description": "キャラクターの突破用アイテム。\\n「此の身こそ、いと尊き存在。」\\n「天下を泰平せし者。」",
             "type": "キャラクター突破素材"
           },
@@ -4873,7 +4873,7 @@
             "name": "異海の塊",
             "count": 18,
             "rank": 2,
-            "icon": "/assets/images/Freminet_material_112081_1755402604173.png",
+            "icon": "/assets/images/Freminet_material_112081_1756006992547.png",
             "description": "原海アベラントを倒した後、その体内から得られる結晶体。\\n微かに不思議なエネルギーを放っている。\\n航路や人間の足ではたどり着けない遠海には、偉大なる生命が存在すると言われているが、普通の海は取り立てて言うほどの特徴もなく、その生命力はフォンテーヌの「海」に遥かに及ばない。",
             "type": "キャラと武器育成素材"
           },
@@ -4882,7 +4882,7 @@
             "name": "原海駿の角",
             "count": 8,
             "rank": 4,
-            "icon": "/assets/images/Neuvillette_material_113053_1755402607541.png",
+            "icon": "/assets/images/Neuvillette_material_113053_1756006996617.png",
             "description": "千年真珠の海駿の放電器官。その偉大なる「超越」を象徴するレガリアでもあるが、挑戦者との戦いで折れてしまった。\\nアワアワタツノコから進化した最上位の捕食者。千年真珠の海駿は他の原海アベラントとはまるで異なる進化の過程を経てきた。種の原型を基礎として、より大きく強靭に進化したというわけではなく、アワアワタツノコにはない肢体や角が生え、骨格や筋肉までもが変化を遂げてきたのだ。その姿は、種の原型よりも、古い伝説の幻獣を彷彿とさせる。詩人や劇作家の想像上では、タツノコでさえ、大地を駆け巡り、躍動する駿馬の姿をしている。",
             "type": "キャラクター育成素材"
           }
@@ -4917,7 +4917,7 @@
             "name": "ルエトワール",
             "count": 45,
             "rank": 1,
-            "icon": "/assets/images/Neuvillette_material_101237_1755402607574.png",
+            "icon": "/assets/images/Neuvillette_material_101237_1756006996644.png",
             "description": "水中で淡い光を放つ軟体動物。多くは水辺や水中にある人工建造物の表面に付着している。",
             "type": "フォンテーヌ地域の特産"
           },
@@ -4926,7 +4926,7 @@
             "name": "最勝のアメシスト·塊",
             "count": 6,
             "rank": 4,
-            "icon": "/assets/images/Lisa_material_104143_1755402500785.png",
+            "icon": "/assets/images/Lisa_material_104143_1756006864250.png",
             "description": "キャラクターの突破用アイテム。\\n「此の身こそ、いと尊き存在。」\\n「天下を泰平せし者。」",
             "type": "キャラクター突破素材"
           },
@@ -4935,7 +4935,7 @@
             "name": "色変わりの結晶",
             "count": 12,
             "rank": 3,
-            "icon": "/assets/images/Freminet_material_112082_1755402604388.png",
+            "icon": "/assets/images/Freminet_material_112082_1756006992688.png",
             "description": "原海アベラントを倒した後、その体内から得た大きな結晶。\\n不思議なエネルギーを秘めている。\\n万水の源であるフォンテーヌの水だが、異国へ流れるとその独特の性質が失われてしまう。",
             "type": "キャラと武器育成素材"
           },
@@ -4944,7 +4944,7 @@
             "name": "原海駿の角",
             "count": 12,
             "rank": 4,
-            "icon": "/assets/images/Neuvillette_material_113053_1755402607541.png",
+            "icon": "/assets/images/Neuvillette_material_113053_1756006996617.png",
             "description": "千年真珠の海駿の放電器官。その偉大なる「超越」を象徴するレガリアでもあるが、挑戦者との戦いで折れてしまった。\\nアワアワタツノコから進化した最上位の捕食者。千年真珠の海駿は他の原海アベラントとはまるで異なる進化の過程を経てきた。種の原型を基礎として、より大きく強靭に進化したというわけではなく、アワアワタツノコにはない肢体や角が生え、骨格や筋肉までもが変化を遂げてきたのだ。その姿は、種の原型よりも、古い伝説の幻獣を彷彿とさせる。詩人や劇作家の想像上では、タツノコでさえ、大地を駆け巡り、躍動する駿馬の姿をしている。",
             "type": "キャラクター育成素材"
           }
@@ -4979,7 +4979,7 @@
             "name": "ルエトワール",
             "count": 60,
             "rank": 1,
-            "icon": "/assets/images/Neuvillette_material_101237_1755402607574.png",
+            "icon": "/assets/images/Neuvillette_material_101237_1756006996644.png",
             "description": "水中で淡い光を放つ軟体動物。多くは水辺や水中にある人工建造物の表面に付着している。",
             "type": "フォンテーヌ地域の特産"
           },
@@ -4988,7 +4988,7 @@
             "name": "最勝のアメシスト",
             "count": 6,
             "rank": 5,
-            "icon": "/assets/images/Lisa_material_104144_1755402500888.png",
+            "icon": "/assets/images/Lisa_material_104144_1756006864175.png",
             "description": "キャラクターの突破用アイテム。\\n「此の身こそ、いと尊き存在。」\\n「天下を泰平せし者。」\\n「臣民に夢を与えると誓いましょう。未来永劫、不変の『永遠』を。」",
             "type": "キャラクター突破素材"
           },
@@ -4997,7 +4997,7 @@
             "name": "色変わりの結晶",
             "count": 24,
             "rank": 3,
-            "icon": "/assets/images/Freminet_material_112082_1755402604388.png",
+            "icon": "/assets/images/Freminet_material_112082_1756006992688.png",
             "description": "原海アベラントを倒した後、その体内から得た大きな結晶。\\n不思議なエネルギーを秘めている。\\n万水の源であるフォンテーヌの水だが、異国へ流れるとその独特の性質が失われてしまう。",
             "type": "キャラと武器育成素材"
           },
@@ -5006,7 +5006,7 @@
             "name": "原海駿の角",
             "count": 20,
             "rank": 4,
-            "icon": "/assets/images/Neuvillette_material_113053_1755402607541.png",
+            "icon": "/assets/images/Neuvillette_material_113053_1756006996617.png",
             "description": "千年真珠の海駿の放電器官。その偉大なる「超越」を象徴するレガリアでもあるが、挑戦者との戦いで折れてしまった。\\nアワアワタツノコから進化した最上位の捕食者。千年真珠の海駿は他の原海アベラントとはまるで異なる進化の過程を経てきた。種の原型を基礎として、より大きく強靭に進化したというわけではなく、アワアワタツノコにはない肢体や角が生え、骨格や筋肉までもが変化を遂げてきたのだ。その姿は、種の原型よりも、古い伝説の幻獣を彷彿とさせる。詩人や劇作家の想像上では、タツノコでさえ、大地を駆け巡り、躍動する駿馬の姿をしている。",
             "type": "キャラクター育成素材"
           }
