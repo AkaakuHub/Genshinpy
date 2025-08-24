@@ -8,7 +8,7 @@
   "region": "Fontaine",
   "constellation": "野薔薇座",
   "description": "棘薔薇の会の現会長。愛らしく、強い責任感を持った素晴らしいボス。",
-  "icon": "/assets/images/Navia_icon_1755402613209.png",
+  "icon": "/assets/images/Navia_icon_1756007004311.png",
   "profile": {
     "baseHp": 984.77954,
     "baseAtk": 27.3714,
@@ -23,7 +23,7 @@
       "id": "ごめんあそばせ",
       "name": "ごめんあそばせ",
       "description": "",
-      "icon": "/assets/images/Diluc_normal_attack_1755402505791.png",
+      "icon": "/assets/images/Diluc_normal_attack_1756006870347.png",
       "skillType": "normal",
       "params": {
         "1": [],
@@ -47,7 +47,7 @@
       "id": "セレモニアル·クリスタルショット",
       "name": "セレモニアル·クリスタルショット",
       "description": "",
-      "icon": "/assets/images/Navia_elemental_skill_1755402613209.png",
+      "icon": "/assets/images/Navia_elemental_skill_1756007004312.png",
       "levelData": [
         {
           "tableIndex": 1,
@@ -220,7 +220,7 @@
             0
           ],
           "description": [
-            "ロースラ晶弾の基礎ダメージ|{param1:F1P}",
+            "ロースラ晶��の基礎ダメージ|{param1:F1P}",
             "裂晶の欠片の継続時間|{param3:F1}秒",
             "迸発の刃のダメージ|{param5:F1P}",
             "迸発の刃の間隔|{param6:F1}秒",
@@ -953,7 +953,7 @@
             "裂晶の欠片の継続時間|{param3:F1}秒",
             "迸発の刃のダメージ|{param5:F1P}",
             "迸発の刃の間隔|{param6:F1}秒",
-            "クールタイム|{param4:F1}秒",
+            "クールタイ��|{param4:F1}秒",
             "",
             "",
             "",
@@ -1136,21 +1136,21 @@
     "elementalBurst": {
       "name": "未知の流通ルート",
       "description": "",
-      "icon": "/assets/images/Navia_elemental_burst_1755402613209.png",
+      "icon": "/assets/images/Navia_elemental_burst_1756007004312.png",
       "levelData": []
     },
     "passiveTalents": [
       {
         "name": "未知の流通ルート",
-        "icon": "/assets/images/Navia_passive_1_1755402613209.png"
+        "icon": "/assets/images/Navia_passive_1_1756007004312.png"
       },
       {
         "name": "相互連携ネットワーク",
-        "icon": "/assets/images/Navia_passive_2_1755402613209.png"
+        "icon": "/assets/images/Navia_passive_2_1756007004312.png"
       },
       {
         "name": "きめ細やかなビジネス",
-        "icon": "/assets/images/Navia_passive_3_1755402613209.png"
+        "icon": "/assets/images/Navia_passive_3_1756007004312.png"
       }
     ],
     "completeTableData": [
@@ -1396,7 +1396,7 @@
               "2段ダメージ|{param2:F1P}",
               "3段ダメージ|{param3:F1P}×3",
               "4段ダメージ|{param4:F1P}",
-              "連続重撃ダ��ージ|{param5:F1P}",
+              "連続重撃ダメージ|{param5:F1P}",
               "重撃終了ダメージ|{param6:P}",
               "重撃スタミナ消費|毎秒{param7:F1}",
               "最大継続時間|{param8:F1}秒",
@@ -2367,7 +2367,7 @@
               0
             ],
             "description": [
-              "ロースラ晶弾の基礎ダメージ|{param1:F1P}",
+              "ロースラ晶��の基礎ダメージ|{param1:F1P}",
               "裂晶の欠片の継続時間|{param3:F1}秒",
               "迸発の刃のダメージ|{param5:F1P}",
               "迸発の刃の間隔|{param6:F1}秒",
@@ -3070,7 +3070,7 @@
               "裂晶の欠片の継続時間|{param3:F1}秒",
               "迸発の刃のダメージ|{param5:F1P}",
               "迸発の刃の間隔|{param6:F1}秒",
-              "クールタイム|{param4:F1}秒",
+              "クールタイ��|{param4:F1}秒",
               "",
               "",
               "",
@@ -4317,32 +4317,32 @@
       {
         "level": null,
         "name": "淑女の距離感",
-        "icon": "/assets/images/Navia_constellation_cNaN_1755402613210.png"
+        "icon": "/assets/images/Navia_constellation_cNaN_1756007004312.png"
       },
       {
         "level": null,
         "name": "司令塔の追撃",
-        "icon": "/assets/images/Navia_constellation_cNaN_1755402613210.png"
+        "icon": "/assets/images/Navia_constellation_cNaN_1756007004312.png"
       },
       {
         "level": null,
         "name": "実業家の大局観",
-        "icon": "/assets/images/Navia_constellation_cNaN_1755402613210.png"
+        "icon": "/assets/images/Navia_constellation_cNaN_1756007004312.png"
       },
       {
         "level": null,
         "name": "誓約者の非妥協",
-        "icon": "/assets/images/Navia_constellation_cNaN_1755402613210.png"
+        "icon": "/assets/images/Navia_constellation_cNaN_1756007004312.png"
       },
       {
         "level": null,
         "name": "交渉人の毅然たる協議",
-        "icon": "/assets/images/Navia_constellation_cNaN_1755402613210.png"
+        "icon": "/assets/images/Navia_constellation_cNaN_1756007004312.png"
       },
       {
         "level": null,
         "name": "棘薔薇会長の巧妙なる手腕",
-        "icon": "/assets/images/Navia_constellation_cNaN_1755402613210.png"
+        "icon": "/assets/images/Navia_constellation_cNaN_1756007004312.png"
       }
     ]
   },
@@ -4359,14 +4359,14 @@
     "id": 210184,
     "name": "ナヴィア·棘薔薇",
     "description": "ナヴィア·棘薔薇",
-    "icon": "/assets/images/Navia_icon_1755402613209.png"
+    "icon": "/assets/images/Navia_icon_1756007004311.png"
   },
   "specialFood": {
     "id": 108620,
-    "name": "「どれでもど��ぞ！」",
+    "name": "「どれでもどーぞ！」",
     "rank": 3,
-    "icon": "/assets/images/Navia_special_food_1755402613210.png",
-    "effectIcon": "/assets/images/Barbara_food_effect_1755402502348.png"
+    "icon": "/assets/images/Navia_special_food_1756007004312.png",
+    "effectIcon": "/assets/images/Barbara_food_effect_1756006865963.png"
   },
   "levelProgression": [
     {
@@ -4682,7 +4682,7 @@
             "name": "初露の源",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Navia_material_101240_1755402613451.png",
+            "icon": "/assets/images/Navia_material_101240_1756007004493.png",
             "description": "モルテ地区の水中に漂う透き通ったしずく。これらのしずくは、一般的な純水でできたものとは異なり、より原始的で純粋な元素エネルギーを秘めているようだ。",
             "type": "フォンテーヌ地域の特産"
           },
@@ -4691,7 +4691,7 @@
             "name": "堅牢なトパーズ·砕屑",
             "count": 1,
             "rank": 2,
-            "icon": "/assets/images/Ningguang_material_104171_1755402519179.png",
+            "icon": "/assets/images/Ningguang_material_104171_1756006886345.png",
             "description": "キャラクターの突破用アイテム。",
             "type": "キャラクター突破素材"
           },
@@ -4700,7 +4700,7 @@
             "name": "異海の露",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Freminet_material_112080_1755402604153.png",
+            "icon": "/assets/images/Freminet_material_112080_1756006992519.png",
             "description": "原海アベラントを倒した後、その体内から得た小さな結晶。\\nフォンテーヌの「海」に生まれた原海アベラントは、水中の不思議なエネルギーによってその独特な形の生命体が形成されたと推測されている。",
             "type": "キャラと武器育成素材"
           }
@@ -4731,7 +4731,7 @@
             "name": "初露の源",
             "count": 10,
             "rank": 1,
-            "icon": "/assets/images/Navia_material_101240_1755402613451.png",
+            "icon": "/assets/images/Navia_material_101240_1756007004493.png",
             "description": "モルテ地区の水中に漂う透き通ったしずく。これらのしずくは、一般的な純水でできたものとは異なり、より原始的で純粋な元素エネルギーを秘めているようだ。",
             "type": "フォンテーヌ地域の特産"
           },
@@ -4740,7 +4740,7 @@
             "name": "堅牢なトパーズ·欠片",
             "count": 3,
             "rank": 3,
-            "icon": "/assets/images/Ningguang_material_104172_1755402519123.png",
+            "icon": "/assets/images/Ningguang_material_104172_1756006886528.png",
             "description": "キャラクターの突破用アイテム。\\n「この大陸の全ての金銭は俺の血肉。」",
             "type": "キャラクター突破素材"
           },
@@ -4749,7 +4749,7 @@
             "name": "異海の露",
             "count": 15,
             "rank": 1,
-            "icon": "/assets/images/Freminet_material_112080_1755402604153.png",
+            "icon": "/assets/images/Freminet_material_112080_1756006992519.png",
             "description": "原海アベラントを倒した後、その体内から得た小さな結晶。\\nフォンテーヌの「海」に生まれた原海アベラントは、水中の不思議なエネルギーによってその独特な形の生命体が形成されたと推測されている。",
             "type": "キャラと武器育成素材"
           },
@@ -4758,7 +4758,7 @@
             "name": "奇械部品·コペリウス",
             "count": 2,
             "rank": 4,
-            "icon": "/assets/images/Freminet_material_113050_1755402604154.png",
+            "icon": "/assets/images/Freminet_material_113050_1756006992492.png",
             "description": "コペリウスの奇械部品。奇械ダンサーにエネルギーを供給できる。\\n奇械ダンサーは白金の音節を踏みながら、昼夜を問わず観客のために氷風の輪舞を披露する。弔いの鐘が鳴るまで、コぺリウスのステップが止まることはない。",
             "type": "キャラクター育成素材"
           }
@@ -4793,7 +4793,7 @@
             "name": "初露の源",
             "count": 20,
             "rank": 1,
-            "icon": "/assets/images/Navia_material_101240_1755402613451.png",
+            "icon": "/assets/images/Navia_material_101240_1756007004493.png",
             "description": "モルテ地区の水中に漂う透き通ったしずく。これらのしずくは、一般的な純水でできたものとは異なり、より原始的で純粋な元素エネルギーを秘めているようだ。",
             "type": "フォンテーヌ地域の特産"
           },
@@ -4802,7 +4802,7 @@
             "name": "堅牢なトパーズ·欠片",
             "count": 6,
             "rank": 3,
-            "icon": "/assets/images/Ningguang_material_104172_1755402519123.png",
+            "icon": "/assets/images/Ningguang_material_104172_1756006886528.png",
             "description": "キャラクターの突破用アイテム。\\n「この大陸の全ての金銭は俺の血肉。」",
             "type": "キャラクター突破素材"
           },
@@ -4811,7 +4811,7 @@
             "name": "異海の塊",
             "count": 12,
             "rank": 2,
-            "icon": "/assets/images/Freminet_material_112081_1755402604173.png",
+            "icon": "/assets/images/Freminet_material_112081_1756006992547.png",
             "description": "原海アベラントを倒した後、その体内から得られる結晶体。\\n微かに不思議なエネルギーを放っている。\\n航路や人間の足ではたどり着けない遠海には、偉大なる生命が存在すると言われているが、普通の海は取り立てて言うほどの特徴もなく、その生命力はフォンテーヌの「海」に遥かに及ばない。",
             "type": "キャラと武器育成素材"
           },
@@ -4820,7 +4820,7 @@
             "name": "奇械部品·コペリウス",
             "count": 4,
             "rank": 4,
-            "icon": "/assets/images/Freminet_material_113050_1755402604154.png",
+            "icon": "/assets/images/Freminet_material_113050_1756006992492.png",
             "description": "コペリウスの奇械部品。奇械ダンサーにエネルギーを供給できる。\\n奇械ダンサーは白金の音節を踏みながら、昼夜を問わず観客のために氷風の輪舞を披露する。弔いの鐘が鳴るまで、コぺリウスのステップが止まることはない。",
             "type": "キャラクター育成素材"
           }
@@ -4855,7 +4855,7 @@
             "name": "初露の源",
             "count": 30,
             "rank": 1,
-            "icon": "/assets/images/Navia_material_101240_1755402613451.png",
+            "icon": "/assets/images/Navia_material_101240_1756007004493.png",
             "description": "モルテ地区の水中に漂う透き通ったしずく。これらのしずくは、一般的な純水でできたものとは異なり、より原始的で純粋な元素エネルギーを秘めているようだ。",
             "type": "フォンテーヌ地域の特産"
           },
@@ -4864,7 +4864,7 @@
             "name": "堅牢なトパーズ·塊",
             "count": 3,
             "rank": 4,
-            "icon": "/assets/images/Ningguang_material_104173_1755402518916.png",
+            "icon": "/assets/images/Ningguang_material_104173_1756006886176.png",
             "description": "キャラクターの突破用アイテム。\\n「この大陸の全ての金銭は俺の血肉。」\\n「こんな形で俺は、人間の労働、知恵、未来を保証する。」",
             "type": "キャラクター突破素材"
           },
@@ -4873,7 +4873,7 @@
             "name": "異海の塊",
             "count": 18,
             "rank": 2,
-            "icon": "/assets/images/Freminet_material_112081_1755402604173.png",
+            "icon": "/assets/images/Freminet_material_112081_1756006992547.png",
             "description": "原海アベラントを倒した後、その体内から得られる結晶体。\\n微かに不思議なエネルギーを放っている。\\n航路や人間の足ではたどり着けない遠海には、偉大なる生命が存在すると言われているが、普通の海は取り立てて言うほどの特徴もなく、その生命力はフォンテーヌの「海」に遥かに及ばない。",
             "type": "キャラと武器育成素材"
           },
@@ -4882,7 +4882,7 @@
             "name": "奇械部品·コペリウス",
             "count": 8,
             "rank": 4,
-            "icon": "/assets/images/Freminet_material_113050_1755402604154.png",
+            "icon": "/assets/images/Freminet_material_113050_1756006992492.png",
             "description": "コペリウスの奇械部品。奇械ダンサーにエネルギーを供給できる。\\n奇械ダンサーは白金の音節を踏みながら、昼夜を問わず観客のために氷風の輪舞を披露する。弔いの鐘が鳴るまで、コぺリウスのステップが止まることはない。",
             "type": "キャラクター育成素材"
           }
@@ -4917,7 +4917,7 @@
             "name": "初露の源",
             "count": 45,
             "rank": 1,
-            "icon": "/assets/images/Navia_material_101240_1755402613451.png",
+            "icon": "/assets/images/Navia_material_101240_1756007004493.png",
             "description": "モルテ地区の水中に漂う透き通ったしずく。これらのしずくは、一般的な純水でできたものとは異なり、より原始的で純粋な元素エネルギーを秘めているようだ。",
             "type": "フォンテーヌ地域の特産"
           },
@@ -4926,7 +4926,7 @@
             "name": "堅牢なトパーズ·塊",
             "count": 6,
             "rank": 4,
-            "icon": "/assets/images/Ningguang_material_104173_1755402518916.png",
+            "icon": "/assets/images/Ningguang_material_104173_1756006886176.png",
             "description": "キャラクターの突破用アイテム。\\n「この大陸の全ての金銭は俺の血肉。」\\n「こんな形で俺は、人間の労働、知恵、未来を保証する。」",
             "type": "キャラクター突破素材"
           },
@@ -4935,7 +4935,7 @@
             "name": "色変わりの結晶",
             "count": 12,
             "rank": 3,
-            "icon": "/assets/images/Freminet_material_112082_1755402604388.png",
+            "icon": "/assets/images/Freminet_material_112082_1756006992688.png",
             "description": "原海アベラントを倒した後、その体内から得た大きな結晶。\\n不思議なエネルギーを秘めている。\\n万水の源であるフォンテーヌの水だが、異国へ流れるとその独特の性質が失われてしまう。",
             "type": "キャラと武器育成素材"
           },
@@ -4944,7 +4944,7 @@
             "name": "奇械部品·コペリウス",
             "count": 12,
             "rank": 4,
-            "icon": "/assets/images/Freminet_material_113050_1755402604154.png",
+            "icon": "/assets/images/Freminet_material_113050_1756006992492.png",
             "description": "コペリウスの奇械部品。奇械ダンサーにエネルギーを供給できる。\\n奇械ダンサーは白金の音節を踏みながら、昼夜を問わず観客のために氷風の輪舞を披露する。弔いの鐘が鳴るまで、コぺリウスのステップが止まることはない。",
             "type": "キャラクター育成素材"
           }
@@ -4979,7 +4979,7 @@
             "name": "初露の源",
             "count": 60,
             "rank": 1,
-            "icon": "/assets/images/Navia_material_101240_1755402613451.png",
+            "icon": "/assets/images/Navia_material_101240_1756007004493.png",
             "description": "モルテ地区の水中に漂う透き通ったしずく。これらのしずくは、一般的な純水でできたものとは異なり、より原始的で純粋な元素エネルギーを秘めているようだ。",
             "type": "フォンテーヌ地域の特産"
           },
@@ -4988,7 +4988,7 @@
             "name": "堅牢なトパーズ",
             "count": 6,
             "rank": 5,
-            "icon": "/assets/images/Ningguang_material_104174_1755402519150.png",
+            "icon": "/assets/images/Ningguang_material_104174_1756006886397.png",
             "description": "キャラクターの突破用アイテム。\\n「この大陸の全ての金銭は俺の血肉。」\\n「こんな形で俺は、人間の労働、知恵、未来を保証する。」\\n「これが俺の人間への信頼。金銭に背くことは、俺の血を汚すと同然だ。」",
             "type": "キャラクター突破素材"
           },
@@ -4997,7 +4997,7 @@
             "name": "色変わりの結晶",
             "count": 24,
             "rank": 3,
-            "icon": "/assets/images/Freminet_material_112082_1755402604388.png",
+            "icon": "/assets/images/Freminet_material_112082_1756006992688.png",
             "description": "原海アベラントを倒した後、その体内から得た大きな結晶。\\n不思議なエネルギーを秘めている。\\n万水の源であるフォンテーヌの水だが、異国へ流れるとその独特の性質が失われてしまう。",
             "type": "キャラと武器育成素材"
           },
@@ -5006,7 +5006,7 @@
             "name": "奇械部品·コペリウス",
             "count": 20,
             "rank": 4,
-            "icon": "/assets/images/Freminet_material_113050_1755402604154.png",
+            "icon": "/assets/images/Freminet_material_113050_1756006992492.png",
             "description": "コペリウスの奇械部品。奇械ダンサーにエネルギーを供給できる。\\n奇械ダンサーは白金の音節を踏みながら、昼夜を問わず観客のために氷風の輪舞を披露する。弔いの鐘が鳴るまで、コぺリウスのステップが止まることはない。",
             "type": "キャラクター育成素材"
           }

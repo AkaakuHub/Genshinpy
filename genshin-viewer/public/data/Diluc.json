@@ -8,7 +8,7 @@
   "region": "Mondstadt",
   "constellation": "夜梟座",
   "description": "モンドの大半の酒造を掌握する貴公子。財力も人望も実力も、見くびってはならない。",
-  "icon": "/assets/images/Diluc_icon_1755402505791.png",
+  "icon": "/assets/images/Diluc_icon_1756006870346.png",
   "profile": {
     "baseHp": 1010.5192,
     "baseAtk": 26.068,
@@ -23,7 +23,7 @@
       "id": "百煉の剣",
       "name": "百煉の剣",
       "description": "",
-      "icon": "/assets/images/Diluc_normal_attack_1755402505791.png",
+      "icon": "/assets/images/Diluc_normal_attack_1756006870347.png",
       "skillType": "normal",
       "params": {
         "1": [],
@@ -47,7 +47,7 @@
       "id": "逆焔の刃",
       "name": "逆焔の刃",
       "description": "",
-      "icon": "/assets/images/Diluc_elemental_skill_1755402505791.png",
+      "icon": "/assets/images/Diluc_elemental_skill_1756006870347.png",
       "levelData": [
         {
           "tableIndex": 1,
@@ -1136,21 +1136,21 @@
     "elementalBurst": {
       "name": "ノンストップ",
       "description": "",
-      "icon": "/assets/images/Diluc_elemental_burst_1755402505791.png",
+      "icon": "/assets/images/Diluc_elemental_burst_1756006870347.png",
       "levelData": []
     },
     "passiveTalents": [
       {
         "name": "ノンストップ",
-        "icon": "/assets/images/Diluc_passive_1_1755402505792.png"
+        "icon": "/assets/images/Diluc_passive_1_1756006870347.png"
       },
       {
         "name": "溶融の翼",
-        "icon": "/assets/images/Diluc_passive_2_1755402505792.png"
+        "icon": "/assets/images/Diluc_passive_2_1756006870347.png"
       },
       {
         "name": "アカツキの伝統",
-        "icon": "/assets/images/Diluc_passive_3_1755402505792.png"
+        "icon": "/assets/images/Diluc_passive_3_1756006870347.png"
       }
     ],
     "completeTableData": [
@@ -1395,7 +1395,7 @@
               "1段ダメージ|{param1:P}",
               "2段ダメージ|{param2:P}",
               "3段ダメージ|{param3:P}",
-              "4段ダメージ|{param4:P}",
+              "4��ダメージ|{param4:P}",
               "連続重撃ダメージ|{param5:F1P}",
               "重撃終了ダメージ|{param6:P}",
               "重撃スタミナ消費|毎秒{param7:F1}",
@@ -1891,7 +1891,7 @@
               "2段ダメージ|{param2:P}",
               "3段ダメージ|{param3:P}",
               "4段ダメージ|{param4:P}",
-              "連続重撃ダメージ|{param5:P}",
+              "連続重撃ダメー���|{param5:P}",
               "重撃終了ダメージ|{param6:P}",
               "重撃スタミナ消費|毎秒{param7:F1}",
               "最大継続時間|{param8:F1}秒",
@@ -4182,7 +4182,7 @@
               "継続ダメージ|{param2:P}",
               "爆発ダメージ|{param3:P}",
               "クールタイム|{param4:F1}秒",
-              "元素付与継続時間|{param5:F1}秒",
+              "元素付与���続時間|{param5:F1}秒",
               "元素エネルギー|{param6:I}",
               "",
               "",
@@ -4317,32 +4317,32 @@
       {
         "level": null,
         "name": "罪の裁断",
-        "icon": "/assets/images/Diluc_constellation_cNaN_1755402505792.png"
+        "icon": "/assets/images/Diluc_constellation_cNaN_1756006870347.png"
       },
       {
         "level": null,
         "name": "灼熱余燼",
-        "icon": "/assets/images/Diluc_constellation_cNaN_1755402505792.png"
+        "icon": "/assets/images/Diluc_constellation_cNaN_1756006870348.png"
       },
       {
         "level": null,
         "name": "鋼鉄の熾焔",
-        "icon": "/assets/images/Diluc_constellation_cNaN_1755402505792.png"
+        "icon": "/assets/images/Diluc_constellation_cNaN_1756006870348.png"
       },
       {
         "level": null,
         "name": "流火焼灼",
-        "icon": "/assets/images/Diluc_constellation_cNaN_1755402505792.png"
+        "icon": "/assets/images/Diluc_constellation_cNaN_1756006870348.png"
       },
       {
         "level": null,
         "name": "朝を告げる炎の鳥",
-        "icon": "/assets/images/Diluc_constellation_cNaN_1755402505792.png"
+        "icon": "/assets/images/Diluc_constellation_cNaN_1756006870348.png"
       },
       {
         "level": null,
         "name": "闇を清算する炎の剣",
-        "icon": "/assets/images/Diluc_constellation_cNaN_1755402505792.png"
+        "icon": "/assets/images/Diluc_constellation_cNaN_1756006870348.png"
       }
     ]
   },
@@ -4360,21 +4360,21 @@
       "isDefault": false,
       "rank": 5,
       "storyId": 340004,
-      "icon": "/assets/images/Diluc_costume_2_1755402505792.png"
+      "icon": "/assets/images/Diluc_costume_2_1756006870348.png"
     }
   ],
   "nameCard": {
     "id": 210005,
     "name": "ディルック·燃焼",
     "description": "ディルック·燃焼",
-    "icon": "/assets/images/Diluc_icon_1755402505791.png"
+    "icon": "/assets/images/Diluc_namecard_1756006870680.png"
   },
   "specialFood": {
     "id": 108058,
     "name": "「モンドの過去」",
     "rank": 3,
-    "icon": "/assets/images/Diluc_special_food_1755402505793.png",
-    "effectIcon": "/assets/images/Diluc_food_effect_1755402505793.png"
+    "icon": "/assets/images/Diluc_special_food_1756006870348.png",
+    "effectIcon": "/assets/images/Diluc_food_effect_1756006870348.png"
   },
   "levelProgression": [
     {
@@ -4690,7 +4690,7 @@
             "name": "イグサ",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Diluc_material_100055_1755402505811.png",
+            "icon": "/assets/images/Diluc_material_100055_1756006870550.png",
             "description": "夜になると微かな光を放つ花。他の食材と一緒に料理にすると旨味アップ。",
             "type": "モンド地域の特産"
           },
@@ -4699,7 +4699,7 @@
             "name": "炎願のアゲート·砕屑",
             "count": 1,
             "rank": 2,
-            "icon": "/assets/images/Diluc_material_104111_1755402506054.png",
+            "icon": "/assets/images/Diluc_material_104111_1756006870655.png",
             "description": "キャラクターの突破用アイテム。",
             "type": "キャラクター突破素材"
           },
@@ -4708,7 +4708,7 @@
             "name": "新兵の記章",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Diluc_material_112032_1755402505915.png",
+            "icon": "/assets/images/Diluc_material_112032_1756006870685.png",
             "description": "新兵の身分を記した記章。かつてこれをつけた人は、どんな気持ちでファデュイの戦争兵器になったのだろうか。",
             "type": "キャラと武器育成素材"
           }
@@ -4739,7 +4739,7 @@
             "name": "イグサ",
             "count": 10,
             "rank": 1,
-            "icon": "/assets/images/Diluc_material_100055_1755402505811.png",
+            "icon": "/assets/images/Diluc_material_100055_1756006870550.png",
             "description": "夜になると微かな光を放つ花。他の食材と一緒に料理にすると旨味アップ。",
             "type": "モンド地域の特産"
           },
@@ -4748,7 +4748,7 @@
             "name": "炎願のアゲート·欠片",
             "count": 3,
             "rank": 3,
-            "icon": "/assets/images/Diluc_material_104112_1755402506076.png",
+            "icon": "/assets/images/Diluc_material_104112_1756006870760.png",
             "description": "キャラクターの突破用アイテム。\\n「人々の願いのため、巡礼の道を歩もう。最強を目指して集い、戦うのだ…」",
             "type": "キャラクター突破素材"
           },
@@ -4757,7 +4757,7 @@
             "name": "新兵の記章",
             "count": 15,
             "rank": 1,
-            "icon": "/assets/images/Diluc_material_112032_1755402505915.png",
+            "icon": "/assets/images/Diluc_material_112032_1756006870685.png",
             "description": "新兵の身分を記した記章。かつてこれをつけた人は、どんな気持ちでファデュイの戦争兵器になったのだろうか。",
             "type": "キャラと武器育成素材"
           },
@@ -4766,7 +4766,7 @@
             "name": "常燃の火種",
             "count": 2,
             "rank": 4,
-            "icon": "/assets/images/Diluc_material_113011_1755402506024.png",
+            "icon": "/assets/images/Diluc_material_113011_1756006870524.png",
             "description": "永遠に燃え続ける爆炎樹のエネルギー源である種。世の中にある全ての草木を焼き尽くすような炎元素の熱量を放っている。\\n大地の深所で湧いているエネルギーは無数の願いを背負っている。烈火と共に植物に纏って永遠に燃えさせて、そして爆裂の炎で全てを浄化させようとしている。いったいどんな願いかな？",
             "type": "キャラクター育成素材"
           }
@@ -4801,7 +4801,7 @@
             "name": "イグサ",
             "count": 20,
             "rank": 1,
-            "icon": "/assets/images/Diluc_material_100055_1755402505811.png",
+            "icon": "/assets/images/Diluc_material_100055_1756006870550.png",
             "description": "夜になると微かな光を放つ花。他の食材と一緒に料理にすると旨味アップ。",
             "type": "モンド地域の特産"
           },
@@ -4810,7 +4810,7 @@
             "name": "炎願のアゲート·欠片",
             "count": 6,
             "rank": 3,
-            "icon": "/assets/images/Diluc_material_104112_1755402506076.png",
+            "icon": "/assets/images/Diluc_material_104112_1756006870760.png",
             "description": "キャラクターの突破用アイテム。\\n「人々の願いのため、巡礼の道を歩もう。最強を目指して集い、戦うのだ…」",
             "type": "キャラクター突破素材"
           },
@@ -4819,7 +4819,7 @@
             "name": "士官の記章",
             "count": 12,
             "rank": 2,
-            "icon": "/assets/images/Diluc_material_112033_1755402506101.png",
+            "icon": "/assets/images/Diluc_material_112033_1756006870710.png",
             "description": "士官の身分を記した記章、一般兵士とは異なる独特なデザインがあるのは、その複雑な気持ちが含まれたからだろうか。",
             "type": "キャラと武器育成素材"
           },
@@ -4828,7 +4828,7 @@
             "name": "常燃の火種",
             "count": 4,
             "rank": 4,
-            "icon": "/assets/images/Diluc_material_113011_1755402506024.png",
+            "icon": "/assets/images/Diluc_material_113011_1756006870524.png",
             "description": "永遠に燃え続ける爆炎樹のエネルギー源である種。世の中にある全ての草木を焼き尽くすような炎元素の熱量を放っている。\\n大地の深所で湧いているエネルギーは無数の願いを背負っている。烈火と共に植物に纏って永遠に燃えさせて、そして爆裂の炎で全てを浄化させようとしている。いったいどんな願いかな？",
             "type": "キャラクター育成素材"
           }
@@ -4863,7 +4863,7 @@
             "name": "イグサ",
             "count": 30,
             "rank": 1,
-            "icon": "/assets/images/Diluc_material_100055_1755402505811.png",
+            "icon": "/assets/images/Diluc_material_100055_1756006870550.png",
             "description": "夜になると微かな光を放つ花。他の食材と一緒に料理にすると旨味アップ。",
             "type": "モンド地域の特産"
           },
@@ -4872,7 +4872,7 @@
             "name": "炎願のアゲート·塊",
             "count": 3,
             "rank": 4,
-            "icon": "/assets/images/Diluc_material_104113_1755402505823.png",
+            "icon": "/assets/images/Diluc_material_104113_1756006870734.png",
             "description": "キャラクターの突破用アイテム。\\n「人々の願いのため、巡礼の道を歩もう。最強を目指して集い、戦うのだ…」\\n「最後は夢のために、劫火の中で燃え尽きる。」",
             "type": "キャラクター突破素材"
           },
@@ -4881,7 +4881,7 @@
             "name": "士官の記章",
             "count": 18,
             "rank": 2,
-            "icon": "/assets/images/Diluc_material_112033_1755402506101.png",
+            "icon": "/assets/images/Diluc_material_112033_1756006870710.png",
             "description": "士官の身分を記した記章、一般兵士とは異なる独特なデザインがあるのは、その複雑な気持ちが含まれたからだろうか。",
             "type": "キャラと武器育成素材"
           },
@@ -4890,7 +4890,7 @@
             "name": "常燃の火種",
             "count": 8,
             "rank": 4,
-            "icon": "/assets/images/Diluc_material_113011_1755402506024.png",
+            "icon": "/assets/images/Diluc_material_113011_1756006870524.png",
             "description": "永遠に燃え続ける爆炎樹のエネルギー源である種。世の中にある全ての草木を焼き尽くすような炎元素の熱量を放っている。\\n大地の深所で湧いているエネルギーは無数の願いを背負っている。烈火と共に植物に纏って永遠に燃えさせて、そして爆裂の炎で全てを浄化させようとしている。いったいどんな願いかな？",
             "type": "キャラクター育成素材"
           }
@@ -4925,7 +4925,7 @@
             "name": "イグサ",
             "count": 45,
             "rank": 1,
-            "icon": "/assets/images/Diluc_material_100055_1755402505811.png",
+            "icon": "/assets/images/Diluc_material_100055_1756006870550.png",
             "description": "夜になると微かな光を放つ花。他の食材と一緒に料理にすると旨味アップ。",
             "type": "モンド地域の特産"
           },
@@ -4934,7 +4934,7 @@
             "name": "炎願のアゲート·塊",
             "count": 6,
             "rank": 4,
-            "icon": "/assets/images/Diluc_material_104113_1755402505823.png",
+            "icon": "/assets/images/Diluc_material_104113_1756006870734.png",
             "description": "キャラクターの突破用アイテム。\\n「人々の願いのため、巡礼の道を歩もう。最強を目指して集い、戦うのだ…」\\n「最後は夢のために、劫火の中で燃え尽きる。」",
             "type": "キャラクター突破素材"
           },
@@ -4943,7 +4943,7 @@
             "name": "尉官の記章",
             "count": 12,
             "rank": 3,
-            "icon": "/assets/images/Diluc_material_112034_1755402505824.png",
+            "icon": "/assets/images/Diluc_material_112034_1756006870779.png",
             "description": "尉官の身分を記した記章。ファデュイには膨大な軍隊があり、その中で尉官になれる人はきっと優れた能力があるだろう。",
             "type": "キャラと武器育成素材"
           },
@@ -4952,7 +4952,7 @@
             "name": "常燃の火種",
             "count": 12,
             "rank": 4,
-            "icon": "/assets/images/Diluc_material_113011_1755402506024.png",
+            "icon": "/assets/images/Diluc_material_113011_1756006870524.png",
             "description": "永遠に燃え続ける爆炎樹のエネルギー源である種。世の中にある全ての草木を焼き尽くすような炎元素の熱量を放っている。\\n大地の深所で湧いているエネルギーは無数の願いを背負っている。烈火と共に植物に纏って永遠に燃えさせて、そして爆裂の炎で全てを浄化させようとしている。いったいどんな願いかな？",
             "type": "キャラクター育成素材"
           }
@@ -4987,7 +4987,7 @@
             "name": "イグサ",
             "count": 60,
             "rank": 1,
-            "icon": "/assets/images/Diluc_material_100055_1755402505811.png",
+            "icon": "/assets/images/Diluc_material_100055_1756006870550.png",
             "description": "夜になると微かな光を放つ花。他の食材と一緒に料理にすると旨味アップ。",
             "type": "モンド地域の特産"
           },
@@ -4996,7 +4996,7 @@
             "name": "炎願のアゲート",
             "count": 6,
             "rank": 5,
-            "icon": "/assets/images/Diluc_material_104114_1755402505938.png",
+            "icon": "/assets/images/Diluc_material_104114_1756006870809.png",
             "description": "キャラクターの突破用アイテム。\\n「人々の願いのため、巡礼の道を歩もう。最強を目指して集い、戦うのだ…」\\n「最後は夢のために、劫火の中で燃え尽きる。」\\n「その灰燼にまだ初心が残っていれば、██の真実に辿り着いたという。」",
             "type": "キャラクター突破素材"
           },
@@ -5005,7 +5005,7 @@
             "name": "尉官の記章",
             "count": 24,
             "rank": 3,
-            "icon": "/assets/images/Diluc_material_112034_1755402505824.png",
+            "icon": "/assets/images/Diluc_material_112034_1756006870779.png",
             "description": "尉官の身分を記した記章。ファデュイには膨大な軍隊があり、その中で尉官になれる人はきっと優れた能力があるだろう。",
             "type": "キャラと武器育成素材"
           },
@@ -5014,7 +5014,7 @@
             "name": "常燃の火種",
             "count": 20,
             "rank": 4,
-            "icon": "/assets/images/Diluc_material_113011_1755402506024.png",
+            "icon": "/assets/images/Diluc_material_113011_1756006870524.png",
             "description": "永遠に燃え続ける爆炎樹のエネルギー源である種。世の中にある全ての草木を焼き尽くすような炎元素の熱量を放っている。\\n大地の深所で湧いているエネルギーは無数の願いを背負っている。烈火と共に植物に纏って永遠に燃えさせて、そして爆裂の炎で全てを浄化させようとしている。いったいどんな願いかな？",
             "type": "キャラクター育成素材"
           }

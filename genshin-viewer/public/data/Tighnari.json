@@ -8,7 +8,7 @@
   "region": "Sumeru",
   "constellation": "フェネック座",
   "description": "植物学に精通している若き学者、アビディアの森のレンジャー長を務めている。まっすぐな性格で熱意があり、考えなしに行動してしまう者を指導するのが得意。",
-  "icon": "/assets/images/Tighnari_icon_1755402579242.png",
+  "icon": "/assets/images/Tighnari_icon_1756006962214.png",
   "profile": {
     "baseHp": 844.64154,
     "baseAtk": 20.8544,
@@ -23,7 +23,7 @@
       "id": "蔵蘊散悩",
       "name": "蔵蘊散悩",
       "description": "",
-      "icon": "/assets/images/Amber_normal_attack_1755402509240.png",
+      "icon": "/assets/images/Amber_normal_attack_1756006874478.png",
       "skillType": "normal",
       "params": {
         "1": [],
@@ -47,7 +47,7 @@
       "id": "識果榴弾",
       "name": "識果榴弾",
       "description": "",
-      "icon": "/assets/images/Tighnari_elemental_skill_1755402579242.png",
+      "icon": "/assets/images/Tighnari_elemental_skill_1756006962214.png",
       "levelData": [
         {
           "tableIndex": 1,
@@ -1090,7 +1090,7 @@
           ],
           "description": [
             "スキルダメージ|{param1:F1P}",
-            "識蘊の領域継続時���|{param2:F1}秒",
+            "識蘊の領域継続時間|{param2:F1}��",
             "通塞識継続時間|{param3:F1}秒",
             "クールタイム|{param4:F1}秒",
             "",
@@ -1136,21 +1136,21 @@
     "elementalBurst": {
       "name": "深き眼識",
       "description": "",
-      "icon": "/assets/images/Tighnari_elemental_burst_1755402579243.png",
+      "icon": "/assets/images/Tighnari_elemental_burst_1756006962214.png",
       "levelData": []
     },
     "passiveTalents": [
       {
         "name": "深き眼識",
-        "icon": "/assets/images/Tighnari_passive_1_1755402579243.png"
+        "icon": "/assets/images/Tighnari_passive_1_1756006962214.png"
       },
       {
         "name": "草樹精通",
-        "icon": "/assets/images/Tighnari_passive_2_1755402579243.png"
+        "icon": "/assets/images/Tighnari_passive_2_1756006962214.png"
       },
       {
         "name": "広き見聞",
-        "icon": "/assets/images/Tighnari_passive_3_1755402579243.png"
+        "icon": "/assets/images/Tighnari_passive_3_1756006962215.png"
       }
     ],
     "completeTableData": [
@@ -1609,7 +1609,7 @@
               "狙い撃ち|{param5:F1P}",
               "1段フルチャージ狙い撃ち|{param6:P}",
               "花筐の矢ダメージ|{param7:F1P}",
-              "蔵蘊の花矢ダメージ|{param8:F1P}",
+              "蔵蘊���花矢ダメージ|{param8:F1P}",
               "落下期間のダメージ|{param9:F1P}",
               "低空/高空落下攻撃ダメージ|{param10:P}/{param11:P}",
               "",
@@ -1753,7 +1753,7 @@
               "花筐の矢ダメージ|{param7:F1P}",
               "蔵蘊の花矢ダメージ|{param8:F1P}",
               "落下期間のダメージ|{param9:F1P}",
-              "低空/高空落下攻���ダメージ|{param10:P}/{param11:P}",
+              "低空/高空落下攻撃ダメージ|{param10:P}/{param11:P}",
               "",
               "",
               "",
@@ -2090,7 +2090,7 @@
             "description": [
               "1段ダメージ|{param1:F1P}",
               "2段ダメージ|{param2:F1P}",
-              "3段ダ��ージ|{param3:F1P}×2",
+              "3段ダメージ|{param3:F1P}×2",
               "4段ダメージ|{param4:F1P}",
               "狙い撃ち|{param5:F1P}",
               "1段フルチャージ狙い撃ち|{param6:P}",
@@ -3201,7 +3201,7 @@
             ],
             "description": [
               "スキルダメージ|{param1:F1P}",
-              "識蘊の領域継続時���|{param2:F1}秒",
+              "識蘊の領域継続時間|{param2:F1}��",
               "通塞識継続時間|{param3:F1}秒",
               "クールタイム|{param4:F1}秒",
               "",
@@ -3554,7 +3554,7 @@
             "description": [
               "蔓纏いの矢ダメージ|{param1:F1P}",
               "次級·蔓纏いの矢ダメージ|{param2:F1P}",
-              "クールタイム|{param3:F1}秒",
+              "クール���イム|{param3:F1}秒",
               "元素エネルギー|{param4:I}",
               "",
               "",
@@ -3834,7 +3834,7 @@
               0
             ],
             "description": [
-              "蔓纏いの矢���メージ|{param1:F1P}",
+              "蔓纏いの矢ダメージ|{param1:F1P}",
               "次級·蔓纏いの矢ダメージ|{param2:F1P}",
               "クールタイム|{param3:F1}秒",
               "元素エネルギー|{param4:I}",
@@ -4111,7 +4111,7 @@
               0
             ],
             "description": [
-              "蔓纏い���矢ダメージ|{param1:F1P}",
+              "蔓纏いの矢ダメー��|{param1:F1P}",
               "次級·蔓纏いの矢ダメージ|{param2:F1P}",
               "クールタイム|{param3:F1}秒",
               "元素エネルギー|{param4:I}",
@@ -4317,32 +4317,32 @@
       {
         "level": null,
         "name": "根から判断する原初",
-        "icon": "/assets/images/Tighnari_constellation_cNaN_1755402579243.png"
+        "icon": "/assets/images/Tighnari_constellation_cNaN_1756006962215.png"
       },
       {
         "level": null,
         "name": "茎から分析する由来",
-        "icon": "/assets/images/Tighnari_constellation_cNaN_1755402579243.png"
+        "icon": "/assets/images/Tighnari_constellation_cNaN_1756006962215.png"
       },
       {
         "level": null,
         "name": "枝から知る進化",
-        "icon": "/assets/images/Tighnari_constellation_cNaN_1755402579243.png"
+        "icon": "/assets/images/Tighnari_constellation_cNaN_1756006962215.png"
       },
       {
         "level": null,
         "name": "葉から垣間見る盛衰",
-        "icon": "/assets/images/Tighnari_constellation_cNaN_1755402579243.png"
+        "icon": "/assets/images/Tighnari_constellation_cNaN_1756006962215.png"
       },
       {
         "level": null,
         "name": "花から知る覚悟",
-        "icon": "/assets/images/Tighnari_constellation_cNaN_1755402579243.png"
+        "icon": "/assets/images/Tighnari_constellation_cNaN_1756006962215.png"
       },
       {
         "level": null,
         "name": "実から判断される因果",
-        "icon": "/assets/images/Tighnari_constellation_cNaN_1755402579243.png"
+        "icon": "/assets/images/Tighnari_constellation_cNaN_1756006962215.png"
       }
     ]
   },
@@ -4359,14 +4359,14 @@
     "id": 210124,
     "name": "ティナリ·沐露",
     "description": "ティナリ·沐露",
-    "icon": "/assets/images/Tighnari_icon_1755402579242.png"
+    "icon": "/assets/images/Tighnari_icon_1756006962214.png"
   },
   "specialFood": {
     "id": 108436,
     "name": "レンジャー長のイチオシ",
     "rank": 2,
-    "icon": "/assets/images/Tighnari_special_food_1755402579243.png",
-    "effectIcon": "/assets/images/Klee_food_effect_1755402520427.png"
+    "icon": "/assets/images/Tighnari_special_food_1756006962215.png",
+    "effectIcon": "/assets/images/Klee_food_effect_1756006888209.png"
   },
   "levelProgression": [
     {
@@ -4682,7 +4682,7 @@
             "name": "サウマラタ蓮",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Tighnari_material_101215_1755402579389.png",
+            "icon": "/assets/images/Tighnari_material_101215_1756006962561.png",
             "description": "雨林の湿地に生える、夜にしか咲かない花。月のように明るい光を放つ。",
             "type": "スメール地域の特産"
           },
@@ -4691,7 +4691,7 @@
             "name": "成長のエメラルド·砕屑",
             "count": 1,
             "rank": 2,
-            "icon": "/assets/images/Kirara_material_104131_1755402567127.png",
+            "icon": "/assets/images/Kirara_material_104131_1756006946638.png",
             "description": "キャラクターの突破用アイテム。",
             "type": "キャラクター突破素材"
           },
@@ -4700,7 +4700,7 @@
             "name": "キノコンの胞子",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Tighnari_material_112059_1755402579494.png",
+            "icon": "/assets/images/Tighnari_material_112059_1756006962384.png",
             "description": "キノコンが残した胞子。微かな光を放っている。くしゃみ一つで跡形もなく吹き飛ばされそうだ。",
             "type": "キャラと武器育成素材"
           }
@@ -4731,7 +4731,7 @@
             "name": "サウマラタ蓮",
             "count": 10,
             "rank": 1,
-            "icon": "/assets/images/Tighnari_material_101215_1755402579389.png",
+            "icon": "/assets/images/Tighnari_material_101215_1756006962561.png",
             "description": "雨林の湿地に生える、夜にしか咲かない花。月のように明るい光を放つ。",
             "type": "スメール地域の特産"
           },
@@ -4740,7 +4740,7 @@
             "name": "成長のエメラルド·欠片",
             "count": 3,
             "rank": 3,
-            "icon": "/assets/images/Kirara_material_104132_1755402567153.png",
+            "icon": "/assets/images/Kirara_material_104132_1756006946671.png",
             "description": "キャラクターの突破用アイテム。\\n「長い長い夢を見ていたわ…」",
             "type": "キャラクター突破素材"
           },
@@ -4749,7 +4749,7 @@
             "name": "キノコンの胞子",
             "count": 15,
             "rank": 1,
-            "icon": "/assets/images/Tighnari_material_112059_1755402579494.png",
+            "icon": "/assets/images/Tighnari_material_112059_1756006962384.png",
             "description": "キノコンが残した胞子。微かな光を放っている。くしゃみ一つで跡形もなく吹き飛ばされそうだ。",
             "type": "キャラと武器育成素材"
           },
@@ -4758,7 +4758,7 @@
             "name": "茸王の鉤状のくちばし",
             "count": 2,
             "rank": 4,
-            "icon": "/assets/images/Collei_material_113036_1755402576245.png",
+            "icon": "/assets/images/Collei_material_113036_1756006958260.png",
             "description": "マッシュラプトルを倒した後、手に入れた角質構造。\\n学者たちは、柔らかいキノコンが岩のように頑丈な鉤状のくちばしを持つように進化したことは、奇跡だと今も考えている。進化の終着点であるこの華麗なキノコンの王は、悠然と歩き、時に長い鳴き声を上げながら、雨林の万物にこう伝えている——最も弱く臆病な生き物でも、将来は山の主人になれる可能性があると。",
             "type": "キャラクター育成素材"
           }
@@ -4793,7 +4793,7 @@
             "name": "サウマラタ蓮",
             "count": 20,
             "rank": 1,
-            "icon": "/assets/images/Tighnari_material_101215_1755402579389.png",
+            "icon": "/assets/images/Tighnari_material_101215_1756006962561.png",
             "description": "雨林の湿地に生える、夜にしか咲かない花。月のように明るい光を放つ。",
             "type": "スメール地域の特産"
           },
@@ -4802,7 +4802,7 @@
             "name": "成長のエメラルド·欠片",
             "count": 6,
             "rank": 3,
-            "icon": "/assets/images/Kirara_material_104132_1755402567153.png",
+            "icon": "/assets/images/Kirara_material_104132_1756006946671.png",
             "description": "キャラクターの突破用アイテム。\\n「長い長い夢を見ていたわ…」",
             "type": "キャラクター突破素材"
           },
@@ -4811,7 +4811,7 @@
             "name": "キノコンの蛍胞子",
             "count": 12,
             "rank": 2,
-            "icon": "/assets/images/Tighnari_material_112060_1755402579470.png",
+            "icon": "/assets/images/Tighnari_material_112060_1756006962533.png",
             "description": "光を発するキノコンの胞子。雨林の広がる国では薬とされており、商人が紙に包んで売る姿をよく見かける。",
             "type": "キャラと武器育成素材"
           },
@@ -4820,7 +4820,7 @@
             "name": "茸王の鉤状のくちばし",
             "count": 4,
             "rank": 4,
-            "icon": "/assets/images/Collei_material_113036_1755402576245.png",
+            "icon": "/assets/images/Collei_material_113036_1756006958260.png",
             "description": "マッシュラプトルを倒した後、手に入れた角質構造。\\n学者たちは、柔らかいキノコンが岩のように頑丈な鉤状のくちばしを持つように進化したことは、奇跡だと今も考えている。進化の終着点であるこの華麗なキノコンの王は、悠然と歩き、時に長い鳴き声を上げながら、雨林の万物にこう伝えている——最も弱く臆病な生き物でも、将来は山の主人になれる可能性があると。",
             "type": "キャラクター育成素材"
           }
@@ -4855,7 +4855,7 @@
             "name": "サウマラタ蓮",
             "count": 30,
             "rank": 1,
-            "icon": "/assets/images/Tighnari_material_101215_1755402579389.png",
+            "icon": "/assets/images/Tighnari_material_101215_1756006962561.png",
             "description": "雨林の湿地に生える、夜にしか咲かない花。月のように明るい光を放つ。",
             "type": "スメール地域の特産"
           },
@@ -4864,7 +4864,7 @@
             "name": "成長のエメラルド·塊",
             "count": 3,
             "rank": 4,
-            "icon": "/assets/images/Kirara_material_104133_1755402567004.png",
+            "icon": "/assets/images/Kirara_material_104133_1756006946538.png",
             "description": "キャラクターの突破用アイテム。\\n「長い長い夢を見ていたわ…」\\n「人々は手をつなぎ、円を描くようにくるくると回っていた。賢者と愚者、舞人と勇士、人形と神像…」",
             "type": "キャラクター突破素材"
           },
@@ -4873,7 +4873,7 @@
             "name": "キノコンの蛍胞子",
             "count": 18,
             "rank": 2,
-            "icon": "/assets/images/Tighnari_material_112060_1755402579470.png",
+            "icon": "/assets/images/Tighnari_material_112060_1756006962533.png",
             "description": "光を発するキノコンの胞子。雨林の広がる国では薬とされており、商人が紙に包んで売る姿をよく見かける。",
             "type": "キャラと武器育成素材"
           },
@@ -4882,7 +4882,7 @@
             "name": "茸王の鉤状のくちばし",
             "count": 8,
             "rank": 4,
-            "icon": "/assets/images/Collei_material_113036_1755402576245.png",
+            "icon": "/assets/images/Collei_material_113036_1756006958260.png",
             "description": "マッシュラプトルを倒した後、手に入れた角質構造。\\n学者たちは、柔らかいキノコンが岩のように頑丈な鉤状のくちばしを持つように進化したことは、奇跡だと今も考えている。進化の終着点であるこの華麗なキノコンの王は、悠然と歩き、時に長い鳴き声を上げながら、雨林の万物にこう伝えている——最も弱く臆病な生き物でも、将来は山の主人になれる可能性があると。",
             "type": "キャラクター育成素材"
           }
@@ -4917,7 +4917,7 @@
             "name": "サウマラタ蓮",
             "count": 45,
             "rank": 1,
-            "icon": "/assets/images/Tighnari_material_101215_1755402579389.png",
+            "icon": "/assets/images/Tighnari_material_101215_1756006962561.png",
             "description": "雨林の湿地に生える、夜にしか咲かない花。月のように明るい光を放つ。",
             "type": "スメール地域の特産"
           },
@@ -4926,7 +4926,7 @@
             "name": "成長のエメラルド·塊",
             "count": 6,
             "rank": 4,
-            "icon": "/assets/images/Kirara_material_104133_1755402567004.png",
+            "icon": "/assets/images/Kirara_material_104133_1756006946538.png",
             "description": "キャラクターの突破用アイテム。\\n「長い長い夢を見ていたわ…」\\n「人々は手をつなぎ、円を描くようにくるくると回っていた。賢者と愚者、舞人と勇士、人形と神像…」",
             "type": "キャラクター突破素材"
           },
@@ -4935,7 +4935,7 @@
             "name": "キノコンの晶胞子",
             "count": 12,
             "rank": 3,
-            "icon": "/assets/images/Tighnari_material_112061_1755402579361.png",
+            "icon": "/assets/images/Tighnari_material_112061_1756006962407.png",
             "description": "傷一つない胞子嚢から丁寧に採取した大量の胞子。適切な環境さえあれば、大量のキノコンを繁殖させられるだろう…",
             "type": "キャラと武器育成素材"
           },
@@ -4944,7 +4944,7 @@
             "name": "茸王の鉤状のくちばし",
             "count": 12,
             "rank": 4,
-            "icon": "/assets/images/Collei_material_113036_1755402576245.png",
+            "icon": "/assets/images/Collei_material_113036_1756006958260.png",
             "description": "マッシュラプトルを倒した後、手に入れた角質構造。\\n学者たちは、柔らかいキノコンが岩のように頑丈な鉤状のくちばしを持つように進化したことは、奇跡だと今も考えている。進化の終着点であるこの華麗なキノコンの王は、悠然と歩き、時に長い鳴き声を上げながら、雨林の万物にこう伝えている——最も弱く臆病な生き物でも、将来は山の主人になれる可能性があると。",
             "type": "キャラクター育成素材"
           }
@@ -4979,7 +4979,7 @@
             "name": "サウマラタ蓮",
             "count": 60,
             "rank": 1,
-            "icon": "/assets/images/Tighnari_material_101215_1755402579389.png",
+            "icon": "/assets/images/Tighnari_material_101215_1756006962561.png",
             "description": "雨林の湿地に生える、夜にしか咲かない花。月のように明るい光を放つ。",
             "type": "スメール地域の特産"
           },
@@ -4988,7 +4988,7 @@
             "name": "成長のエメラルド",
             "count": 6,
             "rank": 5,
-            "icon": "/assets/images/Kirara_material_104134_1755402567099.png",
+            "icon": "/assets/images/Kirara_material_104134_1756006946513.png",
             "description": "キャラクターの突破用アイテム。\\n「長い長い夢を見ていたわ…」\\n「人々は手をつなぎ、円を描くようにくるくると回っていた。賢者と愚者、舞人と勇士、人形と神像…」\\n「みんなの喜びの踊りの中には、宇宙のすべてが秘められている。『命』はいつも目的で、『知恵』こそが手段なの。」",
             "type": "キャラクター突破素材"
           },
@@ -4997,7 +4997,7 @@
             "name": "キノコンの晶胞子",
             "count": 24,
             "rank": 3,
-            "icon": "/assets/images/Tighnari_material_112061_1755402579361.png",
+            "icon": "/assets/images/Tighnari_material_112061_1756006962407.png",
             "description": "傷一つない胞子嚢から丁寧に採取した大量の胞子。適切な環境さえあれば、大量のキノコンを繁殖させられるだろう…",
             "type": "キャラと武器育成素材"
           },
@@ -5006,7 +5006,7 @@
             "name": "茸王の鉤状のくちばし",
             "count": 20,
             "rank": 4,
-            "icon": "/assets/images/Collei_material_113036_1755402576245.png",
+            "icon": "/assets/images/Collei_material_113036_1756006958260.png",
             "description": "マッシュラプトルを倒した後、手に入れた角質構造。\\n学者たちは、柔らかいキノコンが岩のように頑丈な鉤状のくちばしを持つように進化したことは、奇跡だと今も考えている。進化の終着点であるこの華麗なキノコンの王は、悠然と歩き、時に長い鳴き声を上げながら、雨林の万物にこう伝えている——最も弱く臆病な生き物でも、将来は山の主人になれる可能性があると。",
             "type": "キャラクター育成素材"
           }

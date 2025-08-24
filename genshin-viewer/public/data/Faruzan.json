@@ -8,7 +8,7 @@
   "region": "Sumeru",
   "constellation": "藤蔓の花飾座",
   "description": "「百年前」から訪れた学者。自ら好んで先輩と名乗り、各種古代文字や古典ギミックに精通している。",
-  "icon": "/assets/images/Faruzan_icon_1755402590109.png",
+  "icon": "/assets/images/Faruzan_icon_1756006975791.png",
   "profile": {
     "baseHp": 802.3761,
     "baseAtk": 16.4724,
@@ -23,7 +23,7 @@
       "id": "転回弓術",
       "name": "転回弓術",
       "description": "",
-      "icon": "/assets/images/Amber_normal_attack_1755402509240.png",
+      "icon": "/assets/images/Amber_normal_attack_1756006874478.png",
       "skillType": "normal",
       "params": {
         "1": [],
@@ -47,7 +47,7 @@
       "id": "非想風天",
       "name": "非想風天",
       "description": "",
-      "icon": "/assets/images/Faruzan_elemental_skill_1755402590109.png",
+      "icon": "/assets/images/Faruzan_elemental_skill_1756006975791.png",
       "levelData": [
         {
           "tableIndex": 1,
@@ -1136,21 +1136,21 @@
     "elementalBurst": {
       "name": "迅速流風",
       "description": "",
-      "icon": "/assets/images/Faruzan_elemental_burst_1755402590109.png",
+      "icon": "/assets/images/Faruzan_elemental_burst_1756006975792.png",
       "levelData": []
     },
     "passiveTalents": [
       {
         "name": "迅速流風",
-        "icon": "/assets/images/Faruzan_passive_1_1755402590109.png"
+        "icon": "/assets/images/Faruzan_passive_1_1756006975792.png"
       },
       {
         "name": "七窟遺智",
-        "icon": "/assets/images/Faruzan_passive_2_1755402590109.png"
+        "icon": "/assets/images/Faruzan_passive_2_1756006975792.png"
       },
       {
         "name": "千書曜跡",
-        "icon": "/assets/images/Cyno_passive_3_1755402582404.png"
+        "icon": "/assets/images/Cyno_passive_3_1756006966302.png"
       }
     ],
     "completeTableData": [
@@ -3276,7 +3276,7 @@
             ],
             "description": [
               "スキルダメージ|{param1:F1P}",
-              "風元素ダメージアップ|{param2:F1P}",
+              "風元素ダメージア���プ|{param2:F1P}",
               "祈風の恵みの継続時間|{param3:F1}秒",
               "風元素耐性ダウン|{param4:F1P}",
               "詭風の禍つの継続時間|{param5:F1}秒",
@@ -4317,32 +4317,32 @@
       {
         "level": null,
         "name": "破離求真",
-        "icon": "/assets/images/Faruzan_constellation_cNaN_1755402590109.png"
+        "icon": "/assets/images/Faruzan_constellation_cNaN_1756006975792.png"
       },
       {
         "level": null,
         "name": "忘形煉智",
-        "icon": "/assets/images/Faruzan_constellation_cNaN_1755402590109.png"
+        "icon": "/assets/images/Faruzan_constellation_cNaN_1756006975792.png"
       },
       {
         "level": null,
         "name": "霊囿漫遊",
-        "icon": "/assets/images/Faruzan_constellation_cNaN_1755402590110.png"
+        "icon": "/assets/images/Faruzan_constellation_cNaN_1756006975792.png"
       },
       {
         "level": null,
         "name": "神機明悟",
-        "icon": "/assets/images/Faruzan_constellation_cNaN_1755402590110.png"
+        "icon": "/assets/images/Faruzan_constellation_cNaN_1756006975792.png"
       },
       {
         "level": null,
         "name": "思慮奇境",
-        "icon": "/assets/images/Faruzan_constellation_cNaN_1755402590110.png"
+        "icon": "/assets/images/Faruzan_constellation_cNaN_1756006975792.png"
       },
       {
         "level": null,
         "name": "妙道合一",
-        "icon": "/assets/images/Faruzan_constellation_cNaN_1755402590110.png"
+        "icon": "/assets/images/Faruzan_constellation_cNaN_1756006975792.png"
       }
     ]
   },
@@ -4359,14 +4359,14 @@
     "id": 210144,
     "name": "ファルザン·封じられた秘密",
     "description": "ファルザン·封じられた秘密",
-    "icon": "/assets/images/Faruzan_icon_1755402590109.png"
+    "icon": "/assets/images/Faruzan_namecard_1756006975977.png"
   },
   "specialFood": {
     "id": 108478,
     "name": "古風な製法のデーツナン",
     "rank": 3,
-    "icon": "/assets/images/Faruzan_special_food_1755402590110.png",
-    "effectIcon": "/assets/images/Kamisato Ayaka_food_effect_1755402496967.png"
+    "icon": "/assets/images/Faruzan_special_food_1756006975792.png",
+    "effectIcon": "/assets/images/Kamisato Ayaka_food_effect_1756006858928.png"
   },
   "levelProgression": [
     {
@@ -4682,7 +4682,7 @@
             "name": "赤念の実",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Candace_material_101220_1755402583862.png",
+            "icon": "/assets/images/Candace_material_101220_1756006968585.png",
             "description": "砂漠の劣悪な環境でも生存できる植物の実。赤い果実は黄色い砂に映え、人々の心を動かす。",
             "type": "スメール地域の特産"
           },
@@ -4691,7 +4691,7 @@
             "name": "自由のターコイズ·砕屑",
             "count": 1,
             "rank": 2,
-            "icon": "/assets/images/Jean_material_104151_1755402498946.png",
+            "icon": "/assets/images/Jean_material_104151_1756006861906.png",
             "description": "キャラクターの突破用アイテム。",
             "type": "キャラクター突破素材"
           },
@@ -4700,7 +4700,7 @@
             "name": "色褪せた赤い絹",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Dori_material_112065_1755402577976.png",
+            "icon": "/assets/images/Dori_material_112065_1756006960396.png",
             "description": "目を覆うために使われていた赤絹。少し破れている。\\nエルマイト旅団には、織物で目を覆う者が時々いる。しかしその行動の起源はとっくに、時の砂漠の中で失われている。",
             "type": "キャラと武器育成素材"
           }
@@ -4731,7 +4731,7 @@
             "name": "赤念の実",
             "count": 10,
             "rank": 1,
-            "icon": "/assets/images/Candace_material_101220_1755402583862.png",
+            "icon": "/assets/images/Candace_material_101220_1756006968585.png",
             "description": "砂漠の劣悪な環境でも生存できる植物の実。赤い果実は黄色い砂に映え、人々の心を動かす。",
             "type": "スメール地域の特産"
           },
@@ -4740,7 +4740,7 @@
             "name": "自由のターコイズ·欠片",
             "count": 3,
             "rank": 3,
-            "icon": "/assets/images/Jean_material_104152_1755402498970.png",
+            "icon": "/assets/images/Jean_material_104152_1756006862034.png",
             "description": "キャラクターの突破用アイテム。\\n「風向きは変わるもの。」",
             "type": "キャラクター突破素材"
           },
@@ -4749,7 +4749,7 @@
             "name": "色褪せた赤い絹",
             "count": 15,
             "rank": 1,
-            "icon": "/assets/images/Dori_material_112065_1755402577976.png",
+            "icon": "/assets/images/Dori_material_112065_1756006960396.png",
             "description": "目を覆うために使われていた赤絹。少し破れている。\\nエルマイト旅団には、織物で目を覆う者が時々いる。しかしその行動の起源はとっくに、時の砂漠の中で失われている。",
             "type": "キャラと武器育成素材"
           },
@@ -4758,8 +4758,8 @@
             "name": "導光四面体",
             "count": 2,
             "rank": 4,
-            "icon": "/assets/images/Candace_material_113039_1755402583970.png",
-            "description": "謎めいた機械を倒して獲得したコアの部品。\\n今になっても、古の機械は主の夢と己の責務を忘れたことがない——千の宮殿を築き、三千の機械を統制し、万の今では咲けぬ花を植え、地上にある全ての意識あるもののために、砂海に埋もれた「楽園」を再現したい——\\n砂漠の王が消え、夢までが深き罪の囁きによって腐敗したとしても。すべての魔柱が完全に打ち壊され、王に愛された巨獣が熱砂の嵐に姿を隠したとしても。",
+            "icon": "/assets/images/Candace_material_113039_1756006968611.png",
+            "description": "謎めいた機械を倒して獲得したコアの部品。\\n今になっても、古の機械は主の夢と己の責務を忘れたことがない——千の宮殿を築き、三千の機械を統制し、万の今では咲けぬ花を植え、地上にある全ての意識あるもののために、砂海に埋もれた「楽園」を再現したい——\\n砂漠の王が消え、夢までが深き罪の囁きによって腐敗したとしても。すべての魔柱が完全に打ち壊され、王に愛された巨獣が熱砂の嵐に姿を隠したとし��も。",
             "type": "キャラクター育成素材"
           }
         ],
@@ -4793,7 +4793,7 @@
             "name": "赤念の実",
             "count": 20,
             "rank": 1,
-            "icon": "/assets/images/Candace_material_101220_1755402583862.png",
+            "icon": "/assets/images/Candace_material_101220_1756006968585.png",
             "description": "砂漠の劣悪な環境でも生存できる植物の実。赤い果実は黄色い砂に映え、人々の心を動かす。",
             "type": "スメール地域の特産"
           },
@@ -4802,7 +4802,7 @@
             "name": "自由のターコイズ·欠片",
             "count": 6,
             "rank": 3,
-            "icon": "/assets/images/Jean_material_104152_1755402498970.png",
+            "icon": "/assets/images/Jean_material_104152_1756006862034.png",
             "description": "キャラクターの突破用アイテム。\\n「風向きは変わるもの。」",
             "type": "キャラクター突破素材"
           },
@@ -4811,7 +4811,7 @@
             "name": "縁飾の赤い絹",
             "count": 12,
             "rank": 2,
-            "icon": "/assets/images/Dori_material_112066_1755402577997.png",
+            "icon": "/assets/images/Dori_material_112066_1756006960372.png",
             "description": "シンプルな装飾の赤い絹。\\nベテランの戦士は相手の隙をついて先制攻撃をし、戦況を有利にできる。忠誠を誓う主をとっくに失ったエルマイト旅団にとって、信じられるのは自分だけ。噂によれば、彼らはあらゆるもの——自分自身の目でさえも、自分を裏切ると確信しているらしい。",
             "type": "キャラと武器育成素材"
           },
@@ -4820,8 +4820,8 @@
             "name": "導光四面体",
             "count": 4,
             "rank": 4,
-            "icon": "/assets/images/Candace_material_113039_1755402583970.png",
-            "description": "謎めいた機械を倒して獲得したコアの部品。\\n今になっても、古の機械は主の夢と己の責務を忘れたことがない——千の宮殿を築き、三千の機械を統制し、万の今では咲けぬ花を植え、地上にある全ての意識あるもののために、砂海に埋もれた「楽園」を再現したい——\\n砂漠の王が消え、夢までが深き罪の囁きによって腐敗したとしても。すべての魔柱が完全に打ち壊され、王に愛された巨獣が熱砂の嵐に姿を隠したとしても。",
+            "icon": "/assets/images/Candace_material_113039_1756006968611.png",
+            "description": "謎めいた機械を倒して獲得したコアの部品。\\n今になっても、古の機械は主の夢と己の責務を忘れたことがない——千の宮殿を築き、三千の機械を統制し、万の今では咲けぬ花を植え、地上にある全ての意識あるもののために、砂海に埋もれた「楽園」を再現したい——\\n砂漠の王が消え、夢までが深き罪の囁きによって腐敗したとしても。すべての魔柱が完全に打ち壊され、王に愛された巨獣が熱砂の嵐に姿を隠したとし��も。",
             "type": "キャラクター育成素材"
           }
         ],
@@ -4855,7 +4855,7 @@
             "name": "赤念の実",
             "count": 30,
             "rank": 1,
-            "icon": "/assets/images/Candace_material_101220_1755402583862.png",
+            "icon": "/assets/images/Candace_material_101220_1756006968585.png",
             "description": "砂漠の劣悪な環境でも生存できる植物の実。赤い果実は黄色い砂に映え、人々の心を動かす。",
             "type": "スメール地域の特産"
           },
@@ -4864,7 +4864,7 @@
             "name": "自由のターコイズ·塊",
             "count": 3,
             "rank": 4,
-            "icon": "/assets/images/Jean_material_104153_1755402498994.png",
+            "icon": "/assets/images/Jean_material_104153_1756006861931.png",
             "description": "キャラクターの突破用アイテム。\\n「風向きは変わるもの。」\\n「いつか、光射す方へと吹いてくる。」",
             "type": "キャラクター突破素材"
           },
@@ -4873,7 +4873,7 @@
             "name": "縁飾の赤い絹",
             "count": 18,
             "rank": 2,
-            "icon": "/assets/images/Dori_material_112066_1755402577997.png",
+            "icon": "/assets/images/Dori_material_112066_1756006960372.png",
             "description": "シンプルな装飾の赤い絹。\\nベテランの戦士は相手の隙をついて先制攻撃をし、戦況を有利にできる。忠誠を誓う主をとっくに失ったエルマイト旅団にとって、信じられるのは自分だけ。噂によれば、彼らはあらゆるもの——自分自身の目でさえも、自分を裏切ると確信しているらしい。",
             "type": "キャラと武器育成素材"
           },
@@ -4882,8 +4882,8 @@
             "name": "導光四面体",
             "count": 8,
             "rank": 4,
-            "icon": "/assets/images/Candace_material_113039_1755402583970.png",
-            "description": "謎めいた機械を倒して獲得したコアの部品。\\n今になっても、古の機械は主の夢と己の責務を忘れたことがない——千の宮殿を築き、三千の機械を統制し、万の今では咲けぬ花を植え、地上にある全ての意識あるもののために、砂海に埋もれた「楽園」を再現したい——\\n砂漠の王が消え、夢までが深き罪の囁きによって腐敗したとしても。すべての魔柱が完全に打ち壊され、王に愛された巨獣が熱砂の嵐に姿を隠したとしても。",
+            "icon": "/assets/images/Candace_material_113039_1756006968611.png",
+            "description": "謎めいた機械を倒して獲得したコアの部品。\\n今になっても、古の機械は主の夢と己の責務を忘れたことがない——千の宮殿を築き、三千の機械を統制し、万の今では咲けぬ花を植え、地上にある全ての意識あるもののために、砂海に埋もれた「楽園」を再現したい——\\n砂漠の王が消え、夢までが深き罪の囁きによって腐敗したとしても。すべての魔柱が完全に打ち壊され、王に愛された巨獣が熱砂の嵐に姿を隠したとし��も。",
             "type": "キャラクター育成素材"
           }
         ],
@@ -4917,7 +4917,7 @@
             "name": "赤念の実",
             "count": 45,
             "rank": 1,
-            "icon": "/assets/images/Candace_material_101220_1755402583862.png",
+            "icon": "/assets/images/Candace_material_101220_1756006968585.png",
             "description": "砂漠の劣悪な環境でも生存できる植物の実。赤い果実は黄色い砂に映え、人々の心を動かす。",
             "type": "スメール地域の特産"
           },
@@ -4926,7 +4926,7 @@
             "name": "自由のターコイズ·塊",
             "count": 6,
             "rank": 4,
-            "icon": "/assets/images/Jean_material_104153_1755402498994.png",
+            "icon": "/assets/images/Jean_material_104153_1756006861931.png",
             "description": "キャラクターの突破用アイテム。\\n「風向きは変わるもの。」\\n「いつか、光射す方へと吹いてくる。」",
             "type": "キャラクター突破素材"
           },
@@ -4935,7 +4935,7 @@
             "name": "金織の赤い絹",
             "count": 12,
             "rank": 3,
-            "icon": "/assets/images/Dori_material_112067_1755402577732.png",
+            "icon": "/assets/images/Dori_material_112067_1756006960422.png",
             "description": "金糸で紋様を織り込んだ赤い絹。\\n日光の下で金色に輝く砂漠の中で生まれた遺民は、たまに意味さえ忘れられた歌を歌ったり、大地を平等に照らす太陽を讃えたり、夕暮れの終わりの残照を惜しんだりする。歌の最後に繰り返し出てくる聞き慣れない言葉は、古い神様の名前だと言われている。噂によれば、砂漠の王がまだ生きていた頃、民は太陽の光を直視する勇気がなく、自分の目を覆ったようだ。",
             "type": "キャラと武器育成素材"
           },
@@ -4944,8 +4944,8 @@
             "name": "導光四面体",
             "count": 12,
             "rank": 4,
-            "icon": "/assets/images/Candace_material_113039_1755402583970.png",
-            "description": "謎めいた機械を倒して獲得したコアの部品。\\n今になっても、古の機械は主の夢と己の責務を忘れたことがない——千の宮殿を築き、三千の機械を統制し、万の今では咲けぬ花を植え、地上にある全ての意識あるもののために、砂海に埋もれた「楽園」を再現したい——\\n砂漠の王が消え、夢までが深き罪の囁きによって腐敗したとしても。すべての魔柱が完全に打ち壊され、王に愛された巨獣が熱砂の嵐に姿を隠したとしても。",
+            "icon": "/assets/images/Candace_material_113039_1756006968611.png",
+            "description": "謎めいた機械を倒して獲得したコアの部品。\\n今になっても、古の機械は主の夢と己の責務を忘れたことがない——千の宮殿を築き、三千の機械を統制し、万の今では咲けぬ花を植え、地上にある全ての意識あるもののために、砂海に埋もれた「楽園」を再現したい——\\n砂漠の王が消え、夢までが深き罪の囁きによって腐敗したとしても。すべての魔柱が完全に打ち壊され、王に愛された巨獣が熱砂の嵐に姿を隠したとし��も。",
             "type": "キャラクター育成素材"
           }
         ],
@@ -4979,7 +4979,7 @@
             "name": "赤念の実",
             "count": 60,
             "rank": 1,
-            "icon": "/assets/images/Candace_material_101220_1755402583862.png",
+            "icon": "/assets/images/Candace_material_101220_1756006968585.png",
             "description": "砂漠の劣悪な環境でも生存できる植物の実。赤い果実は黄色い砂に映え、人々の心を動かす。",
             "type": "スメール地域の特産"
           },
@@ -4988,7 +4988,7 @@
             "name": "自由のターコイズ",
             "count": 6,
             "rank": 5,
-            "icon": "/assets/images/Jean_material_104154_1755402499021.png",
+            "icon": "/assets/images/Jean_material_104154_1756006861882.png",
             "description": "キャラクターの突破用アイテム。\\n「風向きは変わるもの。」\\n「いつか、光射す方へと吹いてくる。」\\n「これからは、ボクの祝福と共に、もっと自由に生きていこう。」",
             "type": "キャラクター突破素材"
           },
@@ -4997,7 +4997,7 @@
             "name": "金織の赤い絹",
             "count": 24,
             "rank": 3,
-            "icon": "/assets/images/Dori_material_112067_1755402577732.png",
+            "icon": "/assets/images/Dori_material_112067_1756006960422.png",
             "description": "金糸で紋様を織り込んだ赤い絹。\\n日光の下で金色に輝く砂漠の中で生まれた遺民は、たまに意味さえ忘れられた歌を歌ったり、大地を平等に照らす太陽を讃えたり、夕暮れの終わりの残照を惜しんだりする。歌の最後に繰り返し出てくる聞き慣れない言葉は、古い神様の名前だと言われている。噂によれば、砂漠の王がまだ生きていた頃、民は太陽の光を直視する勇気がなく、自分の目を覆ったようだ。",
             "type": "キャラと武器育成素材"
           },
@@ -5006,8 +5006,8 @@
             "name": "導光四面体",
             "count": 20,
             "rank": 4,
-            "icon": "/assets/images/Candace_material_113039_1755402583970.png",
-            "description": "謎めいた機械を倒して獲得したコアの部品。\\n今になっても、古の機械は主の夢と己の責務を忘れたことがない——千の宮殿を築き、三千の機械を統制し、万の今では咲けぬ花を植え、地上にある全ての意識あるもののために、砂海に埋もれた「楽園」を再現したい——\\n砂漠の王が消え、夢までが深き罪の囁きによって腐敗したとしても。すべての魔柱が完全に打ち壊され、王に愛された巨獣が熱砂の嵐に姿を隠したとしても。",
+            "icon": "/assets/images/Candace_material_113039_1756006968611.png",
+            "description": "謎めいた機械を倒して獲得したコアの部品。\\n今になっても、古の機械は主の夢と己の責務を忘れたことがない——千の宮殿を築き、三千の機械を統制し、万の今では咲けぬ花を植え、地上にある全ての意識あるもののために、砂海に埋もれた「楽園」を再現したい——\\n砂漠の王が消え、夢までが深き罪の囁きによって腐敗したとしても。すべての魔柱が完全に打ち壊され、王に愛された巨獣が熱砂の嵐に姿を隠したとし��も。",
             "type": "キャラクター育成素材"
           }
         ],

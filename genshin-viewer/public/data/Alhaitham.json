@@ -8,7 +8,7 @@
   "region": "Sumeru",
   "constellation": "隼座",
   "description": "スメール教令院の現書記官。並外れた知恵と才能の持ち主。悠々自適の生活を送っており、人に行方を知られることは滅多にない。",
-  "icon": "/assets/images/Alhaitham_icon_1755402592950.png",
+  "icon": "/assets/images/Alhaitham_icon_1756006979617.png",
   "profile": {
     "baseHp": 1039.1188,
     "baseAtk": 24.3922,
@@ -23,7 +23,7 @@
       "id": "リトロダクション",
       "name": "リトロダクション",
       "description": "",
-      "icon": "/assets/images/Kamisato Ayaka_normal_attack_1755402496950.png",
+      "icon": "/assets/images/Kamisato Ayaka_normal_attack_1756006858911.png",
       "skillType": "normal",
       "params": {
         "1": [],
@@ -47,7 +47,7 @@
       "id": "共相·イデア模写",
       "name": "共相·イデア模写",
       "description": "",
-      "icon": "/assets/images/Alhaitham_elemental_skill_1755402592950.png",
+      "icon": "/assets/images/Alhaitham_elemental_skill_1756006979617.png",
       "levelData": [
         {
           "tableIndex": 1,
@@ -81,7 +81,7 @@
             "光幕攻撃の間隔|{param3:F1}秒",
             "1枚光幕攻撃のダメージ|攻撃力{param4:F1P}+元素熟知{param5:F1P}",
             "2枚光幕攻撃のダメージ|（攻撃力{param6:F1P}+元素熟知{param7:F1P}）×2",
-            "3枚光幕攻撃のダメージ|（攻���力{param8:F1P}+元素熟知{param9:F1P}）×3",
+            "3枚光幕攻撃のダメージ|（攻撃力{param8:F1P}+元素熟知{param9:F1P}）×3",
             "琢光鏡の消失間隔|{param10:F1}秒",
             "クールタイム|{param11:F1}秒",
             "",
@@ -1136,21 +1136,21 @@
     "elementalBurst": {
       "name": "四因是正",
       "description": "",
-      "icon": "/assets/images/Alhaitham_elemental_burst_1755402592951.png",
+      "icon": "/assets/images/Alhaitham_elemental_burst_1756006979617.png",
       "levelData": []
     },
     "passiveTalents": [
       {
         "name": "四因是正",
-        "icon": "/assets/images/Alhaitham_passive_1_1755402592951.png"
+        "icon": "/assets/images/Alhaitham_passive_1_1756006979617.png"
       },
       {
         "name": "謎林説破",
-        "icon": "/assets/images/Alhaitham_passive_2_1755402592951.png"
+        "icon": "/assets/images/Alhaitham_passive_2_1756006979617.png"
       },
       {
         "name": "超越還元律",
-        "icon": "/assets/images/Alhaitham_passive_3_1755402592951.png"
+        "icon": "/assets/images/Alhaitham_passive_3_1756006979617.png"
       }
     ],
     "completeTableData": [
@@ -1609,7 +1609,7 @@
               "5段ダメージ|{param6:F1P}",
               "重撃ダメージ|{param7:F1P}+{param8:F1P}",
               "重撃スタミナ消費|{param9:F1}",
-              "落下期間���ダメージ|{param10:F1P}",
+              "落下期間のダメージ|{param10:F1P}",
               "低空/高空落下攻撃ダメージ|{param11:P}/{param12:P}",
               "",
               "",
@@ -1954,7 +1954,7 @@
               0
             ],
             "description": [
-              "1���ダメージ|{param1:F1P}",
+              "1段ダメージ|{param1:F1P}",
               "2段ダメージ|{param2:F1P}",
               "3段ダメージ|{param3:F1P}+{param4:F1P}",
               "4段ダメージ|{param5:F1P}",
@@ -2234,7 +2234,7 @@
               "光幕攻撃の間隔|{param3:F1}秒",
               "1枚光幕攻撃のダメージ|攻撃力{param4:F1P}+元素熟知{param5:F1P}",
               "2枚光幕攻撃のダメージ|（攻撃力{param6:F1P}+元素熟知{param7:F1P}）×2",
-              "3枚光幕攻撃のダメージ|（攻���力{param8:F1P}+元素熟知{param9:F1P}）×3",
+              "3枚光幕攻撃のダメージ|（攻撃力{param8:F1P}+元素熟知{param9:F1P}）×3",
               "琢光鏡の消失間隔|{param10:F1}秒",
               "クールタイム|{param11:F1}秒",
               "",
@@ -3558,7 +3558,7 @@
               "2枚の攻撃回数|{param5:I}回",
               "3枚の攻撃回数|{param6:I}回",
               "クールタイム|{param7:F1}秒",
-              "元���エネルギー|{param8:I}",
+              "元素エネルギー|{param8:I}",
               "",
               "",
               "",
@@ -4317,32 +4317,32 @@
       {
         "level": null,
         "name": "イントゥイション",
-        "icon": "/assets/images/Alhaitham_constellation_cNaN_1755402592951.png"
+        "icon": "/assets/images/Alhaitham_constellation_cNaN_1756006979617.png"
       },
       {
         "level": null,
         "name": "ディベート",
-        "icon": "/assets/images/Alhaitham_constellation_cNaN_1755402592951.png"
+        "icon": "/assets/images/Alhaitham_constellation_cNaN_1756006979618.png"
       },
       {
         "level": null,
         "name": "ネゲーション",
-        "icon": "/assets/images/Alhaitham_constellation_cNaN_1755402592951.png"
+        "icon": "/assets/images/Alhaitham_constellation_cNaN_1756006979618.png"
       },
       {
         "level": null,
         "name": "エルシデーション",
-        "icon": "/assets/images/Alhaitham_constellation_cNaN_1755402592951.png"
+        "icon": "/assets/images/Alhaitham_constellation_cNaN_1756006979618.png"
       },
       {
         "level": null,
         "name": "サギャシティ",
-        "icon": "/assets/images/Alhaitham_constellation_cNaN_1755402592951.png"
+        "icon": "/assets/images/Alhaitham_constellation_cNaN_1756006979618.png"
       },
       {
         "level": null,
         "name": "ストラクタレーション",
-        "icon": "/assets/images/Alhaitham_constellation_cNaN_1755402592951.png"
+        "icon": "/assets/images/Alhaitham_constellation_cNaN_1756006979618.png"
       }
     ]
   },
@@ -4359,14 +4359,14 @@
     "id": 210147,
     "name": "アルハイゼン·叡誨",
     "description": "アルハイゼン·叡誨",
-    "icon": "/assets/images/Alhaitham_icon_1755402592950.png"
+    "icon": "/assets/images/Alhaitham_namecard_1756006979787.png"
   },
   "specialFood": {
     "id": 108486,
     "name": "「理想的状況」",
     "rank": 3,
-    "icon": "/assets/images/Alhaitham_special_food_1755402592951.png",
-    "effectIcon": "/assets/images/Kaeya_food_effect_1755402503989.png"
+    "icon": "/assets/images/Alhaitham_special_food_1756006979618.png",
+    "effectIcon": "/assets/images/Kaeya_food_effect_1756006868141.png"
   },
   "levelProgression": [
     {
@@ -4682,7 +4682,7 @@
             "name": "砂脂蛹",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Alhaitham_material_101222_1755402593193.png",
+            "icon": "/assets/images/Alhaitham_material_101222_1756006979966.png",
             "description": "砂漠の奥地にある流砂ウナギの繁殖地でのみ見られる殻。その硬い外側は、流砂ウナギの幼体が高温で乾燥した砂漠の環境に適応できるようになるまで、保護するためにある。",
             "type": "スメール地域の特産"
           },
@@ -4691,7 +4691,7 @@
             "name": "成長のエメラルド·砕屑",
             "count": 1,
             "rank": 2,
-            "icon": "/assets/images/Kirara_material_104131_1755402567127.png",
+            "icon": "/assets/images/Kirara_material_104131_1756006946638.png",
             "description": "キャラクターの突破用アイテム。",
             "type": "キャラクター突破素材"
           },
@@ -4700,7 +4700,7 @@
             "name": "色褪せた赤い絹",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Dori_material_112065_1755402577976.png",
+            "icon": "/assets/images/Dori_material_112065_1756006960396.png",
             "description": "目を覆うために使われていた赤絹。少し破れている。\\nエルマイト旅団には、織物で目を覆う者が時々いる。しかしその行動の起源はとっくに、時の砂漠の中で失われている。",
             "type": "キャラと武器育成素材"
           }
@@ -4731,7 +4731,7 @@
             "name": "砂脂蛹",
             "count": 10,
             "rank": 1,
-            "icon": "/assets/images/Alhaitham_material_101222_1755402593193.png",
+            "icon": "/assets/images/Alhaitham_material_101222_1756006979966.png",
             "description": "砂漠の奥地にある流砂ウナギの繁殖地でのみ見られる殻。その硬い外側は、流砂ウナギの幼体が高温で乾燥した砂漠の環境に適応できるようになるまで、保護するためにある。",
             "type": "スメール地域の特産"
           },
@@ -4740,7 +4740,7 @@
             "name": "成長のエメラルド·欠片",
             "count": 3,
             "rank": 3,
-            "icon": "/assets/images/Kirara_material_104132_1755402567153.png",
+            "icon": "/assets/images/Kirara_material_104132_1756006946671.png",
             "description": "キャラクターの突破用アイテム。\\n「長い長い夢を見ていたわ…」",
             "type": "キャラクター突破素材"
           },
@@ -4749,7 +4749,7 @@
             "name": "色褪せた赤い絹",
             "count": 15,
             "rank": 1,
-            "icon": "/assets/images/Dori_material_112065_1755402577976.png",
+            "icon": "/assets/images/Dori_material_112065_1756006960396.png",
             "description": "目を覆うために使われていた赤絹。少し破れている。\\nエルマイト旅団には、織物で目を覆う者が時々いる。しかしその行動の起源はとっくに、時の砂漠の中で失われている。",
             "type": "キャラと武器育成素材"
           },
@@ -4758,7 +4758,7 @@
             "name": "蒼礫蕊羽",
             "count": 2,
             "rank": 4,
-            "icon": "/assets/images/Alhaitham_material_113044_1755402593096.png",
+            "icon": "/assets/images/Alhaitham_material_113044_1756006979943.png",
             "description": "ウェネトの尾に隠されている蒼い鞘翅は、まるで咲き誇る花の蕊のように繊細である。\\n伝説によると、この世に時が始まるよりも前、彼らは草原や巨木の下にある湿った大地を、空を飛ぶ鳥や水を泳ぐ魚のように行き来していたという。一般的には、花への擬態は道に迷った獲物を砂嵐へと誘い出すためであると考えられている。しかし、花が咲いて浮遊するその姿はそもそも砂塵に属するものであり、数え切れないほどの遠���昔、砂漠に草が蔓延り、花がまだ咲いていた時代を模倣しているという説もある。",
             "type": "キャラクター育成素材"
           }
@@ -4793,7 +4793,7 @@
             "name": "砂脂蛹",
             "count": 20,
             "rank": 1,
-            "icon": "/assets/images/Alhaitham_material_101222_1755402593193.png",
+            "icon": "/assets/images/Alhaitham_material_101222_1756006979966.png",
             "description": "砂漠の奥地にある流砂ウナギの繁殖地でのみ見られる殻。その硬い外側は、流砂ウナギの幼体が高温で乾燥した砂漠の環境に適応できるようになるまで、保護するためにある。",
             "type": "スメール地域の特産"
           },
@@ -4802,7 +4802,7 @@
             "name": "成長のエメラルド·欠片",
             "count": 6,
             "rank": 3,
-            "icon": "/assets/images/Kirara_material_104132_1755402567153.png",
+            "icon": "/assets/images/Kirara_material_104132_1756006946671.png",
             "description": "キャラクターの突破用アイテム。\\n「長い長い夢を見ていたわ…」",
             "type": "キャラクター突破素材"
           },
@@ -4811,7 +4811,7 @@
             "name": "縁飾の赤い絹",
             "count": 12,
             "rank": 2,
-            "icon": "/assets/images/Dori_material_112066_1755402577997.png",
+            "icon": "/assets/images/Dori_material_112066_1756006960372.png",
             "description": "シンプルな装飾の赤い絹。\\nベテランの戦士は相手の隙をついて先制攻撃をし、戦況を有利にできる。忠誠を誓う主をとっくに失ったエルマイト旅団にとって、信じられるのは自分だけ。噂によれば、彼らはあらゆるもの——自分自身の目でさえも、自分を裏切ると確信しているらしい。",
             "type": "キャラと武器育成素材"
           },
@@ -4820,7 +4820,7 @@
             "name": "蒼礫蕊羽",
             "count": 4,
             "rank": 4,
-            "icon": "/assets/images/Alhaitham_material_113044_1755402593096.png",
+            "icon": "/assets/images/Alhaitham_material_113044_1756006979943.png",
             "description": "ウェネトの尾に隠されている蒼い鞘翅は、まるで咲き誇る花の蕊のように繊細である。\\n伝説によると、この世に時が始まるよりも前、彼らは草原や巨木の下にある湿った大地を、空を飛ぶ鳥や水を泳ぐ魚のように行き来していたという。一般的には、花への擬態は道に迷った獲物を砂嵐へと誘い出すためであると考えられている。しかし、花が咲いて浮遊するその姿はそもそも砂塵に属するものであり、数え切れないほどの遠���昔、砂漠に草が蔓延り、花がまだ咲いていた時代を模倣しているという説もある。",
             "type": "キャラクター育成素材"
           }
@@ -4855,7 +4855,7 @@
             "name": "砂脂蛹",
             "count": 30,
             "rank": 1,
-            "icon": "/assets/images/Alhaitham_material_101222_1755402593193.png",
+            "icon": "/assets/images/Alhaitham_material_101222_1756006979966.png",
             "description": "砂漠の奥地にある流砂ウナギの繁殖地でのみ見られる殻。その硬い外側は、流砂ウナギの幼体が高温で乾燥した砂漠の環境に適応できるようになるまで、保護するためにある。",
             "type": "スメール地域の特産"
           },
@@ -4864,7 +4864,7 @@
             "name": "成長のエメラルド·塊",
             "count": 3,
             "rank": 4,
-            "icon": "/assets/images/Kirara_material_104133_1755402567004.png",
+            "icon": "/assets/images/Kirara_material_104133_1756006946538.png",
             "description": "キャラクターの突破用アイテム。\\n「長い長い夢を見ていたわ…」\\n「人々は手をつなぎ、円を描くようにくるくると回っていた。賢者と愚者、舞人と勇士、人形と神像…」",
             "type": "キャラクター突破素材"
           },
@@ -4873,7 +4873,7 @@
             "name": "縁飾の赤い絹",
             "count": 18,
             "rank": 2,
-            "icon": "/assets/images/Dori_material_112066_1755402577997.png",
+            "icon": "/assets/images/Dori_material_112066_1756006960372.png",
             "description": "シンプルな装飾の赤い絹。\\nベテランの戦士は相手の隙をついて先制攻撃をし、戦況を有利にできる。忠誠を誓う主をとっくに失ったエルマイト旅団にとって、信じられるのは自分だけ。噂によれば、彼らはあらゆるもの——自分自身の目でさえも、自分を裏切ると確信しているらしい。",
             "type": "キャラと武器育成素材"
           },
@@ -4882,7 +4882,7 @@
             "name": "蒼礫蕊羽",
             "count": 8,
             "rank": 4,
-            "icon": "/assets/images/Alhaitham_material_113044_1755402593096.png",
+            "icon": "/assets/images/Alhaitham_material_113044_1756006979943.png",
             "description": "ウェネトの尾に隠されている蒼い鞘翅は、まるで咲き誇る花の蕊のように繊細である。\\n伝説によると、この世に時が始まるよりも前、彼らは草原や巨木の下にある湿った大地を、空を飛ぶ鳥や水を泳ぐ魚のように行き来していたという。一般的には、花への擬態は道に迷った獲物を砂嵐へと誘い出すためであると考えられている。しかし、花が咲いて浮遊するその姿はそもそも砂塵に属するものであり、数え切れないほどの遠���昔、砂漠に草が蔓延り、花がまだ咲いていた時代を模倣しているという説もある。",
             "type": "キャラクター育成素材"
           }
@@ -4917,7 +4917,7 @@
             "name": "砂脂蛹",
             "count": 45,
             "rank": 1,
-            "icon": "/assets/images/Alhaitham_material_101222_1755402593193.png",
+            "icon": "/assets/images/Alhaitham_material_101222_1756006979966.png",
             "description": "砂漠の奥地にある流砂ウナギの繁殖地でのみ見られる殻。その硬い外側は、流砂ウナギの幼体が高温で乾燥した砂漠の環境に適応できるようになるまで、保護するためにある。",
             "type": "スメール地域の特産"
           },
@@ -4926,7 +4926,7 @@
             "name": "成長のエメラルド·塊",
             "count": 6,
             "rank": 4,
-            "icon": "/assets/images/Kirara_material_104133_1755402567004.png",
+            "icon": "/assets/images/Kirara_material_104133_1756006946538.png",
             "description": "キャラクターの突破用アイテム。\\n「長い長い夢を見ていたわ…」\\n「人々は手をつなぎ、円を描くようにくるくると回っていた。賢者と愚者、舞人と勇士、人形と神像…」",
             "type": "キャラクター突破素材"
           },
@@ -4935,7 +4935,7 @@
             "name": "金織の赤い絹",
             "count": 12,
             "rank": 3,
-            "icon": "/assets/images/Dori_material_112067_1755402577732.png",
+            "icon": "/assets/images/Dori_material_112067_1756006960422.png",
             "description": "金糸で紋様を織り込んだ赤い絹。\\n日光の下で金色に輝く砂漠の中で生まれた遺民は、たまに意味さえ忘れられた歌を歌ったり、大地を平等に照らす太陽を讃えたり、夕暮れの終わりの残照を惜しんだりする。歌の最後に繰り返し出てくる聞き慣れない言葉は、古い神様の名前だと言われている。噂によれば、砂漠の王がまだ生きていた頃、民は太陽の光を直視する勇気がなく、自分の目を覆ったようだ。",
             "type": "キャラと武器育成素材"
           },
@@ -4944,7 +4944,7 @@
             "name": "蒼礫蕊羽",
             "count": 12,
             "rank": 4,
-            "icon": "/assets/images/Alhaitham_material_113044_1755402593096.png",
+            "icon": "/assets/images/Alhaitham_material_113044_1756006979943.png",
             "description": "ウェネトの尾に隠されている蒼い鞘翅は、まるで咲き誇る花の蕊のように繊細である。\\n伝説によると、この世に時が始まるよりも前、彼らは草原や巨木の下にある湿った大地を、空を飛ぶ鳥や水を泳ぐ魚のように行き来していたという。一般的には、花への擬態は道に迷った獲物を砂嵐へと誘い出すためであると考えられている。しかし、花が咲いて浮遊するその姿はそもそも砂塵に属するものであり、数え切れないほどの遠���昔、砂漠に草が蔓延り、花がまだ咲いていた時代を模倣しているという説もある。",
             "type": "キャラクター育成素材"
           }
@@ -4979,7 +4979,7 @@
             "name": "砂脂蛹",
             "count": 60,
             "rank": 1,
-            "icon": "/assets/images/Alhaitham_material_101222_1755402593193.png",
+            "icon": "/assets/images/Alhaitham_material_101222_1756006979966.png",
             "description": "砂漠の奥地にある流砂ウナギの繁殖地でのみ見られる殻。その硬い外側は、流砂ウナギの幼体が高温で乾燥した砂漠の環境に適応できるようになるまで、保護するためにある。",
             "type": "スメール地域の特産"
           },
@@ -4988,7 +4988,7 @@
             "name": "成長のエメラルド",
             "count": 6,
             "rank": 5,
-            "icon": "/assets/images/Kirara_material_104134_1755402567099.png",
+            "icon": "/assets/images/Kirara_material_104134_1756006946513.png",
             "description": "キャラクターの突破用アイテム。\\n「長い長い夢を見ていたわ…」\\n「人々は手をつなぎ、円を描くようにくるくると回っていた。賢者と愚者、舞人と勇士、人形と神像…」\\n「みんなの喜びの踊りの中には、宇宙のすべてが秘められている。『命』はいつも目的で、『知恵』こそが手段なの。」",
             "type": "キャラクター突破素材"
           },
@@ -4997,7 +4997,7 @@
             "name": "金織の赤い絹",
             "count": 24,
             "rank": 3,
-            "icon": "/assets/images/Dori_material_112067_1755402577732.png",
+            "icon": "/assets/images/Dori_material_112067_1756006960422.png",
             "description": "金糸で紋様を織り込んだ赤い絹。\\n日光の下で金色に輝く砂漠の中で生まれた遺民は、たまに意味さえ忘れられた歌を歌ったり、大地を平等に照らす太陽を讃えたり、夕暮れの終わりの残照を惜しんだりする。歌の最後に繰り返し出てくる聞き慣れない言葉は、古い神様の名前だと言われている。噂によれば、砂漠の王がまだ生きていた頃、民は太陽の光を直視する勇気がなく、自分の目を覆ったようだ。",
             "type": "キャラと武器育成素材"
           },
@@ -5006,7 +5006,7 @@
             "name": "蒼礫蕊羽",
             "count": 20,
             "rank": 4,
-            "icon": "/assets/images/Alhaitham_material_113044_1755402593096.png",
+            "icon": "/assets/images/Alhaitham_material_113044_1756006979943.png",
             "description": "ウェネトの尾に隠されている蒼い鞘翅は、まるで咲き誇る花の蕊のように繊細である。\\n伝説によると、この世に時が始まるよりも前、彼らは草原や巨木の下にある湿った大地を、空を飛ぶ鳥や水を泳ぐ魚のように行き来していたという。一般的には、花への擬態は道に迷った獲物を砂嵐へと誘い出すためであると考えられている。しかし、花が咲いて浮遊するその姿はそもそも砂塵に属するものであり、数え切れないほどの遠���昔、砂漠に草が蔓延り、花がまだ咲いていた時代を模倣しているという説もある。",
             "type": "キャラクター育成素材"
           }

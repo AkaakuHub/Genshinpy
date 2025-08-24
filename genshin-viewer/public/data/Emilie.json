@@ -8,7 +8,7 @@
   "region": "Fontaine",
   "constellation": "ポムム·ドゥ·アンブラ座",
   "description": "秘密を瓶の中に隠す、フォンテーヌの調香師。",
-  "icon": "/assets/images/Emilie_icon_1755402625425.png",
+  "icon": "/assets/images/Emilie_icon_1756007018898.png",
   "profile": {
     "baseHp": 1056.2786,
     "baseAtk": 26.068,
@@ -23,7 +23,7 @@
       "id": "影追いの槍術・改",
       "name": "影追いの槍術・改",
       "description": "",
-      "icon": "/assets/images/Xiangling_normal_attack_1755402512420.png",
+      "icon": "/assets/images/Xiangling_normal_attack_1756006878145.png",
       "skillType": "normal",
       "params": {
         "1": [],
@@ -47,7 +47,7 @@
       "id": "フレグランス·アコード",
       "name": "フレグランス·アコード",
       "description": "",
-      "icon": "/assets/images/Emilie_elemental_skill_1755402625425.png",
+      "icon": "/assets/images/Emilie_elemental_skill_1756007018898.png",
       "levelData": [
         {
           "tableIndex": 1,
@@ -1136,21 +1136,21 @@
     "elementalBurst": {
       "name": "余香",
       "description": "",
-      "icon": "/assets/images/Emilie_elemental_burst_1755402625425.png",
+      "icon": "/assets/images/Emilie_elemental_burst_1756007018898.png",
       "levelData": []
     },
     "passiveTalents": [
       {
         "name": "余香",
-        "icon": "/assets/images/Emilie_passive_1_1755402625426.png"
+        "icon": "/assets/images/Emilie_passive_1_1756007018898.png"
       },
       {
         "name": "精留",
-        "icon": "/assets/images/Emilie_passive_2_1755402625426.png"
+        "icon": "/assets/images/Emilie_passive_2_1756007018898.png"
       },
       {
         "name": "漂う香りを集めて",
-        "icon": "/assets/images/Emilie_passive_3_1755402625426.png"
+        "icon": "/assets/images/Emilie_passive_3_1756007018898.png"
       }
     ],
     "completeTableData": [
@@ -1961,7 +1961,7 @@
               "重撃ダメージ|{param5:F1P}",
               "重撃スタミナ消費|{param6:F1}",
               "落下期間のダメージ|{param7:F1P}",
-              "低空/高空落下攻��ダメージ|{param8:P}/{param9:P}",
+              "低空/高空落下攻撃ダメージ|{param8:P}/{param9:P}",
               "",
               "",
               "",
@@ -3835,7 +3835,7 @@
             ],
             "description": [
               "ルミドゥースの瓶·ランク3の攻撃ダメージ|{param1:F1P}",
-              "ルミド���ースの瓶·ランク3の継続時間|{param2:F1}秒",
+              "ルミドゥースの瓶·ランク3の継続時間|{param2:F1}秒",
               "クールタイム|{param3:F1}秒",
               "元素エネルギー|{param4:I}",
               "",
@@ -4317,32 +4317,32 @@
       {
         "level": null,
         "name": "淡く香るフレグランス",
-        "icon": "/assets/images/Emilie_constellation_cNaN_1755402625426.png"
+        "icon": "/assets/images/Emilie_constellation_cNaN_1756007018898.png"
       },
       {
         "level": null,
         "name": "湖光のトップノート",
-        "icon": "/assets/images/Emilie_constellation_cNaN_1755402625426.png"
+        "icon": "/assets/images/Emilie_constellation_cNaN_1756007018899.png"
       },
       {
         "level": null,
         "name": "馥郁たるエッセンス",
-        "icon": "/assets/images/Emilie_constellation_cNaN_1755402625426.png"
+        "icon": "/assets/images/Emilie_constellation_cNaN_1756007018899.png"
       },
       {
         "level": null,
         "name": "ルミドゥースの心",
-        "icon": "/assets/images/Emilie_constellation_cNaN_1755402625426.png"
+        "icon": "/assets/images/Emilie_constellation_cNaN_1756007018899.png"
       },
       {
         "level": null,
         "name": "純粋なアロマ",
-        "icon": "/assets/images/Emilie_constellation_cNaN_1755402625426.png"
+        "icon": "/assets/images/Emilie_constellation_cNaN_1756007018899.png"
       },
       {
         "level": null,
         "name": "マルコットの残香",
-        "icon": "/assets/images/Emilie_constellation_cNaN_1755402625426.png"
+        "icon": "/assets/images/Emilie_constellation_cNaN_1756007018899.png"
       }
     ]
   },
@@ -4359,14 +4359,14 @@
     "id": 210205,
     "name": "エミリエ·ラストノート",
     "description": "エミリエ·ラストノート",
-    "icon": "/assets/images/Emilie_icon_1755402625425.png"
+    "icon": "/assets/images/Emilie_namecard_1756007019260.png"
   },
   "specialFood": {
     "id": 108683,
     "name": "香り交じり合う風味",
     "rank": 3,
-    "icon": "/assets/images/Emilie_special_food_1755402625427.png",
-    "effectIcon": "/assets/images/Xiao_food_effect_1755402517103.png"
+    "icon": "/assets/images/Emilie_special_food_1756007018900.png",
+    "effectIcon": "/assets/images/Xiao_food_effect_1756006884011.png"
   },
   "levelProgression": [
     {
@@ -4682,7 +4682,7 @@
             "name": "湖光の鈴蘭",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Furina_material_101238_1755402610368.png",
+            "icon": "/assets/images/Furina_material_101238_1756007000413.png",
             "description": "純粋で清らかな青い花。水脈の集まる場所で育つ。優しく爽やかな、品の良い香りがする。",
             "type": "フォンテーヌ地域の特産"
           },
@@ -4691,7 +4691,7 @@
             "name": "成長のエメラルド·砕屑",
             "count": 1,
             "rank": 2,
-            "icon": "/assets/images/Kirara_material_104131_1755402567127.png",
+            "icon": "/assets/images/Kirara_material_104131_1756006946638.png",
             "description": "キャラクターの突破用アイテム。",
             "type": "キャラクター突破素材"
           },
@@ -4700,7 +4700,7 @@
             "name": "整合の歯車",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Lynette_material_112083_1755402601036.png",
+            "icon": "/assets/images/Lynette_material_112083_1756006988648.png",
             "description": "クロックワーク·マシナリーの歯車。\\n動力伝達のための重要な部品。この部品がないと、対応のモジュールは機能しなくなる。",
             "type": "キャラと武器育成素材"
           }
@@ -4731,7 +4731,7 @@
             "name": "湖光の鈴蘭",
             "count": 10,
             "rank": 1,
-            "icon": "/assets/images/Furina_material_101238_1755402610368.png",
+            "icon": "/assets/images/Furina_material_101238_1756007000413.png",
             "description": "純粋で清らかな青い花。水脈の集まる場所で育つ。優しく爽やかな、品の良い香りがする。",
             "type": "フォンテーヌ地域の特産"
           },
@@ -4740,7 +4740,7 @@
             "name": "成長のエメラルド·欠片",
             "count": 3,
             "rank": 3,
-            "icon": "/assets/images/Kirara_material_104132_1755402567153.png",
+            "icon": "/assets/images/Kirara_material_104132_1756006946671.png",
             "description": "キャラクターの突破用アイテム。\\n「長い長い夢を見ていたわ…」",
             "type": "キャラクター突破素材"
           },
@@ -4749,7 +4749,7 @@
             "name": "整合の歯車",
             "count": 15,
             "rank": 1,
-            "icon": "/assets/images/Lynette_material_112083_1755402601036.png",
+            "icon": "/assets/images/Lynette_material_112083_1756006988648.png",
             "description": "クロックワーク·マシナリーの歯車。\\n動力伝達のための重要な部品。この部品がないと、対応のモジュールは機能しなくなる。",
             "type": "キャラと武器育成素材"
           },
@@ -4758,8 +4758,8 @@
             "name": "金色の旋律の断章",
             "count": 2,
             "rank": 4,
-            "icon": "/assets/images/Arlecchino_material_113059_1755402621188.png",
-            "description": "ケンタウロス魔像の胸から落ちた金色のバッジ。それと共にある砕けた石には旋律が刻まれており、とある壮大な楽劇の断章のようだ。\\nかつて、永遠に幸せな調和と旋律が世界に響き渡り、すべての運命の果てに至ると考えた人がいた。だが、諧律には変奏が起こり得るもの。やがて反逆の神王は玉座から墜ち、不朽の王都は廃墟となった。軍団を失った統帥の手にある琴は、果たして誰の為に奏でられ���のだろうか。",
+            "icon": "/assets/images/Arlecchino_material_113059_1756007013819.png",
+            "description": "ケンタウロス魔像の胸から落ちた金色のバッジ。それと共にある砕けた石には旋律が刻まれており、とある壮大な楽劇の断章のようだ。\\nかつて、永遠に幸せな調和と旋律が世界に響き渡り、すべての運命の果てに至ると考えた人がいた。だが、諧律には変奏が起こり得るもの。やがて反逆の神王は玉座から墜ち、不朽の王都は廃墟となった。軍団を失った統帥の手にある琴は、果たして誰の為に奏でられるのだろうか���",
             "type": "キャラクター育成素材"
           }
         ],
@@ -4793,7 +4793,7 @@
             "name": "湖光の鈴蘭",
             "count": 20,
             "rank": 1,
-            "icon": "/assets/images/Furina_material_101238_1755402610368.png",
+            "icon": "/assets/images/Furina_material_101238_1756007000413.png",
             "description": "純粋で清らかな青い花。水脈の集まる場所で育つ。優しく爽やかな、品の良い香りがする。",
             "type": "フォンテーヌ地域の特産"
           },
@@ -4802,7 +4802,7 @@
             "name": "成長のエメラルド·欠片",
             "count": 6,
             "rank": 3,
-            "icon": "/assets/images/Kirara_material_104132_1755402567153.png",
+            "icon": "/assets/images/Kirara_material_104132_1756006946671.png",
             "description": "キャラクターの突破用アイテム。\\n「長い長い夢を見ていたわ…」",
             "type": "キャラクター突破素材"
           },
@@ -4811,7 +4811,7 @@
             "name": "機構の平歯車",
             "count": 12,
             "rank": 2,
-            "icon": "/assets/images/Lynette_material_112084_1755402601063.png",
+            "icon": "/assets/images/Lynette_material_112084_1756006988706.png",
             "description": "クロックワーク·マシナリーの歯車。\\nクロックワーク·マシナリーは運動学において数々の画期的な進歩を遂げてきたが、動力学においては、400年以上も前に、アラン·ギヨタンが築き上げた基礎と枠を未だに突破できていない。",
             "type": "キャラと武器育成素材"
           },
@@ -4820,8 +4820,8 @@
             "name": "金色の旋律の断章",
             "count": 4,
             "rank": 4,
-            "icon": "/assets/images/Arlecchino_material_113059_1755402621188.png",
-            "description": "ケンタウロス魔像の胸から落ちた金色のバッジ。それと共にある砕けた石には旋律が刻まれており、とある壮大な楽劇の断章のようだ。\\nかつて、永遠に幸せな調和と旋律が世界に響き渡り、すべての運命の果てに至ると考えた人がいた。だが、諧律には変奏が起こり得るもの。やがて反逆の神王は玉座から墜ち、不朽の王都は廃墟となった。軍団を失った統帥の手にある琴は、果たして誰の為に奏でられ���のだろうか。",
+            "icon": "/assets/images/Arlecchino_material_113059_1756007013819.png",
+            "description": "ケンタウロス魔像の胸から落ちた金色のバッジ。それと共にある砕けた石には旋律が刻まれており、とある壮大な楽劇の断章のようだ。\\nかつて、永遠に幸せな調和と旋律が世界に響き渡り、すべての運命の果てに至ると考えた人がいた。だが、諧律には変奏が起こり得るもの。やがて反逆の神王は玉座から墜ち、不朽の王都は廃墟となった。軍団を失った統帥の手にある琴は、果たして誰の為に奏でられるのだろうか���",
             "type": "キャラクター育成素材"
           }
         ],
@@ -4855,7 +4855,7 @@
             "name": "湖光の鈴蘭",
             "count": 30,
             "rank": 1,
-            "icon": "/assets/images/Furina_material_101238_1755402610368.png",
+            "icon": "/assets/images/Furina_material_101238_1756007000413.png",
             "description": "純粋で清らかな青い花。水脈の集まる場所で育つ。優しく爽やかな、品の良い香りがする。",
             "type": "フォンテーヌ地域の特産"
           },
@@ -4864,7 +4864,7 @@
             "name": "成長のエメラルド·塊",
             "count": 3,
             "rank": 4,
-            "icon": "/assets/images/Kirara_material_104133_1755402567004.png",
+            "icon": "/assets/images/Kirara_material_104133_1756006946538.png",
             "description": "キャラクターの突破用アイテム。\\n「長い長い夢を見ていたわ…」\\n「人々は手をつなぎ、円を描くようにくるくると回っていた。賢者と愚者、舞人と勇士、人形と神像…」",
             "type": "キャラクター突破素材"
           },
@@ -4873,7 +4873,7 @@
             "name": "機構の平歯車",
             "count": 18,
             "rank": 2,
-            "icon": "/assets/images/Lynette_material_112084_1755402601063.png",
+            "icon": "/assets/images/Lynette_material_112084_1756006988706.png",
             "description": "クロックワーク·マシナリーの歯車。\\nクロックワーク·マシナリーは運動学において数々の画期的な進歩を遂げてきたが、動力学においては、400年以上も前に、アラン·ギヨタンが築き上げた基礎と枠を未だに突破できていない。",
             "type": "キャラと武器育成素材"
           },
@@ -4882,8 +4882,8 @@
             "name": "金色の旋律の断章",
             "count": 8,
             "rank": 4,
-            "icon": "/assets/images/Arlecchino_material_113059_1755402621188.png",
-            "description": "ケンタウロス魔像の胸から落ちた金色のバッジ。それと共にある砕けた石には旋律が刻まれており、とある壮大な楽劇の断章のようだ。\\nかつて、永遠に幸せな調和と旋律が世界に響き渡り、すべての運命の果てに至ると考えた人がいた。だが、諧律には変奏が起こり得るもの。やがて反逆の神王は玉座から墜ち、不朽の王都は廃墟となった。軍団を失った統帥の手にある琴は、果たして誰の為に奏でられ���のだろうか。",
+            "icon": "/assets/images/Arlecchino_material_113059_1756007013819.png",
+            "description": "ケンタウロス魔像の胸から落ちた金色のバッジ。それと共にある砕けた石には旋律が刻まれており、とある壮大な楽劇の断章のようだ。\\nかつて、永遠に幸せな調和と旋律が世界に響き渡り、すべての運命の果てに至ると考えた人がいた。だが、諧律には変奏が起こり得るもの。やがて反逆の神王は玉座から墜ち、不朽の王都は廃墟となった。軍団を失った統帥の手にある琴は、果たして誰の為に奏でられるのだろうか���",
             "type": "キャラクター育成素材"
           }
         ],
@@ -4917,7 +4917,7 @@
             "name": "湖光の鈴蘭",
             "count": 45,
             "rank": 1,
-            "icon": "/assets/images/Furina_material_101238_1755402610368.png",
+            "icon": "/assets/images/Furina_material_101238_1756007000413.png",
             "description": "純粋で清らかな青い花。水脈の集まる場所で育つ。優しく爽やかな、品の良い香りがする。",
             "type": "フォンテーヌ地域の特産"
           },
@@ -4926,7 +4926,7 @@
             "name": "成長のエメラルド·塊",
             "count": 6,
             "rank": 4,
-            "icon": "/assets/images/Kirara_material_104133_1755402567004.png",
+            "icon": "/assets/images/Kirara_material_104133_1756006946538.png",
             "description": "キャラクターの突破用アイテム。\\n「長い長い夢を見ていたわ…」\\n「人々は手をつなぎ、円を描くようにくるくると回っていた。賢者と愚者、舞人と勇士、人形と神像…」",
             "type": "キャラクター突破素材"
           },
@@ -4935,7 +4935,7 @@
             "name": "奇械のコア歯車",
             "count": 12,
             "rank": 3,
-            "icon": "/assets/images/Lynette_material_112085_1755402600779.png",
+            "icon": "/assets/images/Lynette_material_112085_1756006988806.png",
             "description": "クロックワーク·マシナリーの歯車。\\n加工の精度および材料学の進歩はフォンテーヌのクロックワーク·マシナリーの発展のカギとなる。先進的設備の力を借りれば、どのエンジニアだって「奇械公」ギヨタンの時代を凌駕する機械を作り出せる可能性がある。",
             "type": "キャラと武器育成素材"
           },
@@ -4944,8 +4944,8 @@
             "name": "金色の旋律の断章",
             "count": 12,
             "rank": 4,
-            "icon": "/assets/images/Arlecchino_material_113059_1755402621188.png",
-            "description": "ケンタウロス魔像の胸から落ちた金色のバッジ。それと共にある砕けた石には旋律が刻まれており、とある壮大な楽劇の断章のようだ。\\nかつて、永遠に幸せな調和と旋律が世界に響き渡り、すべての運命の果てに至ると考えた人がいた。だが、諧律には変奏が起こり得るもの。やがて反逆の神王は玉座から墜ち、不朽の王都は廃墟となった。軍団を失った統帥の手にある琴は、果たして誰の為に奏でられ���のだろうか。",
+            "icon": "/assets/images/Arlecchino_material_113059_1756007013819.png",
+            "description": "ケンタウロス魔像の胸から落ちた金色のバッジ。それと共にある砕けた石には旋律が刻まれており、とある壮大な楽劇の断章のようだ。\\nかつて、永遠に幸せな調和と旋律が世界に響き渡り、すべての運命の果てに至ると考えた人がいた。だが、諧律には変奏が起こり得るもの。やがて反逆の神王は玉座から墜ち、不朽の王都は廃墟となった。軍団を失った統帥の手にある琴は、果たして誰の為に奏でられるのだろうか���",
             "type": "キャラクター育成素材"
           }
         ],
@@ -4979,7 +4979,7 @@
             "name": "湖光の鈴蘭",
             "count": 60,
             "rank": 1,
-            "icon": "/assets/images/Furina_material_101238_1755402610368.png",
+            "icon": "/assets/images/Furina_material_101238_1756007000413.png",
             "description": "純粋で清らかな青い花。水脈の集まる場所で育つ。優しく爽やかな、品の良い香りがする。",
             "type": "フォンテーヌ地域の特産"
           },
@@ -4988,7 +4988,7 @@
             "name": "成長のエメラルド",
             "count": 6,
             "rank": 5,
-            "icon": "/assets/images/Kirara_material_104134_1755402567099.png",
+            "icon": "/assets/images/Kirara_material_104134_1756006946513.png",
             "description": "キャラクターの突破用アイテム。\\n「長い長い夢を見ていたわ…」\\n「人々は手をつなぎ、円を描くようにくるくると回っていた。賢者と愚者、舞人と勇士、人形と神像…」\\n「みんなの喜びの踊りの中には、宇宙のすべてが秘められている。『命』はいつも目的で、『知恵』こそが手段なの。」",
             "type": "キャラクター突破素材"
           },
@@ -4997,7 +4997,7 @@
             "name": "奇械のコア歯車",
             "count": 24,
             "rank": 3,
-            "icon": "/assets/images/Lynette_material_112085_1755402600779.png",
+            "icon": "/assets/images/Lynette_material_112085_1756006988806.png",
             "description": "クロックワーク·マシナリーの歯車。\\n加工の精度および材料学の進歩はフォンテーヌのクロックワーク·マシナリーの発展のカギとなる。先進的設備の力を借りれば、どのエンジニアだって「奇械公」ギヨタンの時代を凌駕する機械を作り出せる可能性がある。",
             "type": "キャラと武器育成素材"
           },
@@ -5006,8 +5006,8 @@
             "name": "金色の旋律の断章",
             "count": 20,
             "rank": 4,
-            "icon": "/assets/images/Arlecchino_material_113059_1755402621188.png",
-            "description": "ケンタウロス魔像の胸から落ちた金色のバッジ。それと共にある砕けた石には旋律が刻まれており、とある壮大な楽劇の断章のようだ。\\nかつて、永遠に幸せな調和と旋律が世界に響き渡り、すべての運命の果てに至ると考えた人がいた。だが、諧律には変奏が起こり得るもの。やがて反逆の神王は玉座から墜ち、不朽の王都は廃墟となった。軍団を失った統帥の手にある琴は、果たして誰の為に奏でられ���のだろうか。",
+            "icon": "/assets/images/Arlecchino_material_113059_1756007013819.png",
+            "description": "ケンタウロス魔像の胸から落ちた金色のバッジ。それと共にある砕けた石には旋律が刻まれており、とある壮大な楽劇の断章のようだ。\\nかつて、永遠に幸せな調和と旋律が世界に響き渡り、すべての運命の果てに至ると考えた人がいた。だが、諧律には変奏が起こり得るもの。やがて反逆の神王は玉座から墜ち、不朽の王都は廃墟となった。軍団を失った統帥の手にある琴は、果たして誰の為に奏でられるのだろうか���",
             "type": "キャラクター育成素材"
           }
         ],

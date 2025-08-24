@@ -8,7 +8,7 @@
   "region": "Inazuma",
   "constellation": "神守柏座",
   "description": "若く有能な社奉行神里家の現当主。穏やかで礼儀正しく、物事をそつなく処理する。",
-  "icon": "/assets/images/Kamisato Ayato_icon_1755402574534.png",
+  "icon": "/assets/images/Kamisato Ayato_icon_1756006956280.png",
   "profile": {
     "baseHp": 1067.7184,
     "baseAtk": 23.275,
@@ -23,7 +23,7 @@
       "id": "神里流・転",
       "name": "神里流・転",
       "description": "",
-      "icon": "/assets/images/Kamisato Ayaka_normal_attack_1755402496950.png",
+      "icon": "/assets/images/Kamisato Ayaka_normal_attack_1756006858911.png",
       "skillType": "normal",
       "params": {
         "1": [],
@@ -47,7 +47,7 @@
       "id": "神里流·鏡花",
       "name": "神里流·鏡花",
       "description": "",
-      "icon": "/assets/images/Kamisato Ayato_elemental_skill_1755402574534.png",
+      "icon": "/assets/images/Kamisato Ayato_elemental_skill_1756006956280.png",
       "levelData": [
         {
           "tableIndex": 1,
@@ -147,7 +147,7 @@
             0
           ],
           "description": [
-            "瞬水剣1段ダメージ|{param1:F1P}",
+            "���水剣1段ダメージ|{param1:F1P}",
             "瞬水剣2段ダメージ|{param2:F1P}",
             "瞬水剣3段ダメージ|{param3:F1P}",
             "滝廻鑑花継続時間|{param4:F1}秒",
@@ -1020,7 +1020,7 @@
           ],
           "description": [
             "瞬水剣1段ダメージ|{param1:F1P}",
-            "瞬水剣2段ダメー��|{param2:F1P}",
+            "瞬水剣2段ダメージ|{param2:F1P}",
             "瞬水剣3段ダメージ|{param3:F1P}",
             "滝廻鑑花継続時間|{param4:F1}秒",
             "浪閃ダメージアップ|HP上限{param5:F2P}/層",
@@ -1136,21 +1136,21 @@
     "elementalBurst": {
       "name": "神里流·峰を纏いし清滝",
       "description": "",
-      "icon": "/assets/images/Kamisato Ayato_elemental_burst_1755402574534.png",
+      "icon": "/assets/images/Kamisato Ayato_elemental_burst_1756006956280.png",
       "levelData": []
     },
     "passiveTalents": [
       {
         "name": "神里流·峰を纏いし清滝",
-        "icon": "/assets/images/Kamisato Ayato_passive_1_1755402574534.png"
+        "icon": "/assets/images/Kamisato Ayato_passive_1_1756006956281.png"
       },
       {
         "name": "神里流·満ちゆく破月",
-        "icon": "/assets/images/Kamisato Ayato_passive_2_1755402574534.png"
+        "icon": "/assets/images/Kamisato Ayato_passive_2_1756006956281.png"
       },
       {
-        "name": "神里流·日常茶��",
-        "icon": "/assets/images/Kamisato Ayato_passive_3_1755402574534.png"
+        "name": "神里流·日常茶飯",
+        "icon": "/assets/images/Kamisato Ayato_passive_3_1756006956281.png"
       }
     ],
     "completeTableData": [
@@ -1256,7 +1256,7 @@
               "2段ダメージ|{param2:F1P}",
               "3段ダメージ|{param3:F1P}",
               "4段ダメージ|{param4:F1P}×2",
-              "5段���メージ|{param5:F1P}",
+              "5段ダメージ|{param5:F1P}",
               "重撃ダメージ|{param6:F1P}",
               "重撃スタミナ消費|{param7:F1}",
               "落下期間のダメージ|{param8:F1P}",
@@ -1752,7 +1752,7 @@
               "重撃ダメージ|{param6:F1P}",
               "重撃スタミナ消費|{param7:F1}",
               "落下期間のダメージ|{param8:F1P}",
-              "��空/高空落下攻撃ダメージ|{param9:P}/{param10:P}",
+              "低空/高空落下攻撃ダメージ|{param9:P}/{param10:P}",
               "",
               "",
               "",
@@ -2095,7 +2095,7 @@
               "5段ダメージ|{param5:F1P}",
               "重撃ダメージ|{param6:F1P}",
               "重撃スタミナ消費|{param7:F1}",
-              "落下期間のダ��ージ|{param8:F1P}",
+              "落下期間のダメージ|{param8:F1P}",
               "低空/高空落下攻撃ダメージ|{param9:P}/{param10:P}",
               "",
               "",
@@ -2297,7 +2297,7 @@
               0
             ],
             "description": [
-              "瞬水剣1段ダメージ|{param1:F1P}",
+              "���水剣1段ダメージ|{param1:F1P}",
               "瞬水剣2段ダメージ|{param2:F1P}",
               "瞬水剣3段ダメージ|{param3:F1P}",
               "滝廻鑑花継続時間|{param4:F1}秒",
@@ -3134,7 +3134,7 @@
             ],
             "description": [
               "瞬水剣1段ダメージ|{param1:F1P}",
-              "瞬水剣2段ダメー��|{param2:F1P}",
+              "瞬水剣2段ダメージ|{param2:F1P}",
               "瞬水剣3段ダメージ|{param3:F1P}",
               "滝廻鑑花継続時間|{param4:F1}秒",
               "浪閃ダメージアップ|HP上限{param5:F2P}/層",
@@ -3486,7 +3486,7 @@
               "通常攻撃ダメージアップ|{param2:F1P}",
               "継続時間|{param3:F1}秒",
               "クールタイム|{param4:F1}秒",
-              "元素エネ��ギー|{param5:I}",
+              "元素エネルギー|{param5:I}",
               "",
               "",
               "",
@@ -4306,7 +4306,7 @@
       {
         "talentIndex": 6,
         "talentId": "6",
-        "name": "神里流·日常茶��",
+        "name": "神里流·日常茶飯",
         "type": "2",
         "levelData": []
       }
@@ -4317,32 +4317,32 @@
       {
         "level": null,
         "name": "鏡華風姿",
-        "icon": "/assets/images/Kamisato Ayato_constellation_cNaN_1755402574534.png"
+        "icon": "/assets/images/Kamisato Ayato_constellation_cNaN_1756006956281.png"
       },
       {
         "level": null,
         "name": "世に源泉ありて",
-        "icon": "/assets/images/Kamisato Ayato_constellation_cNaN_1755402574534.png"
+        "icon": "/assets/images/Kamisato Ayato_constellation_cNaN_1756006956281.png"
       },
       {
         "level": null,
         "name": "無意弄花",
-        "icon": "/assets/images/Kamisato Ayato_constellation_cNaN_1755402574535.png"
+        "icon": "/assets/images/Kamisato Ayato_constellation_cNaN_1756006956281.png"
       },
       {
         "level": null,
         "name": "細流厭わず",
-        "icon": "/assets/images/Kamisato Ayato_constellation_cNaN_1755402574535.png"
+        "icon": "/assets/images/Kamisato Ayato_constellation_cNaN_1756006956281.png"
       },
       {
         "level": null,
         "name": "万水一露",
-        "icon": "/assets/images/Kamisato Ayato_constellation_cNaN_1755402574535.png"
+        "icon": "/assets/images/Kamisato Ayato_constellation_cNaN_1756006956281.png"
       },
       {
         "level": null,
         "name": "濫觴無底",
-        "icon": "/assets/images/Kamisato Ayato_constellation_cNaN_1755402574535.png"
+        "icon": "/assets/images/Kamisato Ayato_constellation_cNaN_1756006956281.png"
       }
     ]
   },
@@ -4359,14 +4359,14 @@
     "id": 210114,
     "name": "神里綾人·細波",
     "description": "神里綾人·細波",
-    "icon": "/assets/images/Kamisato Ayato_icon_1755402574534.png"
+    "icon": "/assets/images/Kamisato Ayato_icon_1756006956280.png"
   },
   "specialFood": {
     "id": 108387,
     "name": "「静寂閑雅」",
     "rank": 3,
-    "icon": "/assets/images/Kamisato Ayato_special_food_1755402574535.png",
-    "effectIcon": "/assets/images/Klee_food_effect_1755402520427.png"
+    "icon": "/assets/images/Kamisato Ayato_special_food_1756006956281.png",
+    "effectIcon": "/assets/images/Klee_food_effect_1756006888209.png"
   },
   "levelProgression": [
     {
@@ -4682,7 +4682,7 @@
             "name": "緋櫻毬",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Kamisato Ayaka_material_101202_1755402497443.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_101202_1756006859417.png",
             "description": "鳴神大社の神櫻から落ちる花びら。稲妻の地の恵みを受けている。",
             "type": "稲妻地域の特産"
           },
@@ -4691,7 +4691,7 @@
             "name": "澄明なラピスラズリ·砕屑",
             "count": 1,
             "rank": 2,
-            "icon": "/assets/images/Barbara_material_104121_1755402502617.png",
+            "icon": "/assets/images/Barbara_material_104121_1756006866304.png",
             "description": "キャラクターの突破用アイテム。",
             "type": "キャラクター突破素材"
           },
@@ -4700,7 +4700,7 @@
             "name": "古びた鍔",
             "count": 3,
             "rank": 1,
-            "icon": "/assets/images/Kamisato Ayaka_material_112044_1755402497241.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_112044_1756006859344.png",
             "description": "稲妻の刀についている防具。多くの戦いを経験している。\\n剣術の達人にとって、鍔は相手の刃から手を守ってくれる物。新人にとっては、誤って手が柄から刀身へと滑らないよう守ってくれる物だ。",
             "type": "キャラと武器育成素材"
           }
@@ -4731,7 +4731,7 @@
             "name": "緋櫻毬",
             "count": 10,
             "rank": 1,
-            "icon": "/assets/images/Kamisato Ayaka_material_101202_1755402497443.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_101202_1756006859417.png",
             "description": "鳴神大社の神櫻から落ちる花びら。稲妻の地の恵みを受けている。",
             "type": "稲妻地域の特産"
           },
@@ -4740,7 +4740,7 @@
             "name": "澄明なラピスラズリ·欠片",
             "count": 3,
             "rank": 3,
-            "icon": "/assets/images/Barbara_material_104122_1755402502696.png",
+            "icon": "/assets/images/Barbara_material_104122_1756006866342.png",
             "description": "キャラクターの突破用アイテム。\\n「僕の理想には一片の穢れも無い。」",
             "type": "キャラクター突破素材"
           },
@@ -4749,7 +4749,7 @@
             "name": "古びた鍔",
             "count": 15,
             "rank": 1,
-            "icon": "/assets/images/Kamisato Ayaka_material_112044_1755402497241.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_112044_1756006859344.png",
             "description": "稲妻の刀についている防具。多くの戦いを経験している。\\n剣術の達人にとって、鍔は相手の刃から手を守ってくれる物。新人にとっては、誤って手が柄から刀身へと滑らないよう守ってくれる物だ。",
             "type": "キャラと武器育成素材"
           },
@@ -4758,7 +4758,7 @@
             "name": "排他の露",
             "count": 2,
             "rank": 4,
-            "icon": "/assets/images/Sangonomiya Kokomi_material_113028_1755402556015.png",
+            "icon": "/assets/images/Sangonomiya Kokomi_material_113028_1756006933018.png",
             "description": "無相の水が凝縮した後、残された奇妙な水玉。\\n強烈な排他本能を持つことも、無相の水の攻撃手段の一つである。水の中に記憶と意志が含まれ、水との融合と共に成長していくそうだ。だが、無相の水が召喚した波は、あらゆる湧いている物と相容れない。たとえペトリコールの純粋な水の中に落ちても、この水玉は水銀のように、周りとの融合を拒絶するだろう。",
             "type": "キャラクター育成素材"
           }
@@ -4793,7 +4793,7 @@
             "name": "緋櫻毬",
             "count": 20,
             "rank": 1,
-            "icon": "/assets/images/Kamisato Ayaka_material_101202_1755402497443.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_101202_1756006859417.png",
             "description": "鳴神大社の神櫻から落ちる花びら。稲妻の地の恵みを受けている。",
             "type": "稲妻地域の特産"
           },
@@ -4802,7 +4802,7 @@
             "name": "澄明なラピスラズリ·欠片",
             "count": 6,
             "rank": 3,
-            "icon": "/assets/images/Barbara_material_104122_1755402502696.png",
+            "icon": "/assets/images/Barbara_material_104122_1756006866342.png",
             "description": "キャラクターの突破用アイテム。\\n「僕の理想には一片の穢れも無い。」",
             "type": "キャラクター突破素材"
           },
@@ -4811,7 +4811,7 @@
             "name": "影打の鍔",
             "count": 12,
             "rank": 2,
-            "icon": "/assets/images/Kamisato Ayaka_material_112045_1755402497266.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_112045_1756006859266.png",
             "description": "優れた刀に使われる防具。\\n稲妻には、刀鍛冶の長き伝統がある。刀工が刀を鍛える時、必ず何本か刀を打ち、その中で一番出来の良い物を「真打」として選び、残りは「影打」と呼ぶ。",
             "type": "キャラと武器育成素材"
           },
@@ -4820,7 +4820,7 @@
             "name": "排他の露",
             "count": 4,
             "rank": 4,
-            "icon": "/assets/images/Sangonomiya Kokomi_material_113028_1755402556015.png",
+            "icon": "/assets/images/Sangonomiya Kokomi_material_113028_1756006933018.png",
             "description": "無相の水が凝縮した後、残された奇妙な水玉。\\n強烈な排他本能を持つことも、無相の水の攻撃手段の一つである。水の中に記憶と意志が含まれ、水との融合と共に成長していくそうだ。だが、無相の水が召喚した波は、あらゆる湧いている物と相容れない。たとえペトリコールの純粋な水の中に落ちても、この水玉は水銀のように、周りとの融合を拒絶するだろう。",
             "type": "キャラクター育成素材"
           }
@@ -4855,7 +4855,7 @@
             "name": "緋櫻毬",
             "count": 30,
             "rank": 1,
-            "icon": "/assets/images/Kamisato Ayaka_material_101202_1755402497443.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_101202_1756006859417.png",
             "description": "鳴神大社の神櫻から落ちる花びら。稲妻の地の恵みを受けている。",
             "type": "稲妻地域の特産"
           },
@@ -4864,7 +4864,7 @@
             "name": "澄明なラピスラズリ·塊",
             "count": 3,
             "rank": 4,
-            "icon": "/assets/images/Barbara_material_104123_1755402502358.png",
+            "icon": "/assets/images/Barbara_material_104123_1756006866151.png",
             "description": "キャラクターの突破用アイテム。\\n「僕の理想には一片の穢れも無い。」\\n「訂正させてもらおう。ここでは、人が神の裁きを受けることはない…」",
             "type": "キャラクター突破素材"
           },
@@ -4873,7 +4873,7 @@
             "name": "影打の鍔",
             "count": 18,
             "rank": 2,
-            "icon": "/assets/images/Kamisato Ayaka_material_112045_1755402497266.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_112045_1756006859266.png",
             "description": "優れた刀に使われる防具。\\n稲妻には、刀鍛冶の長き伝統がある。刀工が刀を鍛える時、必ず何本か刀を打ち、その中で一番出来の良い物を「真打」として選び、残りは「影打」と呼ぶ。",
             "type": "キャラと武器育成素材"
           },
@@ -4882,7 +4882,7 @@
             "name": "排他の露",
             "count": 8,
             "rank": 4,
-            "icon": "/assets/images/Sangonomiya Kokomi_material_113028_1755402556015.png",
+            "icon": "/assets/images/Sangonomiya Kokomi_material_113028_1756006933018.png",
             "description": "無相の水が凝縮した後、残された奇妙な水玉。\\n強烈な排他本能を持つことも、無相の水の攻撃手段の一つである。水の中に記憶と意志が含まれ、水との融合と共に成長していくそうだ。だが、無相の水が召喚した波は、あらゆる湧いている物と相容れない。たとえペトリコールの純粋な水の中に落ちても、この水玉は水銀のように、周りとの融合を拒絶するだろう。",
             "type": "キャラクター育成素材"
           }
@@ -4917,7 +4917,7 @@
             "name": "緋櫻毬",
             "count": 45,
             "rank": 1,
-            "icon": "/assets/images/Kamisato Ayaka_material_101202_1755402497443.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_101202_1756006859417.png",
             "description": "鳴神大社の神櫻から落ちる花びら。稲妻の地の恵みを受けている。",
             "type": "稲妻地域の特産"
           },
@@ -4926,7 +4926,7 @@
             "name": "澄明なラピスラズリ·塊",
             "count": 6,
             "rank": 4,
-            "icon": "/assets/images/Barbara_material_104123_1755402502358.png",
+            "icon": "/assets/images/Barbara_material_104123_1756006866151.png",
             "description": "キャラクターの突破用アイテム。\\n「僕の理想には一片の穢れも無い。」\\n「訂正させてもらおう。ここでは、人が神の裁きを受けることはない…」",
             "type": "キャラクター突破素材"
           },
@@ -4935,7 +4935,7 @@
             "name": "名刀の鍔",
             "count": 12,
             "rank": 3,
-            "icon": "/assets/images/Kamisato Ayaka_material_112046_1755402497367.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_112046_1756006859466.png",
             "description": "名刀に取り付けられた美しい防具。\\n刀には魂が宿り、命が存在すると人々は信じている。刀に名前を付けるのも、そのためである。刀を大切にする者は、刀にも報われる。しかし、刀と親友に、ひいては恋人にまでなった者は、その感情は殺伐を伴うことを肝に銘じておかなければならない。血を浴び、常に刀と踊ってきた者の熱血は、いずれ無情の鋼鉄によって冷めてしまう。",
             "type": "キャラと武器育成素材"
           },
@@ -4944,7 +4944,7 @@
             "name": "排他の露",
             "count": 12,
             "rank": 4,
-            "icon": "/assets/images/Sangonomiya Kokomi_material_113028_1755402556015.png",
+            "icon": "/assets/images/Sangonomiya Kokomi_material_113028_1756006933018.png",
             "description": "無相の水が凝縮した後、残された奇妙な水玉。\\n強烈な排他本能を持つことも、無相の水の攻撃手段の一つである。水の中に記憶と意志が含まれ、水との融合と共に成長していくそうだ。だが、無相の水が召喚した波は、あらゆる湧いている物と相容れない。たとえペトリコールの純粋な水の中に落ちても、この水玉は水銀のように、周りとの融合を拒絶するだろう。",
             "type": "キャラクター育成素材"
           }
@@ -4979,7 +4979,7 @@
             "name": "緋櫻毬",
             "count": 60,
             "rank": 1,
-            "icon": "/assets/images/Kamisato Ayaka_material_101202_1755402497443.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_101202_1756006859417.png",
             "description": "鳴神大社の神櫻から落ちる花びら。稲妻の地の恵みを受けている。",
             "type": "稲妻地域の特産"
           },
@@ -4988,7 +4988,7 @@
             "name": "澄明なラピスラズリ",
             "count": 6,
             "rank": 5,
-            "icon": "/assets/images/Barbara_material_104124_1755402502720.png",
+            "icon": "/assets/images/Barbara_material_104124_1756006866373.png",
             "description": "キャラクターの突破用アイテム。\\n「僕の理想には一片の穢れも無い。」\\n「訂正させてもらおう。ここでは、人が神の裁きを受けることはない。裁きを下せるのは、ただ法と法廷のみ。」\\n「この僕でさえ、断罪され得るのだからね。さあ、僕の崇高と純潔を讃えてくれたまえ。」",
             "type": "キャラクター突破素材"
           },
@@ -4997,7 +4997,7 @@
             "name": "名刀の鍔",
             "count": 24,
             "rank": 3,
-            "icon": "/assets/images/Kamisato Ayaka_material_112046_1755402497367.png",
+            "icon": "/assets/images/Kamisato Ayaka_material_112046_1756006859466.png",
             "description": "名刀に取り付けられた美しい防具。\\n刀には魂が宿り、命が存在すると人々は信じている。刀に名前を付けるのも、そのためである。刀を大切にする者は、刀にも報われる。しかし、刀と親友に、ひいては恋人にまでなった者は、その感情は殺伐を伴うことを肝に銘じておかなければならない。血を浴び、常に刀と踊ってきた者の熱血は、いずれ無情の鋼鉄によって冷めてしまう。",
             "type": "キャラと武器育成素材"
           },
@@ -5006,7 +5006,7 @@
             "name": "排他の露",
             "count": 20,
             "rank": 4,
-            "icon": "/assets/images/Sangonomiya Kokomi_material_113028_1755402556015.png",
+            "icon": "/assets/images/Sangonomiya Kokomi_material_113028_1756006933018.png",
             "description": "無相の水が凝縮した後、残された奇妙な水玉。\\n強烈な排他本能を持つことも、無相の水の攻撃手段の一つである。水の中に記憶と意志が含まれ、水との融合と共に成長していくそうだ。だが、無相の水が召喚した波は、あらゆる湧いている物と相容れない。たとえペトリコールの純粋な水の中に落ちても、この水玉は水銀のように、周りとの融合を拒絶するだろう。",
             "type": "キャラクター育成素材"
           }
